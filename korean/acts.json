@@ -1,0 +1,141 @@
+{
+  "book": "Acts",
+  "bookKorean": "사도행전",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "The first book I wrote, Theophilus, concerned all that Jesus began both to do and to teach,",
+          "korean": "데오빌로여, 내가 첫 번째 책에서 예수님께서 시작하신 모든 일과 가르치신 것에 대해 썼어요."
+        },
+        {
+          "verse": 2,
+          "original": "until the day in which he was received up, after he had given commandment through the Holy Spirit to the apostles whom he had chosen.",
+          "korean": "예수님께서 선택하신 사도들에게 성령을 통해 명령을 주시고 하늘로 올라가시는 날까지의 일이에요."
+        },
+        {
+          "verse": 3,
+          "original": "To these he also showed himself alive after he suffered, by many proofs, appearing to them over a period of forty days, and speaking about God's Kingdom.",
+          "korean": "예수님께서는 고난받으신 후에 사도들에게 살아 계심을 많은 증거로 보여 주셨어요. 사십 일 동안 그들에게 나타나시고 하나님 나라에 대해 말씀하셨어요."
+        },
+        {
+          "verse": 4,
+          "original": "Being assembled together with them, he commanded them, \"Don't depart from Jerusalem, but wait for the promise of the Father, which you heard from me.",
+          "korean": "예수님께서 그들과 함께 모여 계실 때 명령하셨어요. \"예루살렘을 떠나지 말고, 나에게 들은 아버지의 약속을 기다려라."
+        },
+        {
+          "verse": 5,
+          "original": "For John indeed baptized in water, but you will be baptized in the Holy Spirit not many days from now.\"",
+          "korean": "요한은 물로 세례를 주었지만, 너희는 며칠 안에 성령으로 세례를 받을 거야.\""
+        },
+        {
+          "verse": 6,
+          "original": "Therefore when they had come together, they asked him, \"Lord, are you now restoring the kingdom to Israel?\"",
+          "korean": "그들이 함께 모였을 때 예수님께 물었어요. \"주님, 이제 이스라엘에게 나라를 회복시켜 주실 건가요?\""
+        },
+        {
+          "verse": 7,
+          "original": "He said to them, \"It isn't for you to know times or seasons which the Father has set within his own authority.",
+          "korean": "예수님께서 말씀하셨어요. \"아버지께서 자기 권한으로 정하신 때와 시기는 너희가 알 것이 아니야."
+        },
+        {
+          "verse": 8,
+          "original": "But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth.\"",
+          "korean": "그러나 성령이 너희에게 임하시면 너희가 능력을 받을 거야. 예루살렘과 온 유대와 사마리아와 땅끝까지 내 증인이 될 거야.\""
+        },
+        {
+          "verse": 9,
+          "original": "When he had said these things, as they were looking, he was taken up, and a cloud received him out of their sight.",
+          "korean": "이 말씀을 하시고 그들이 보는 앞에서 올라가셨어요. 구름이 예수님을 가려서 그들의 시야에서 사라지셨어요."
+        },
+        {
+          "verse": 10,
+          "original": "While they were looking steadfastly into the sky as he went, behold, two men stood by them in white clothing,",
+          "korean": "예수님이 올라가실 때 그들이 하늘을 계속 쳐다보고 있었는데, 흰옷 입은 두 사람이 그들 곁에 서 있었어요."
+        },
+        {
+          "verse": 11,
+          "original": "who also said, \"You men of Galilee, why do you stand looking into the sky? This Jesus, who was received up from you into the sky, will come back in the same way as you saw him going into the sky.\"",
+          "korean": "그들이 말했어요. \"갈릴리 사람들아, 왜 하늘을 바라보고 서 있느냐? 너희를 떠나 하늘로 올라가신 이 예수님께서 하늘로 올라가시는 것을 본 그대로 다시 오실 거야.\""
+        },
+        {
+          "verse": 12,
+          "original": "Then they returned to Jerusalem from the mountain called Olivet, which is near Jerusalem, a Sabbath day's journey away.",
+          "korean": "그들이 감람산이라고 불리는 산에서 예루살렘으로 돌아왔어요. 감람산은 예루살렘에서 안식일에 걸어갈 수 있는 거리만큼 떨어져 있어요."
+        },
+        {
+          "verse": 13,
+          "original": "When they had come in, they went up into the upper room where they were staying; that is Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James the son of Alphaeus, Simon the Zealot, and Judas the son of James.",
+          "korean": "그들이 도착해서 머물고 있던 다락방으로 올라갔어요. 베드로와 요한과 야고보와 안드레와 빌립과 도마와 바돌로매와 마태와 알패오의 아들 야고보와 열심당원 시몬과 야고보의 아들 유다가 있었어요."
+        },
+        {
+          "verse": 14,
+          "original": "All these with one accord continued steadfastly in prayer and supplication, along with the women, and Mary the mother of Jesus, and with his brothers.",
+          "korean": "이 모든 사람이 여자들과 예수님의 어머니 마리아와 예수님의 형제들과 함께 한마음으로 기도에 힘쓰고 있었어요."
+        },
+        {
+          "verse": 15,
+          "original": "In these days, Peter stood up in the middle of the disciples (and the number of names was about one hundred twenty), and said,",
+          "korean": "그 무렵에 베드로가 제자들 가운데 일어섰어요. 모인 사람의 수가 약 백이십 명이었어요. 베드로가 말했어요."
+        },
+        {
+          "verse": 16,
+          "original": "\"Brothers, it was necessary that this Scripture should be fulfilled, which the Holy Spirit spoke before by the mouth of David concerning Judas, who was guide to those who took Jesus.",
+          "korean": "\"형제들이여, 예수님을 잡은 자들을 인도한 유다에 대해 성령께서 다윗의 입을 통해 미리 말씀하신 성경 말씀이 이루어져야 했어요."
+        },
+        {
+          "verse": 17,
+          "original": "For he was counted with us, and received his portion in this ministry.",
+          "korean": "유다는 우리와 함께 속해 있었고, 이 사역의 몫을 받았어요."
+        },
+        {
+          "verse": 18,
+          "original": "Now this man obtained a field with the reward for his wickedness, and falling headlong, his body burst open, and all his intestines gushed out.",
+          "korean": "그런데 이 사람이 악한 일의 대가로 받은 돈으로 밭을 샀는데, 거꾸로 떨어져 몸이 터지고 내장이 다 쏟아졌어요."
+        },
+        {
+          "verse": 19,
+          "original": "It became known to everyone who lived in Jerusalem that in their language that field was called 'Akeldama,' that is, 'The field of blood.'",
+          "korean": "예루살렘에 사는 모든 사람이 이것을 알게 되어서 그들의 말로 그 밭을 '아겔다마'라고 불렀어요. 그것은 '피의 밭'이라는 뜻이에요."
+        },
+        {
+          "verse": 20,
+          "original": "For it is written in the book of Psalms, 'Let his habitation be made desolate. Let no one dwell in it;' and, 'Let another take his office.'",
+          "korean": "시편에 이렇게 기록되어 있어요. '그의 거처가 황폐하게 되고 거기 사는 사람이 없게 하소서.' 그리고 '다른 사람이 그의 직분을 맡게 하소서.'"
+        },
+        {
+          "verse": 21,
+          "original": "\"Of the men therefore who have accompanied us all the time that the Lord Jesus went in and out among us,",
+          "korean": "\"그러므로 주 예수님께서 우리 가운데서 다니실 때 항상 우리와 함께했던 사람들 중에서,"
+        },
+        {
+          "verse": 22,
+          "original": "beginning from the baptism of John, to the day that he was received up from us, of these one must become a witness with us of his resurrection.\"",
+          "korean": "요한의 세례부터 예수님께서 우리를 떠나 올라가신 날까지 함께한 사람 중 하나가 우리와 함께 예수님의 부활을 증언해야 해요.\""
+        },
+        {
+          "verse": 23,
+          "original": "They put forward two, Joseph called Barsabbas, who was also called Justus, and Matthias.",
+          "korean": "그들이 두 사람을 세웠어요. 바사바라고도 불리고 유스도라고도 불리는 요셉과 맛디아예요."
+        },
+        {
+          "verse": 24,
+          "original": "They prayed and said, \"You, Lord, who know the hearts of all men, show which one of these two you have chosen",
+          "korean": "그들이 기도했어요. \"모든 사람의 마음을 아시는 주님, 이 두 사람 중에서 누구를 택하셨는지 보여 주세요."
+        },
+        {
+          "verse": 25,
+          "original": "to take part in this ministry and apostleship from which Judas fell away, that he might go to his own place.\"",
+          "korean": "유다가 떠나 자기 갈 곳으로 간 이 사역과 사도의 직분을 맡게 해 주세요.\""
+        },
+        {
+          "verse": 26,
+          "original": "They drew lots for them, and the lot fell on Matthias, and he was counted with the eleven apostles.",
+          "korean": "그들이 제비를 뽑으니 맛디아가 뽑혔어요. 그래서 열한 사도에 맛디아가 함께 수에 들게 되었어요."
+        }
+      ]
+    }
+  ]
+}
