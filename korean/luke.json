@@ -4956,6 +4956,366 @@
           "korean": "모든 백성이 예수님의 말씀을 들으려고 이른 아침에 성전으로 왔어요."
         }
       ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now the feast of unleavened bread, which is called the Passover, was approaching.",
+          "korean": "유월절이라고 불리는 무교절이 가까워지고 있었어요."
+        },
+        {
+          "verse": 2,
+          "original": "The chief priests and the scribes sought how they might put him to death, for they feared the people.",
+          "korean": "대제사장들과 율법학자들이 예수님을 어떻게 죽일 수 있을지 찾고 있었어요. 백성들이 무서웠기 때문이에요."
+        },
+        {
+          "verse": 3,
+          "original": "Satan entered into Judas, who was also called Iscariot, who was counted with the twelve.",
+          "korean": "사탄이 가룟 유다라고도 불리는 유다에게 들어갔어요. 그는 열두 제자 중 하나였어요."
+        },
+        {
+          "verse": 4,
+          "original": "He went away, and talked with the chief priests and captains about how he might deliver him to them.",
+          "korean": "유다가 가서 대제사장들과 경비대장들과 어떻게 예수님을 그들에게 넘겨줄 수 있을지 의논했어요."
+        },
+        {
+          "verse": 5,
+          "original": "They were glad, and agreed to give him money.",
+          "korean": "그들은 기뻐하며 유다에게 돈을 주기로 했어요."
+        },
+        {
+          "verse": 6,
+          "original": "He consented, and sought an opportunity to deliver him to them in the absence of the multitude.",
+          "korean": "유다는 동의하고, 무리가 없을 때 예수님을 넘겨줄 기회를 찾았어요."
+        },
+        {
+          "verse": 7,
+          "original": "The day of unleavened bread came, on which the Passover must be sacrificed.",
+          "korean": "유월절 어린 양을 잡아야 하는 무교절 날이 왔어요."
+        },
+        {
+          "verse": 8,
+          "original": "Jesus sent Peter and John, saying, \"Go and prepare the Passover for us, that we may eat.\"",
+          "korean": "예수님께서 베드로와 요한을 보내시며 말씀하셨어요. \"가서 우리가 먹을 유월절을 준비해 주세요.\""
+        },
+        {
+          "verse": 9,
+          "original": "They said to him, \"Where do you want us to prepare?\"",
+          "korean": "그들이 예수님께 물었어요. \"어디에서 준비하기를 원하세요?\""
+        },
+        {
+          "verse": 10,
+          "original": "He said to them, \"Behold, when you have entered into the city, a man carrying a pitcher of water will meet you. Follow him into the house which he enters.",
+          "korean": "예수님께서 그들에게 말씀하셨어요. \"보세요, 너희가 도시에 들어가면 물동이를 든 사람을 만날 거예요. 그 사람이 들어가는 집으로 따라 들어가세요."
+        },
+        {
+          "verse": 11,
+          "original": "Tell the master of the house, 'The Teacher says to you, \"Where is the guest room, where I may eat the Passover with my disciples?\" '",
+          "korean": "그 집 주인에게 '선생님께서 말씀하십니다. 내 제자들과 함께 유월절을 먹을 방이 어디예요?'라고 말하세요."
+        },
+        {
+          "verse": 12,
+          "original": "He will show you a large, furnished upper room. Make preparations there.\"",
+          "korean": "그러면 크고 준비된 다락방을 보여 줄 거예요. 거기서 준비하세요.\""
+        },
+        {
+          "verse": 13,
+          "original": "They went, found things as Jesus had told them, and they prepared the Passover.",
+          "korean": "그들이 가서 예수님께서 말씀하신 대로 찾았고, 유월절을 준비했어요."
+        },
+        {
+          "verse": 14,
+          "original": "When the hour had come, he sat down with the twelve apostles.",
+          "korean": "때가 되자, 예수님께서 열두 사도와 함께 앉으셨어요."
+        },
+        {
+          "verse": 15,
+          "original": "He said to them, \"I have earnestly desired to eat this Passover with you before I suffer,",
+          "korean": "예수님께서 그들에게 말씀하셨어요. \"내가 고난받기 전에 이 유월절을 너희와 함께 먹기를 간절히 원했어요."
+        },
+        {
+          "verse": 16,
+          "original": "for I tell you, I will no longer by any means eat of it until it is fulfilled in God's Kingdom.\"",
+          "korean": "내가 말해 줄게요. 하나님 나라에서 이것이 이루어지기까지 나는 더 이상 이것을 먹지 않을 거예요.\""
+        },
+        {
+          "verse": 17,
+          "original": "He received a cup, and when he had given thanks, he said, \"Take this, and share it among yourselves,",
+          "korean": "예수님께서 잔을 받으시고, 감사 기도를 드린 후 말씀하셨어요. \"이것을 받아서 서로 나누세요."
+        },
+        {
+          "verse": 18,
+          "original": "for I tell you, I will not drink at all again from the fruit of the vine, until God's Kingdom comes.\"",
+          "korean": "내가 말해 줄게요. 하나님 나라가 올 때까지 나는 더 이상 포도나무 열매로 만든 것을 마시지 않을 거예요.\""
+        },
+        {
+          "verse": 19,
+          "original": "He took bread, and when he had given thanks, he broke, and gave it to them, saying, \"This is my body which is given for you. Do this in memory of me.\"",
+          "korean": "예수님께서 빵을 가지시고, 감사 기도를 드린 후 떼어서 그들에게 주시며 말씀하셨어요. \"이것은 너희를 위해 주는 내 몸이에요. 나를 기억하며 이것을 하세요.\""
+        },
+        {
+          "verse": 20,
+          "original": "Likewise, he took the cup after supper, saying, \"This cup is the new covenant in my blood, which is poured out for you.",
+          "korean": "저녁 식사 후에 같은 방법으로 잔을 가지시고 말씀하셨어요. \"이 잔은 너희를 위해 흘리는 내 피로 세우는 새 언약이에요."
+        },
+        {
+          "verse": 21,
+          "original": "But behold, the hand of him who betrays me is with me on the table.",
+          "korean": "하지만 보세요, 나를 배반하는 사람의 손이 나와 함께 식탁 위에 있어요."
+        },
+        {
+          "verse": 22,
+          "original": "The Son of Man indeed goes, as it has been determined, but woe to that man through whom he is betrayed!\"",
+          "korean": "인자는 정해진 대로 가요. 하지만 인자를 배반하는 그 사람에게는 불쌍해요!\""
+        },
+        {
+          "verse": 23,
+          "original": "They began to question among themselves, which of them it was who would do this thing.",
+          "korean": "제자들이 서로 자기들 중에 누가 이런 일을 할 것인지 묻기 시작했어요."
+        },
+        {
+          "verse": 24,
+          "original": "A dispute also arose among them, which of them was considered to be greatest.",
+          "korean": "그들 가운데 누가 가장 큰 사람인지에 대한 논쟁도 일어났어요."
+        },
+        {
+          "verse": 25,
+          "original": "He said to them, \"The kings of the nations lord it over them, and those who have authority over them are called 'benefactors.'",
+          "korean": "예수님께서 그들에게 말씀하셨어요. \"세상 왕들은 백성들을 지배하고, 그들에 대해 권위를 가진 사람들은 '은인'이라고 불려요."
+        },
+        {
+          "verse": 26,
+          "original": "But not so with you. But one who is the greater among you, let him become as the younger, and one who is governing, as one who serves.",
+          "korean": "하지만 너희는 그렇지 않아요. 너희 중 큰 사람은 어린 사람처럼 되고, 다스리는 사람은 섬기는 사람처럼 되세요."
+        },
+        {
+          "verse": 27,
+          "original": "For who is greater, one who sits at the table, or one who serves? Isn't it he who sits at the table? But I am among you as one who serves.",
+          "korean": "왜냐하면 누가 더 커요, 식탁에 앉은 사람이에요 아니면 섬기는 사람이에요? 식탁에 앉은 사람 아니에요? 하지만 나는 섬기는 사람으로 너희 가운데 있어요."
+        },
+        {
+          "verse": 28,
+          "original": "But you are those who have continued with me in my trials.",
+          "korean": "하지만 너희는 내 시험 중에 나와 함께 계속 있었어요."
+        },
+        {
+          "verse": 29,
+          "original": "I confer on you a kingdom, even as my Father conferred on me,",
+          "korean": "내 아버지께서 나에게 나라를 주신 것처럼, 나도 너희에게 나라를 줄게요."
+        },
+        {
+          "verse": 30,
+          "original": "that you may eat and drink at my table in my Kingdom. You will sit on thrones, judging the twelve tribes of Israel.\"",
+          "korean": "그래서 너희가 내 나라에서 내 식탁에서 먹고 마실 거예요. 너희는 왕좌에 앉아서 이스라엘 열두 지파를 심판할 거예요.\""
+        },
+        {
+          "verse": 31,
+          "original": "The Lord said, \"Simon, Simon, behold, Satan asked to have all of you, that he might sift you as wheat,",
+          "korean": "주님께서 말씀하셨어요. \"시몬아, 시몬아, 보라, 사탄이 너희를 밀처럼 치기 위해 너희를 달라고 했어요."
+        },
+        {
+          "verse": 32,
+          "original": "but I prayed for you, that your faith wouldn't fail. You, when once you have turned again, establish your brothers.\"",
+          "korean": "하지만 나는 네 믿음이 없어지지 않도록 너를 위해 기도했어요. 너는 돌이킨 후에 네 형제들을 굳게 세워 주세요.\""
+        },
+        {
+          "verse": 33,
+          "original": "He said to him, \"Lord, I am ready to go with you both to prison and to death!\"",
+          "korean": "베드로가 예수님께 말했어요. \"주님, 저는 당신과 함께 감옥에도, 죽음에도 갈 준비가 되어 있어요!\""
+        },
+        {
+          "verse": 34,
+          "original": "He said, \"I tell you, Peter, the rooster will by no means crow today until you deny that you know me three times.\"",
+          "korean": "예수님께서 말씀하셨어요. \"내가 말해 줄게요, 베드로야, 오늘 닭이 울기 전에 네가 나를 세 번 모른다고 부인할 거예요.\""
+        },
+        {
+          "verse": 35,
+          "original": "He said to them, \"When I sent you out without purse, wallet, and sandals, did you lack anything?\" They said, \"Nothing.\"",
+          "korean": "예수님께서 그들에게 말씀하셨어요. \"내가 너희를 돈주머니도, 배낭도, 신발도 없이 보냈을 때, 부족한 것이 있었어요?\" 그들이 말했어요. \"없었어요.\""
+        },
+        {
+          "verse": 36,
+          "original": "Then he said to them, \"But now, whoever has a purse, let him take it, and likewise a wallet. Whoever has none, let him sell his cloak, and buy a sword.",
+          "korean": "그러자 예수님께서 그들에게 말씀하셨어요. \"하지만 이제는 돈주머니가 있는 사람은 가지고 가고, 배낭도 마찬가지예요. 없는 사람은 겉옷을 팔아서 칼을 사세요."
+        },
+        {
+          "verse": 37,
+          "original": "For I tell you that this which is written must still be fulfilled in me: 'He was counted with transgressors.' For that which concerns me has an end.\"",
+          "korean": "내가 말해 줄게요. '그가 죄인들과 함께 계산되었다'고 기록된 이것이 나에게 반드시 이루어져야 해요. 나에 관한 것이 끝나야 하기 때문이에요.\""
+        },
+        {
+          "verse": 38,
+          "original": "They said, \"Lord, behold, here are two swords.\" He said to them, \"That is enough.\"",
+          "korean": "그들이 말했어요. \"주님, 보세요, 여기 칼 두 자루가 있어요.\" 예수님께서 그들에게 말씀하셨어요. \"그것으로 충분해요.\""
+        },
+        {
+          "verse": 39,
+          "original": "He came out and went, as his custom was, to the Mount of Olives. His disciples also followed him.",
+          "korean": "예수님께서 나오셔서 평소처럼 감람산으로 가셨어요. 제자들도 예수님을 따라갔어요."
+        },
+        {
+          "verse": 40,
+          "original": "When he was at the place, he said to them, \"Pray that you don't enter into temptation.\"",
+          "korean": "그곳에 도착하셔서 그들에게 말씀하셨어요. \"시험에 들지 않도록 기도하세요.\""
+        },
+        {
+          "verse": 41,
+          "original": "He was withdrawn from them about a stone's throw, and he knelt down and prayed,",
+          "korean": "예수님께서 그들에게서 돌을 던지면 닿을 만큼 떨어진 곳으로 가셔서, 무릎을 꿇고 기도하셨어요."
+        },
+        {
+          "verse": 42,
+          "original": "saying, \"Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.\"",
+          "korean": "\"아버지, 원하신다면 이 잔을 저에게서 거두어 주세요. 그러나 제 뜻대로 하지 마시고, 아버지의 뜻대로 하세요.\"라고 말씀하셨어요."
+        },
+        {
+          "verse": 43,
+          "original": "An angel from heaven appeared to him, strengthening him.",
+          "korean": "하늘에서 천사가 나타나서 예수님께 힘을 주었어요."
+        },
+        {
+          "verse": 44,
+          "original": "Being in agony he prayed more earnestly. His sweat became like great drops of blood falling down on the ground.",
+          "korean": "예수님께서 고통 중에 더 간절히 기도하셨어요. 땀이 피방울처럼 땅에 떨어졌어요."
+        },
+        {
+          "verse": 45,
+          "original": "When he rose up from his prayer, he came to the disciples, and found them sleeping because of grief,",
+          "korean": "기도에서 일어나셔서 제자들에게 오셨는데, 슬픔 때문에 잠들어 있는 것을 보셨어요."
+        },
+        {
+          "verse": 46,
+          "original": "and said to them, \"Why do you sleep? Rise and pray that you may not enter into temptation.\"",
+          "korean": "예수님께서 그들에게 말씀하셨어요. \"왜 자고 있어요? 일어나서 시험에 들지 않도록 기도하세요.\""
+        },
+        {
+          "verse": 47,
+          "original": "While he was still speaking, behold, a multitude, and he who was called Judas, one of the twelve, was leading them. He came near to Jesus to kiss him.",
+          "korean": "예수님께서 아직 말씀하고 계실 때, 보세요, 무리가 왔어요. 열두 제자 중 하나인 유다라고 불리는 사람이 그들을 이끌고 있었어요. 그가 예수님께 입 맞추려고 가까이 왔어요."
+        },
+        {
+          "verse": 48,
+          "original": "But Jesus said to him, \"Judas, do you betray the Son of Man with a kiss?\"",
+          "korean": "그러나 예수님께서 그에게 말씀하셨어요. \"유다야, 입 맞춤으로 인자를 배반하는 거야?\""
+        },
+        {
+          "verse": 49,
+          "original": "When those who were around him saw what was about to happen, they said to him, \"Lord, shall we strike with the sword?\"",
+          "korean": "예수님 주위에 있던 사람들이 무슨 일이 일어나려는지 보고, 예수님께 말했어요. \"주님, 칼로 치겠습니까?\""
+        },
+        {
+          "verse": 50,
+          "original": "A certain one of them struck the servant of the high priest, and cut off his right ear.",
+          "korean": "그들 중 한 사람이 대제사장의 종을 쳐서 오른쪽 귀를 잘랐어요."
+        },
+        {
+          "verse": 51,
+          "original": "But Jesus answered, \"Let me at least do this\"—and he touched his ear, and healed him.",
+          "korean": "그러나 예수님께서 대답하셨어요. \"이것만은 하게 해 주세요.\" 그리고 그의 귀를 만지셔서 고쳐 주셨어요."
+        },
+        {
+          "verse": 52,
+          "original": "Jesus said to the chief priests, captains of the temple, and elders, who had come against him, \"Have you come out as against a robber, with swords and clubs?",
+          "korean": "예수님께서 대제사장들과 성전 경비대장들과 장로들에게 말씀하셨어요. \"칼과 몽둥이를 들고 강도를 잡으러 온 것처럼 나왔어요?"
+        },
+        {
+          "verse": 53,
+          "original": "When I was with you in the temple daily, you didn't stretch out your hands against me. But this is your hour, and the power of darkness.\"",
+          "korean": "내가 매일 성전에서 너희와 함께 있었을 때는, 너희가 나에게 손을 대지 않았어요. 하지만 이것은 너희 때이고, 어둠의 권세예요.\""
+        },
+        {
+          "verse": 54,
+          "original": "They seized him, and led him away, and brought him into the high priest's house. But Peter followed from a distance.",
+          "korean": "그들은 예수님을 붙잡아서 끌고 가서 대제사장의 집으로 데려갔어요. 베드로는 멀리서 따라갔어요."
+        },
+        {
+          "verse": 55,
+          "original": "When they had kindled a fire in the middle of the courtyard, and had sat down together, Peter sat among them.",
+          "korean": "그들이 뜰 한가운데에 불을 피우고 함께 앉았을 때, 베드로도 그들 가운데 앉았어요."
+        },
+        {
+          "verse": 56,
+          "original": "A certain servant girl saw him as he sat in the light, and looking intently at him, said, \"This man also was with him.\"",
+          "korean": "어떤 여종이 베드로가 불빛에 앉아 있는 것을 보고, 자세히 쳐다보며 말했어요. \"이 사람도 그와 함께 있었어요.\""
+        },
+        {
+          "verse": 57,
+          "original": "He denied Jesus, saying, \"Woman, I don't know him.\"",
+          "korean": "베드로는 예수님을 부인하며 말했어요. \"아, 저는 그를 몰라요.\""
+        },
+        {
+          "verse": 58,
+          "original": "After a little while someone else saw him, and said, \"You also are one of them!\" But Peter answered, \"Man, I am not!\"",
+          "korean": "조금 후에 다른 사람이 그를 보고 말했어요. \"당신도 그들 중 하나야!\" 하지만 베드로가 대답했어요. \"아저씨, 저는 아니에요!\""
+        },
+        {
+          "verse": 59,
+          "original": "After about one hour passed, another confidently affirmed, saying, \"Truly this man also was with him, for he is a Galilean!\"",
+          "korean": "한 시간쯤 지난 후에 또 다른 사람이 확신에 차서 말했어요. \"정말 이 사람도 그와 함께 있었어요. 갈릴리 사람이잖아요!\""
+        },
+        {
+          "verse": 60,
+          "original": "But Peter said, \"Man, I don't know what you are talking about!\" Immediately, while he was still speaking, a rooster crowed.",
+          "korean": "하지만 베드로가 말했어요. \"아저씨, 무슨 말인지 모르겠어요!\" 그가 아직 말하고 있을 때 즉시 닭이 울었어요."
+        },
+        {
+          "verse": 61,
+          "original": "The Lord turned and looked at Peter. Then Peter remembered the Lord's word, how he said to him, \"Before the rooster crows you will deny me three times.\"",
+          "korean": "주님께서 돌아서서 베드로를 보셨어요. 그때 베드로는 주님께서 '닭이 울기 전에 네가 나를 세 번 부인할 거야'라고 하신 말씀을 기억했어요."
+        },
+        {
+          "verse": 62,
+          "original": "He went out, and wept bitterly.",
+          "korean": "베드로는 밖으로 나가서 슬피 울었어요."
+        },
+        {
+          "verse": 63,
+          "original": "The men who held Jesus mocked him and beat him.",
+          "korean": "예수님을 붙들고 있던 사람들이 예수님을 놀리고 때렸어요."
+        },
+        {
+          "verse": 64,
+          "original": "Having blindfolded him, they struck him on the face and asked him, \"Prophesy! Who is the one who struck you?\"",
+          "korean": "그들은 예수님의 눈을 가리고, 얼굴을 때리며 물었어요. \"예언해 봐! 누가 너를 때렸어?\""
+        },
+        {
+          "verse": 65,
+          "original": "They spoke many other things against him, insulting him.",
+          "korean": "그들은 예수님을 모욕하며 다른 많은 말을 했어요."
+        },
+        {
+          "verse": 66,
+          "original": "As soon as it was day, the assembly of the elders of the people were gathered together, both chief priests and scribes, and they led him away into their council, saying,",
+          "korean": "날이 밝자마자, 백성의 장로들의 모임 곧 대제사장들과 율법학자들이 모였어요. 그들은 예수님을 공회로 끌고 가서 말했어요."
+        },
+        {
+          "verse": 67,
+          "original": "\"If you are the Christ, tell us.\" But he said to them, \"If I tell you, you won't believe,",
+          "korean": "\"당신이 그리스도면, 우리에게 말해요.\" 그러나 예수님께서 그들에게 말씀하셨어요. \"내가 말해도 너희는 믿지 않을 거예요."
+        },
+        {
+          "verse": 68,
+          "original": "and if I ask, you will in no way answer me or let me go.",
+          "korean": "그리고 내가 물어도, 너희는 절대로 대답하지도 않고 나를 놓아주지도 않을 거예요."
+        },
+        {
+          "verse": 69,
+          "original": "From now on, the Son of Man will be seated at the right hand of the power of God.\"",
+          "korean": "이제부터 인자가 하나님의 권능의 오른쪽에 앉을 거예요.\""
+        },
+        {
+          "verse": 70,
+          "original": "They all said, \"Are you then the Son of God?\" He said to them, \"You say it, because I am.\"",
+          "korean": "그들이 다 물었어요. \"그러면 당신이 하나님의 아들이에요?\" 예수님께서 그들에게 말씀하셨어요. \"내가 그렇다고 너희가 말하고 있어요.\""
+        },
+        {
+          "verse": 71,
+          "original": "They said, \"Why do we need any more witness? For we ourselves have heard from his own mouth!\"",
+          "korean": "그들이 말했어요. \"왜 더 증인이 필요해요? 우리가 직접 그의 입에서 들었잖아요!\""
+        }
+      ]
     }
   ]
 }
