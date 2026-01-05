@@ -3831,6 +3831,571 @@
           "korean": "그 휘장을 위해 아카시아나무 기둥 다섯 개를 만들어 금으로 싸라. 갈고리는 금으로 만들고, 놋 받침 다섯 개를 부어 만들어라."
         }
       ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "You shall make the altar of acacia wood, five cubits long, and five cubits wide. The altar shall be square. Its height shall be three cubits.",
+          "korean": "아카시아 나무로 제단을 만들어요. 길이와 너비가 각각 다섯 규빗이고, 네모난 모양이에요. 높이는 세 규빗이에요."
+        },
+        {
+          "verse": 2,
+          "original": "You shall make its horns on its four corners. Its horns shall be of one piece with it. You shall overlay it with bronze.",
+          "korean": "제단의 네 모퉁이에 뿔을 만들어요. 뿔은 제단과 한 덩어리로 만들고, 청동으로 덮어요."
+        },
+        {
+          "verse": 3,
+          "original": "You shall make its pots to take away its ashes; and its shovels, its basins, its meat hooks, and its fire pans. You shall make all its vessels of bronze.",
+          "korean": "재를 담는 통, 부삽, 대야, 고기 갈고리, 불 옮기는 그릇을 만들어요. 이 모든 기구를 청동으로 만들어요."
+        },
+        {
+          "verse": 4,
+          "original": "You shall make a grating for it of network of bronze. On the net you shall make four bronze rings in its four corners.",
+          "korean": "청동으로 그물 모양의 격자를 만들어요. 그물 네 모퉁이에 청동 고리 네 개를 달아요."
+        },
+        {
+          "verse": 5,
+          "original": "You shall put it under the ledge around the altar beneath, that the net may reach halfway up the altar.",
+          "korean": "그물을 제단 아래 턱 밑에 놓아서, 제단 중간 높이까지 오게 해요."
+        },
+        {
+          "verse": 6,
+          "original": "You shall make poles for the altar, poles of acacia wood, and overlay them with bronze.",
+          "korean": "제단을 위해 아카시아 나무로 채를 만들고, 청동으로 덮어요."
+        },
+        {
+          "verse": 7,
+          "original": "Its poles shall be put into the rings, and the poles shall be on the two sides of the altar when carrying it.",
+          "korean": "채를 고리에 꿰어서, 제단을 옮길 때 양쪽에 있게 해요."
+        },
+        {
+          "verse": 8,
+          "original": "You shall make it hollow with planks. They shall make it as it has been shown you on the mountain.",
+          "korean": "제단을 널판으로 속이 빈 상자처럼 만들어요. 산에서 보여준 대로 만들어요."
+        },
+        {
+          "verse": 9,
+          "original": "You shall make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen one hundred cubits long for one side.",
+          "korean": "성막 뜰을 만들어요. 남쪽에는 고운 모시실로 만든 휘장을 쳐요. 길이가 백 규빗이에요."
+        },
+        {
+          "verse": 10,
+          "original": "Its pillars shall be twenty, and their sockets twenty, of bronze. The hooks of the pillars and their fillets shall be of silver.",
+          "korean": "기둥은 스무 개, 청동 받침도 스무 개예요. 기둥의 갈고리와 가로대는 은으로 만들어요."
+        },
+        {
+          "verse": 11,
+          "original": "Likewise for the length of the north side, there shall be hangings one hundred cubits long, and its pillars twenty, and their sockets twenty, of bronze; the hooks of the pillars, and their fillets, of silver.",
+          "korean": "북쪽도 마찬가지로 백 규빗 길이의 휘장을 쳐요. 기둥 스무 개와 청동 받침 스무 개가 있어요. 기둥의 갈고리와 가로대는 은이에요."
+        },
+        {
+          "verse": 12,
+          "original": "For the width of the court on the west side shall be hangings of fifty cubits; their pillars ten, and their sockets ten.",
+          "korean": "서쪽 뜰의 너비에는 오십 규빗의 휘장을 쳐요. 기둥 열 개와 받침 열 개가 있어요."
+        },
+        {
+          "verse": 13,
+          "original": "The width of the court on the east side eastward shall be fifty cubits.",
+          "korean": "동쪽 뜰의 너비도 오십 규빗이에요."
+        },
+        {
+          "verse": 14,
+          "original": "The hangings for the one side of the gate shall be fifteen cubits; their pillars three, and their sockets three.",
+          "korean": "문 한쪽의 휘장은 열다섯 규빗이에요. 기둥 세 개와 받침 세 개가 있어요."
+        },
+        {
+          "verse": 15,
+          "original": "For the other side shall be hangings of fifteen cubits; their pillars three, and their sockets three.",
+          "korean": "문 다른 쪽의 휘장도 열다섯 규빗이에요. 기둥 세 개와 받침 세 개가 있어요."
+        },
+        {
+          "verse": 16,
+          "original": "For the gate of the court shall be a screen of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, the work of the embroiderer; their pillars four, and their sockets four.",
+          "korean": "뜰의 문에는 스무 규빗의 덮개를 달아요. 청색, 자주색, 진홍색 실과 고운 모시실로 수놓아 만들어요. 기둥 네 개와 받침 네 개가 있어요."
+        },
+        {
+          "verse": 17,
+          "original": "All the pillars of the court around shall be filleted with silver; their hooks of silver, and their sockets of bronze.",
+          "korean": "뜰 주위의 모든 기둥에는 은 가로대를 달아요. 갈고리는 은이고, 받침은 청동이에요."
+        },
+        {
+          "verse": 18,
+          "original": "The length of the court shall be one hundred cubits, and the width fifty throughout, and the height five cubits, of fine twined linen, and their sockets of bronze.",
+          "korean": "뜰의 길이는 백 규빗, 너비는 오십 규빗, 높이는 다섯 규빗이에요. 고운 모시실로 만들고, 받침은 청동이에요."
+        },
+        {
+          "verse": 19,
+          "original": "All the instruments of the tabernacle in all its service, and all its pins, and all the pins of the court, shall be of bronze.",
+          "korean": "성막에서 쓰는 모든 기구와 모든 말뚝, 뜰의 모든 말뚝을 청동으로 만들어요."
+        },
+        {
+          "verse": 20,
+          "original": "You shall command the children of Israel, that they bring to you pure olive oil beaten for the light, to cause a lamp to burn continually.",
+          "korean": "이스라엘 백성에게 명령해서, 등불을 위해 깨끗하게 짜낸 올리브 기름을 가져오게 해요. 등불이 계속 켜져 있게 해요."
+        },
+        {
+          "verse": 21,
+          "original": "In the Tent of Meeting, outside the veil which is before the covenant, Aaron and his sons shall keep it in order from evening to morning before Yahweh: it shall be a statute forever throughout their generations on the behalf of the children of Israel.",
+          "korean": "회막 안에서, 언약궤 앞 휘장 바깥에서 아론과 그의 아들들이 저녁부터 아침까지 여호와 앞에서 등불을 돌봐요. 이것은 이스라엘 백성을 위한 영원한 규례예요."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Bring Aaron your brother, and his sons with him, near to you from among the children of Israel, that he may minister to me in the priest's office: Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron's sons.",
+          "korean": "이스라엘 백성 가운데서 네 형 아론과 그의 아들들을 네게 가까이 데려와요. 그가 나를 섬기는 제사장이 되게 해요. 아론과 그의 아들들 나답, 아비후, 엘르아살, 이다말이에요."
+        },
+        {
+          "verse": 2,
+          "original": "You shall make holy garments for Aaron your brother, for glory and for beauty.",
+          "korean": "네 형 아론을 위해 거룩한 옷을 만들어요. 영광스럽고 아름답게 만들어요."
+        },
+        {
+          "verse": 3,
+          "original": "You shall speak to all who are wise-hearted, whom I have filled with the spirit of wisdom, that they make Aaron's garments to sanctify him, that he may minister to me in the priest's office.",
+          "korean": "내가 지혜의 영으로 채워준 모든 지혜로운 사람들에게 말해서, 아론의 옷을 만들게 해요. 그를 거룩하게 하여 나를 섬기는 제사장이 되게 해요."
+        },
+        {
+          "verse": 4,
+          "original": "These are the garments which they shall make: a breastplate, an ephod, a robe, a fitted tunic, a turban, and a sash. They shall make holy garments for Aaron your brother and his sons, that he may minister to me in the priest's office.",
+          "korean": "그들이 만들 옷은 이거예요: 흉패, 에봇, 겉옷, 무늬 있는 속옷, 두건, 띠예요. 네 형 아론과 그의 아들들을 위해 거룩한 옷을 만들어서, 그들이 나를 섬기는 제사장이 되게 해요."
+        },
+        {
+          "verse": 5,
+          "original": "They shall use the gold, and the blue, and the purple, and the scarlet, and the fine linen.",
+          "korean": "금실과 청색, 자주색, 진홍색 실과 고운 모시실을 사용해요."
+        },
+        {
+          "verse": 6,
+          "original": "They shall make the ephod of gold, blue, purple, scarlet, and fine twined linen, the work of the skillful workman.",
+          "korean": "에봇을 금실과 청색, 자주색, 진홍색 실과 고운 모시실로 만들어요. 솜씨 좋은 장인이 만들어요."
+        },
+        {
+          "verse": 7,
+          "original": "It shall have two shoulder straps joined to the two ends of it, that it may be joined together.",
+          "korean": "양쪽 끝에 어깨끈 두 개를 달아서 연결되게 해요."
+        },
+        {
+          "verse": 8,
+          "original": "The skillfully woven band, which is on it, shall be like its work and of the same piece; of gold, blue, purple, scarlet, and fine twined linen.",
+          "korean": "그 위에 있는 정교하게 짠 띠도 같은 재료로 한 덩어리로 만들어요. 금실과 청색, 자주색, 진홍색 실과 고운 모시실로 만들어요."
+        },
+        {
+          "verse": 9,
+          "original": "You shall take two onyx stones, and engrave on them the names of the children of Israel.",
+          "korean": "호마노 두 개를 가져다가, 이스라엘 자손의 이름을 새겨요."
+        },
+        {
+          "verse": 10,
+          "original": "Six of their names on the one stone, and the names of the six that remain on the other stone, in the order of their birth.",
+          "korean": "한 돌에 여섯 이름, 다른 돌에 나머지 여섯 이름을 태어난 순서대로 새겨요."
+        },
+        {
+          "verse": 11,
+          "original": "With the work of an engraver in stone, like the engravings of a signet, you shall engrave the two stones, according to the names of the children of Israel. You shall make them to be enclosed in settings of gold.",
+          "korean": "돌에 새기는 장인이 인장처럼 이스라엘 자손의 이름을 두 돌에 새겨요. 금테에 물려요."
+        },
+        {
+          "verse": 12,
+          "original": "You shall put the two stones on the shoulder straps of the ephod, to be stones of memorial for the children of Israel. Aaron shall bear their names before Yahweh on his two shoulders for a memorial.",
+          "korean": "이 두 돌을 에봇의 어깨끈에 달아요. 이스라엘 자손을 기념하는 돌이에요. 아론이 여호와 앞에서 양쪽 어깨에 그들의 이름을 기념으로 지고 다녀요."
+        },
+        {
+          "verse": 13,
+          "original": "You shall make settings of gold,",
+          "korean": "금테를 만들어요."
+        },
+        {
+          "verse": 14,
+          "original": "and two chains of pure gold; you shall make them like cords of braided work. You shall put the braided chains on the settings.",
+          "korean": "순금 사슬 두 개를 끈처럼 땋아서 만들어요. 땋은 사슬을 금테에 달아요."
+        },
+        {
+          "verse": 15,
+          "original": "You shall make a breastplate of judgment, the work of the skillful workman; like the work of the ephod you shall make it; of gold, of blue, and purple, and scarlet, and fine twined linen, you shall make it.",
+          "korean": "판결의 흉패를 솜씨 좋은 장인이 만들어요. 에봇처럼 금실과 청색, 자주색, 진홍색 실과 고운 모시실로 만들어요."
+        },
+        {
+          "verse": 16,
+          "original": "It shall be square and folded double; a span shall be its length, and a span its width.",
+          "korean": "네모나게 두 겹으로 접어요. 길이와 너비가 각각 한 뼘이에요."
+        },
+        {
+          "verse": 17,
+          "original": "You shall set in it settings of stones, four rows of stones: a row of ruby, topaz, and beryl shall be the first row;",
+          "korean": "보석을 네 줄로 물려요. 첫째 줄에는 홍보석, 황옥, 녹주석을 달아요."
+        },
+        {
+          "verse": 18,
+          "original": "and the second row a turquoise, a sapphire, and an emerald;",
+          "korean": "둘째 줄에는 청옥, 사파이어, 에메랄드를 달아요."
+        },
+        {
+          "verse": 19,
+          "original": "and the third row a jacinth, an agate, and an amethyst;",
+          "korean": "셋째 줄에는 호박, 마노, 자수정을 달아요."
+        },
+        {
+          "verse": 20,
+          "original": "and the fourth row a chrysolite, an onyx, and a jasper. They shall be enclosed in gold in their settings.",
+          "korean": "넷째 줄에는 감람석, 호마노, 벽옥을 달아요. 모두 금테에 물려요."
+        },
+        {
+          "verse": 21,
+          "original": "The stones shall be according to the names of the children of Israel, twelve, according to their names; like the engravings of a signet, everyone according to his name, they shall be for the twelve tribes.",
+          "korean": "보석은 이스라엘 자손의 이름을 따라 열두 개예요. 인장처럼 각자의 이름을 새겨서 열두 지파를 나타내요."
+        },
+        {
+          "verse": 22,
+          "original": "You shall make on the breastplate chains like cords, of braided work of pure gold.",
+          "korean": "흉패에 순금으로 끈처럼 땋은 사슬을 만들어요."
+        },
+        {
+          "verse": 23,
+          "original": "You shall make on the breastplate two rings of gold, and shall put the two rings on the two ends of the breastplate.",
+          "korean": "흉패에 금 고리 두 개를 만들어서 흉패 양쪽 끝에 달아요."
+        },
+        {
+          "verse": 24,
+          "original": "You shall put the two braided chains of gold in the two rings at the ends of the breastplate.",
+          "korean": "땋은 금 사슬 두 개를 흉패 양쪽 끝의 두 고리에 꿰어요."
+        },
+        {
+          "verse": 25,
+          "original": "The other two ends of the two braided chains you shall put on the two settings, and put them on the shoulder straps of the ephod in its forepart.",
+          "korean": "사슬의 다른 두 끝은 두 금테에 달아서 에봇 어깨끈 앞쪽에 붙여요."
+        },
+        {
+          "verse": 26,
+          "original": "You shall make two rings of gold, and you shall put them on the two ends of the breastplate, on its edge, which is toward the side of the ephod inward.",
+          "korean": "금 고리 두 개를 더 만들어서 흉패 양쪽 끝 가장자리, 에봇 안쪽에 달아요."
+        },
+        {
+          "verse": 27,
+          "original": "You shall make two rings of gold, and shall put them on the two shoulder straps of the ephod underneath, in its forepart, close by its coupling, above the skillfully woven band of the ephod.",
+          "korean": "금 고리 두 개를 더 만들어서 에봇 어깨끈 아래쪽 앞면에 달아요. 띠 위 이음새 가까이에 달아요."
+        },
+        {
+          "verse": 28,
+          "original": "They shall bind the breastplate by its rings to the rings of the ephod with a lace of blue, that it may be on the skillfully woven band of the ephod, and that the breastplate may not swing out from the ephod.",
+          "korean": "흉패의 고리를 에봇의 고리에 청색 끈으로 묶어요. 흉패가 띠 위에 있고 에봇에서 떨어지지 않게 해요."
+        },
+        {
+          "verse": 29,
+          "original": "Aaron shall bear the names of the children of Israel in the breastplate of judgment on his heart, when he goes in to the holy place, for a memorial before Yahweh continually.",
+          "korean": "아론이 거룩한 곳에 들어갈 때, 판결의 흉패에 있는 이스라엘 자손의 이름을 가슴에 지고 다녀요. 여호와 앞에서 늘 기념이 돼요."
+        },
+        {
+          "verse": 30,
+          "original": "You shall put in the breastplate of judgment the Urim and the Thummim; and they shall be on Aaron's heart, when he goes in before Yahweh. Aaron shall bear the judgment of the children of Israel on his heart before Yahweh continually.",
+          "korean": "판결의 흉패 안에 우림과 둠밈을 넣어요. 아론이 여호와 앞에 들어갈 때 그의 가슴에 있게 해요. 아론이 여호와 앞에서 늘 이스라엘 자손의 판결을 가슴에 지고 다녀요."
+        },
+        {
+          "verse": 31,
+          "original": "You shall make the robe of the ephod all of blue.",
+          "korean": "에봇의 겉옷을 전부 청색으로 만들어요."
+        },
+        {
+          "verse": 32,
+          "original": "It shall have a hole for the head in the middle of it. It shall have a binding of woven work around its hole, as it were the hole of a coat of mail, that it not be torn.",
+          "korean": "가운데 머리 들어갈 구멍을 내요. 구멍 주위를 갑옷의 구멍처럼 짜서 찢어지지 않게 해요."
+        },
+        {
+          "verse": 33,
+          "original": "On its hem you shall make pomegranates of blue, and of purple, and of scarlet, all around its hem; with bells of gold between and around them:",
+          "korean": "옷단 주위에 청색, 자주색, 진홍색 실로 석류를 만들어요. 그 사이사이에 금 방울을 달아요."
+        },
+        {
+          "verse": 34,
+          "original": "a golden bell and a pomegranate, a golden bell and a pomegranate, around the hem of the robe.",
+          "korean": "옷단 주위에 금 방울 하나, 석류 하나, 금 방울 하나, 석류 하나를 번갈아 달아요."
+        },
+        {
+          "verse": 35,
+          "original": "It shall be on Aaron to minister: and its sound shall be heard when he goes in to the holy place before Yahweh, and when he comes out, that he not die.",
+          "korean": "아론이 섬길 때 이 옷을 입어요. 그가 여호와 앞 거룩한 곳에 들어가고 나올 때 방울 소리가 들려요. 그래야 죽지 않아요."
+        },
+        {
+          "verse": 36,
+          "original": "You shall make a plate of pure gold, and engrave on it, like the engravings of a signet, 'HOLY TO YAHWEH.'",
+          "korean": "순금으로 패를 만들어요. 인장처럼 '여호와께 거룩'이라고 새겨요."
+        },
+        {
+          "verse": 37,
+          "original": "You shall put it on a lace of blue, and it shall be on the sash. It shall be on the front of the sash.",
+          "korean": "청색 끈에 달아서 두건 앞에 붙여요."
+        },
+        {
+          "verse": 38,
+          "original": "It shall be on Aaron's forehead, and Aaron shall bear the iniquity of the holy things, which the children of Israel shall make holy in all their holy gifts; and it shall be always on his forehead, that they may be accepted before Yahweh.",
+          "korean": "아론의 이마에 있게 해요. 아론이 이스라엘 자손이 거룩하게 드리는 모든 예물의 죄를 담당해요. 이 패가 늘 그의 이마에 있어서 그들이 여호와 앞에서 받아들여져요."
+        },
+        {
+          "verse": 39,
+          "original": "You shall weave the tunic with fine linen. You shall make a turban of fine linen. You shall make a sash, the work of the embroiderer.",
+          "korean": "고운 모시실로 속옷을 짜요. 고운 모시로 두건을 만들어요. 띠는 수놓아 만들어요."
+        },
+        {
+          "verse": 40,
+          "original": "You shall make tunics for Aaron's sons. You shall make sashes for them. You shall make headbands for them, for glory and for beauty.",
+          "korean": "아론의 아들들을 위해서도 속옷, 띠, 관을 만들어요. 영광스럽고 아름답게 만들어요."
+        },
+        {
+          "verse": 41,
+          "original": "You shall put them on Aaron your brother, and on his sons with him, and shall anoint them, and consecrate them, and sanctify them, that they may minister to me in the priest's office.",
+          "korean": "이 옷을 네 형 아론과 그의 아들들에게 입히고, 기름을 부어 그들을 세우고 거룩하게 해요. 그러면 그들이 나를 섬기는 제사장이 돼요."
+        },
+        {
+          "verse": 42,
+          "original": "You shall make them linen pants to cover their naked flesh. They shall reach from the waist even to the thighs.",
+          "korean": "벌거벗은 몸을 가리는 모시 속옷을 만들어요. 허리에서 넓적다리까지 오게 해요."
+        },
+        {
+          "verse": 43,
+          "original": "They shall be on Aaron and on his sons, when they go in to the Tent of Meeting, or when they come near to the altar to minister in the holy place, that they don't bear iniquity, and die. This shall be a statute forever to him and to his offspring after him.",
+          "korean": "아론과 그의 아들들이 회막에 들어가거나 제단에 가까이 가서 거룩한 곳에서 섬길 때 이 옷을 입어요. 그래야 죄를 지고 죽지 않아요. 이것은 그와 그의 후손을 위한 영원한 규례예요."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "This is the thing that you shall do to them to make them holy, to minister to me in the priest's office: take one young bull and two rams without defect,",
+          "korean": "그들을 거룩하게 하여 나를 섬기는 제사장이 되게 할 일이에요. 흠 없는 어린 수소 한 마리와 숫양 두 마리를 가져와요."
+        },
+        {
+          "verse": 2,
+          "original": "unleavened bread, unleavened cakes mixed with oil, and unleavened wafers anointed with oil. You shall make them of fine wheat flour.",
+          "korean": "누룩 없는 빵, 기름 섞은 누룩 없는 과자, 기름 바른 누룩 없는 전병을 가져와요. 고운 밀가루로 만들어요."
+        },
+        {
+          "verse": 3,
+          "original": "You shall put them into one basket, and bring them in the basket, with the bull and the two rams.",
+          "korean": "한 바구니에 담아서 수소와 숫양 두 마리와 함께 가져와요."
+        },
+        {
+          "verse": 4,
+          "original": "You shall bring Aaron and his sons to the door of the Tent of Meeting, and shall wash them with water.",
+          "korean": "아론과 그의 아들들을 회막 문으로 데려와서 물로 씻겨요."
+        },
+        {
+          "verse": 5,
+          "original": "You shall take the garments, and put on Aaron the tunic, the robe of the ephod, the ephod, and the breastplate, and clothe him with the skillfully woven band of the ephod.",
+          "korean": "옷을 가져다가 아론에게 속옷, 에봇의 겉옷, 에봇, 흉패를 입히고 에봇의 띠를 매어요."
+        },
+        {
+          "verse": 6,
+          "original": "You shall set the turban on his head, and put the holy crown on the turban.",
+          "korean": "두건을 머리에 씌우고 거룩한 관을 두건 위에 놓아요."
+        },
+        {
+          "verse": 7,
+          "original": "Then you shall take the anointing oil, and pour it on his head, and anoint him.",
+          "korean": "그런 다음 기름을 가져다가 그의 머리에 부어 기름 부어요."
+        },
+        {
+          "verse": 8,
+          "original": "You shall bring his sons, and put tunics on them.",
+          "korean": "그의 아들들을 데려와서 속옷을 입혀요."
+        },
+        {
+          "verse": 9,
+          "original": "You shall clothe them with belts, Aaron and his sons, and bind headbands on them. They shall have the priesthood by a perpetual statute. You shall consecrate Aaron and his sons.",
+          "korean": "아론과 그의 아들들에게 띠를 매고 관을 씌워요. 영원한 규례로 그들이 제사장이 돼요. 이렇게 아론과 그의 아들들을 세워요."
+        },
+        {
+          "verse": 10,
+          "original": "You shall bring the bull before the Tent of Meeting; and Aaron and his sons shall lay their hands on the head of the bull.",
+          "korean": "수소를 회막 앞에 끌어오고, 아론과 그의 아들들이 수소 머리에 손을 얹어요."
+        },
+        {
+          "verse": 11,
+          "original": "You shall kill the bull before Yahweh at the door of the Tent of Meeting.",
+          "korean": "회막 문에서 여호와 앞에 수소를 잡아요."
+        },
+        {
+          "verse": 12,
+          "original": "You shall take of the blood of the bull, and put it on the horns of the altar with your finger; and you shall pour out all the blood at the base of the altar.",
+          "korean": "수소의 피를 가져다가 손가락으로 제단 뿔에 바르고, 나머지 피는 모두 제단 밑에 쏟아요."
+        },
+        {
+          "verse": 13,
+          "original": "You shall take all the fat that covers the innards, the cover of the liver, the two kidneys, and the fat that is on them, and burn them on the altar.",
+          "korean": "내장을 덮은 모든 기름, 간 덮개, 두 콩팥과 그 위의 기름을 가져다가 제단에서 태워요."
+        },
+        {
+          "verse": 14,
+          "original": "But the meat of the bull, and its skin, and its dung, you shall burn with fire outside of the camp. It is a sin offering.",
+          "korean": "그러나 수소의 고기와 가죽과 똥은 진 밖에서 불로 태워요. 이것은 속죄제물이에요."
+        },
+        {
+          "verse": 15,
+          "original": "You shall also take the one ram, and Aaron and his sons shall lay their hands on the head of the ram.",
+          "korean": "숫양 한 마리를 가져와서 아론과 그의 아들들이 숫양 머리에 손을 얹어요."
+        },
+        {
+          "verse": 16,
+          "original": "You shall kill the ram, and you shall take its blood, and sprinkle it around on the altar.",
+          "korean": "숫양을 잡고 그 피를 가져다가 제단 주위에 뿌려요."
+        },
+        {
+          "verse": 17,
+          "original": "You shall cut the ram into its pieces, and wash its innards, and its legs, and put them with its pieces, and with its head.",
+          "korean": "숫양을 조각으로 자르고, 내장과 다리를 씻어서 그 조각들과 머리와 함께 놓아요."
+        },
+        {
+          "verse": 18,
+          "original": "You shall burn the whole ram on the altar: it is a burnt offering to Yahweh; it is a pleasant aroma, an offering made by fire to Yahweh.",
+          "korean": "숫양 전체를 제단에서 태워요. 여호와께 드리는 번제이고, 향기로운 냄새이며, 여호와께 불로 드리는 제물이에요."
+        },
+        {
+          "verse": 19,
+          "original": "You shall take the other ram, and Aaron and his sons shall lay their hands on the head of the ram.",
+          "korean": "다른 숫양을 가져와서 아론과 그의 아들들이 숫양 머리에 손을 얹어요."
+        },
+        {
+          "verse": 20,
+          "original": "Then you shall kill the ram, and take some of its blood, and put it on the tip of the right ear of Aaron, and on the tip of the right ear of his sons, and on the thumb of their right hand, and on the big toe of their right foot; and sprinkle the blood around on the altar.",
+          "korean": "숫양을 잡고 그 피를 가져다가 아론의 오른쪽 귓불에 바르고, 그의 아들들의 오른쪽 귓불에도 바르고, 그들의 오른손 엄지와 오른발 엄지에도 발라요. 나머지 피는 제단 주위에 뿌려요."
+        },
+        {
+          "verse": 21,
+          "original": "You shall take of the blood that is on the altar, and of the anointing oil, and sprinkle it on Aaron, and on his garments, and on his sons, and on the garments of his sons with him: and he shall be made holy, and his garments, and his sons, and his sons' garments with him.",
+          "korean": "제단의 피와 기름을 가져다가 아론과 그의 옷, 그의 아들들과 그들의 옷에 뿌려요. 그러면 그와 그의 옷, 그의 아들들과 그들의 옷이 거룩해져요."
+        },
+        {
+          "verse": 22,
+          "original": "Also you shall take some of the ram's fat, the fat tail, the fat that covers the innards, the cover of the liver, the two kidneys, the fat that is on them, and the right thigh (for it is a ram of consecration),",
+          "korean": "숫양의 기름, 기름진 꼬리, 내장을 덮은 기름, 간 덮개, 두 콩팥과 그 위의 기름, 오른쪽 넓적다리를 떼어내요. 이것은 위임의 숫양이에요."
+        },
+        {
+          "verse": 23,
+          "original": "and one loaf of bread, one cake of oiled bread, and one wafer out of the basket of unleavened bread that is before Yahweh.",
+          "korean": "여호와 앞에 있는 누룩 없는 빵 바구니에서 빵 한 덩이, 기름 바른 과자 하나, 전병 하나를 꺼내요."
+        },
+        {
+          "verse": 24,
+          "original": "You shall put all of this in Aaron's hands, and in his sons' hands, and shall wave them for a wave offering before Yahweh.",
+          "korean": "이것을 모두 아론의 손과 그의 아들들의 손에 놓고 여호와 앞에서 흔들어 요제로 드려요."
+        },
+        {
+          "verse": 25,
+          "original": "You shall take them from their hands, and burn them on the altar on the burnt offering, for a pleasant aroma before Yahweh: it is an offering made by fire to Yahweh.",
+          "korean": "그들의 손에서 받아 번제물 위에 올려 제단에서 태워요. 여호와 앞에서 향기로운 냄새가 나요. 여호와께 불로 드리는 제물이에요."
+        },
+        {
+          "verse": 26,
+          "original": "You shall take the breast of Aaron's ram of consecration, and wave it for a wave offering before Yahweh. It shall be your portion.",
+          "korean": "아론을 위한 위임의 숫양의 가슴을 가져다가 여호와 앞에서 흔들어 요제로 드려요. 이것은 네 몫이에요."
+        },
+        {
+          "verse": 27,
+          "original": "You shall sanctify the breast of the wave offering and the thigh of the wave offering, which is waved, and which is raised up, of the ram of consecration, even of that which is for Aaron, and of that which is for his sons.",
+          "korean": "아론과 그의 아들들을 위한 위임의 숫양에서 흔들어 드린 요제의 가슴과 들어올려 드린 거제의 넓적다리를 거룩하게 해요."
+        },
+        {
+          "verse": 28,
+          "original": "It shall be for Aaron and his sons as their portion forever from the children of Israel; for it is a wave offering. It shall be a wave offering from the children of Israel of the sacrifices of their peace offerings, even their wave offering to Yahweh.",
+          "korean": "이것은 이스라엘 백성이 영원히 아론과 그의 아들들에게 주는 몫이에요. 이것은 요제로서, 이스라엘 백성이 화목제물에서 여호와께 드리는 요제예요."
+        },
+        {
+          "verse": 29,
+          "original": "The holy garments of Aaron shall be for his sons after him, to be anointed in them, and to be consecrated in them.",
+          "korean": "아론의 거룩한 옷은 그 후에 그의 아들들에게 물려줘요. 그 옷을 입고 기름 부음을 받고 위임을 받아요."
+        },
+        {
+          "verse": 30,
+          "original": "Seven days shall the son who is priest in his place put them on, when he comes into the Tent of Meeting to minister in the holy place.",
+          "korean": "아론을 대신하여 제사장이 되는 아들이 회막에 들어가 거룩한 곳에서 섬길 때 이레 동안 그 옷을 입어요."
+        },
+        {
+          "verse": 31,
+          "original": "You shall take the ram of consecration and boil its meat in a holy place.",
+          "korean": "위임의 숫양을 가져다가 거룩한 곳에서 그 고기를 삶아요."
+        },
+        {
+          "verse": 32,
+          "original": "Aaron and his sons shall eat the meat of the ram, and the bread that is in the basket, at the door of the Tent of Meeting.",
+          "korean": "아론과 그의 아들들이 회막 문에서 숫양의 고기와 바구니에 있는 빵을 먹어요."
+        },
+        {
+          "verse": 33,
+          "original": "They shall eat those things with which atonement was made, to consecrate and sanctify them; but a stranger shall not eat of it, because they are holy.",
+          "korean": "그들을 위임하고 거룩하게 하는 데 쓴 속죄물을 먹어요. 그러나 다른 사람은 먹으면 안 돼요. 거룩한 것이기 때문이에요."
+        },
+        {
+          "verse": 34,
+          "original": "If anything of the meat of the consecration, or of the bread, remains to the morning, then you shall burn the remainder with fire. It shall not be eaten, because it is holy.",
+          "korean": "위임의 고기나 빵이 아침까지 남으면 불로 태워요. 먹으면 안 돼요. 거룩한 것이기 때문이에요."
+        },
+        {
+          "verse": 35,
+          "original": "You shall do so to Aaron and to his sons, according to all that I have commanded you. You shall consecrate them seven days.",
+          "korean": "내가 명령한 대로 아론과 그의 아들들에게 이렇게 해요. 이레 동안 그들을 위임해요."
+        },
+        {
+          "verse": 36,
+          "original": "Every day you shall offer the bull of sin offering for atonement. You shall cleanse the altar when you make atonement for it. You shall anoint it, to sanctify it.",
+          "korean": "매일 속죄를 위해 수소 한 마리를 속죄제물로 드려요. 제단을 위해 속죄할 때 제단을 정결하게 하고, 기름을 부어 거룩하게 해요."
+        },
+        {
+          "verse": 37,
+          "original": "Seven days you shall make atonement for the altar, and sanctify it; and the altar shall be most holy. Whatever touches the altar shall be holy.",
+          "korean": "이레 동안 제단을 위해 속죄하고 거룩하게 해요. 그러면 제단이 지극히 거룩해져요. 제단에 닿는 것은 다 거룩해져요."
+        },
+        {
+          "verse": 38,
+          "original": "Now this is that which you shall offer on the altar: two lambs a year old day by day continually.",
+          "korean": "제단에 드릴 것은 이거예요: 일 년 된 어린 양 두 마리를 매일 계속 드려요."
+        },
+        {
+          "verse": 39,
+          "original": "The one lamb you shall offer in the morning; and the other lamb you shall offer at evening;",
+          "korean": "한 마리는 아침에 드리고, 다른 한 마리는 저녁에 드려요."
+        },
+        {
+          "verse": 40,
+          "original": "and with the one lamb a tenth part of an ephah of fine flour mixed with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink offering.",
+          "korean": "첫째 양과 함께 고운 밀가루 에바의 십분의 일에 찧어 낸 기름 힌의 사분의 일을 섞고, 전제로 포도주 힌의 사분의 일을 드려요."
+        },
+        {
+          "verse": 41,
+          "original": "The other lamb you shall offer at evening, and shall do to it according to the meal offering of the morning and according to its drink offering, for a pleasant aroma, an offering made by fire to Yahweh.",
+          "korean": "둘째 양은 저녁에 드리고, 아침과 같은 소제와 전제를 함께 드려요. 향기로운 냄새가 나고, 여호와께 불로 드리는 제물이에요."
+        },
+        {
+          "verse": 42,
+          "original": "It shall be a continual burnt offering throughout your generations at the door of the Tent of Meeting before Yahweh, where I will meet with you, to speak there to you.",
+          "korean": "회막 문에서 여호와 앞에 대대로 계속 드리는 번제예요. 거기서 내가 너희를 만나고 너희에게 말할 거예요."
+        },
+        {
+          "verse": 43,
+          "original": "There I will meet with the children of Israel; and the place shall be sanctified by my glory.",
+          "korean": "거기서 내가 이스라엘 백성을 만날 거예요. 그곳이 내 영광으로 거룩해질 거예요."
+        },
+        {
+          "verse": 44,
+          "original": "I will sanctify the Tent of Meeting and the altar. I will also sanctify Aaron and his sons to minister to me in the priest's office.",
+          "korean": "내가 회막과 제단을 거룩하게 할 거예요. 아론과 그의 아들들도 거룩하게 하여 나를 섬기는 제사장이 되게 할 거예요."
+        },
+        {
+          "verse": 45,
+          "original": "I will dwell among the children of Israel, and will be their God.",
+          "korean": "내가 이스라엘 백성 가운데 살면서 그들의 하나님이 될 거예요."
+        },
+        {
+          "verse": 46,
+          "original": "They shall know that I am Yahweh their God, who brought them out of the land of Egypt, that I might dwell among them: I am Yahweh their God.",
+          "korean": "그들은 내가 여호와 그들의 하나님인 줄 알게 될 거예요. 내가 그들 가운데 살려고 이집트 땅에서 그들을 데리고 나왔어요. 나는 여호와 그들의 하나님이에요."
+        }
+      ]
     }
   ]
 }
