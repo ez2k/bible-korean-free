@@ -1451,6 +1451,276 @@
           "korean": "예수님께서 가룟 사람 시몬의 아들 유다를 말씀하신 거예요. 유다는 열두 제자 중 하나인데 예수님을 배반할 사람이었어요."
         }
       ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "After these things, Jesus was walking in Galilee, for he wouldn't walk in Judea, because the Jews sought to kill him.",
+          "korean": "그 후에 예수님께서 갈릴리에서 다니셨어요. 유대인 지도자들이 예수님을 죽이려 했기 때문에 유대에서는 다니지 않으셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "Now the feast of the Jews, the Feast of Booths, was at hand.",
+          "korean": "유대인의 명절인 초막절이 가까웠어요."
+        },
+        {
+          "verse": 3,
+          "original": "His brothers therefore said to him, \"Depart from here and go into Judea, that your disciples also may see your works which you do.",
+          "korean": "예수님의 동생들이 말했어요. \"여기를 떠나 유대로 가세요. 형의 제자들도 형이 하시는 일을 볼 수 있게요."
+        },
+        {
+          "verse": 4,
+          "original": "For no one does anything in secret while he seeks to be known openly. If you do these things, reveal yourself to the world.\"",
+          "korean": "자기를 알리려고 하면서 숨어서 일하는 사람은 없어요. 형이 이런 일들을 하신다면 세상에 자신을 드러내세요.\""
+        },
+        {
+          "verse": 5,
+          "original": "For even his brothers didn't believe in him.",
+          "korean": "동생들도 예수님을 믿지 않았기 때문이에요."
+        },
+        {
+          "verse": 6,
+          "original": "Jesus therefore said to them, \"My time has not yet come, but your time is always ready.",
+          "korean": "예수님께서 그들에게 말씀하셨어요. \"내 때는 아직 오지 않았어요. 그러나 너희의 때는 언제나 준비되어 있어요."
+        },
+        {
+          "verse": 7,
+          "original": "The world can't hate you, but it hates me, because I testify about it, that its works are evil.",
+          "korean": "세상은 너희를 미워할 수 없지만 나를 미워해요. 내가 세상의 행동이 악하다고 증거하기 때문이에요."
+        },
+        {
+          "verse": 8,
+          "original": "You go up to the feast. I am not yet going up to this feast, because my time is not yet fulfilled.\"",
+          "korean": "너희는 명절에 올라가세요. 내 때가 아직 차지 않았으니 나는 아직 이 명절에 올라가지 않을 거예요.\""
+        },
+        {
+          "verse": 9,
+          "original": "Having said these things to them, he stayed in Galilee.",
+          "korean": "이렇게 말씀하신 후 예수님께서는 갈릴리에 머무셨어요."
+        },
+        {
+          "verse": 10,
+          "original": "But when his brothers had gone up to the feast, then he also went up, not publicly, but as it were in secret.",
+          "korean": "그러나 동생들이 명절에 올라간 후에 예수님도 올라가셨는데, 공개적으로가 아니라 은밀하게 가셨어요."
+        },
+        {
+          "verse": 11,
+          "original": "The Jews therefore sought him at the feast, and said, \"Where is he?\"",
+          "korean": "유대인 지도자들이 명절에 예수님을 찾으며 \"그가 어디 있지?\"라고 물었어요."
+        },
+        {
+          "verse": 12,
+          "original": "There was much murmuring among the multitudes concerning him. Some said, \"He is a good man.\" Others said, \"Not so, but he leads the multitude astray.\"",
+          "korean": "무리 가운데 예수님에 대해 많은 수군거림이 있었어요. 어떤 사람들은 \"좋은 분이야\"라고 했고, 다른 사람들은 \"아니야, 사람들을 미혹하는 거야\"라고 했어요."
+        },
+        {
+          "verse": 13,
+          "original": "Yet no one spoke openly of him for fear of the Jews.",
+          "korean": "그러나 유대인 지도자들을 두려워해서 아무도 예수님에 대해 공개적으로 말하지 못했어요."
+        },
+        {
+          "verse": 14,
+          "original": "But when it was now the middle of the feast, Jesus went up into the temple and taught.",
+          "korean": "명절 중간쯤 되었을 때 예수님께서 성전에 올라가 가르치셨어요."
+        },
+        {
+          "verse": 15,
+          "original": "The Jews therefore marveled, saying, \"How does this man know letters, having never been educated?\"",
+          "korean": "유대인 지도자들이 놀라며 말했어요. \"이 사람이 배운 적도 없으면서 어떻게 성경을 아는 거지?\""
+        },
+        {
+          "verse": 16,
+          "original": "Jesus therefore answered them, \"My teaching is not mine, but his who sent me.",
+          "korean": "예수님께서 대답하셨어요. \"내 가르침은 내 것이 아니라 나를 보내신 분의 것이에요."
+        },
+        {
+          "verse": 17,
+          "original": "If anyone desires to do his will, he will know about the teaching, whether it is from God, or if I am speaking from myself.",
+          "korean": "누구든지 그분의 뜻을 행하려고 하면 이 가르침이 하나님께로부터 온 것인지 내가 스스로 말하는 것인지 알게 될 거예요."
+        },
+        {
+          "verse": 18,
+          "original": "He who speaks from himself seeks his own glory, but he who seeks the glory of him who sent him is true, and no unrighteousness is in him.",
+          "korean": "스스로 말하는 사람은 자기 영광을 구해요. 그러나 자기를 보내신 분의 영광을 구하는 사람은 참되고 그 안에 불의가 없어요."
+        },
+        {
+          "verse": 19,
+          "original": "Didn't Moses give you the law, and yet none of you keeps the law? Why do you seek to kill me?\"",
+          "korean": "모세가 너희에게 율법을 주지 않았나요? 그런데 너희 중에 아무도 율법을 지키지 않아요. 왜 나를 죽이려 하나요?\""
+        },
+        {
+          "verse": 20,
+          "original": "The multitude answered, \"You have a demon! Who seeks to kill you?\"",
+          "korean": "무리가 대답했어요. \"당신에게 귀신이 들렸어요! 누가 당신을 죽이려 한다는 거예요?\""
+        },
+        {
+          "verse": 21,
+          "original": "Jesus answered them, \"I did one work and you all marvel because of it.",
+          "korean": "예수님께서 대답하셨어요. \"내가 한 가지 일을 했는데 너희 모두가 그것 때문에 놀라고 있어요."
+        },
+        {
+          "verse": 22,
+          "original": "Moses has given you circumcision (not that it is of Moses, but of the fathers), and on the Sabbath you circumcise a boy.",
+          "korean": "모세가 너희에게 할례를 주었어요 (사실 모세에게서가 아니라 조상들에게서 온 것이지만요). 그래서 너희는 안식일에도 아이에게 할례를 해요."
+        },
+        {
+          "verse": 23,
+          "original": "If a boy receives circumcision on the Sabbath, that the law of Moses may not be broken, are you angry with me, because I made a man completely healthy on the Sabbath?",
+          "korean": "모세의 율법을 어기지 않으려고 안식일에 아이에게 할례를 해 주면서, 내가 안식일에 한 사람을 완전히 건강하게 했다고 나에게 화를 내나요?"
+        },
+        {
+          "verse": 24,
+          "original": "Don't judge according to appearance, but judge righteous judgment.\"",
+          "korean": "겉모습으로 판단하지 말고 올바르게 판단하세요.\""
+        },
+        {
+          "verse": 25,
+          "original": "Therefore some of them of Jerusalem said, \"Isn't this he whom they seek to kill?",
+          "korean": "예루살렘 사람들 중 일부가 말했어요. \"이 사람이 저들이 죽이려는 사람 아닌가요?"
+        },
+        {
+          "verse": 26,
+          "original": "Behold, he speaks openly, and they say nothing to him. Can it be that the rulers indeed know that this is truly the Christ?",
+          "korean": "보세요, 공개적으로 말하는데 아무도 그에게 뭐라고 하지 않아요. 혹시 지도자들이 정말로 이 사람이 그리스도라는 것을 알았나요?"
+        },
+        {
+          "verse": 27,
+          "original": "However we know where this man comes from, but when the Christ comes, no one will know where he comes from.\"",
+          "korean": "그러나 우리는 이 사람이 어디서 왔는지 알아요. 그리스도가 오시면 어디서 오시는지 아무도 모른다고 했는데요.\""
+        },
+        {
+          "verse": 28,
+          "original": "Jesus therefore cried out in the temple, teaching and saying, \"You both know me, and know where I am from. I have not come of myself, but he who sent me is true, whom you don't know.",
+          "korean": "예수님께서 성전에서 가르치시며 큰 소리로 말씀하셨어요. \"너희가 나를 알고 내가 어디서 왔는지도 안다고요? 나는 스스로 온 것이 아니에요. 나를 보내신 분이 참되신데 너희는 그분을 모르지요."
+        },
+        {
+          "verse": 29,
+          "original": "I know him, because I am from him, and he sent me.\"",
+          "korean": "나는 그분을 알아요. 내가 그분에게서 왔고 그분이 나를 보내셨기 때문이에요.\""
+        },
+        {
+          "verse": 30,
+          "original": "They sought therefore to take him; but no one laid a hand on him, because his hour had not yet come.",
+          "korean": "그래서 그들이 예수님을 잡으려 했지만 아무도 손을 대지 못했어요. 예수님의 때가 아직 오지 않았기 때문이에요."
+        },
+        {
+          "verse": 31,
+          "original": "But of the multitude, many believed in him. They said, \"When the Christ comes, he won't do more signs than those which this man has done, will he?\"",
+          "korean": "그러나 무리 중에서 많은 사람들이 예수님을 믿었어요. 그들이 말했어요. \"그리스도가 오시면 이 사람이 행한 것보다 더 많은 표적을 행하시겠어요?\""
+        },
+        {
+          "verse": 32,
+          "original": "The Pharisees heard the multitude murmuring these things concerning him, and the chief priests and the Pharisees sent officers to arrest him.",
+          "korean": "바리새인들이 무리가 예수님에 대해 이렇게 수군거리는 것을 듣고, 대제사장들과 바리새인들이 예수님을 잡으라고 경비병들을 보냈어요."
+        },
+        {
+          "verse": 33,
+          "original": "Then Jesus said, \"I will be with you a little while longer, then I go to him who sent me.",
+          "korean": "예수님께서 말씀하셨어요. \"내가 조금 더 너희와 함께 있다가 나를 보내신 분께로 갈 거예요."
+        },
+        {
+          "verse": 34,
+          "original": "You will seek me, and won't find me. You can't come where I am.\"",
+          "korean": "너희가 나를 찾겠지만 찾지 못할 거예요. 내가 있는 곳에 너희는 올 수 없어요.\""
+        },
+        {
+          "verse": 35,
+          "original": "The Jews therefore said among themselves, \"Where will this man go that we won't find him? Will he go to the Dispersion among the Greeks, and teach the Greeks?",
+          "korean": "유대인 지도자들이 서로 말했어요. \"이 사람이 어디로 가면 우리가 찾지 못한다는 거지? 그리스인들 사이에 흩어진 사람들에게 가서 그리스인들을 가르치겠다는 건가?"
+        },
+        {
+          "verse": 36,
+          "original": "What is this word that he said, 'You will seek me, and won't find me;' and 'Where I am, you can't come'?\"",
+          "korean": "'너희가 나를 찾겠지만 찾지 못할 것이고, 내가 있는 곳에 너희는 올 수 없다'는 이 말이 무슨 뜻이지?\""
+        },
+        {
+          "verse": 37,
+          "original": "Now on the last and greatest day of the feast, Jesus stood and cried out, \"If anyone is thirsty, let him come to me and drink!",
+          "korean": "명절의 마지막 날, 가장 큰 날에 예수님께서 서서 큰 소리로 외치셨어요. \"목마른 사람은 다 내게 와서 마시세요!"
+        },
+        {
+          "verse": 38,
+          "original": "He who believes in me, as the Scripture has said, from within him will flow rivers of living water.\"",
+          "korean": "나를 믿는 사람은 성경이 말한 것처럼 그 속에서 생명의 강물이 흘러나올 거예요.\""
+        },
+        {
+          "verse": 39,
+          "original": "But he said this about the Spirit, which those believing in him were to receive. For the Holy Spirit was not yet given, because Jesus wasn't yet glorified.",
+          "korean": "이것은 예수님을 믿는 사람들이 받을 성령에 대해 말씀하신 거예요. 예수님께서 아직 영광을 받지 않으셨기 때문에 성령은 아직 주어지지 않았어요."
+        },
+        {
+          "verse": 40,
+          "original": "Many of the multitude therefore, when they heard these words, said, \"This is truly the prophet.\"",
+          "korean": "무리 중 많은 사람들이 이 말씀을 듣고 말했어요. \"이분이 진정 그 예언자시다.\""
+        },
+        {
+          "verse": 41,
+          "original": "Others said, \"This is the Christ.\" But some said, \"What, does the Christ come out of Galilee?",
+          "korean": "다른 사람들은 \"이분이 그리스도시다\"라고 했어요. 그러나 어떤 사람들은 \"뭐, 그리스도가 갈릴리에서 나온다고?"
+        },
+        {
+          "verse": 42,
+          "original": "Hasn't the Scripture said that the Christ comes of the offspring of David, and from Bethlehem, the village where David was?\"",
+          "korean": "성경에 그리스도는 다윗의 후손이고 다윗이 살던 베들레헴 마을에서 난다고 하지 않았어?\"라고 했어요."
+        },
+        {
+          "verse": 43,
+          "original": "So a division arose in the multitude because of him.",
+          "korean": "그래서 예수님 때문에 무리 가운데 분열이 생겼어요."
+        },
+        {
+          "verse": 44,
+          "original": "Some of them would have arrested him, but no one laid hands on him.",
+          "korean": "어떤 사람들은 예수님을 잡으려 했지만 아무도 손을 대지 못했어요."
+        },
+        {
+          "verse": 45,
+          "original": "The officers therefore came to the chief priests and Pharisees, and they said to them, \"Why didn't you bring him?\"",
+          "korean": "경비병들이 대제사장들과 바리새인들에게 돌아왔어요. 그들이 \"왜 그를 잡아 오지 않았어?\"라고 물었어요."
+        },
+        {
+          "verse": 46,
+          "original": "The officers answered, \"No man ever spoke like this man!\"",
+          "korean": "경비병들이 대답했어요. \"저렇게 말하는 사람은 한 번도 본 적이 없습니다!\""
+        },
+        {
+          "verse": 47,
+          "original": "The Pharisees therefore answered them, \"You aren't also led astray, are you?",
+          "korean": "바리새인들이 그들에게 대답했어요. \"너희도 미혹되었느냐?"
+        },
+        {
+          "verse": 48,
+          "original": "Have any of the rulers believed in him, or of the Pharisees?",
+          "korean": "지도자들 중에나 바리새인들 중에 그를 믿는 사람이 있느냐?"
+        },
+        {
+          "verse": 49,
+          "original": "But this multitude that doesn't know the law is cursed.\"",
+          "korean": "율법을 알지 못하는 이 무리는 저주를 받은 자들이다.\""
+        },
+        {
+          "verse": 50,
+          "original": "Nicodemus (he who came to him by night, being one of them) said to them,",
+          "korean": "그들 중 한 사람인 니고데모가 (전에 밤에 예수님께 갔던 사람이에요) 그들에게 말했어요."
+        },
+        {
+          "verse": 51,
+          "original": "\"Does our law judge a man, unless it first hears from him personally and knows what he does?\"",
+          "korean": "\"우리 율법이 먼저 그 사람에게 직접 들어보고 그가 무엇을 하는지 알기 전에 판단하나요?\""
+        },
+        {
+          "verse": 52,
+          "original": "They answered him, \"Are you also from Galilee? Search, and see that no prophet has arisen out of Galilee.\"",
+          "korean": "그들이 대답했어요. \"너도 갈릴리 사람이냐? 찾아보아라. 갈릴리에서는 예언자가 나지 않는다.\""
+        },
+        {
+          "verse": 53,
+          "original": "Everyone went to his own house,",
+          "korean": "그리고 다 각자 자기 집으로 갔어요."
+        }
+      ]
     }
   ]
 }
