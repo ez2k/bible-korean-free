@@ -5056,6 +5056,341 @@
           "korean": "베드로는 예수님께서 '닭이 울기 전에 네가 세 번 나를 부인할 거야'라고 하신 말씀이 생각났어요. 그는 밖으로 나가서 몹시 울었어요."
         }
       ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now when morning had come, all the chief priests and the elders of the people took counsel against Jesus to put him to death:",
+          "korean": "아침이 되자 모든 대제사장들과 백성의 장로들이 예수님을 죽이려고 의논했어요."
+        },
+        {
+          "verse": 2,
+          "original": "and they bound him, and led him away, and delivered him up to Pontius Pilate, the governor.",
+          "korean": "그들은 예수님을 묶어서 끌고 가서 총독 본디오 빌라도에게 넘겨주었어요."
+        },
+        {
+          "verse": 3,
+          "original": "Then Judas, who betrayed him, when he saw that Jesus was condemned, felt remorse, and brought back the thirty pieces of silver to the chief priests and elders,",
+          "korean": "그때 예수님을 배반한 유다는 예수님이 정죄받은 것을 보고 후회했어요. 은 삼십 개를 대제사장들과 장로들에게 돌려주며"
+        },
+        {
+          "verse": 4,
+          "original": "saying, \"I have sinned in that I betrayed innocent blood.\" But they said, \"What is that to us? You see to it.\"",
+          "korean": "말했어요. \"내가 죄 없는 피를 팔아 죄를 지었어요.\" 그러나 그들은 말했어요. \"그게 우리와 무슨 상관이야? 네가 알아서 해.\""
+        },
+        {
+          "verse": 5,
+          "original": "He threw down the pieces of silver in the sanctuary, and departed. He went away and hanged himself.",
+          "korean": "유다는 은을 성전 안에 던지고 떠나서 목을 매어 죽었어요."
+        },
+        {
+          "verse": 6,
+          "original": "The chief priests took the pieces of silver, and said, \"It's not lawful to put them into the treasury, since it is the price of blood.\"",
+          "korean": "대제사장들이 그 은을 주워서 말했어요. \"이것은 피 값이니 성전 금고에 넣을 수 없어요.\""
+        },
+        {
+          "verse": 7,
+          "original": "They took counsel, and bought the potter's field with them, to bury strangers in.",
+          "korean": "그들은 의논해서 그 돈으로 옹기장이의 밭을 사서 나그네들을 묻는 곳으로 삼았어요."
+        },
+        {
+          "verse": 8,
+          "original": "Therefore that field was called \"The Field of Blood\" to this day.",
+          "korean": "그래서 그 밭은 오늘날까지 '피밭'이라고 불려요."
+        },
+        {
+          "verse": 9,
+          "original": "Then that which was spoken through Jeremiah the prophet was fulfilled, saying, \"They took the thirty pieces of silver, the price of him upon whom a price had been set, whom some of the children of Israel priced,",
+          "korean": "그때 예언자 예레미야를 통해 하신 말씀이 이루어졌어요. '그들이 값 매겨진 자 곧 이스라엘 자손들이 값을 매긴 자의 가격인 은 삼십 개를 가져다가"
+        },
+        {
+          "verse": 10,
+          "original": "and they gave them for the potter's field, as the Lord commanded me.\"",
+          "korean": "주께서 내게 명령하신 대로 옹기장이의 밭을 사는 데 주었다.'"
+        },
+        {
+          "verse": 11,
+          "original": "Now Jesus stood before the governor: and the governor asked him, saying, \"Are you the King of the Jews?\" Jesus said to him, \"So you say.\"",
+          "korean": "예수님께서 총독 앞에 서셨어요. 총독이 물었어요. \"네가 유대인의 왕이냐?\" 예수님께서 말씀하셨어요. \"네가 말했다.\""
+        },
+        {
+          "verse": 12,
+          "original": "When he was accused by the chief priests and elders, he answered nothing.",
+          "korean": "대제사장들과 장로들이 고발할 때 예수님은 아무 대답도 하지 않으셨어요."
+        },
+        {
+          "verse": 13,
+          "original": "Then Pilate said to him, \"Don't you hear how many things they testify against you?\"",
+          "korean": "그러자 빌라도가 말했어요. \"저들이 너를 고발하는 것이 얼마나 많은지 안 들려요?\""
+        },
+        {
+          "verse": 14,
+          "original": "He gave him no answer, not even one word, so that the governor marveled greatly.",
+          "korean": "그러나 예수님은 한 마디도 대답하지 않으셨어요. 그래서 총독이 매우 놀랐어요."
+        },
+        {
+          "verse": 15,
+          "original": "Now at the feast the governor was accustomed to release to the multitude one prisoner, whom they desired.",
+          "korean": "명절에 총독은 무리가 원하는 죄수 한 명을 놓아 주는 관례가 있었어요."
+        },
+        {
+          "verse": 16,
+          "original": "They had then a notable prisoner, called Barabbas.",
+          "korean": "그때 바라바라는 유명한 죄수가 있었어요."
+        },
+        {
+          "verse": 17,
+          "original": "When therefore they were gathered together, Pilate said to them, \"Whom do you want me to release to you? Barabbas, or Jesus, who is called Christ?\"",
+          "korean": "그들이 모였을 때 빌라도가 물었어요. \"누구를 놓아 줄까요? 바라바요, 아니면 그리스도라 불리는 예수요?\""
+        },
+        {
+          "verse": 18,
+          "original": "For he knew that because of envy they had delivered him up.",
+          "korean": "빌라도는 그들이 시기 때문에 예수님을 넘겨준 것을 알았거든요."
+        },
+        {
+          "verse": 19,
+          "original": "While he was sitting on the judgment seat, his wife sent to him, saying, \"Have nothing to do with that righteous man, for I have suffered many things today in a dream because of him.\"",
+          "korean": "빌라도가 재판석에 앉아 있을 때 그의 아내가 사람을 보내어 말했어요. \"그 의로운 사람과 상관하지 마세요. 오늘 꿈에서 그 사람 때문에 많이 괴로웠어요.\""
+        },
+        {
+          "verse": 20,
+          "original": "Now the chief priests and the elders persuaded the multitudes to ask for Barabbas, and destroy Jesus.",
+          "korean": "그러나 대제사장들과 장로들이 무리를 설득해서 바라바를 요구하고 예수님을 죽이게 했어요."
+        },
+        {
+          "verse": 21,
+          "original": "But the governor answered them, \"Which of the two do you want me to release to you?\" They said, \"Barabbas!\"",
+          "korean": "총독이 그들에게 물었어요. \"둘 중에 누구를 놓아 줄까요?\" 그들이 말했어요. \"바라바!\""
+        },
+        {
+          "verse": 22,
+          "original": "Pilate said to them, \"What then shall I do to Jesus, who is called Christ?\" They all said to him, \"Let him be crucified!\"",
+          "korean": "빌라도가 그들에게 말했어요. \"그러면 그리스도라 불리는 예수는 어떻게 할까요?\" 그들 모두가 말했어요. \"십자가에 못 박아요!\""
+        },
+        {
+          "verse": 23,
+          "original": "But the governor said, \"Why? What evil has he done?\" But they cried out exceedingly, saying, \"Let him be crucified!\"",
+          "korean": "총독이 말했어요. \"왜요? 무슨 나쁜 짓을 했어요?\" 그러나 그들은 더욱 소리 질렀어요. \"십자가에 못 박아요!\""
+        },
+        {
+          "verse": 24,
+          "original": "So when Pilate saw that nothing was being gained, but rather that a disturbance was starting, he took water, and washed his hands before the multitude, saying, \"I am innocent of the blood of this righteous person. You see to it.\"",
+          "korean": "빌라도는 아무 소용이 없고 오히려 소동이 일어나는 것을 보고, 물을 가져다가 무리 앞에서 손을 씻으며 말했어요. \"나는 이 의로운 사람의 피에 대해 책임이 없어요. 너희가 알아서 해요.\""
+        },
+        {
+          "verse": 25,
+          "original": "All the people answered, \"May his blood be on us, and on our children!\"",
+          "korean": "모든 백성이 대답했어요. \"그의 피는 우리와 우리 자손에게 돌려요!\""
+        },
+        {
+          "verse": 26,
+          "original": "Then he released to them Barabbas, but Jesus he flogged and delivered to be crucified.",
+          "korean": "그러자 빌라도는 바라바를 놓아 주고, 예수님을 채찍질한 후 십자가에 못 박도록 넘겨주었어요."
+        },
+        {
+          "verse": 27,
+          "original": "Then the governor's soldiers took Jesus into the Praetorium, and gathered the whole garrison together against him.",
+          "korean": "그때 총독의 군인들이 예수님을 관저로 데려갔어요. 온 부대가 예수님 앞에 모였어요."
+        },
+        {
+          "verse": 28,
+          "original": "They stripped him, and put a scarlet robe on him.",
+          "korean": "그들은 예수님의 옷을 벗기고 진홍색 옷을 입혔어요."
+        },
+        {
+          "verse": 29,
+          "original": "They braided a crown of thorns and put it on his head, and a reed in his right hand; and they kneeled down before him, and mocked him, saying, \"Hail, King of the Jews!\"",
+          "korean": "가시관을 엮어 머리에 씌우고 오른손에 갈대를 들려 주었어요. 그리고 예수님 앞에 무릎 꿇고 조롱하며 말했어요. \"유대인의 왕이여, 만세!\""
+        },
+        {
+          "verse": 30,
+          "original": "They spat on him, and took the reed and struck him on the head.",
+          "korean": "그들은 예수님께 침을 뱉고 갈대를 빼앗아 머리를 때렸어요."
+        },
+        {
+          "verse": 31,
+          "original": "When they had mocked him, they took the robe off him, and put his clothes on him, and led him away to crucify him.",
+          "korean": "조롱한 후에 그들은 그 옷을 벗기고 예수님의 옷을 다시 입힌 다음 십자가에 못 박으러 끌고 갔어요."
+        },
+        {
+          "verse": 32,
+          "original": "As they came out, they found a man of Cyrene, Simon by name, and they compelled him to go with them, that he might carry his cross.",
+          "korean": "나오다가 구레네 사람 시몬이라는 사람을 만나서 억지로 예수님의 십자가를 지게 했어요."
+        },
+        {
+          "verse": 33,
+          "original": "When they came to a place called \"Golgotha\", that is to say, \"The place of a skull,\"",
+          "korean": "골고다, 곧 '해골의 장소'라는 곳에 이르렀어요."
+        },
+        {
+          "verse": 34,
+          "original": "they gave him sour wine to drink mixed with gall. When he had tasted it, he would not drink.",
+          "korean": "그들이 쓸개 섞은 포도주를 마시게 했어요. 예수님께서 맛보시고는 마시지 않으셨어요."
+        },
+        {
+          "verse": 35,
+          "original": "When they had crucified him, they divided his clothing among them, casting lots,",
+          "korean": "그들이 예수님을 십자가에 못 박은 후에 제비 뽑아 예수님의 옷을 나누었어요."
+        },
+        {
+          "verse": 36,
+          "original": "and they sat and watched him there.",
+          "korean": "그리고 거기 앉아서 지켰어요."
+        },
+        {
+          "verse": 37,
+          "original": "They set up over his head the accusation against him written, \"THIS IS JESUS, THE KING OF THE JEWS.\"",
+          "korean": "예수님의 머리 위에 죄목을 적어 붙였어요. '이 사람은 유대인의 왕 예수다.'"
+        },
+        {
+          "verse": 38,
+          "original": "Then there were two robbers crucified with him, one on his right hand and one on the left.",
+          "korean": "그때 강도 둘이 예수님과 함께 십자가에 못 박혔어요. 하나는 오른편에, 하나는 왼편에."
+        },
+        {
+          "verse": 39,
+          "original": "Those who passed by blasphemed him, wagging their heads,",
+          "korean": "지나가는 사람들이 머리를 흔들며 예수님을 비방했어요."
+        },
+        {
+          "verse": 40,
+          "original": "and saying, \"You who destroy the temple, and build it in three days, save yourself! If you are the Son of God, come down from the cross!\"",
+          "korean": "\"성전을 헐고 사흘 만에 짓는다는 자야, 네 자신이나 구해 봐! 네가 하나님의 아들이면 십자가에서 내려와 봐!\""
+        },
+        {
+          "verse": 41,
+          "original": "Likewise the chief priests also mocking, with the scribes, the Pharisees, and the elders, said,",
+          "korean": "대제사장들도 율법학자들과 바리새인들과 장로들과 함께 조롱하며 말했어요."
+        },
+        {
+          "verse": 42,
+          "original": "\"He saved others, but he can't save himself. If he is the King of Israel, let him come down from the cross now, and we will believe in him.",
+          "korean": "\"다른 사람은 구했으면서 자기는 못 구하네. 이스라엘의 왕이라면 지금 십자가에서 내려와 봐. 그러면 우리가 믿을게."
+        },
+        {
+          "verse": 43,
+          "original": "He trusts in God. Let God deliver him now, if he wants him; for he said, 'I am the Son of God.'\"",
+          "korean": "하나님을 믿는다고 했으니, 하나님이 원하시면 지금 구해 주시겠지. 자기가 하나님의 아들이라고 했으니까.\""
+        },
+        {
+          "verse": 44,
+          "original": "The robbers also who were crucified with him cast on him the same reproach.",
+          "korean": "함께 십자가에 못 박힌 강도들도 같은 말로 예수님을 욕했어요."
+        },
+        {
+          "verse": 45,
+          "original": "Now from the sixth hour there was darkness over all the land until the ninth hour.",
+          "korean": "낮 열두 시부터 온 땅에 어둠이 덮여 오후 세 시까지 계속되었어요."
+        },
+        {
+          "verse": 46,
+          "original": "About the ninth hour Jesus cried with a loud voice, saying, \"Eli, Eli, lima sabachthani?\" That is, \"My God, my God, why have you forsaken me?\"",
+          "korean": "오후 세 시쯤에 예수님께서 큰 소리로 외치셨어요. \"엘리 엘리 라마 사박다니?\" 이것은 \"나의 하나님, 나의 하나님, 어찌하여 나를 버리셨나이까?\"라는 뜻이에요."
+        },
+        {
+          "verse": 47,
+          "original": "Some of them who stood there, when they heard it, said, \"This man is calling Elijah.\"",
+          "korean": "거기 서 있던 사람들 중 일부가 이 말을 듣고 말했어요. \"이 사람이 엘리야를 부르네.\""
+        },
+        {
+          "verse": 48,
+          "original": "Immediately one of them ran, and took a sponge, and filled it with vinegar, and put it on a reed, and gave him a drink.",
+          "korean": "그 중 한 사람이 바로 달려가서 해면에 신 포도주를 적셔 갈대에 꽂아 예수님께 마시게 했어요."
+        },
+        {
+          "verse": 49,
+          "original": "The rest said, \"Let him be. Let's see whether Elijah comes to save him.\"",
+          "korean": "나머지 사람들은 말했어요. \"내버려 둬. 엘리야가 와서 구하나 보자.\""
+        },
+        {
+          "verse": 50,
+          "original": "Jesus cried again with a loud voice, and yielded up his spirit.",
+          "korean": "예수님께서 다시 큰 소리로 외치시고 숨을 거두셨어요."
+        },
+        {
+          "verse": 51,
+          "original": "Behold, the veil of the temple was torn in two from the top to the bottom. The earth quaked and the rocks were split.",
+          "korean": "보세요, 성전 휘장이 위에서 아래까지 둘로 찢어졌어요. 땅이 흔들리고 바위가 갈라졌어요."
+        },
+        {
+          "verse": 52,
+          "original": "The tombs were opened, and many bodies of the saints who had fallen asleep were raised;",
+          "korean": "무덤이 열리고 잠들었던 많은 성도들의 몸이 살아났어요."
+        },
+        {
+          "verse": 53,
+          "original": "and coming out of the tombs after his resurrection, they entered into the holy city and appeared to many.",
+          "korean": "그들은 예수님이 부활하신 후에 무덤에서 나와 거룩한 성에 들어가 많은 사람에게 나타났어요."
+        },
+        {
+          "verse": 54,
+          "original": "Now the centurion, and those who were with him watching Jesus, when they saw the earthquake, and the things that were done, feared exceedingly, saying, \"Truly this was the Son of God.\"",
+          "korean": "백부장과 함께 예수님을 지키던 사람들이 지진과 일어난 일들을 보고 매우 무서워하며 말했어요. \"진정으로 이 사람은 하나님의 아들이었다.\""
+        },
+        {
+          "verse": 55,
+          "original": "Many women were there watching from afar, who had followed Jesus from Galilee, serving him.",
+          "korean": "거기에 갈릴리에서부터 예수님을 따라와 섬기던 많은 여자들이 멀리서 지켜보고 있었어요."
+        },
+        {
+          "verse": 56,
+          "original": "Among them were Mary Magdalene, Mary the mother of James and Joses, and the mother of the sons of Zebedee.",
+          "korean": "그중에는 막달라 마리아와 야고보와 요셉의 어머니 마리아와 세베대의 아들들의 어머니가 있었어요."
+        },
+        {
+          "verse": 57,
+          "original": "When evening had come, a rich man from Arimathaea, named Joseph, who himself was also Jesus' disciple came.",
+          "korean": "저녁때가 되자 아리마대 출신의 부자 요셉이 왔어요. 그도 예수님의 제자였어요."
+        },
+        {
+          "verse": 58,
+          "original": "This man went to Pilate, and asked for Jesus' body. Then Pilate commanded the body to be given up.",
+          "korean": "이 사람이 빌라도에게 가서 예수님의 시신을 달라고 했어요. 빌라도는 시신을 내주라고 명령했어요."
+        },
+        {
+          "verse": 59,
+          "original": "Joseph took the body, and wrapped it in a clean linen cloth,",
+          "korean": "요셉은 시신을 가져다가 깨끗한 세마포로 쌌어요."
+        },
+        {
+          "verse": 60,
+          "original": "and laid it in his own new tomb, which he had cut out in the rock, and he rolled a great stone against the door of the tomb, and departed.",
+          "korean": "그리고 바위에 판 자기의 새 무덤에 안치했어요. 무덤 문에 큰 돌을 굴려 막고 떠났어요."
+        },
+        {
+          "verse": 61,
+          "original": "Mary Magdalene was there, and the other Mary, sitting opposite the tomb.",
+          "korean": "막달라 마리아와 다른 마리아가 거기서 무덤을 마주 보고 앉아 있었어요."
+        },
+        {
+          "verse": 62,
+          "original": "Now on the next day, which was the day after the Preparation Day, the chief priests and the Pharisees were gathered together to Pilate,",
+          "korean": "그 다음 날, 곧 준비일 다음 날에 대제사장들과 바리새인들이 빌라도에게 모여 와서"
+        },
+        {
+          "verse": 63,
+          "original": "saying, \"Sir, we remember what that deceiver said while he was still alive: 'After three days I will rise again.'",
+          "korean": "말했어요. \"각하, 저 사기꾼이 살아 있을 때 '사흘 후에 살아나겠다'고 말한 것이 기억나요."
+        },
+        {
+          "verse": 64,
+          "original": "Command therefore that the tomb be made secure until the third day, lest perhaps his disciples come at night and steal him away, and tell the people, 'He is risen from the dead;' and the last deception will be worse than the first.\"",
+          "korean": "그러니 사흘째 되는 날까지 무덤을 지키도록 명령해 주세요. 그렇지 않으면 그의 제자들이 밤에 와서 시신을 훔쳐 가고 백성들에게 '그가 죽은 자 가운데서 살아났다'고 말할 거예요. 그러면 마지막 속임이 처음 것보다 더 나쁠 거예요.\""
+        },
+        {
+          "verse": 65,
+          "original": "Pilate said to them, \"You have a guard. Go, make it as secure as you can.\"",
+          "korean": "빌라도가 그들에게 말했어요. \"경비병이 있으니, 가서 할 수 있는 대로 지키세요.\""
+        },
+        {
+          "verse": 66,
+          "original": "So they went with the guard and made the tomb secure, sealing the stone.",
+          "korean": "그래서 그들은 경비병과 함께 가서 돌을 봉인하고 무덤을 지켰어요."
+        }
+      ]
     }
   ]
 }
