@@ -4471,6 +4471,146 @@
           "korean": "이 년이 지나 벨릭스가 보르기오 베스도에게 자리를 물려주었어요. 벨릭스는 유대인들의 환심을 사려고 바울을 계속 갇혀 있게 했어요."
         }
       ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Festus therefore, having come into the province, after three days went up to Jerusalem from Caesarea.",
+          "korean": "베스도가 부임한 지 사흘 만에 가이사랴에서 예루살렘으로 올라갔어요."
+        },
+        {
+          "verse": 2,
+          "original": "Then the high priest and the principal men of the Jews informed him against Paul, and they begged him,",
+          "korean": "대제사장들과 유대인의 지도자들이 그에게 바울을 고발하며 간청했어요."
+        },
+        {
+          "verse": 3,
+          "original": "asking a favor against him, that he would summon him to Jerusalem; plotting to kill him on the way.",
+          "korean": "그들은 바울을 예루살렘으로 불러 달라고 은혜를 베풀어 달라고 요청했어요. 도중에 그를 죽이려고 음모를 꾸미고 있었기 때문이에요."
+        },
+        {
+          "verse": 4,
+          "original": "However Festus answered that Paul should be kept in custody at Caesarea, and that he himself was about to depart shortly.",
+          "korean": "그러나 베스도는 바울을 가이사랴에 구금해 두고 자신도 곧 그곳으로 떠날 것이라고 대답했어요."
+        },
+        {
+          "verse": 5,
+          "original": "\"Let them therefore\", he said, \"that are in power among you go down with me, and if there is anything wrong in the man, let them accuse him.\"",
+          "korean": "그가 말했어요. \"그러니 여러분 가운데 지도자들이 나와 함께 내려가서, 이 사람에게 잘못된 것이 있으면 고발하시오.\""
+        },
+        {
+          "verse": 6,
+          "original": "When he had stayed among them more than ten days, he went down to Caesarea, and on the next day he sat on the judgment seat, and commanded Paul to be brought.",
+          "korean": "베스도가 그들 가운데서 열흘 이상 머문 후 가이사랴로 내려갔어요. 다음 날 재판석에 앉아 바울을 데려오라고 명령했어요."
+        },
+        {
+          "verse": 7,
+          "original": "When he had come, the Jews who had come down from Jerusalem stood around him, bringing against him many and grievous charges which they could not prove,",
+          "korean": "바울이 오자, 예루살렘에서 내려온 유대인들이 그를 둘러싸고 많은 무거운 혐의를 제기했지만 증명하지 못했어요."
+        },
+        {
+          "verse": 8,
+          "original": "while he said in his defense, \"Neither against the law of the Jews, nor against the temple, nor against Caesar, have I sinned at all.\"",
+          "korean": "바울이 변론하며 말했어요. \"저는 유대인의 율법에도 성전에도 황제에게도 전혀 죄를 짓지 않았어요.\""
+        },
+        {
+          "verse": 9,
+          "original": "But Festus, desiring to gain favor with the Jews, answered Paul and said, \"Are you willing to go up to Jerusalem, and be judged by me there concerning these things?\"",
+          "korean": "그러나 베스도가 유대인들의 환심을 사려고 바울에게 대답했어요. \"예루살렘에 올라가서 이 일들에 관해 내 앞에서 재판받겠소?\""
+        },
+        {
+          "verse": 10,
+          "original": "But Paul said, \"I am standing before Caesar's judgment seat, where I ought to be tried. I have done no wrong to the Jews, as you also know very well.",
+          "korean": "바울이 말했어요. \"저는 황제의 재판석 앞에 서 있어요. 여기서 재판받아야 해요. 총독님도 잘 아시듯이, 저는 유대인들에게 잘못한 것이 없어요."
+        },
+        {
+          "verse": 11,
+          "original": "For if I have done wrong and have committed anything worthy of death, I don't refuse to die; but if none of those things is true that they accuse me of, no one can give me up to them. I appeal to Caesar!\"",
+          "korean": "제가 잘못을 저질러 죽을 죄를 지었다면 죽음을 거부하지 않을 거예요. 그러나 그들이 저를 고발하는 것 중 아무것도 사실이 아니라면, 아무도 저를 그들에게 넘길 수 없어요. 저는 황제에게 상소합니다!\""
+        },
+        {
+          "verse": 12,
+          "original": "Then Festus, when he had conferred with the council, answered, \"You have appealed to Caesar. To Caesar you shall go.\"",
+          "korean": "베스도가 자문단과 의논한 후 대답했어요. \"황제에게 상소했으니, 황제에게 가게 될 것이오.\""
+        },
+        {
+          "verse": 13,
+          "original": "Now when some days had passed, King Agrippa and Bernice arrived at Caesarea, and greeted Festus.",
+          "korean": "며칠이 지난 후, 아그립바 왕과 버니게가 가이사랴에 도착하여 베스도에게 인사했어요."
+        },
+        {
+          "verse": 14,
+          "original": "As he stayed there many days, Festus laid Paul's case before the king, saying, \"There is a certain man left a prisoner by Felix;",
+          "korean": "그들이 여러 날 그곳에 머무는 동안, 베스도가 바울의 사건을 왕에게 말했어요. \"벨릭스가 남겨 둔 죄수가 있어요."
+        },
+        {
+          "verse": 15,
+          "original": "about whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, asking for a sentence against him.",
+          "korean": "제가 예루살렘에 있을 때, 대제사장들과 유대인의 장로들이 그에 대해 알리며 유죄 판결을 요청했어요."
+        },
+        {
+          "verse": 16,
+          "original": "I answered them that it is not the custom of the Romans to give up any man to destruction before the accused has met the accusers face to face and has had opportunity to make his defense concerning the matter laid against him.",
+          "korean": "저는 그들에게 대답했어요. 피고가 고발자들과 대면하여 자기에게 제기된 문제에 대해 변론할 기회를 갖기 전에 넘겨주는 것은 로마의 관습이 아니라고요."
+        },
+        {
+          "verse": 17,
+          "original": "When therefore they had come together here, I didn't delay, but on the next day sat on the judgment seat and commanded the man to be brought.",
+          "korean": "그래서 그들이 이곳에 함께 왔을 때, 저는 지체하지 않고 다음 날 재판석에 앉아 그 사람을 데려오게 했어요."
+        },
+        {
+          "verse": 18,
+          "original": "When the accusers stood up, they brought no charges against him of such things as I supposed;",
+          "korean": "고발자들이 일어났을 때, 제가 생각했던 그런 혐의를 제기하지 않았어요."
+        },
+        {
+          "verse": 19,
+          "original": "but had certain questions against him about their own religion, and about one Jesus, who was dead, whom Paul affirmed to be alive.",
+          "korean": "그들 자신의 종교에 관한 문제와, 죽은 예수라는 사람에 관한 것이었는데, 바울은 그가 살아 있다고 주장했어요."
+        },
+        {
+          "verse": 20,
+          "original": "Being perplexed how to inquire concerning these things, I asked whether he was willing to go to Jerusalem and there be judged concerning these matters.",
+          "korean": "이런 것들을 어떻게 조사해야 할지 몰라서, 예루살렘에 가서 이 문제들에 관해 재판받을 의향이 있는지 물었어요."
+        },
+        {
+          "verse": 21,
+          "original": "But when Paul had appealed to be kept for the decision of the emperor, I commanded him to be kept until I could send him to Caesar.\"",
+          "korean": "그러나 바울이 황제의 결정을 받겠다고 상소했기 때문에, 황제에게 보낼 때까지 구금해 두라고 명령했어요.\""
+        },
+        {
+          "verse": 22,
+          "original": "Agrippa said to Festus, \"I also would like to hear the man myself.\" \"Tomorrow,\" he said, \"you shall hear him.\"",
+          "korean": "아그립바가 베스도에게 말했어요. \"나도 그 사람의 말을 직접 듣고 싶소.\" 베스도가 말했어요. \"내일 들으실 수 있어요.\""
+        },
+        {
+          "verse": 23,
+          "original": "So on the next day, when Agrippa and Bernice had come with great pomp, and they had entered into the place of hearing with the commanding officers and the principal men of the city, at the command of Festus, Paul was brought in.",
+          "korean": "다음 날 아그립바와 버니게가 큰 위엄을 갖추고 와서, 천부장들과 도시의 주요 인사들과 함께 재판장에 들어갔어요. 베스도의 명령으로 바울이 끌려 나왔어요."
+        },
+        {
+          "verse": 24,
+          "original": "Festus said, \"King Agrippa, and all men who are here present with us, you see this man about whom all the multitude of the Jews petitioned me, both at Jerusalem and here, crying that he ought not to live any longer.",
+          "korean": "베스도가 말했어요. \"아그립바 왕과 여기 함께 계신 모든 분들, 모든 유대인들이 예루살렘에서나 여기서나 이 사람에 대해 제게 탄원하며 더 이상 살려 두어서는 안 된다고 외쳤어요."
+        },
+        {
+          "verse": 25,
+          "original": "But when I found that he had committed nothing worthy of death, and as he himself appealed to the emperor I determined to send him,",
+          "korean": "그러나 저는 그가 죽을 죄를 짓지 않았다는 것을 알았어요. 그가 황제에게 상소했으므로 보내기로 결정했어요."
+        },
+        {
+          "verse": 26,
+          "original": "of whom I have no certain thing to write to my lord. Therefore I have brought him out before you, and especially before you, King Agrippa, that, after examination, I may have something to write.",
+          "korean": "그런데 황제께 확실히 쓸 것이 없어요. 그래서 그를 여러분 앞에, 특히 아그립바 왕 앞에 데리고 나온 것이에요. 심문 후에 쓸 것이 생기게 하려고요."
+        },
+        {
+          "verse": 27,
+          "original": "For it seems to me unreasonable, in sending a prisoner, not to also specify the charges against him.\"",
+          "korean": "죄수를 보내면서 그에 대한 혐의를 명시하지 않는 것은 제가 보기에 불합리해요.\""
+        }
+      ]
     }
   ]
 }
