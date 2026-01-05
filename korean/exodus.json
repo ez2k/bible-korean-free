@@ -1,0 +1,121 @@
+{
+  "book": "Exodus",
+  "bookKorean": "출애굽기",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now these are the names of the sons of Israel, who came into Egypt (every man and his household came with Jacob):",
+          "korean": "야곱과 함께 이집트로 온 이스라엘의 아들들의 이름이에요. 각자 자기 가족과 함께 왔어요."
+        },
+        {
+          "verse": 2,
+          "original": "Reuben, Simeon, Levi, and Judah,",
+          "korean": "르우벤, 시므온, 레위, 유다,"
+        },
+        {
+          "verse": 3,
+          "original": "Issachar, Zebulun, and Benjamin,",
+          "korean": "잇사갈, 스불론, 베냐민,"
+        },
+        {
+          "verse": 4,
+          "original": "Dan and Naphtali, Gad and Asher.",
+          "korean": "단, 납달리, 갓, 아셀이에요."
+        },
+        {
+          "verse": 5,
+          "original": "All the souls who came out of Jacob's body were seventy souls, and Joseph was in Egypt already.",
+          "korean": "야곱에게서 나온 사람은 모두 칠십 명이었어요. 요셉은 이미 이집트에 있었어요."
+        },
+        {
+          "verse": 6,
+          "original": "Joseph died, as did all his brothers, and all that generation.",
+          "korean": "요셉과 그의 모든 형제들과 그 세대 사람들이 다 죽었어요."
+        },
+        {
+          "verse": 7,
+          "original": "The children of Israel were fruitful, and increased abundantly, and multiplied, and grew exceedingly mighty; and the land was filled with them.",
+          "korean": "이스라엘 자손은 많은 자녀를 낳고, 크게 불어나고, 번성하고, 아주 강해졌어요. 그 땅이 그들로 가득 찼어요."
+        },
+        {
+          "verse": 8,
+          "original": "Now there arose a new king over Egypt, who didn't know Joseph.",
+          "korean": "그런데 요셉을 알지 못하는 새 왕이 이집트를 다스리게 되었어요."
+        },
+        {
+          "verse": 9,
+          "original": "He said to his people, \"Behold, the people of the children of Israel are more and mightier than we.",
+          "korean": "그가 자기 백성에게 말했어요. \"보아라, 이스라엘 자손의 백성이 우리보다 많고 강하다."
+        },
+        {
+          "verse": 10,
+          "original": "Come, let's deal wisely with them, lest they multiply, and it happen that when any war breaks out, they also join themselves to our enemies and fight against us, and escape out of the land.\"",
+          "korean": "자, 우리가 그들을 슬기롭게 다루자. 그렇지 않으면 그들이 더 많아질 것이다. 전쟁이 일어나면 그들이 우리 적과 합세하여 우리와 싸우고 이 땅에서 나갈 것이다.\""
+        },
+        {
+          "verse": 11,
+          "original": "Therefore they set taskmasters over them to afflict them with their burdens. They built storage cities for Pharaoh: Pithom and Raamses.",
+          "korean": "그래서 그들 위에 감독관들을 세워 힘든 짐으로 그들을 괴롭혔어요. 그들은 바로를 위해 창고 성 비돔과 라암셋을 지었어요."
+        },
+        {
+          "verse": 12,
+          "original": "But the more they afflicted them, the more they multiplied and the more they spread out. They started to dread the children of Israel.",
+          "korean": "그러나 그들을 괴롭힐수록 그들은 더 많아지고 더 퍼져 나갔어요. 이집트 사람들은 이스라엘 자손을 두려워하기 시작했어요."
+        },
+        {
+          "verse": 13,
+          "original": "The Egyptians ruthlessly made the children of Israel serve,",
+          "korean": "이집트 사람들은 이스라엘 자손을 무자비하게 부렸어요."
+        },
+        {
+          "verse": 14,
+          "original": "and they made their lives bitter with hard service in mortar and in brick, and in all kinds of service in the field, all their service, in which they ruthlessly made them serve.",
+          "korean": "진흙과 벽돌 일, 들에서 하는 온갖 일로 그들의 삶을 괴롭게 했어요. 모든 일에서 무자비하게 그들을 부렸어요."
+        },
+        {
+          "verse": 15,
+          "original": "The king of Egypt spoke to the Hebrew midwives, of whom the name of the one was Shiphrah, and the name of the other Puah,",
+          "korean": "이집트 왕이 히브리 산파들에게 말했어요. 한 명의 이름은 십브라이고, 다른 한 명의 이름은 부아였어요."
+        },
+        {
+          "verse": 16,
+          "original": "and he said, \"When you perform the duty of a midwife to the Hebrew women, and see them on the birth stool, if it is a son, then you shall kill him; but if it is a daughter, then she shall live.\"",
+          "korean": "왕이 말했어요. \"히브리 여자들이 아기를 낳을 때, 아들이면 죽이고, 딸이면 살려 두어라.\""
+        },
+        {
+          "verse": 17,
+          "original": "But the midwives feared God, and didn't do what the king of Egypt commanded them, but saved the baby boys alive.",
+          "korean": "그러나 산파들은 하나님을 두려워하여 이집트 왕이 명령한 대로 하지 않고, 남자 아기들을 살려 두었어요."
+        },
+        {
+          "verse": 18,
+          "original": "The king of Egypt called for the midwives, and said to them, \"Why have you done this thing and saved the boys alive?\"",
+          "korean": "이집트 왕이 산파들을 불러 말했어요. \"어찌하여 이런 일을 하여 남자 아기들을 살려 두었느냐?\""
+        },
+        {
+          "verse": 19,
+          "original": "The midwives said to Pharaoh, \"Because the Hebrew women aren't like the Egyptian women; for they are vigorous and give birth before the midwife comes to them.\"",
+          "korean": "산파들이 바로에게 말했어요. \"히브리 여자들은 이집트 여자들과 달라요. 그들은 건강해서 산파가 가기 전에 아기를 낳아요.\""
+        },
+        {
+          "verse": 20,
+          "original": "God dealt well with the midwives, and the people multiplied, and grew very mighty.",
+          "korean": "하나님께서 산파들에게 잘해 주셨어요. 백성은 많아지고 아주 강해졌어요."
+        },
+        {
+          "verse": 21,
+          "original": "Because the midwives feared God, he gave them families.",
+          "korean": "산파들이 하나님을 두려워했기 때문에, 하나님께서 그들에게 가정을 주셨어요."
+        },
+        {
+          "verse": 22,
+          "original": "Pharaoh commanded all his people, saying, \"You shall cast every son who is born into the river, and every daughter you shall save alive.\"",
+          "korean": "바로가 자기 모든 백성에게 명령했어요. \"태어나는 모든 아들은 강에 던지고, 모든 딸은 살려 두어라.\""
+        }
+      ]
+    }
+  ]
+}
