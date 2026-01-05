@@ -4441,6 +4441,241 @@
           "korean": "그를 엄하게 벌하고 위선자들과 함께 두게 될 거예요. 거기서 슬피 울며 이를 갈게 될 거예요."
         }
       ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "\"Then the Kingdom of Heaven will be like ten virgins, who took their lamps, and went out to meet the bridegroom.",
+          "korean": "\"그때 하늘나라는 등불을 들고 신랑을 맞으러 나간 열 처녀와 같을 거예요."
+        },
+        {
+          "verse": 2,
+          "original": "Five of them were foolish, and five were wise.",
+          "korean": "그중 다섯은 어리석었고 다섯은 지혜로웠어요."
+        },
+        {
+          "verse": 3,
+          "original": "Those who were foolish, when they took their lamps, took no oil with them,",
+          "korean": "어리석은 처녀들은 등불은 가져갔지만 기름은 가져가지 않았어요."
+        },
+        {
+          "verse": 4,
+          "original": "but the wise took oil in their vessels with their lamps.",
+          "korean": "하지만 지혜로운 처녀들은 등불과 함께 그릇에 기름을 담아 가져갔어요."
+        },
+        {
+          "verse": 5,
+          "original": "Now while the bridegroom delayed, they all slumbered and slept.",
+          "korean": "신랑이 늦어지자 그들은 모두 졸다가 잠이 들었어요."
+        },
+        {
+          "verse": 6,
+          "original": "But at midnight there was a cry, 'Behold! The bridegroom is coming! Come out to meet him!'",
+          "korean": "그런데 한밤중에 외치는 소리가 났어요. '보라! 신랑이 온다! 나가서 맞이하라!'"
+        },
+        {
+          "verse": 7,
+          "original": "Then all those virgins arose, and trimmed their lamps.",
+          "korean": "그러자 그 처녀들이 모두 일어나 등불을 손질했어요."
+        },
+        {
+          "verse": 8,
+          "original": "The foolish said to the wise, 'Give us some of your oil, for our lamps are going out.'",
+          "korean": "어리석은 처녀들이 지혜로운 처녀들에게 말했어요. '우리 등불이 꺼져 가니 기름을 좀 나눠 줘요.'"
+        },
+        {
+          "verse": 9,
+          "original": "But the wise answered, saying, 'What if there isn't enough for us and you? You go rather to those who sell, and buy for yourselves.'",
+          "korean": "하지만 지혜로운 처녀들이 대답했어요. '우리와 너희에게 다 모자랄 수 있으니, 차라리 파는 사람들에게 가서 사세요.'"
+        },
+        {
+          "verse": 10,
+          "original": "While they went away to buy, the bridegroom came, and those who were ready went in with him to the wedding feast, and the door was shut.",
+          "korean": "그들이 사러 간 사이에 신랑이 왔고, 준비된 처녀들은 신랑과 함께 혼인 잔치에 들어갔어요. 그리고 문이 닫혔어요."
+        },
+        {
+          "verse": 11,
+          "original": "Afterward the other virgins also came, saying, 'Lord, Lord, open to us.'",
+          "korean": "나중에 다른 처녀들도 와서 '주님, 주님, 문 열어 주세요' 했어요."
+        },
+        {
+          "verse": 12,
+          "original": "But he answered, 'Most certainly I tell you, I don't know you.'",
+          "korean": "하지만 그가 대답했어요. '진정으로 말하는데, 나는 너희를 모른다.'"
+        },
+        {
+          "verse": 13,
+          "original": "Watch therefore, for you don't know the day nor the hour in which the Son of Man is coming.",
+          "korean": "그러므로 깨어 있으세요. 인자가 오는 날과 시간을 모르니까요."
+        },
+        {
+          "verse": 14,
+          "original": "\"For it is like a man, going into another country, who called his own servants, and entrusted his goods to them.",
+          "korean": "\"이것은 어떤 사람이 다른 나라로 떠나면서 종들을 불러 자기 재산을 맡긴 것과 같아요."
+        },
+        {
+          "verse": 15,
+          "original": "To one he gave five talents, to another two, to another one; to each according to his own ability. Then he went on his journey.",
+          "korean": "한 사람에게는 다섯 달란트를, 또 한 사람에게는 두 달란트를, 또 한 사람에게는 한 달란트를 각각 그 능력대로 주고 떠났어요."
+        },
+        {
+          "verse": 16,
+          "original": "Immediately he who received the five talents went and traded with them, and made another five talents.",
+          "korean": "다섯 달란트 받은 사람은 바로 가서 장사하여 다섯 달란트를 더 벌었어요."
+        },
+        {
+          "verse": 17,
+          "original": "In the same way, he also who got the two gained another two.",
+          "korean": "두 달란트 받은 사람도 마찬가지로 두 달란트를 더 벌었어요."
+        },
+        {
+          "verse": 18,
+          "original": "But he who received the one talent went away and dug in the earth, and hid his lord's money.",
+          "korean": "하지만 한 달란트 받은 사람은 가서 땅을 파고 주인의 돈을 숨겨 버렸어요."
+        },
+        {
+          "verse": 19,
+          "original": "\"Now after a long time the lord of those servants came, and reconciled accounts with them.",
+          "korean": "\"오랜 시간이 지난 후 그 종들의 주인이 돌아와서 그들과 결산을 했어요."
+        },
+        {
+          "verse": 20,
+          "original": "He who received the five talents came and brought another five talents, saying, 'Lord, you delivered to me five talents. Behold, I have gained another five talents in addition to them.'",
+          "korean": "다섯 달란트 받았던 사람이 다섯 달란트를 더 가져와서 말했어요. '주인님, 제게 다섯 달란트를 맡기셨는데요, 보세요, 다섯 달란트를 더 벌었어요.'"
+        },
+        {
+          "verse": 21,
+          "original": "\"His lord said to him, 'Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.'",
+          "korean": "\"주인이 그에게 말했어요. '잘했다, 착하고 충성스러운 종아. 네가 작은 일에 충성했으니 내가 많은 일을 맡길게. 네 주인의 기쁨에 참여해라.'"
+        },
+        {
+          "verse": 22,
+          "original": "\"He also who got the two talents came and said, 'Lord, you delivered to me two talents. Behold, I have gained another two talents in addition to them.'",
+          "korean": "\"두 달란트 받았던 사람도 와서 말했어요. '주인님, 제게 두 달란트를 맡기셨는데요, 보세요, 두 달란트를 더 벌었어요.'"
+        },
+        {
+          "verse": 23,
+          "original": "\"His lord said to him, 'Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.'",
+          "korean": "\"주인이 그에게 말했어요. '잘했다, 착하고 충성스러운 종아. 네가 작은 일에 충성했으니 내가 많은 일을 맡길게. 네 주인의 기쁨에 참여해라.'"
+        },
+        {
+          "verse": 24,
+          "original": "\"He also who had received the one talent came and said, 'Lord, I knew you that you are a hard man, reaping where you didn't sow, and gathering where you didn't scatter.",
+          "korean": "\"한 달란트 받았던 사람도 와서 말했어요. '주인님, 저는 당신이 심지 않은 데서 거두고 뿌리지 않은 데서 모으는 엄한 분인 줄 알았어요."
+        },
+        {
+          "verse": 25,
+          "original": "I was afraid, and went away and hid your talent in the earth. Behold, you have what is yours.'",
+          "korean": "그래서 두려워서 가서 당신의 달란트를 땅에 숨겼어요. 보세요, 여기 당신 것이 있어요.'"
+        },
+        {
+          "verse": 26,
+          "original": "\"But his lord answered him, 'You wicked and slothful servant. You knew that I reap where I didn't sow, and gather where I didn't scatter.",
+          "korean": "\"그러나 주인이 대답했어요. '악하고 게으른 종아. 내가 심지 않은 데서 거두고 뿌리지 않은 데서 모으는 줄 알았다면서,"
+        },
+        {
+          "verse": 27,
+          "original": "You ought therefore to have deposited my money with the bankers, and at my coming I should have received back my own with interest.",
+          "korean": "그러면 내 돈을 은행에 맡겨서 내가 돌아왔을 때 이자와 함께 받게 했어야지."
+        },
+        {
+          "verse": 28,
+          "original": "Take away therefore the talent from him, and give it to him who has the ten talents.",
+          "korean": "그에게서 달란트를 빼앗아 열 달란트 가진 자에게 주어라."
+        },
+        {
+          "verse": 29,
+          "original": "For to everyone who has will be given, and he will have abundance, but from him who doesn't have, even that which he has will be taken away.",
+          "korean": "있는 사람은 더 받아 넘치게 되고, 없는 사람은 가진 것마저 빼앗길 거예요."
+        },
+        {
+          "verse": 30,
+          "original": "Throw out the unprofitable servant into the outer darkness, where there will be weeping and gnashing of teeth.'",
+          "korean": "쓸모없는 종을 바깥 어둠 속에 내던져라. 거기서 슬피 울며 이를 갈게 될 거야.'"
+        },
+        {
+          "verse": 31,
+          "original": "\"But when the Son of Man comes in his glory, and all the holy angels with him, then he will sit on the throne of his glory.",
+          "korean": "\"인자가 영광 중에 모든 거룩한 천사들과 함께 올 때, 그의 영광의 보좌에 앉을 거예요."
+        },
+        {
+          "verse": 32,
+          "original": "Before him all the nations will be gathered, and he will separate them one from another, as a shepherd separates the sheep from the goats.",
+          "korean": "모든 민족이 그 앞에 모이면, 목자가 양과 염소를 나누듯이 그들을 나눌 거예요."
+        },
+        {
+          "verse": 33,
+          "original": "He will set the sheep on his right hand, but the goats on the left.",
+          "korean": "양은 오른편에, 염소는 왼편에 두게 될 거예요."
+        },
+        {
+          "verse": 34,
+          "original": "Then the King will tell those on his right hand, 'Come, blessed of my Father, inherit the Kingdom prepared for you from the foundation of the world;",
+          "korean": "그때 왕이 오른편에 있는 사람들에게 말할 거예요. '내 아버지께 복 받은 자들아, 와서 세상이 시작될 때부터 너희를 위해 준비된 나라를 차지해라."
+        },
+        {
+          "verse": 35,
+          "original": "for I was hungry, and you gave me food to eat. I was thirsty, and you gave me drink. I was a stranger, and you took me in.",
+          "korean": "내가 주렸을 때 너희가 먹을 것을 주었고, 목말랐을 때 마실 것을 주었고, 나그네였을 때 맞아들였고,"
+        },
+        {
+          "verse": 36,
+          "original": "I was naked, and you clothed me. I was sick, and you visited me. I was in prison, and you came to me.'",
+          "korean": "헐벗었을 때 옷을 입혔고, 아팠을 때 돌봐 주었고, 감옥에 있을 때 찾아왔기 때문이야.'"
+        },
+        {
+          "verse": 37,
+          "original": "\"Then the righteous will answer him, saying, 'Lord, when did we see you hungry, and feed you; or thirsty, and give you a drink?",
+          "korean": "\"그러면 의로운 사람들이 대답할 거예요. '주님, 우리가 언제 주님께서 주리신 것을 보고 먹을 것을 드렸나요? 목마르신 것을 보고 마실 것을 드렸나요?"
+        },
+        {
+          "verse": 38,
+          "original": "When did we see you as a stranger, and take you in; or naked, and clothe you?",
+          "korean": "언제 나그네 되신 것을 보고 맞아들이고, 헐벗으신 것을 보고 옷을 입혔나요?"
+        },
+        {
+          "verse": 39,
+          "original": "When did we see you sick, or in prison, and come to you?'",
+          "korean": "언제 아프시거나 감옥에 계신 것을 보고 찾아갔나요?'"
+        },
+        {
+          "verse": 40,
+          "original": "\"The King will answer them, 'Most certainly I tell you, because you did it to one of the least of these my brothers, you did it to me.'",
+          "korean": "\"왕이 대답할 거예요. '진정으로 말하는데, 너희가 내 형제 중 가장 작은 자 하나에게 한 것이 곧 내게 한 거야.'"
+        },
+        {
+          "verse": 41,
+          "original": "Then he will say also to those on the left hand, 'Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels;",
+          "korean": "그때 왕은 왼편에 있는 사람들에게도 말할 거예요. '저주받은 자들아, 나를 떠나 마귀와 그의 부하들을 위해 준비된 영원한 불 속으로 가라."
+        },
+        {
+          "verse": 42,
+          "original": "for I was hungry, and you didn't give me food to eat; I was thirsty, and you gave me no drink;",
+          "korean": "내가 주렸을 때 너희가 먹을 것을 주지 않았고, 목말랐을 때 마실 것을 주지 않았고,"
+        },
+        {
+          "verse": 43,
+          "original": "I was a stranger, and you didn't take me in; naked, and you didn't clothe me; sick, and in prison, and you didn't visit me.'",
+          "korean": "나그네였을 때 맞아들이지 않았고, 헐벗었을 때 옷을 입히지 않았고, 아프고 감옥에 있을 때 돌봐 주지 않았기 때문이야.'"
+        },
+        {
+          "verse": 44,
+          "original": "\"Then they will also answer, saying, 'Lord, when did we see you hungry, or thirsty, or a stranger, or naked, or sick, or in prison, and didn't help you?'",
+          "korean": "\"그러면 그들도 대답할 거예요. '주님, 우리가 언제 주님께서 주리시거나 목마르시거나 나그네 되시거나 헐벗으시거나 아프시거나 감옥에 계신 것을 보고 돌봐 드리지 않았나요?'"
+        },
+        {
+          "verse": 45,
+          "original": "\"Then he will answer them, saying, 'Most certainly I tell you, because you didn't do it to one of the least of these, you didn't do it to me.'",
+          "korean": "\"그때 왕이 대답할 거예요. '진정으로 말하는데, 너희가 이 가장 작은 자 하나에게 하지 않은 것이 곧 내게 하지 않은 거야.'"
+        },
+        {
+          "verse": 46,
+          "original": "These will go away into eternal punishment, but the righteous into eternal life.\"",
+          "korean": "이 사람들은 영원한 형벌에 들어가고, 의로운 사람들은 영원한 생명에 들어갈 거예요.\""
+        }
+      ]
     }
   ]
 }
