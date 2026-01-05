@@ -1721,6 +1721,306 @@
           "korean": "그리고 다 각자 자기 집으로 갔어요."
         }
       ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "but Jesus went to the Mount of Olives.",
+          "korean": "예수님께서는 감람산으로 가셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "Now very early in the morning, he came again into the temple, and all the people came to him. He sat down and taught them.",
+          "korean": "아침 일찍 예수님께서 다시 성전에 오셨어요. 모든 사람이 예수님께 왔고, 예수님께서 앉아서 그들을 가르치셨어요."
+        },
+        {
+          "verse": 3,
+          "original": "The scribes and the Pharisees brought a woman taken in adultery. Having set her in the middle,",
+          "korean": "서기관들과 바리새인들이 간음하다가 잡힌 여자를 데리고 왔어요. 그녀를 가운데 세우고"
+        },
+        {
+          "verse": 4,
+          "original": "they told him, \"Teacher, we found this woman in adultery, in the very act.",
+          "korean": "예수님께 말했어요. \"선생님, 이 여자가 간음하는 현장에서 잡혔어요."
+        },
+        {
+          "verse": 5,
+          "original": "Now in our law, Moses commanded us to stone such women. What then do you say about her?\"",
+          "korean": "모세는 율법에서 이런 여자를 돌로 치라고 명령했어요. 선생님은 뭐라고 하시겠어요?\""
+        },
+        {
+          "verse": 6,
+          "original": "They said this testing him, that they might have something to accuse him of. But Jesus stooped down and wrote on the ground with his finger.",
+          "korean": "그들이 예수님을 고발할 것을 찾으려고 이렇게 시험한 거예요. 그러나 예수님께서 몸을 굽히시고 손가락으로 땅에 쓰셨어요."
+        },
+        {
+          "verse": 7,
+          "original": "But when they continued asking him, he looked up and said to them, \"He who is without sin among you, let him throw the first stone at her.\"",
+          "korean": "그들이 계속 물어보자 예수님께서 일어나 말씀하셨어요. \"너희 중에 죄 없는 사람이 먼저 이 여자에게 돌을 던지세요.\""
+        },
+        {
+          "verse": 8,
+          "original": "Again he stooped down and wrote on the ground with his finger.",
+          "korean": "다시 몸을 굽히시고 손가락으로 땅에 쓰셨어요."
+        },
+        {
+          "verse": 9,
+          "original": "They, when they heard it, being convicted by their conscience, went out one by one, beginning from the oldest, even to the last. Jesus was left alone with the woman where she was, in the middle.",
+          "korean": "그들이 이 말씀을 듣고 양심에 찔려서 나이 많은 사람부터 시작해서 마지막 사람까지 하나씩 나갔어요. 예수님만 혼자 남으시고 여자는 가운데 서 있었어요."
+        },
+        {
+          "verse": 10,
+          "original": "Jesus, standing up, saw her and said, \"Woman, where are your accusers? Did no one condemn you?\"",
+          "korean": "예수님께서 일어나 그녀를 보시며 말씀하셨어요. \"그 사람들이 어디 있어요? 아무도 당신을 정죄하지 않았나요?\""
+        },
+        {
+          "verse": 11,
+          "original": "She said, \"No one, Lord.\" Jesus said, \"Neither do I condemn you. Go your way. From now on, sin no more.\"",
+          "korean": "그녀가 말했어요. \"아무도 없어요, 주님.\" 예수님께서 말씀하셨어요. \"나도 당신을 정죄하지 않아요. 가세요. 이제부터 다시는 죄를 짓지 마세요.\""
+        },
+        {
+          "verse": 12,
+          "original": "Again, therefore, Jesus spoke to them, saying, \"I am the light of the world. He who follows me will not walk in the darkness, but will have the light of life.\"",
+          "korean": "예수님께서 다시 그들에게 말씀하셨어요. \"내가 세상의 빛이에요. 나를 따르는 사람은 어둠 속을 걷지 않고 생명의 빛을 가질 거예요.\""
+        },
+        {
+          "verse": 13,
+          "original": "The Pharisees therefore said to him, \"You testify about yourself. Your testimony is not valid.\"",
+          "korean": "바리새인들이 말했어요. \"당신이 자기 자신에 대해 증언하니 당신의 증언은 유효하지 않아요.\""
+        },
+        {
+          "verse": 14,
+          "original": "Jesus answered them, \"Even if I testify about myself, my testimony is true, for I know where I came from, and where I am going; but you don't know where I came from, or where I am going.",
+          "korean": "예수님께서 대답하셨어요. \"내가 나 자신에 대해 증언해도 내 증언은 참이에요. 내가 어디서 왔고 어디로 가는지 알기 때문이에요. 그러나 너희는 내가 어디서 왔는지 어디로 가는지 모르잖아요."
+        },
+        {
+          "verse": 15,
+          "original": "You judge according to the flesh. I judge no one.",
+          "korean": "너희는 육체를 따라 판단해요. 나는 아무도 판단하지 않아요."
+        },
+        {
+          "verse": 16,
+          "original": "Even if I do judge, my judgment is true, for I am not alone, but I am with the Father who sent me.",
+          "korean": "내가 판단하더라도 내 판단은 참이에요. 나는 혼자가 아니라 나를 보내신 아버지와 함께이기 때문이에요."
+        },
+        {
+          "verse": 17,
+          "original": "It's also written in your law that the testimony of two people is valid.",
+          "korean": "너희 율법에도 두 사람의 증언이 유효하다고 기록되어 있어요."
+        },
+        {
+          "verse": 18,
+          "original": "I am one who testifies about myself, and the Father who sent me testifies about me.\"",
+          "korean": "나 자신에 대해 증언하는 사람은 나이고, 나를 보내신 아버지도 나에 대해 증언하세요.\""
+        },
+        {
+          "verse": 19,
+          "original": "They said therefore to him, \"Where is your Father?\" Jesus answered, \"You know neither me nor my Father. If you knew me, you would know my Father also.\"",
+          "korean": "그들이 물었어요. \"당신의 아버지가 어디 있어요?\" 예수님께서 대답하셨어요. \"너희는 나도 모르고 내 아버지도 몰라요. 나를 알았다면 내 아버지도 알았을 거예요.\""
+        },
+        {
+          "verse": 20,
+          "original": "Jesus spoke these words in the treasury, as he taught in the temple. Yet no one arrested him, because his hour had not yet come.",
+          "korean": "예수님께서 성전에서 가르치시면서 헌금함 있는 곳에서 이 말씀을 하셨어요. 그러나 아무도 예수님을 잡지 않았어요. 예수님의 때가 아직 오지 않았기 때문이에요."
+        },
+        {
+          "verse": 21,
+          "original": "Jesus said therefore again to them, \"I am going away, and you will seek me, and you will die in your sins. Where I go, you can't come.\"",
+          "korean": "예수님께서 다시 그들에게 말씀하셨어요. \"나는 떠나갈 거예요. 너희가 나를 찾겠지만 너희 죄 가운데서 죽을 거예요. 내가 가는 곳에 너희는 올 수 없어요.\""
+        },
+        {
+          "verse": 22,
+          "original": "The Jews therefore said, \"Will he kill himself, because he says, 'Where I am going, you can't come'?\"",
+          "korean": "유대인 지도자들이 말했어요. \"'내가 가는 곳에 너희는 올 수 없다'고 하니, 자살하겠다는 건가?\""
+        },
+        {
+          "verse": 23,
+          "original": "He said to them, \"You are from beneath. I am from above. You are of this world. I am not of this world.",
+          "korean": "예수님께서 그들에게 말씀하셨어요. \"너희는 아래에서 왔고 나는 위에서 왔어요. 너희는 이 세상에 속했고 나는 이 세상에 속하지 않았어요."
+        },
+        {
+          "verse": 24,
+          "original": "I said therefore to you that you will die in your sins; for unless you believe that I am he, you will die in your sins.\"",
+          "korean": "그래서 내가 너희가 죄 가운데서 죽을 것이라고 말했어요. 내가 그인 것을 믿지 않으면 너희는 죄 가운데서 죽을 거예요.\""
+        },
+        {
+          "verse": 25,
+          "original": "They said therefore to him, \"Who are you?\" Jesus said to them, \"Just what I have been saying to you from the beginning.",
+          "korean": "그들이 물었어요. \"당신이 누구요?\" 예수님께서 대답하셨어요. \"처음부터 내가 말해 왔던 바로 그 사람이에요."
+        },
+        {
+          "verse": 26,
+          "original": "I have many things to speak and to judge concerning you. However he who sent me is true; and the things which I heard from him, these I say to the world.\"",
+          "korean": "너희에 대해 말하고 판단할 것이 많아요. 그러나 나를 보내신 분은 참되시고 내가 그분에게서 들은 것을 세상에 말하는 거예요.\""
+        },
+        {
+          "verse": 27,
+          "original": "They didn't understand that he spoke to them about the Father.",
+          "korean": "그들은 예수님께서 아버지에 대해 말씀하시는 것을 이해하지 못했어요."
+        },
+        {
+          "verse": 28,
+          "original": "Jesus therefore said to them, \"When you have lifted up the Son of Man, then you will know that I am he, and I do nothing of myself, but as my Father taught me, I say these things.",
+          "korean": "예수님께서 말씀하셨어요. \"너희가 인자를 들어 올리면 그때 내가 그인 것을 알게 될 거예요. 나는 스스로 아무것도 하지 않고 아버지께서 가르쳐 주신 대로 이런 것들을 말해요."
+        },
+        {
+          "verse": 29,
+          "original": "He who sent me is with me. The Father hasn't left me alone, for I always do the things that are pleasing to him.\"",
+          "korean": "나를 보내신 분이 나와 함께 계세요. 아버지께서 나를 혼자 두지 않으셨어요. 내가 항상 그분을 기쁘시게 하는 일을 하기 때문이에요.\""
+        },
+        {
+          "verse": 30,
+          "original": "As he spoke these things, many believed in him.",
+          "korean": "예수님께서 이 말씀을 하실 때 많은 사람들이 믿었어요."
+        },
+        {
+          "verse": 31,
+          "original": "Jesus therefore said to those Jews who had believed him, \"If you remain in my word, then you are truly my disciples.",
+          "korean": "예수님께서 자기를 믿은 유대인들에게 말씀하셨어요. \"너희가 내 말씀 안에 거하면 너희는 참으로 내 제자예요."
+        },
+        {
+          "verse": 32,
+          "original": "You will know the truth, and the truth will make you free.\"",
+          "korean": "진리를 알게 될 것이고 진리가 너희를 자유롭게 할 거예요.\""
+        },
+        {
+          "verse": 33,
+          "original": "They answered him, \"We are Abraham's offspring, and have never been in bondage to anyone. How do you say, 'You will be made free'?\"",
+          "korean": "그들이 대답했어요. \"우리는 아브라함의 자손이고 아무에게도 종이 된 적이 없어요. 어떻게 '자유롭게 될 것이다'라고 말하시나요?\""
+        },
+        {
+          "verse": 34,
+          "original": "Jesus answered them, \"Most certainly I tell you, everyone who commits sin is the bondservant of sin.",
+          "korean": "예수님께서 대답하셨어요. \"진정으로 말해요. 죄를 짓는 사람은 누구나 죄의 종이에요."
+        },
+        {
+          "verse": 35,
+          "original": "A bondservant doesn't live in the house forever. A son remains forever.",
+          "korean": "종은 집에 영원히 있지 못하지만 아들은 영원히 있어요."
+        },
+        {
+          "verse": 36,
+          "original": "If therefore the Son makes you free, you will be free indeed.",
+          "korean": "그러므로 아들이 너희를 자유롭게 하면 너희가 정말로 자유로울 거예요."
+        },
+        {
+          "verse": 37,
+          "original": "I know that you are Abraham's offspring, yet you seek to kill me, because my word finds no place in you.",
+          "korean": "나는 너희가 아브라함의 자손인 것을 알아요. 그러나 너희는 나를 죽이려 해요. 내 말씀이 너희 안에 자리가 없기 때문이에요."
+        },
+        {
+          "verse": 38,
+          "original": "I say the things which I have seen with my Father; and you also do the things which you have seen with your father.\"",
+          "korean": "나는 내 아버지와 함께 있을 때 본 것을 말해요. 너희도 너희 아비에게서 본 것을 해요.\""
+        },
+        {
+          "verse": 39,
+          "original": "They answered him, \"Our father is Abraham.\" Jesus said to them, \"If you were Abraham's children, you would do the works of Abraham.",
+          "korean": "그들이 대답했어요. \"우리 아버지는 아브라함이에요.\" 예수님께서 말씀하셨어요. \"너희가 아브라함의 자녀라면 아브라함이 한 일을 했을 거예요."
+        },
+        {
+          "verse": 40,
+          "original": "But now you seek to kill me, a man who has told you the truth which I heard from God. Abraham didn't do this.",
+          "korean": "그러나 지금 너희는 하나님께 들은 진리를 너희에게 말한 사람인 나를 죽이려 해요. 아브라함은 이런 일을 하지 않았어요."
+        },
+        {
+          "verse": 41,
+          "original": "You do the works of your father.\" They said to him, \"We were not born of sexual immorality. We have one Father, God.\"",
+          "korean": "너희는 너희 아비의 행위를 해요.\" 그들이 말했어요. \"우리는 음행으로 태어나지 않았어요. 우리에게는 한 아버지, 곧 하나님이 계세요.\""
+        },
+        {
+          "verse": 42,
+          "original": "Therefore Jesus said to them, \"If God were your father, you would love me, for I came out and have come from God. For I haven't come of myself, but he sent me.",
+          "korean": "예수님께서 말씀하셨어요. \"하나님이 너희 아버지라면 너희가 나를 사랑했을 거예요. 내가 하나님께로부터 나와서 왔기 때문이에요. 나는 스스로 온 것이 아니라 그분이 나를 보내셨어요."
+        },
+        {
+          "verse": 43,
+          "original": "Why don't you understand my speech? Because you can't hear my word.",
+          "korean": "왜 너희는 내 말을 이해하지 못하나요? 내 말씀을 들을 수 없기 때문이에요."
+        },
+        {
+          "verse": 44,
+          "original": "You are of your father, the devil, and you want to do the desires of your father. He was a murderer from the beginning, and doesn't stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of lies.",
+          "korean": "너희는 너희 아비 마귀에게서 났고 너희 아비의 욕심을 행하려 해요. 그는 처음부터 살인자였고 진리 안에 서 있지 않아요. 그 안에 진리가 없기 때문이에요. 그가 거짓말을 할 때 자기 것으로 말하는 거예요. 그는 거짓말쟁이이고 거짓의 아비이기 때문이에요."
+        },
+        {
+          "verse": 45,
+          "original": "But because I tell the truth, you don't believe me.",
+          "korean": "그러나 내가 진리를 말하기 때문에 너희가 나를 믿지 않아요."
+        },
+        {
+          "verse": 46,
+          "original": "Which of you convicts me of sin? If I tell the truth, why do you not believe me?",
+          "korean": "너희 중에 누가 내게 죄가 있다고 증명할 수 있어요? 내가 진리를 말하는데 왜 나를 믿지 않나요?"
+        },
+        {
+          "verse": 47,
+          "original": "He who is of God hears the words of God. For this cause you don't hear, because you are not of God.\"",
+          "korean": "하나님께 속한 사람은 하나님의 말씀을 들어요. 너희가 듣지 않는 이유는 하나님께 속하지 않았기 때문이에요.\""
+        },
+        {
+          "verse": 48,
+          "original": "Then the Jews answered him, \"Don't we say well that you are a Samaritan, and have a demon?\"",
+          "korean": "유대인 지도자들이 대답했어요. \"우리가 당신을 사마리아 사람이고 귀신 들렸다고 말하는 것이 맞지 않아요?\""
+        },
+        {
+          "verse": 49,
+          "original": "Jesus answered, \"I don't have a demon, but I honor my Father and you dishonor me.",
+          "korean": "예수님께서 대답하셨어요. \"나는 귀신 들리지 않았어요. 나는 내 아버지를 공경하는데 너희는 나를 욕되게 해요."
+        },
+        {
+          "verse": 50,
+          "original": "But I don't seek my own glory. There is one who seeks and judges.",
+          "korean": "나는 내 영광을 구하지 않아요. 구하시고 심판하시는 분이 계세요."
+        },
+        {
+          "verse": 51,
+          "original": "Most certainly, I tell you, if a person keeps my word, he will never see death.\"",
+          "korean": "진정으로 말해요. 누구든지 내 말을 지키면 절대로 죽음을 보지 않을 거예요.\""
+        },
+        {
+          "verse": 52,
+          "original": "Then the Jews said to him, \"Now we know that you have a demon. Abraham died, as did the prophets; and you say, 'If a man keeps my word, he will never taste of death.'",
+          "korean": "유대인 지도자들이 말했어요. \"이제 당신에게 귀신이 들린 것을 확실히 알겠어요. 아브라함도 죽었고 예언자들도 죽었는데, 당신은 '내 말을 지키면 절대로 죽음을 맛보지 않을 것이다'라고 말하나요."
+        },
+        {
+          "verse": 53,
+          "original": "Are you greater than our father, Abraham, who died? The prophets died. Who do you make yourself out to be?\"",
+          "korean": "당신이 죽은 우리 조상 아브라함보다 더 위대한가요? 예언자들도 죽었어요. 당신이 자신을 누구라고 생각하나요?\""
+        },
+        {
+          "verse": 54,
+          "original": "Jesus answered, \"If I glorify myself, my glory is nothing. It is my Father who glorifies me, of whom you say that he is our God.",
+          "korean": "예수님께서 대답하셨어요. \"내가 나를 영화롭게 하면 내 영광은 아무것도 아니에요. 나를 영화롭게 하시는 분은 내 아버지세요. 너희가 '그분이 우리 하나님이다'라고 말하는 바로 그분이에요."
+        },
+        {
+          "verse": 55,
+          "original": "You have not known him, but I know him. If I said, 'I don't know him,' I would be like you, a liar. But I know him and keep his word.",
+          "korean": "너희는 그분을 알지 못하지만 나는 그분을 알아요. 내가 '그분을 모른다'고 말한다면 나도 너희처럼 거짓말쟁이가 될 거예요. 그러나 나는 그분을 알고 그분의 말씀을 지켜요."
+        },
+        {
+          "verse": 56,
+          "original": "Your father Abraham rejoiced to see my day. He saw it, and was glad.\"",
+          "korean": "너희 조상 아브라함은 내 날을 보게 될 것을 기뻐했어요. 그는 보고 기뻐했어요.\""
+        },
+        {
+          "verse": 57,
+          "original": "The Jews therefore said to him, \"You are not yet fifty years old! Have you seen Abraham?\"",
+          "korean": "유대인 지도자들이 말했어요. \"당신이 아직 쉰 살도 안 됐는데 아브라함을 봤다고요?\""
+        },
+        {
+          "verse": 58,
+          "original": "Jesus said to them, \"Most certainly, I tell you, before Abraham came into existence, I AM.\"",
+          "korean": "예수님께서 말씀하셨어요. \"진정으로 말해요. 아브라함이 있기 전부터 내가 있어요.\""
+        },
+        {
+          "verse": 59,
+          "original": "Therefore they took up stones to throw at him, but Jesus was hidden, and went out of the temple, having gone through the middle of them, and so passed by.",
+          "korean": "그래서 그들이 돌을 들어 예수님께 던지려 했지만, 예수님께서 숨으시고 성전을 떠나셨어요. 그들 가운데를 지나 가셨어요."
+        }
+      ]
     }
   ]
 }
