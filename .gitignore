@@ -1,0 +1,13 @@
+# 원본 WEB 성경 (별도 저장소)
+source-web/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
