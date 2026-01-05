@@ -1,0 +1,171 @@
+{
+  "book": "Romans",
+  "bookKorean": "로마서",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Paul, a servant of Jesus Christ, called to be an apostle, set apart for the Good News of God,",
+          "korean": "예수 그리스도의 종 바울이에요. 하나님의 복음을 위해 특별히 선택받고 사도로 부름받았어요."
+        },
+        {
+          "verse": 2,
+          "original": "which he promised before through his prophets in the holy Scriptures,",
+          "korean": "이 복음은 하나님께서 거룩한 성경에서 선지자들을 통해 미리 약속하신 것이에요."
+        },
+        {
+          "verse": 3,
+          "original": "concerning his Son, who was born of the offspring of David according to the flesh,",
+          "korean": "이것은 하나님의 아들에 관한 것인데, 육신으로는 다윗의 후손으로 태어나셨어요."
+        },
+        {
+          "verse": 4,
+          "original": "who was declared to be the Son of God with power, according to the Spirit of holiness, by the resurrection from the dead, Jesus Christ our Lord,",
+          "korean": "죽은 자 가운데서 부활하심으로 거룩하신 영에 따라 능력으로 하나님의 아들로 선포되셨어요. 그분이 바로 우리 주 예수 그리스도예요."
+        },
+        {
+          "verse": 5,
+          "original": "through whom we received grace and apostleship for obedience of faith among all the nations for his name's sake;",
+          "korean": "우리는 그분을 통해 은혜와 사도 직분을 받았어요. 그분의 이름을 위해 모든 민족이 믿음으로 순종하게 하려는 것이에요."
+        },
+        {
+          "verse": 6,
+          "original": "among whom you are also called to belong to Jesus Christ;",
+          "korean": "여러분도 그들 가운데 있어서 예수 그리스도께 속하도록 부름받았어요."
+        },
+        {
+          "verse": 7,
+          "original": "to all who are in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "korean": "로마에 있는 모든 분들, 하나님의 사랑을 받고 성도로 부름받은 분들에게 인사드려요. 우리 아버지 하나님과 주 예수 그리스도로부터 은혜와 평강이 있기를 바라요."
+        },
+        {
+          "verse": 8,
+          "original": "First, I thank my God through Jesus Christ for all of you, that your faith is proclaimed throughout the whole world.",
+          "korean": "먼저, 여러분 모두를 위해 예수 그리스도를 통하여 하나님께 감사드려요. 여러분의 믿음이 온 세상에 알려지고 있기 때문이에요."
+        },
+        {
+          "verse": 9,
+          "original": "For God is my witness, whom I serve in my spirit in the Good News of his Son, how unceasingly I make mention of you always in my prayers,",
+          "korean": "하나님은 제가 그분의 아들의 복음 안에서 영으로 섬기는 분이시고, 제가 항상 기도할 때마다 쉬지 않고 여러분을 기억한다는 것을 증거해 주세요."
+        },
+        {
+          "verse": 10,
+          "original": "requesting, if by any means now at last I may be prospered by the will of God to come to you.",
+          "korean": "저는 어떻게든 하나님의 뜻대로 마침내 여러분에게 갈 수 있기를 기도하고 있어요."
+        },
+        {
+          "verse": 11,
+          "original": "For I long to see you, that I may impart to you some spiritual gift, to the end that you may be established;",
+          "korean": "저는 여러분을 보고 싶어요. 여러분이 든든히 서도록 영적인 은사를 나눠 드리고 싶기 때문이에요."
+        },
+        {
+          "verse": 12,
+          "original": "that is, that I with you may be encouraged in you, each of us by the other's faith, both yours and mine.",
+          "korean": "그것은 여러분과 함께 있을 때, 서로의 믿음으로 함께 격려받기 위해서예요. 여러분의 믿음과 저의 믿음으로요."
+        },
+        {
+          "verse": 13,
+          "original": "Now I don't desire to have you unaware, brothers, that I often planned to come to you, and was hindered so far, that I might have some fruit among you also, even as among the rest of the Gentiles.",
+          "korean": "형제 여러분, 제가 여러분에게 가려고 여러 번 계획했지만 지금까지 막혔다는 것을 알아 주세요. 다른 이방인들 가운데서처럼 여러분 가운데서도 열매를 맺고 싶었어요."
+        },
+        {
+          "verse": 14,
+          "original": "I am debtor both to Greeks and to foreigners, both to the wise and to the foolish.",
+          "korean": "저는 그리스인에게도 외국인에게도, 지혜로운 사람에게도 어리석은 사람에게도 빚진 사람이에요."
+        },
+        {
+          "verse": 15,
+          "original": "So as much as is in me, I am eager to preach the Good News to you also who are in Rome.",
+          "korean": "그래서 제가 할 수 있는 한 로마에 있는 여러분에게도 복음을 전하고 싶어요."
+        },
+        {
+          "verse": 16,
+          "original": "For I am not ashamed of the Good News of Christ, because it is the power of God for salvation for everyone who believes, for the Jew first, and also for the Greek.",
+          "korean": "저는 그리스도의 복음을 부끄러워하지 않아요. 복음은 믿는 모든 사람을 구원하시는 하나님의 능력이기 때문이에요. 먼저 유대인에게, 또한 그리스인에게도요."
+        },
+        {
+          "verse": 17,
+          "original": "For in it is revealed God's righteousness from faith to faith. As it is written, \"But the righteous shall live by faith.\"",
+          "korean": "복음 안에서 하나님의 의가 믿음에서 믿음으로 나타나요. 성경에 기록된 대로 \"의로운 사람은 믿음으로 살 것이다\"라고 했어요."
+        },
+        {
+          "verse": 18,
+          "original": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness,",
+          "korean": "하나님의 진노가 하늘로부터 나타나요. 진리를 불의로 막는 사람들의 모든 경건하지 않음과 불의를 향해서예요."
+        },
+        {
+          "verse": 19,
+          "original": "because that which is known of God is revealed in them, for God revealed it to them.",
+          "korean": "하나님에 대해 알 수 있는 것이 그들 가운데 나타났기 때문이에요. 하나님께서 그것을 그들에게 보여 주셨어요."
+        },
+        {
+          "verse": 20,
+          "original": "For the invisible things of him since the creation of the world are clearly seen, being perceived through the things that are made, even his everlasting power and divinity, that they may be without excuse.",
+          "korean": "세상이 창조된 이후로 하나님의 보이지 않는 것들, 곧 그분의 영원한 능력과 신성이 만들어진 것들을 통해 분명히 보이고 알려졌어요. 그래서 그들은 변명할 수 없어요."
+        },
+        {
+          "verse": 21,
+          "original": "Because knowing God, they didn't glorify him as God, and didn't give thanks, but became vain in their reasoning, and their senseless heart was darkened.",
+          "korean": "하나님을 알면서도 하나님으로 영광을 돌리지 않고 감사하지 않았어요. 그들의 생각은 헛되어지고 어리석은 마음이 어두워졌어요."
+        },
+        {
+          "verse": 22,
+          "original": "Professing themselves to be wise, they became fools,",
+          "korean": "스스로 지혜롭다고 하면서 오히려 어리석은 자가 되었어요."
+        },
+        {
+          "verse": 23,
+          "original": "and traded the glory of the incorruptible God for the likeness of an image of corruptible man, and of birds, four-footed animals, and creeping things.",
+          "korean": "그들은 썩지 않는 하나님의 영광을 썩어질 사람과 새와 네 발 달린 짐승과 기어다니는 것들의 형상과 바꿨어요."
+        },
+        {
+          "verse": 24,
+          "original": "Therefore God also gave them up in the lusts of their hearts to uncleanness, that their bodies should be dishonored among themselves;",
+          "korean": "그래서 하나님께서는 그들을 마음의 욕심대로 더러움에 내버려 두셨어요. 그래서 그들 사이에서 그들의 몸이 더럽혀졌어요."
+        },
+        {
+          "verse": 25,
+          "original": "who exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen.",
+          "korean": "그들은 하나님의 진리를 거짓과 바꾸고, 창조주보다 피조물을 숭배하고 섬겼어요. 창조주는 영원히 찬양받으실 분이에요. 아멘."
+        },
+        {
+          "verse": 26,
+          "original": "For this reason, God gave them up to vile passions. For their women changed the natural function into that which is against nature.",
+          "korean": "이런 이유로 하나님께서 그들을 부끄러운 욕정에 내버려 두셨어요. 그들은 자연스러운 것을 자연스럽지 않은 것으로 바꿨어요."
+        },
+        {
+          "verse": 27,
+          "original": "Likewise also the men, leaving the natural function of the woman, burned in their lust toward one another, men doing what is inappropriate with men, and receiving in themselves the due penalty of their error.",
+          "korean": "마찬가지로 남자들도 자연스러운 것을 버리고 서로에게 욕정을 품어 적합하지 않은 일을 했고, 그 잘못에 대한 마땅한 벌을 스스로 받았어요."
+        },
+        {
+          "verse": 28,
+          "original": "Even as they refused to have God in their knowledge, God gave them up to a reprobate mind, to do those things which are not fitting;",
+          "korean": "그들이 하나님을 인정하기 싫어하자 하나님께서는 그들을 버려진 마음에 내버려 두셔서 합당하지 않은 일들을 하게 되었어요."
+        },
+        {
+          "verse": 29,
+          "original": "being filled with all unrighteousness, sexual immorality, wickedness, covetousness, malice; full of envy, murder, strife, deceit, evil habits, secret slanderers,",
+          "korean": "그들은 온갖 불의, 악함, 탐욕, 악의로 가득 차 있어요. 시기, 살인, 다툼, 속임, 나쁜 습관, 뒤에서 헐뜯는 것으로 가득해요."
+        },
+        {
+          "verse": 30,
+          "original": "backbiters, hateful to God, insolent, arrogant, boastful, inventors of evil things, disobedient to parents,",
+          "korean": "험담하고, 하나님을 미워하며, 건방지고, 교만하고, 자랑하며, 나쁜 일을 만들어 내고, 부모에게 순종하지 않아요."
+        },
+        {
+          "verse": 31,
+          "original": "without understanding, covenant breakers, without natural affection, unforgiving, unmerciful;",
+          "korean": "깨닫지 못하고, 약속을 지키지 않으며, 자연스러운 사랑이 없고, 용서하지 않으며, 자비가 없어요."
+        },
+        {
+          "verse": 32,
+          "original": "who, knowing the ordinance of God, that those who practice such things are worthy of death, not only do the same, but also approve of those who practice them.",
+          "korean": "이런 일을 하는 사람들이 죽음을 받아 마땅하다는 하나님의 규정을 알면서도, 그런 일을 할 뿐만 아니라 그런 일을 하는 사람들을 칭찬하기까지 해요."
+        }
+      ]
+    }
+  ]
+}
