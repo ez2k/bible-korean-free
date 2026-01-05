@@ -6471,6 +6471,201 @@
           "korean": "모든 나라 사람들이 곡식을 사려고 이집트의 요셉에게 왔어요. 온 땅에 기근이 심했기 때문이에요."
         }
       ]
+    },
+    {
+      "chapter": 42,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now Jacob saw that there was grain in Egypt, and Jacob said to his sons, \"Why do you look at one another?\"",
+          "korean": "야곱이 이집트에 곡식이 있다는 것을 알고, 아들들에게 말했어요. \"왜 서로 쳐다보기만 하느냐?\""
+        },
+        {
+          "verse": 2,
+          "original": "He said, \"Behold, I have heard that there is grain in Egypt. Go down there, and buy for us from there, so that we may live, and not die.\"",
+          "korean": "야곱이 말했어요. \"들으니 이집트에 곡식이 있다고 한다. 거기에 내려가서 우리를 위해 곡식을 사 오너라. 그래야 우리가 살고 죽지 않는다.\""
+        },
+        {
+          "verse": 3,
+          "original": "Joseph's ten brothers went down to buy grain from Egypt.",
+          "korean": "요셉의 열 형제가 이집트로 곡식을 사러 내려갔어요."
+        },
+        {
+          "verse": 4,
+          "original": "But Jacob didn't send Benjamin, Joseph's brother, with his brothers; for he said, \"Lest perhaps harm happen to him.\"",
+          "korean": "그러나 야곱은 요셉의 동생 베냐민은 형제들과 함께 보내지 않았어요. \"혹시 그에게 해가 될까봐\" 걱정했기 때문이에요."
+        },
+        {
+          "verse": 5,
+          "original": "The sons of Israel came to buy among those who came, for the famine was in the land of Canaan.",
+          "korean": "이스라엘의 아들들이 다른 사람들과 함께 곡식을 사러 왔어요. 가나안 땅에도 기근이 있었기 때문이에요."
+        },
+        {
+          "verse": 6,
+          "original": "Joseph was the governor over the land. It was he who sold to all the people of the land. Joseph's brothers came, and bowed themselves down to him with their faces to the earth.",
+          "korean": "요셉이 그 땅의 총리였어요. 그가 온 땅의 백성에게 곡식을 팔았어요. 요셉의 형들이 와서 얼굴을 땅에 대고 그에게 절했어요."
+        },
+        {
+          "verse": 7,
+          "original": "Joseph saw his brothers, and he recognized them, but acted like a stranger to them, and spoke roughly with them. He said to them, \"Where did you come from?\" They said, \"From the land of Canaan, to buy food.\"",
+          "korean": "요셉이 형들을 보고 알아보았지만, 모르는 척하며 그들에게 엄하게 말했어요. \"너희는 어디서 왔느냐?\" 그들이 대답했어요. \"가나안 땅에서 양식을 사러 왔습니다.\""
+        },
+        {
+          "verse": 8,
+          "original": "Joseph recognized his brothers, but they didn't recognize him.",
+          "korean": "요셉은 형들을 알아보았지만, 형들은 요셉을 알아보지 못했어요."
+        },
+        {
+          "verse": 9,
+          "original": "Joseph remembered the dreams which he dreamed about them, and said to them, \"You are spies! You have come to see the nakedness of the land.\"",
+          "korean": "요셉이 형들에 대해 꾸었던 꿈을 기억했어요. 그리고 그들에게 말했어요. \"너희는 정탐꾼이다! 이 땅의 약점을 살피러 온 것이다.\""
+        },
+        {
+          "verse": 10,
+          "original": "They said to him, \"No, my lord, but your servants have come to buy food.",
+          "korean": "그들이 말했어요. \"아닙니다, 나리. 종들은 양식을 사러 왔습니다."
+        },
+        {
+          "verse": 11,
+          "original": "We are all one man's sons; we are honest men. Your servants are not spies.\"",
+          "korean": "우리는 모두 한 사람의 아들들이고, 정직한 사람들입니다. 종들은 정탐꾼이 아닙니다.\""
+        },
+        {
+          "verse": 12,
+          "original": "He said to them, \"No, but you have come to see the nakedness of the land!\"",
+          "korean": "요셉이 말했어요. \"아니다, 너희는 이 땅의 약점을 살피러 온 것이다!\""
+        },
+        {
+          "verse": 13,
+          "original": "They said, \"We, your servants, are twelve brothers, the sons of one man in the land of Canaan; and behold, the youngest is today with our father, and one is no more.\"",
+          "korean": "그들이 말했어요. \"종들은 열두 형제로, 가나안 땅에 있는 한 사람의 아들들입니다. 막내는 오늘 우리 아버지와 함께 있고, 한 사람은 없어졌습니다.\""
+        },
+        {
+          "verse": 14,
+          "original": "Joseph said to them, \"It is like I told you, saying, 'You are spies!'",
+          "korean": "요셉이 그들에게 말했어요. \"내가 말한 대로, '너희는 정탐꾼이다!'"
+        },
+        {
+          "verse": 15,
+          "original": "By this you shall be tested. By the life of Pharaoh, you shall not go out from here, unless your youngest brother comes here.",
+          "korean": "이렇게 너희를 시험하겠다. 바로의 생명을 두고 맹세하는데, 너희 막내 동생이 여기 오지 않으면 너희는 여기서 나가지 못할 것이다."
+        },
+        {
+          "verse": 16,
+          "original": "Send one of you, and let him get your brother, and you shall be bound, that your words may be tested, whether there is truth in you, or else by the life of Pharaoh surely you are spies.\"",
+          "korean": "너희 중 한 사람을 보내어 동생을 데려오게 하라. 그동안 너희는 갇혀 있을 것이다. 그래야 너희 말이 진실인지 시험할 수 있다. 그렇지 않으면 바로의 생명을 두고 맹세하는데 너희는 정탐꾼이다.\""
+        },
+        {
+          "verse": 17,
+          "original": "He put them all together into custody for three days.",
+          "korean": "요셉이 그들을 모두 함께 삼 일 동안 가두었어요."
+        },
+        {
+          "verse": 18,
+          "original": "Joseph said to them the third day, \"Do this, and live, for I fear God.",
+          "korean": "셋째 날에 요셉이 그들에게 말했어요. \"이렇게 하면 너희가 살 것이다. 나는 하나님을 두려워하는 사람이다."
+        },
+        {
+          "verse": 19,
+          "original": "If you are honest men, then let one of your brothers be bound in your prison; but you go, carry grain for the famine of your houses.",
+          "korean": "너희가 정직한 사람들이라면, 너희 형제 중 한 사람이 감옥에 갇혀 있게 하라. 너희는 가서 기근 때문에 너희 집에 필요한 곡식을 가져가라."
+        },
+        {
+          "verse": 20,
+          "original": "Bring your youngest brother to me; so will your words be verified, and you won't die.\" They did so.",
+          "korean": "그리고 너희 막내 동생을 나에게 데려오라. 그러면 너희 말이 확인되고, 너희는 죽지 않을 것이다.\" 그들이 그대로 했어요."
+        },
+        {
+          "verse": 21,
+          "original": "They said to one another, \"We are certainly guilty concerning our brother, in that we saw the distress of his soul, when he begged us, and we wouldn't listen. Therefore this distress has come upon us.\"",
+          "korean": "그들이 서로 말했어요. \"우리가 정말 동생에게 죄를 지었다. 그가 우리에게 살려달라고 빌었을 때 그 마음의 고통을 보고도 듣지 않았다. 그래서 이 고난이 우리에게 닥친 것이다.\""
+        },
+        {
+          "verse": 22,
+          "original": "Reuben answered them, saying, \"Didn't I tell you, saying, 'Don't sin against the child,' and you wouldn't listen? Therefore also, behold, his blood is required.\"",
+          "korean": "르우벤이 대답했어요. \"내가 '그 아이에게 죄를 짓지 마라'고 말하지 않았느냐? 그런데 너희가 듣지 않았다. 그래서 그의 피 값을 치르게 된 것이다.\""
+        },
+        {
+          "verse": 23,
+          "original": "They didn't know that Joseph understood them; for there was an interpreter between them.",
+          "korean": "그들은 요셉이 그들의 말을 알아듣는 줄 몰랐어요. 그들 사이에 통역관이 있었기 때문이에요."
+        },
+        {
+          "verse": 24,
+          "original": "He turned himself away from them, and wept. Then he returned to them, and spoke to them, and took Simeon from among them, and bound him before their eyes.",
+          "korean": "요셉이 그들에게서 돌아서서 울었어요. 그러고 나서 다시 그들에게 돌아와서 말했어요. 그리고 그들 중에서 시므온을 잡아 그들이 보는 앞에서 묶었어요."
+        },
+        {
+          "verse": 25,
+          "original": "Then Joseph gave a command to fill their bags with grain, and to restore each man's money into his sack, and to give them food for the way. So it was done to them.",
+          "korean": "요셉이 그들의 자루에 곡식을 채우고, 각자의 돈을 그 자루에 도로 넣고, 길에서 먹을 음식을 주라고 명령했어요. 그대로 해 주었어요."
+        },
+        {
+          "verse": 26,
+          "original": "They loaded their donkeys with their grain, and departed from there.",
+          "korean": "그들이 나귀에 곡식을 싣고 거기서 떠났어요."
+        },
+        {
+          "verse": 27,
+          "original": "As one of them opened his sack to give his donkey food in the lodging place, he saw his money. Behold, it was in the mouth of his sack.",
+          "korean": "묵는 곳에서 한 사람이 나귀에게 먹이를 주려고 자루를 열었을 때, 자기 돈을 보았어요. 자루 입구에 있었어요."
+        },
+        {
+          "verse": 28,
+          "original": "He said to his brothers, \"My money is restored! Behold, it is in my sack!\" Their hearts failed them, and they turned trembling to one another, saying, \"What is this that God has done to us?\"",
+          "korean": "그가 형제들에게 말했어요. \"내 돈이 돌아왔다! 보라, 내 자루에 있다!\" 그들의 마음이 철렁 내려앉았어요. 그들이 떨면서 서로 말했어요. \"하나님께서 우리에게 이게 무슨 일을 하신 것인가?\""
+        },
+        {
+          "verse": 29,
+          "original": "They came to Jacob their father, to the land of Canaan, and told him all that had happened to them, saying,",
+          "korean": "그들이 가나안 땅에 있는 아버지 야곱에게 와서, 그들에게 일어난 모든 일을 말했어요."
+        },
+        {
+          "verse": 30,
+          "original": "\"The man, the lord of the land, spoke roughly with us, and took us for spies of the country.",
+          "korean": "\"그 땅의 주인인 그 사람이 우리에게 엄하게 말하며, 우리를 그 나라의 정탐꾼으로 여겼습니다."
+        },
+        {
+          "verse": 31,
+          "original": "We said to him, 'We are honest men. We are no spies.",
+          "korean": "우리가 그에게 말했습니다. '우리는 정직한 사람들입니다. 우리는 정탐꾼이 아닙니다."
+        },
+        {
+          "verse": 32,
+          "original": "We are twelve brothers, sons of our father; one is no more, and the youngest is today with our father in the land of Canaan.'",
+          "korean": "우리는 아버지의 아들인 열두 형제입니다. 한 사람은 없어졌고, 막내는 오늘 가나안 땅에서 우리 아버지와 함께 있습니다.'"
+        },
+        {
+          "verse": 33,
+          "original": "The man, the lord of the land, said to us, 'By this I will know that you are honest men: leave one of your brothers with me, and take grain for the famine of your houses, and go your way.",
+          "korean": "그 땅의 주인인 그 사람이 우리에게 말했습니다. '이렇게 해야 너희가 정직한 사람들인 줄 알겠다. 너희 형제 중 한 사람을 나에게 남겨두고, 너희 집의 기근을 위한 곡식을 가지고 가라."
+        },
+        {
+          "verse": 34,
+          "original": "Bring your youngest brother to me. Then I will know that you are not spies, but that you are honest men. So I will deliver your brother to you, and you shall trade in the land.' \"",
+          "korean": "너희 막내 동생을 나에게 데려오라. 그러면 너희가 정탐꾼이 아니라 정직한 사람들인 줄 알겠다. 그러면 너희 형제를 돌려보내 주고, 너희가 이 땅에서 장사할 수 있게 해 주겠다.'\""
+        },
+        {
+          "verse": 35,
+          "original": "As they emptied their sacks, behold, each man's bundle of money was in his sack. When they and their father saw their bundles of money, they were afraid.",
+          "korean": "그들이 자루를 비웠을 때, 각 사람의 돈 꾸러미가 자루 안에 있었어요. 그들과 아버지가 돈 꾸러미들을 보고 두려워했어요."
+        },
+        {
+          "verse": 36,
+          "original": "Jacob, their father, said to them, \"You have bereaved me of my children! Joseph is no more, Simeon is no more, and you want to take Benjamin away. All these things are against me.\"",
+          "korean": "아버지 야곱이 그들에게 말했어요. \"너희가 내 자녀들을 잃게 했다! 요셉도 없고, 시므온도 없고, 이제 베냐민까지 데려가려고 한다. 이 모든 일이 나를 힘들게 한다.\""
+        },
+        {
+          "verse": 37,
+          "original": "Reuben spoke to his father, saying, \"Kill my two sons, if I don't bring him to you. Entrust him to my care, and I will bring him to you again.\"",
+          "korean": "르우벤이 아버지에게 말했어요. \"제가 그를 아버지께 데려오지 않으면, 제 두 아들을 죽이십시오. 저에게 맡겨 주십시오. 제가 그를 다시 데려오겠습니다.\""
+        },
+        {
+          "verse": 38,
+          "original": "He said, \"My son shall not go down with you; for his brother is dead, and he only is left. If harm happens to him along the way in which you go, then you will bring down my gray hairs with sorrow to Sheol.\"",
+          "korean": "야곱이 말했어요. \"내 아들이 너희와 함께 내려가지 않을 것이다. 그의 형이 죽었고, 그만 남았다. 만약 너희가 가는 길에서 그에게 해가 생기면, 너희가 내 흰 머리를 슬픔 속에 무덤으로 내려가게 할 것이다.\""
+        }
+      ]
     }
   ]
 }
