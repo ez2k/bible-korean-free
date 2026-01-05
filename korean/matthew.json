@@ -1,0 +1,136 @@
+{
+  "book": "Matthew",
+  "bookKorean": "마태복음",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.",
+          "korean": "아브라함의 자손이요 다윗의 자손인 예수 그리스도의 족보예요."
+        },
+        {
+          "verse": 2,
+          "original": "Abraham became the father of Isaac. Isaac became the father of Jacob. Jacob became the father of Judah and his brothers.",
+          "korean": "아브라함은 이삭을 낳고, 이삭은 야곱을 낳고, 야곱은 유다와 그의 형제들을 낳았어요."
+        },
+        {
+          "verse": 3,
+          "original": "Judah became the father of Perez and Zerah by Tamar. Perez became the father of Hezron. Hezron became the father of Ram.",
+          "korean": "유다는 다말에게서 베레스와 세라를 낳고, 베레스는 헤스론을 낳고, 헤스론은 람을 낳았어요."
+        },
+        {
+          "verse": 4,
+          "original": "Ram became the father of Amminadab. Amminadab became the father of Nahshon. Nahshon became the father of Salmon.",
+          "korean": "람은 아미나답을 낳고, 아미나답은 나손을 낳고, 나손은 살몬을 낳았어요."
+        },
+        {
+          "verse": 5,
+          "original": "Salmon became the father of Boaz by Rahab. Boaz became the father of Obed by Ruth. Obed became the father of Jesse.",
+          "korean": "살몬은 라합에게서 보아스를 낳고, 보아스는 룻에게서 오벳을 낳고, 오벳은 이새를 낳았어요."
+        },
+        {
+          "verse": 6,
+          "original": "Jesse became the father of King David. David became the father of Solomon by her who had been Uriah's wife.",
+          "korean": "이새는 다윗 왕을 낳았어요. 다윗은 우리아의 아내였던 여인에게서 솔로몬을 낳았어요."
+        },
+        {
+          "verse": 7,
+          "original": "Solomon became the father of Rehoboam. Rehoboam became the father of Abijah. Abijah became the father of Asa.",
+          "korean": "솔로몬은 르호보암을 낳고, 르호보암은 아비야를 낳고, 아비야는 아사를 낳았어요."
+        },
+        {
+          "verse": 8,
+          "original": "Asa became the father of Jehoshaphat. Jehoshaphat became the father of Joram. Joram became the father of Uzziah.",
+          "korean": "아사는 여호사밧을 낳고, 여호사밧은 요람을 낳고, 요람은 웃시야를 낳았어요."
+        },
+        {
+          "verse": 9,
+          "original": "Uzziah became the father of Jotham. Jotham became the father of Ahaz. Ahaz became the father of Hezekiah.",
+          "korean": "웃시야는 요담을 낳고, 요담은 아하스를 낳고, 아하스는 히스기야를 낳았어요."
+        },
+        {
+          "verse": 10,
+          "original": "Hezekiah became the father of Manasseh. Manasseh became the father of Amon. Amon became the father of Josiah.",
+          "korean": "히스기야는 므낫세를 낳고, 므낫세는 아몬을 낳고, 아몬은 요시야를 낳았어요."
+        },
+        {
+          "verse": 11,
+          "original": "Josiah became the father of Jechoniah and his brothers, at the time of the exile to Babylon.",
+          "korean": "바빌론으로 잡혀갈 때쯤, 요시야는 여고냐와 그의 형제들을 낳았어요."
+        },
+        {
+          "verse": 12,
+          "original": "After the exile to Babylon, Jechoniah became the father of Shealtiel. Shealtiel became the father of Zerubbabel.",
+          "korean": "바빌론으로 잡혀간 후에, 여고냐는 스알디엘을 낳고, 스알디엘은 스룹바벨을 낳았어요."
+        },
+        {
+          "verse": 13,
+          "original": "Zerubbabel became the father of Abiud. Abiud became the father of Eliakim. Eliakim became the father of Azor.",
+          "korean": "스룹바벨은 아비훗을 낳고, 아비훗은 엘리아김을 낳고, 엘리아김은 아소르를 낳았어요."
+        },
+        {
+          "verse": 14,
+          "original": "Azor became the father of Zadok. Zadok became the father of Achim. Achim became the father of Eliud.",
+          "korean": "아소르는 사독을 낳고, 사독은 아킴을 낳고, 아킴은 엘리웃을 낳았어요."
+        },
+        {
+          "verse": 15,
+          "original": "Eliud became the father of Eleazar. Eleazar became the father of Matthan. Matthan became the father of Jacob.",
+          "korean": "엘리웃은 엘르아살을 낳고, 엘르아살은 맛단을 낳고, 맛단은 야곱을 낳았어요."
+        },
+        {
+          "verse": 16,
+          "original": "Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ.",
+          "korean": "야곱은 마리아의 남편 요셉을 낳았어요. 마리아에게서 그리스도라고 불리는 예수님이 태어나셨어요."
+        },
+        {
+          "verse": 17,
+          "original": "So all the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Christ, fourteen generations.",
+          "korean": "그래서 아브라함부터 다윗까지 열네 대이고, 다윗부터 바빌론으로 잡혀갈 때까지 열네 대이고, 바빌론으로 잡혀간 때부터 그리스도까지 열네 대예요."
+        },
+        {
+          "verse": 18,
+          "original": "Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit.",
+          "korean": "예수 그리스도의 탄생은 이러했어요. 어머니 마리아가 요셉과 약혼했는데, 함께 살기 전에 성령으로 아기를 가진 것이 알려졌어요."
+        },
+        {
+          "verse": 19,
+          "original": "Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly.",
+          "korean": "그녀의 남편 요셉은 의로운 사람이어서 마리아를 공개적으로 망신 주고 싶지 않았어요. 그래서 조용히 파혼하려고 했어요."
+        },
+        {
+          "verse": 20,
+          "original": "But when he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, \"Joseph, son of David, don't be afraid to take to yourself Mary, your wife, for that which is conceived in her is of the Holy Spirit.",
+          "korean": "그런데 이런 생각을 하고 있을 때, 주님의 천사가 꿈에 나타나서 말했어요. \"다윗의 자손 요셉아, 마리아를 아내로 맞이하는 것을 두려워하지 마라. 그녀에게 있는 아기는 성령으로 된 것이다."
+        },
+        {
+          "verse": 21,
+          "original": "She shall give birth to a son. You shall name him Jesus, for it is he who shall save his people from their sins.\"",
+          "korean": "그녀가 아들을 낳을 것이다. 그 이름을 예수라고 지어라. 그가 자기 백성을 죄에서 구원할 것이기 때문이다.\""
+        },
+        {
+          "verse": 22,
+          "original": "Now all this has happened that it might be fulfilled which was spoken by the Lord through the prophet, saying,",
+          "korean": "이 모든 일이 일어난 것은 주님께서 예언자를 통해 말씀하신 것이 이루어지게 하려는 것이었어요."
+        },
+        {
+          "verse": 23,
+          "original": "\"Behold, the virgin shall be with child, and shall give birth to a son. They shall call his name Immanuel;\" which is, being interpreted, \"God with us.\"",
+          "korean": "\"보라, 처녀가 아기를 가져서 아들을 낳을 것이다. 그 이름을 임마누엘이라고 부를 것이다.\" 임마누엘은 '하나님이 우리와 함께 계시다'라는 뜻이에요."
+        },
+        {
+          "verse": 24,
+          "original": "Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself;",
+          "korean": "요셉이 잠에서 깨어나 주님의 천사가 명령한 대로 했어요. 마리아를 아내로 맞이했어요."
+        },
+        {
+          "verse": 25,
+          "original": "and didn't know her sexually until she had given birth to her firstborn son. He named him Jesus.",
+          "korean": "마리아가 첫 아들을 낳을 때까지 함께 살지 않았어요. 그리고 그 아들의 이름을 예수라고 지었어요."
+        }
+      ]
+    }
+  ]
+}
