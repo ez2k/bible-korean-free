@@ -1,0 +1,411 @@
+{
+  "book": "Luke",
+  "bookKorean": "누가복음",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Since many have undertaken to set in order a narrative concerning those matters which have been fulfilled among us,",
+          "korean": "우리 가운데 이루어진 일들에 대해 많은 사람이 이야기를 정리하여 쓰려고 했어요."
+        },
+        {
+          "verse": 2,
+          "original": "even as those who from the beginning were eyewitnesses and servants of the word delivered them to us,",
+          "korean": "처음부터 눈으로 직접 보고 말씀을 전한 사람들이 우리에게 전해준 대로 말이에요."
+        },
+        {
+          "verse": 3,
+          "original": "it seemed good to me also, having traced the course of all things accurately from the first, to write to you in order, most excellent Theophilus;",
+          "korean": "그래서 저도 처음부터 모든 일을 자세히 조사한 후에, 존경하는 데오빌로님께 차례대로 써 드리는 것이 좋겠다고 생각했어요."
+        },
+        {
+          "verse": 4,
+          "original": "that you might know the certainty concerning the things in which you were instructed.",
+          "korean": "그래야 당신이 배운 것들이 확실하다는 것을 알 수 있을 거예요."
+        },
+        {
+          "verse": 5,
+          "original": "There was in the days of Herod, the king of Judea, a certain priest named Zacharias, of the priestly division of Abijah. He had a wife of the daughters of Aaron, and her name was Elizabeth.",
+          "korean": "유대 왕 헤롯 시대에 아비야 반열에 속한 사가랴라는 제사장이 있었어요. 그의 아내는 아론의 자손으로 이름이 엘리사벳이었어요."
+        },
+        {
+          "verse": 6,
+          "original": "They were both righteous before God, walking blamelessly in all the commandments and ordinances of the Lord.",
+          "korean": "두 사람은 모두 하나님 앞에서 의로웠고, 주님의 모든 계명과 규례를 흠 없이 지켰어요."
+        },
+        {
+          "verse": 7,
+          "original": "But they had no child, because Elizabeth was barren, and they both were well advanced in years.",
+          "korean": "그러나 그들에게는 아이가 없었어요. 엘리사벳이 아이를 낳지 못했고, 두 사람 모두 나이가 많았거든요."
+        },
+        {
+          "verse": 8,
+          "original": "Now while he executed the priest's office before God in the order of his division",
+          "korean": "사가랴가 자기 반열의 차례대로 하나님 앞에서 제사장의 직무를 수행하고 있을 때,"
+        },
+        {
+          "verse": 9,
+          "original": "according to the custom of the priest's office, his lot was to enter into the temple of the Lord and burn incense.",
+          "korean": "제사장의 관례에 따라 제비를 뽑았는데, 주님의 성전에 들어가 향을 피우는 일이 그에게 돌아왔어요."
+        },
+        {
+          "verse": 10,
+          "original": "The whole multitude of the people were praying outside at the hour of incense.",
+          "korean": "향을 피우는 시간에 모든 사람들이 밖에서 기도하고 있었어요."
+        },
+        {
+          "verse": 11,
+          "original": "An angel of the Lord appeared to him, standing on the right side of the altar of incense.",
+          "korean": "그때 주님의 천사가 향단 오른쪽에 서서 사가랴에게 나타났어요."
+        },
+        {
+          "verse": 12,
+          "original": "Zacharias was troubled when he saw him, and fear fell upon him.",
+          "korean": "사가랴는 천사를 보고 두려워하며 놀랐어요."
+        },
+        {
+          "verse": 13,
+          "original": "But the angel said to him, \"Don't be afraid, Zacharias, because your request has been heard. Your wife, Elizabeth, will bear you a son, and you shall call his name John.",
+          "korean": "그러나 천사가 그에게 말했어요. \"두려워하지 마세요, 사가랴. 당신의 기도가 들렸어요. 당신의 아내 엘리사벳이 아들을 낳을 것이니, 그 이름을 요한이라 하세요."
+        },
+        {
+          "verse": 14,
+          "original": "You will have joy and gladness, and many will rejoice at his birth.",
+          "korean": "당신에게 기쁨과 즐거움이 있을 것이고, 많은 사람이 그가 태어나는 것을 기뻐할 거예요."
+        },
+        {
+          "verse": 15,
+          "original": "For he will be great in the sight of the Lord, and he will drink no wine nor strong drink. He will be filled with the Holy Spirit, even from his mother's womb.",
+          "korean": "그는 주님 앞에서 큰 사람이 될 것이에요. 포도주나 독한 술을 마시지 않을 것이고, 어머니 배 속에서부터 성령으로 충만할 거예요."
+        },
+        {
+          "verse": 16,
+          "original": "He will turn many of the children of Israel to the Lord their God.",
+          "korean": "그가 이스라엘 자손 중 많은 사람을 그들의 하나님 여호와께로 돌아오게 할 거예요."
+        },
+        {
+          "verse": 17,
+          "original": "He will go before him in the spirit and power of Elijah, 'to turn the hearts of the fathers to the children,' and the disobedient to the wisdom of the just; to prepare a people prepared for the Lord.\"",
+          "korean": "그는 엘리야의 심령과 능력으로 주님보다 앞서 가서, '아버지들의 마음을 자녀에게로' 돌이키고, 순종하지 않는 자들을 의로운 사람들의 지혜로 돌이켜, 주님을 위해 준비된 백성을 예비할 거예요.\""
+        },
+        {
+          "verse": 18,
+          "original": "Zacharias said to the angel, \"How can I be sure of this? For I am an old man, and my wife is well advanced in years.\"",
+          "korean": "사가랴가 천사에게 물었어요. \"제가 어떻게 이것을 확신할 수 있을까요? 저는 늙은 사람이고, 제 아내도 나이가 많은데요.\""
+        },
+        {
+          "verse": 19,
+          "original": "The angel answered him, \"I am Gabriel, who stands in the presence of God. I was sent to speak to you and to bring you this good news.",
+          "korean": "천사가 대답했어요. \"나는 하나님 앞에 서 있는 가브리엘이에요. 나는 당신에게 말하고 이 기쁜 소식을 전하러 보냄을 받았어요."
+        },
+        {
+          "verse": 20,
+          "original": "Behold, you will be silent and not able to speak until the day that these things will happen, because you didn't believe my words, which will be fulfilled in their proper time.\"",
+          "korean": "보세요, 당신은 이 일이 일어나는 날까지 말을 못하고 벙어리가 될 거예요. 제때에 이루어질 내 말을 믿지 않았기 때문이에요.\""
+        },
+        {
+          "verse": 21,
+          "original": "The people were waiting for Zacharias, and they marveled that he delayed in the temple.",
+          "korean": "사람들은 사가랴를 기다리고 있었는데, 그가 성전 안에서 오래 머무는 것을 이상하게 여겼어요."
+        },
+        {
+          "verse": 22,
+          "original": "When he came out, he could not speak to them. They perceived that he had seen a vision in the temple. He continued making signs to them, and remained mute.",
+          "korean": "사가랴가 나왔을 때, 그는 그들에게 말을 할 수 없었어요. 사람들은 그가 성전에서 환상을 본 것을 알았어요. 사가랴는 손짓으로만 말하고 벙어리가 되어 있었어요."
+        },
+        {
+          "verse": 23,
+          "original": "When the days of his service were fulfilled, he departed to his house.",
+          "korean": "사가랴의 직무 기간이 끝나자, 그는 집으로 돌아갔어요."
+        },
+        {
+          "verse": 24,
+          "original": "After these days Elizabeth his wife conceived, and she hid herself five months, saying,",
+          "korean": "이 일이 있은 후에 그의 아내 엘리사벳이 아이를 가졌어요. 그녀는 다섯 달 동안 숨어 지내며 말했어요."
+        },
+        {
+          "verse": 25,
+          "original": "\"Thus has the Lord done to me in the days in which he looked at me, to take away my reproach among men.\"",
+          "korean": "\"주님이 나를 돌보셔서 사람들 사이에서 내 수치를 없애 주셨어요.\""
+        },
+        {
+          "verse": 26,
+          "original": "Now in the sixth month, the angel Gabriel was sent from God to a city of Galilee named Nazareth,",
+          "korean": "여섯째 달에 천사 가브리엘이 하나님께로부터 갈릴리의 나사렛이라는 마을로 보냄을 받았어요."
+        },
+        {
+          "verse": 27,
+          "original": "to a virgin pledged to be married to a man whose name was Joseph, of David's house. The virgin's name was Mary.",
+          "korean": "다윗 집안의 요셉이라는 사람과 약혼한 처녀에게 보내졌는데, 그 처녀의 이름은 마리아였어요."
+        },
+        {
+          "verse": 28,
+          "original": "Having come in, the angel said to her, \"Rejoice, you highly favored one! The Lord is with you. Blessed are you among women!\"",
+          "korean": "천사가 들어와서 마리아에게 말했어요. \"기뻐하세요, 은혜를 크게 받은 자여! 주님이 당신과 함께하세요. 여자 중에 복이 있는 자예요!\""
+        },
+        {
+          "verse": 29,
+          "original": "But when she saw him, she was greatly troubled at the saying, and considered what kind of salutation this might be.",
+          "korean": "마리아는 천사를 보고 그 말에 매우 놀랐어요. 이것이 무슨 인사인지 생각했어요."
+        },
+        {
+          "verse": 30,
+          "original": "The angel said to her, \"Don't be afraid, Mary, for you have found favor with God.",
+          "korean": "천사가 그녀에게 말했어요. \"두려워하지 마세요, 마리아. 당신은 하나님께 은혜를 받았어요."
+        },
+        {
+          "verse": 31,
+          "original": "Behold, you will conceive in your womb and give birth to a son, and shall name him 'Jesus.'",
+          "korean": "보세요, 당신이 아이를 가져서 아들을 낳을 것이니, 그 이름을 '예수'라 하세요."
+        },
+        {
+          "verse": 32,
+          "original": "He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David,",
+          "korean": "그는 위대하게 되어 가장 높으신 분의 아들이라 불릴 거예요. 주 하나님께서 그에게 그의 조상 다윗의 왕위를 주실 거예요."
+        },
+        {
+          "verse": 33,
+          "original": "and he will reign over the house of Jacob forever. There will be no end to his Kingdom.\"",
+          "korean": "그가 야곱의 집안을 영원히 다스릴 것이니, 그의 나라는 끝이 없을 거예요.\""
+        },
+        {
+          "verse": 34,
+          "original": "Mary said to the angel, \"How can this be, seeing I am a virgin?\"",
+          "korean": "마리아가 천사에게 물었어요. \"어떻게 이런 일이 있을 수 있나요? 저는 남자를 알지 못하는데요.\""
+        },
+        {
+          "verse": 35,
+          "original": "The angel answered her, \"The Holy Spirit will come on you, and the power of the Most High will overshadow you. Therefore also the holy one who is born from you will be called the Son of God.",
+          "korean": "천사가 대답했어요. \"성령이 당신에게 임하시고, 가장 높으신 분의 능력이 당신을 덮을 거예요. 그러므로 태어나실 거룩한 분이 하나님의 아들이라 불릴 거예요."
+        },
+        {
+          "verse": 36,
+          "original": "Behold, Elizabeth your relative also has conceived a son in her old age; and this is the sixth month with her who was called barren.",
+          "korean": "보세요, 당신의 친척 엘리사벳도 늙은 나이에 아들을 가졌어요. 아이를 낳지 못한다고 불리던 그녀가 벌써 여섯 달이에요."
+        },
+        {
+          "verse": 37,
+          "original": "For nothing spoken by God is impossible.\"",
+          "korean": "하나님의 말씀은 무엇이든 이루어지지 않을 것이 없어요.\""
+        },
+        {
+          "verse": 38,
+          "original": "Mary said, \"Behold, the servant of the Lord; let it be done to me according to your word.\" The angel departed from her.",
+          "korean": "마리아가 말했어요. \"보세요, 저는 주님의 종이에요. 말씀하신 대로 제게 이루어지기를 바랍니다.\" 천사가 마리아에게서 떠나갔어요."
+        },
+        {
+          "verse": 39,
+          "original": "Mary arose in those days and went into the hill country with haste, into a city of Judah,",
+          "korean": "그때 마리아가 일어나 서둘러 산골 지역의 유대 한 마을로 갔어요."
+        },
+        {
+          "verse": 40,
+          "original": "and entered into the house of Zacharias and greeted Elizabeth.",
+          "korean": "사가랴의 집에 들어가서 엘리사벳에게 인사했어요."
+        },
+        {
+          "verse": 41,
+          "original": "When Elizabeth heard Mary's greeting, the baby leaped in her womb; and Elizabeth was filled with the Holy Spirit.",
+          "korean": "엘리사벳이 마리아의 인사를 들었을 때, 아기가 그녀 배 속에서 뛰었어요. 그리고 엘리사벳이 성령으로 충만해졌어요."
+        },
+        {
+          "verse": 42,
+          "original": "She called out with a loud voice and said, \"Blessed are you among women, and blessed is the fruit of your womb!",
+          "korean": "그녀가 큰 소리로 외쳤어요. \"여자 중에 당신이 복이 있고, 당신 배의 아기도 복이 있어요!"
+        },
+        {
+          "verse": 43,
+          "original": "Why am I so favored, that the mother of my Lord should come to me?",
+          "korean": "어째서 내 주님의 어머니가 나에게 오시는 이런 영광이 주어진 거예요?"
+        },
+        {
+          "verse": 44,
+          "original": "For behold, when the voice of your greeting came into my ears, the baby leaped in my womb for joy!",
+          "korean": "보세요, 당신의 인사 소리가 내 귀에 들릴 때, 아기가 기뻐서 내 배 속에서 뛰었어요!"
+        },
+        {
+          "verse": 45,
+          "original": "Blessed is she who believed, for there will be a fulfillment of the things which have been spoken to her from the Lord!\"",
+          "korean": "믿은 여자에게 복이 있어요! 주님께서 말씀하신 것들이 이루어질 거예요!\""
+        },
+        {
+          "verse": 46,
+          "original": "Mary said, \"My soul magnifies the Lord.",
+          "korean": "마리아가 말했어요. \"내 영혼이 주님을 높이며,"
+        },
+        {
+          "verse": 47,
+          "original": "My spirit has rejoiced in God my Savior,",
+          "korean": "내 영이 나를 구원하시는 하나님을 기뻐해요."
+        },
+        {
+          "verse": 48,
+          "original": "for he has looked at the humble state of his servant. For behold, from now on, all generations will call me blessed.",
+          "korean": "주님이 이 종의 낮은 모습을 돌보셨기 때문이에요. 보세요, 이제부터 모든 세대가 나를 복되다 할 거예요."
+        },
+        {
+          "verse": 49,
+          "original": "For he who is mighty has done great things for me. Holy is his name.",
+          "korean": "능하신 분이 나에게 큰 일을 행하셨어요. 그분의 이름은 거룩해요."
+        },
+        {
+          "verse": 50,
+          "original": "His mercy is for generations of generations on those who fear him.",
+          "korean": "그분의 자비는 그분을 경외하는 자들에게 대대로 이어져요."
+        },
+        {
+          "verse": 51,
+          "original": "He has shown strength with his arm. He has scattered the proud in the imagination of their hearts.",
+          "korean": "그분이 그 팔로 힘을 보이시고, 마음에 교만한 자들을 흩으셨어요."
+        },
+        {
+          "verse": 52,
+          "original": "He has put down princes from their thrones, and has exalted the lowly.",
+          "korean": "권세 있는 자들을 그 자리에서 내리시고, 낮은 자들을 높이셨어요."
+        },
+        {
+          "verse": 53,
+          "original": "He has filled the hungry with good things. He has sent the rich away empty.",
+          "korean": "배고픈 자들을 좋은 것으로 채우시고, 부자들은 빈손으로 보내셨어요."
+        },
+        {
+          "verse": 54,
+          "original": "He has given help to Israel, his servant, that he might remember mercy,",
+          "korean": "자비를 기억하시어 그의 종 이스라엘을 도우셨어요."
+        },
+        {
+          "verse": 55,
+          "original": "as he spoke to our fathers, to Abraham and his offspring forever.\"",
+          "korean": "우리 조상들에게 말씀하신 대로, 아브라함과 그 자손에게 영원히 그렇게 하셨어요.\""
+        },
+        {
+          "verse": 56,
+          "original": "Mary stayed with her about three months, and then returned to her house.",
+          "korean": "마리아는 엘리사벳과 석 달쯤 함께 있다가 집으로 돌아갔어요."
+        },
+        {
+          "verse": 57,
+          "original": "Now the time that Elizabeth should give birth was fulfilled, and she gave birth to a son.",
+          "korean": "엘리사벳이 아기를 낳을 때가 되어 아들을 낳았어요."
+        },
+        {
+          "verse": 58,
+          "original": "Her neighbors and her relatives heard that the Lord had magnified his mercy toward her, and they rejoiced with her.",
+          "korean": "이웃 사람들과 친척들이 주님이 엘리사벳에게 큰 자비를 베푸셨다는 것을 듣고 함께 기뻐했어요."
+        },
+        {
+          "verse": 59,
+          "original": "On the eighth day, they came to circumcise the child; and they would have called him Zacharias, after the name of his father.",
+          "korean": "여드레 째 되는 날, 그들이 아기에게 할례를 행하러 왔어요. 그들은 아버지 이름을 따라 사가랴라고 부르려 했어요."
+        },
+        {
+          "verse": 60,
+          "original": "His mother answered, \"Not so; but he will be called John.\"",
+          "korean": "그러나 어머니가 대답했어요. \"아니에요, 이름을 요한이라 할 거예요.\""
+        },
+        {
+          "verse": 61,
+          "original": "They said to her, \"There is no one among your relatives who is called by this name.\"",
+          "korean": "그들이 그녀에게 말했어요. \"당신 친척 중에는 이 이름을 가진 사람이 없어요.\""
+        },
+        {
+          "verse": 62,
+          "original": "They made signs to his father, what he would have him called.",
+          "korean": "그들이 아버지에게 손짓으로 아기 이름을 무엇으로 지을 것인지 물었어요."
+        },
+        {
+          "verse": 63,
+          "original": "He asked for a writing tablet, and wrote, \"His name is John.\" They all marveled.",
+          "korean": "사가랴가 서판을 달라고 해서 '그 이름은 요한이다'라고 썼어요. 모든 사람이 놀랐어요."
+        },
+        {
+          "verse": 64,
+          "original": "His mouth was opened immediately and his tongue freed, and he spoke, blessing God.",
+          "korean": "그 순간 사가랴의 입이 열리고 혀가 풀려서 말을 하며 하나님을 찬양했어요."
+        },
+        {
+          "verse": 65,
+          "original": "Fear came on all who lived around them, and all these sayings were talked about throughout all the hill country of Judea.",
+          "korean": "주변에 사는 모든 사람이 두려워했고, 이 모든 일이 온 유대 산골 지역에 퍼졌어요."
+        },
+        {
+          "verse": 66,
+          "original": "All who heard them laid them up in their heart, saying, \"What then will this child be?\" The hand of the Lord was with him.",
+          "korean": "이것을 들은 모든 사람이 마음에 새기며 말했어요. \"이 아이가 대체 어떤 사람이 될까?\" 주님의 손이 그와 함께하셨어요."
+        },
+        {
+          "verse": 67,
+          "original": "His father Zacharias was filled with the Holy Spirit, and prophesied, saying,",
+          "korean": "아버지 사가랴가 성령으로 충만해져서 예언했어요."
+        },
+        {
+          "verse": 68,
+          "original": "\"Blessed be the Lord, the God of Israel, for he has visited and redeemed his people;",
+          "korean": "\"이스라엘의 하나님 여호와께서 찬양받으시기를! 그분이 자기 백성을 찾아와 구원하셨어요."
+        },
+        {
+          "verse": 69,
+          "original": "and has raised up a horn of salvation for us in the house of his servant David",
+          "korean": "그분이 그의 종 다윗의 집안에서 우리를 위해 구원의 뿔을 일으키셨어요."
+        },
+        {
+          "verse": 70,
+          "original": "(as he spoke by the mouth of his holy prophets who have been from of old),",
+          "korean": "예전부터 거룩한 선지자들의 입을 통해 말씀하신 대로요."
+        },
+        {
+          "verse": 71,
+          "original": "salvation from our enemies and from the hand of all who hate us;",
+          "korean": "우리 원수들에게서, 그리고 우리를 미워하는 모든 자들의 손에서 구원하셨어요."
+        },
+        {
+          "verse": 72,
+          "original": "to show mercy toward our fathers, to remember his holy covenant,",
+          "korean": "우리 조상들에게 자비를 베푸시고 그분의 거룩한 언약을 기억하셨어요."
+        },
+        {
+          "verse": 73,
+          "original": "the oath which he swore to Abraham our father,",
+          "korean": "이것은 우리 조상 아브라함에게 하신 맹세예요."
+        },
+        {
+          "verse": 74,
+          "original": "to grant to us that we, being delivered out of the hand of our enemies, should serve him without fear,",
+          "korean": "우리가 원수들의 손에서 건짐을 받아 두려움 없이 그분을 섬기게 하시는 것이에요."
+        },
+        {
+          "verse": 75,
+          "original": "in holiness and righteousness before him all the days of our life.",
+          "korean": "평생 그분 앞에서 거룩함과 의로움으로 섬기게 하시는 거예요."
+        },
+        {
+          "verse": 76,
+          "original": "And you, child, will be called a prophet of the Most High; for you will go before the face of the Lord to prepare his ways,",
+          "korean": "그리고 아이야, 너는 가장 높으신 분의 선지자라 불릴 거다. 네가 주님 앞에 가서 그분의 길을 예비할 것이니,"
+        },
+        {
+          "verse": 77,
+          "original": "to give knowledge of salvation to his people by the remission of their sins,",
+          "korean": "그분의 백성에게 죄 사함으로 구원을 알게 해줄 거다."
+        },
+        {
+          "verse": 78,
+          "original": "because of the tender mercy of our God, by which the dawn from on high will visit us,",
+          "korean": "이것은 우리 하나님의 긍휼하심 때문이야. 그 긍휼로 높은 곳에서 새벽 빛이 우리를 찾아오셨어."
+        },
+        {
+          "verse": 79,
+          "original": "to shine on those who sit in darkness and the shadow of death; to guide our feet into the way of peace.\"",
+          "korean": "어두움과 죽음의 그늘에 앉은 자들에게 빛을 비추시고, 우리 발을 평화의 길로 인도하시려고.\""
+        },
+        {
+          "verse": 80,
+          "original": "The child was growing and becoming strong in spirit, and was in the desert until the day of his public appearance to Israel.",
+          "korean": "아이가 자라면서 심령이 강해졌어요. 그리고 이스라엘에게 나타나는 날까지 광야에서 지냈어요."
+        }
+      ]
+    }
+  ]
+}
