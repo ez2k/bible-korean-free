@@ -1,0 +1,131 @@
+{
+  "book": "2 Corinthians",
+  "bookKorean": "고린도후서",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the saints who are in the whole of Achaia:",
+          "korean": "하나님의 뜻으로 그리스도 예수의 사도가 된 바울과 형제 디모데가, 고린도에 있는 하나님의 교회와 아가야 전체에 있는 모든 성도에게 편지해요."
+        },
+        {
+          "verse": 2,
+          "original": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "korean": "우리 아버지 하나님과 주 예수 그리스도께로부터 은혜와 평강이 있기를 바라요."
+        },
+        {
+          "verse": 3,
+          "original": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort;",
+          "korean": "우리 주 예수 그리스도의 하나님 아버지를 찬양해요. 그분은 자비의 아버지시요, 모든 위로의 하나님이세요."
+        },
+        {
+          "verse": 4,
+          "original": "who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God.",
+          "korean": "우리의 모든 고난 중에 우리를 위로해 주세요. 그래서 우리가 하나님께 받는 위로로 어떤 고난 중에 있는 사람들도 위로할 수 있어요."
+        },
+        {
+          "verse": 5,
+          "original": "For as the sufferings of Christ abound to us, even so our comfort also abounds through Christ.",
+          "korean": "그리스도의 고난이 우리에게 넘치는 것처럼, 우리의 위로도 그리스도를 통해 넘쳐요."
+        },
+        {
+          "verse": 6,
+          "original": "But if we are afflicted, it is for your comfort and salvation. If we are comforted, it is for your comfort, which produces in you the patient enduring of the same sufferings which we also suffer.",
+          "korean": "우리가 고난을 받으면 여러분의 위로와 구원을 위한 것이고, 우리가 위로를 받으면 여러분의 위로를 위한 것이에요. 그래서 여러분도 우리와 같은 고난을 참고 견딜 수 있어요."
+        },
+        {
+          "verse": 7,
+          "original": "Our hope for you is steadfast, knowing that, since you are partakers of the sufferings, so you are also of the comfort.",
+          "korean": "여러분에 대한 우리의 소망은 확고해요. 여러분이 고난에 참여하는 것처럼 위로에도 참여한다는 것을 알기 때문이에요."
+        },
+        {
+          "verse": 8,
+          "original": "For we don't desire to have you uninformed, brothers, concerning our affliction which happened to us in Asia, that we were weighed down exceedingly, beyond our power, so much that we despaired even of life.",
+          "korean": "형제 여러분, 아시아에서 당한 고난에 대해 알았으면 해요. 우리 힘에 넘치게 심한 압박을 받아서 살 소망조차 없어졌어요."
+        },
+        {
+          "verse": 9,
+          "original": "Yes, we ourselves have had the sentence of death within ourselves, that we should not trust in ourselves, but in God who raises the dead,",
+          "korean": "우리 안에 사형 선고를 받은 것 같았어요. 우리 자신을 믿지 않고, 죽은 자를 살리시는 하나님을 믿도록요."
+        },
+        {
+          "verse": 10,
+          "original": "who delivered us out of so great a death, and does deliver; on whom we have set our hope that he will also still deliver us;",
+          "korean": "그분이 그렇게 큰 죽음에서 우리를 건져 주셨고, 지금도 건져 주세요. 앞으로도 건져 주실 것이라고 소망해요."
+        },
+        {
+          "verse": 11,
+          "original": "you also helping together on our behalf by your supplication; that, for the gift given to us by means of many, thanks may be given by many persons on your behalf.",
+          "korean": "여러분도 기도로 우리를 도와주세요. 그래서 많은 사람의 기도로 우리에게 주신 선물에 대해 많은 사람이 감사하게 해 주세요."
+        },
+        {
+          "verse": 12,
+          "original": "For our boasting is this: the testimony of our conscience, that in holiness and sincerity of God, not in fleshly wisdom but in the grace of God we behaved ourselves in the world, and more abundantly toward you.",
+          "korean": "우리의 자랑은 이것이에요. 우리 양심이 증거하기를, 세상에서 특히 여러분에게 육체의 지혜가 아니라 하나님의 은혜로 하나님의 거룩함과 진실함으로 행했어요."
+        },
+        {
+          "verse": 13,
+          "original": "For we write no other things to you than what you read or even acknowledge, and I hope you will acknowledge to the end,",
+          "korean": "여러분이 읽고 이해하는 것 외에 다른 것을 쓰지 않아요. 끝까지 인정해 주기를 바라요."
+        },
+        {
+          "verse": 14,
+          "original": "as also you acknowledged us in part, that we are your boasting, even as you also are ours, in the day of our Lord Jesus.",
+          "korean": "여러분이 부분적으로 인정했듯이, 우리가 여러분의 자랑이고 여러분도 우리의 자랑이에요. 우리 주 예수의 날에요."
+        },
+        {
+          "verse": 15,
+          "original": "In this confidence, I was determined to come first to you, that you might have a second benefit,",
+          "korean": "이 확신으로 먼저 여러분에게 가려고 했어요. 두 번째 축복을 받게 하려고요."
+        },
+        {
+          "verse": 16,
+          "original": "and by you to pass into Macedonia, and again from Macedonia to come to you, and to be sent forward by you on my journey to Judea.",
+          "korean": "여러분을 거쳐 마게도냐로 가고, 마게도냐에서 다시 여러분에게 와서, 유대로 가는 길에 여러분이 보내 주려고 했어요."
+        },
+        {
+          "verse": 17,
+          "original": "When I therefore was thus determined, did I show fickleness? Or the things that I purpose, do I purpose according to the flesh, that with me there should be the \"Yes, yes\" and the \"No, no?\"",
+          "korean": "그래서 이렇게 결심했을 때, 변덕을 부린 것인가요? 내가 계획한 것을 육체를 따라 계획해서 \"예, 예\" 하다가 \"아니오, 아니오\" 하나요?"
+        },
+        {
+          "verse": 18,
+          "original": "But as God is faithful, our word toward you was not \"Yes and no.\"",
+          "korean": "하나님은 신실하시니, 여러분에게 한 우리의 말이 \"예도 되고 아니오도 된다\"가 아니에요."
+        },
+        {
+          "verse": 19,
+          "original": "For the Son of God, Jesus Christ, who was preached among you by us, by me, Silvanus, and Timothy, was not \"Yes and no,\" but in him is \"Yes.\"",
+          "korean": "나와 실루아노와 디모데가 여러분에게 전한 하나님의 아들 예수 그리스도는 \"예도 되고 아니오도 된다\"가 아니라, 그분 안에서 \"예\"예요."
+        },
+        {
+          "verse": 20,
+          "original": "For however many are the promises of God, in him is the \"Yes.\" Therefore also through him is the \"Amen\", to the glory of God through us.",
+          "korean": "하나님의 약속이 얼마나 많든지, 그분 안에서 \"예\"예요. 그러므로 우리를 통해 하나님께 영광이 되도록 그분을 통해 \"아멘\"이에요."
+        },
+        {
+          "verse": 21,
+          "original": "Now he who establishes us with you in Christ and anointed us is God,",
+          "korean": "여러분과 함께 우리를 그리스도 안에 굳게 세우시고 기름 부으신 분은 하나님이세요."
+        },
+        {
+          "verse": 22,
+          "original": "who also sealed us, and gave us the down payment of the Spirit in our hearts.",
+          "korean": "우리에게 인치시고, 우리 마음에 보증으로 성령을 주셨어요."
+        },
+        {
+          "verse": 23,
+          "original": "But I call God for a witness to my soul, that I didn't come to Corinth to spare you.",
+          "korean": "하나님을 내 영혼의 증인으로 불러요. 여러분을 아끼려고 고린도에 가지 않은 거예요."
+        },
+        {
+          "verse": 24,
+          "original": "We don't control your faith, but are fellow workers with you for your joy. For you stand firm in faith.",
+          "korean": "우리가 여러분의 믿음을 지배하는 것이 아니라, 여러분의 기쁨을 위해 함께 일하는 자예요. 여러분이 믿음으로 서 있으니까요."
+        }
+      ]
+    }
+  ]
+}
