@@ -1,0 +1,266 @@
+{
+  "book": "John",
+  "bookKorean": "요한복음",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+          "korean": "태초에 말씀이 계셨어요. 말씀이 하나님과 함께 계셨고, 말씀이 하나님이셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "The same was in the beginning with God.",
+          "korean": "이 말씀이 태초에 하나님과 함께 계셨어요."
+        },
+        {
+          "verse": 3,
+          "original": "All things were made through him. Without him, nothing was made that has been made.",
+          "korean": "모든 것이 그분을 통해 만들어졌어요. 그분 없이는 만들어진 것 중에 하나도 만들어지지 않았어요."
+        },
+        {
+          "verse": 4,
+          "original": "In him was life, and the life was the light of men.",
+          "korean": "그분 안에 생명이 있었고, 그 생명은 사람들의 빛이었어요."
+        },
+        {
+          "verse": 5,
+          "original": "The light shines in the darkness, and the darkness hasn't overcome it.",
+          "korean": "빛이 어둠 속에서 빛나고 있고, 어둠이 그것을 이기지 못했어요."
+        },
+        {
+          "verse": 6,
+          "original": "There came a man, sent from God, whose name was John.",
+          "korean": "하나님께서 보내신 사람이 있었는데, 그의 이름은 요한이었어요."
+        },
+        {
+          "verse": 7,
+          "original": "The same came as a witness, that he might testify about the light, that all might believe through him.",
+          "korean": "그는 증인으로 왔어요. 빛에 대해 증언하여 모든 사람이 그를 통해 믿게 하려고요."
+        },
+        {
+          "verse": 8,
+          "original": "He was not the light, but was sent that he might testify about the light.",
+          "korean": "그는 빛이 아니었어요. 하지만 빛에 대해 증언하려고 보냄 받았어요."
+        },
+        {
+          "verse": 9,
+          "original": "The true light that enlightens everyone was coming into the world.",
+          "korean": "모든 사람을 비추는 참 빛이 세상에 오고 있었어요."
+        },
+        {
+          "verse": 10,
+          "original": "He was in the world, and the world was made through him, and the world didn't recognize him.",
+          "korean": "그분이 세상에 계셨고, 세상이 그분을 통해 만들어졌는데, 세상이 그분을 알아보지 못했어요."
+        },
+        {
+          "verse": 11,
+          "original": "He came to his own, and those who were his own didn't receive him.",
+          "korean": "그분이 자기 땅에 오셨는데, 자기 백성이 그분을 영접하지 않았어요."
+        },
+        {
+          "verse": 12,
+          "original": "But as many as received him, to them he gave the right to become God's children, to those who believe in his name:",
+          "korean": "하지만 그분을 영접하는 사람들, 그분의 이름을 믿는 사람들에게는 하나님의 자녀가 되는 권리를 주셨어요."
+        },
+        {
+          "verse": 13,
+          "original": "who were born not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+          "korean": "그들은 피로도 아니고, 육체의 뜻으로도 아니고, 사람의 뜻으로도 아니고, 하나님에게서 태어난 사람들이에요."
+        },
+        {
+          "verse": 14,
+          "original": "The Word became flesh, and lived among us. We saw his glory, such glory as of the one and only Son of the Father, full of grace and truth.",
+          "korean": "말씀이 사람이 되어 우리 가운데 사셨어요. 우리는 그분의 영광을 보았어요. 아버지의 독생자의 영광 같은 영광이었고, 은혜와 진리로 가득 차 있었어요."
+        },
+        {
+          "verse": 15,
+          "original": "John testified about him. He cried out, saying, \"This was he of whom I said, 'He who comes after me has surpassed me, for he was before me.' \"",
+          "korean": "요한이 그분에 대해 증언했어요. 그가 외쳤어요. \"이분이 내가 '내 뒤에 오시는 분이 나보다 앞서신다. 왜냐하면 나보다 먼저 계셨기 때문이다'라고 말한 그분이에요.\""
+        },
+        {
+          "verse": 16,
+          "original": "From his fullness we all received grace upon grace.",
+          "korean": "우리는 모두 그분의 충만함에서 은혜 위에 은혜를 받았어요."
+        },
+        {
+          "verse": 17,
+          "original": "For the law was given through Moses. Grace and truth were realized through Jesus Christ.",
+          "korean": "율법은 모세를 통해 주어졌어요. 은혜와 진리는 예수 그리스도를 통해 이루어졌어요."
+        },
+        {
+          "verse": 18,
+          "original": "No one has seen God at any time. The one and only Son, who is in the bosom of the Father, has declared him.",
+          "korean": "아무도 언제든지 하나님을 본 적이 없어요. 아버지 품 안에 계신 독생자께서 그분을 알려 주셨어요."
+        },
+        {
+          "verse": 19,
+          "original": "This is John's testimony, when the Jews sent priests and Levites from Jerusalem to ask him, \"Who are you?\"",
+          "korean": "유대인들이 예루살렘에서 제사장들과 레위인들을 보내서 \"당신은 누구예요?\"라고 물었을 때, 이것이 요한의 증언이에요."
+        },
+        {
+          "verse": 20,
+          "original": "He declared, and didn't deny, but he declared, \"I am not the Christ.\"",
+          "korean": "그는 부인하지 않고 선언했어요. \"나는 그리스도가 아니에요.\""
+        },
+        {
+          "verse": 21,
+          "original": "They asked him, \"What then? Are you Elijah?\" He said, \"I am not.\" \"Are you the prophet?\" He answered, \"No.\"",
+          "korean": "그들이 물었어요. \"그러면 뭐예요? 엘리야예요?\" 그가 말했어요. \"아니에요.\" \"그 예언자예요?\" 그가 대답했어요. \"아니에요.\""
+        },
+        {
+          "verse": 22,
+          "original": "They said therefore to him, \"Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?\"",
+          "korean": "그들이 그에게 말했어요. \"당신은 누구예요? 우리를 보낸 사람들에게 가져갈 대답을 주세요. 자신에 대해 뭐라고 말해요?\""
+        },
+        {
+          "verse": 23,
+          "original": "He said, \"I am the voice of one crying in the wilderness, 'Make straight the way of the Lord,' as Isaiah the prophet said.\"",
+          "korean": "그가 말했어요. \"나는 광야에서 외치는 자의 소리예요. '주님의 길을 곧게 하라.' 예언자 이사야가 말한 대로예요.\""
+        },
+        {
+          "verse": 24,
+          "original": "The ones who had been sent were from the Pharisees.",
+          "korean": "보냄 받은 사람들은 바리새인들에게서 온 사람들이었어요."
+        },
+        {
+          "verse": 25,
+          "original": "They asked him, \"Why then do you baptize, if you are not the Christ, nor Elijah, nor the prophet?\"",
+          "korean": "그들이 그에게 물었어요. \"그리스도도 아니고, 엘리야도 아니고, 그 예언자도 아니면, 왜 세례를 줘요?\""
+        },
+        {
+          "verse": 26,
+          "original": "John answered them, \"I baptize in water, but among you stands one whom you don't know.",
+          "korean": "요한이 그들에게 대답했어요. \"나는 물로 세례를 줘요. 하지만 너희 가운데 너희가 모르는 분이 서 계세요."
+        },
+        {
+          "verse": 27,
+          "original": "He is the one who comes after me, who is preferred before me, whose sandal strap I'm not worthy to loosen.\"",
+          "korean": "그분은 내 뒤에 오시는 분인데, 나보다 앞서시는 분이에요. 나는 그분의 신발 끈을 풀기에도 부족해요.\""
+        },
+        {
+          "verse": 28,
+          "original": "These things were done in Bethany beyond the Jordan, where John was baptizing.",
+          "korean": "이 일들은 요단강 건너편 베다니에서 일어났어요. 요한이 세례를 주던 곳이에요."
+        },
+        {
+          "verse": 29,
+          "original": "The next day, he saw Jesus coming to him, and said, \"Behold, the Lamb of God, who takes away the sin of the world!",
+          "korean": "다음 날, 요한이 예수님께서 자기에게 오시는 것을 보고 말했어요. \"보세요, 세상의 죄를 없애시는 하나님의 어린 양이에요!"
+        },
+        {
+          "verse": 30,
+          "original": "This is he of whom I said, 'After me comes a man who is preferred before me, for he was before me.'",
+          "korean": "이분이 내가 '내 뒤에 한 사람이 오시는데, 나보다 앞서시는 분이다. 왜냐하면 나보다 먼저 계셨기 때문이다'라고 말한 그분이에요."
+        },
+        {
+          "verse": 31,
+          "original": "I didn't know him, but for this reason I came baptizing in water: that he would be revealed to Israel.\"",
+          "korean": "나는 그분을 몰랐어요. 하지만 그분이 이스라엘에게 알려지게 하려고 내가 물로 세례를 주러 왔어요.\""
+        },
+        {
+          "verse": 32,
+          "original": "John testified, saying, \"I have seen the Spirit descending like a dove out of heaven, and it remained on him.",
+          "korean": "요한이 증언하며 말했어요. \"나는 성령이 하늘에서 비둘기처럼 내려오셔서 그분 위에 머무시는 것을 보았어요."
+        },
+        {
+          "verse": 33,
+          "original": "I didn't recognize him, but he who sent me to baptize in water said to me, 'On whomever you will see the Spirit descending and remaining on him is he who baptizes in the Holy Spirit.'",
+          "korean": "나는 그분을 알아보지 못했어요. 하지만 나를 보내어 물로 세례를 주게 하신 분이 나에게 말씀하셨어요. '성령이 내려와서 머무시는 것을 네가 볼 그분이 성령으로 세례를 주시는 분이다.'"
+        },
+        {
+          "verse": 34,
+          "original": "I have seen, and have testified that this is the Son of God.\"",
+          "korean": "나는 보았고, 이분이 하나님의 아들이시라고 증언했어요.\""
+        },
+        {
+          "verse": 35,
+          "original": "Again, the next day, John was standing with two of his disciples,",
+          "korean": "또 다음 날, 요한이 그의 제자 두 명과 함께 서 있었어요."
+        },
+        {
+          "verse": 36,
+          "original": "and he looked at Jesus as he walked, and said, \"Behold, the Lamb of God!\"",
+          "korean": "예수님께서 걸어가시는 것을 보고 말했어요. \"보세요, 하나님의 어린 양이에요!\""
+        },
+        {
+          "verse": 37,
+          "original": "The two disciples heard him speak, and they followed Jesus.",
+          "korean": "두 제자가 그가 말하는 것을 듣고 예수님을 따라갔어요."
+        },
+        {
+          "verse": 38,
+          "original": "Jesus turned and saw them following, and said to them, \"What are you looking for?\" They said to him, \"Rabbi\" (which is to say, being interpreted, Teacher), \"where are you staying?\"",
+          "korean": "예수님께서 돌아서서 그들이 따라오는 것을 보시고 그들에게 말씀하셨어요. \"무엇을 찾고 있어요?\" 그들이 예수님께 말했어요. \"랍비\" (번역하면 선생님이라는 뜻이에요), \"어디에 머물고 계세요?\""
+        },
+        {
+          "verse": 39,
+          "original": "He said to them, \"Come, and see.\" They came and saw where he was staying, and they stayed with him that day. It was about the tenth hour.",
+          "korean": "예수님께서 그들에게 말씀하셨어요. \"와서 보세요.\" 그들은 와서 예수님께서 머무시는 곳을 보았고, 그 날 예수님과 함께 머물렀어요. 열 시쯤이었어요."
+        },
+        {
+          "verse": 40,
+          "original": "One of the two who heard John and followed him was Andrew, Simon Peter's brother.",
+          "korean": "요한의 말을 듣고 예수님을 따라간 두 사람 중 하나는 시몬 베드로의 동생 안드레였어요."
+        },
+        {
+          "verse": 41,
+          "original": "He first found his own brother, Simon, and said to him, \"We have found the Messiah!\" (which is, being interpreted, Christ).",
+          "korean": "그가 먼저 자기 형 시몬을 찾아서 그에게 말했어요. \"우리가 메시아를 만났어요!\" (번역하면 그리스도라는 뜻이에요)."
+        },
+        {
+          "verse": 42,
+          "original": "He brought him to Jesus. Jesus looked at him, and said, \"You are Simon the son of Jonah. You shall be called Cephas\" (which is by interpretation, Peter).",
+          "korean": "안드레가 시몬을 예수님께 데려왔어요. 예수님께서 그를 보시고 말씀하셨어요. \"당신은 요나의 아들 시몬이에요. 당신은 게바라고 불릴 거예요\" (번역하면 베드로라는 뜻이에요)."
+        },
+        {
+          "verse": 43,
+          "original": "On the next day, he was determined to go out into Galilee, and he found Philip. Jesus said to him, \"Follow me.\"",
+          "korean": "다음 날, 예수님께서 갈릴리로 가시기로 하셨어요. 빌립을 만나셨어요. 예수님께서 그에게 말씀하셨어요. \"나를 따라오세요.\""
+        },
+        {
+          "verse": 44,
+          "original": "Now Philip was from Bethsaida, of the city of Andrew and Peter.",
+          "korean": "빌립은 안드레와 베드로의 고향인 벳새다 사람이었어요."
+        },
+        {
+          "verse": 45,
+          "original": "Philip found Nathanael, and said to him, \"We have found him, of whom Moses in the law, and the prophets, wrote: Jesus of Nazareth, the son of Joseph.\"",
+          "korean": "빌립이 나다나엘을 찾아서 그에게 말했어요. \"우리가 모세가 율법에 썼고 예언자들이 썼던 그분을 찾았어요. 요셉의 아들 나사렛 예수님이에요.\""
+        },
+        {
+          "verse": 46,
+          "original": "Nathanael said to him, \"Can any good thing come out of Nazareth?\" Philip said to him, \"Come and see.\"",
+          "korean": "나다나엘이 그에게 말했어요. \"나사렛에서 좋은 것이 나올 수 있어요?\" 빌립이 그에게 말했어요. \"와서 보세요.\""
+        },
+        {
+          "verse": 47,
+          "original": "Jesus saw Nathanael coming to him, and said about him, \"Behold, an Israelite indeed, in whom is no deceit!\"",
+          "korean": "예수님께서 나다나엘이 자기에게 오는 것을 보시고 그에 대해 말씀하셨어요. \"보세요, 속임이 없는 진짜 이스라엘 사람이에요!\""
+        },
+        {
+          "verse": 48,
+          "original": "Nathanael said to him, \"How do you know me?\" Jesus answered him, \"Before Philip called you, when you were under the fig tree, I saw you.\"",
+          "korean": "나다나엘이 예수님께 말했어요. \"어떻게 저를 아세요?\" 예수님께서 그에게 대답하셨어요. \"빌립이 당신을 부르기 전에, 당신이 무화과나무 아래에 있을 때 내가 당신을 보았어요.\""
+        },
+        {
+          "verse": 49,
+          "original": "Nathanael answered him, \"Rabbi, you are the Son of God! You are King of Israel!\"",
+          "korean": "나다나엘이 예수님께 대답했어요. \"랍비, 당신은 하나님의 아들이에요! 당신은 이스라엘의 왕이에요!\""
+        },
+        {
+          "verse": 50,
+          "original": "Jesus answered him, \"Because I told you, 'I saw you underneath the fig tree,' do you believe? You will see greater things than these!\"",
+          "korean": "예수님께서 그에게 대답하셨어요. \"내가 '무화과나무 아래에서 당신을 보았다'고 말해서 믿어요? 당신은 이것보다 더 큰 일을 볼 거예요!\""
+        },
+        {
+          "verse": 51,
+          "original": "He said to him, \"Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.\"",
+          "korean": "예수님께서 그에게 말씀하셨어요. \"내가 너희 모두에게 정말로 말해 줄게요. 앞으로 너희는 하늘이 열리고, 하나님의 천사들이 인자 위에서 오르락내리락하는 것을 볼 거예요.\""
+        }
+      ]
+    }
+  ]
+}
