@@ -3511,6 +3511,241 @@
           "korean": "예수님이 불쌍히 여기시고 그들의 눈을 만지셨어요. 그러자 즉시 눈이 떠졌고 그들은 예수님을 따랐어요."
         }
       ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "When they came near to Jerusalem, and came to Bethsphage, to the Mount of Olives, then Jesus sent two disciples,",
+          "korean": "그들이 예루살렘에 가까이 와서 감람산 근처 벳바게에 이르렀을 때, 예수님이 두 제자를 보내시며"
+        },
+        {
+          "verse": 2,
+          "original": "saying to them, \"Go into the village that is opposite you, and immediately you will find a donkey tied, and a colt with her. Untie them, and bring them to me.",
+          "korean": "말씀하셨어요. \"맞은편 마을로 가세요. 바로 나귀와 새끼 나귀가 매여 있는 것을 발견할 거예요. 풀어서 내게 끌고 오세요."
+        },
+        {
+          "verse": 3,
+          "original": "If anyone says anything to you, you shall say, 'The Lord needs them,' and immediately he will send them.\"",
+          "korean": "만약 누가 무슨 말을 하면 '주님이 필요로 하세요'라고 하세요. 그러면 바로 보내 줄 거예요.\""
+        },
+        {
+          "verse": 4,
+          "original": "All this was done, that it might be fulfilled which was spoken through the prophet, saying,",
+          "korean": "이 모든 일은 선지자를 통해 하신 말씀이 이루어지게 하려고 된 것이에요."
+        },
+        {
+          "verse": 5,
+          "original": "\"Tell the daughter of Zion, behold, your King comes to you, humble, and riding on a donkey, on a colt, the foal of a donkey.\"",
+          "korean": "\"시온의 딸에게 말하라. 보아라, 네 왕이 네게 온다. 온유하게 나귀를 타고, 어린 새끼 나귀를 타고 온다.\""
+        },
+        {
+          "verse": 6,
+          "original": "The disciples went, and did just as Jesus commanded them,",
+          "korean": "제자들이 가서 예수님이 명령하신 대로 했어요."
+        },
+        {
+          "verse": 7,
+          "original": "and brought the donkey and the colt, and laid their clothes on them; and he sat on them.",
+          "korean": "나귀와 새끼 나귀를 끌어다가 그 위에 옷을 얹고, 예수님이 그 위에 앉으셨어요."
+        },
+        {
+          "verse": 8,
+          "original": "A very great multitude spread their clothes on the road. Others cut branches from the trees, and spread them on the road.",
+          "korean": "아주 많은 사람들이 옷을 길에 폈어요. 다른 사람들은 나뭇가지를 잘라서 길에 폈어요."
+        },
+        {
+          "verse": 9,
+          "original": "The multitudes who went in front of him, and those who followed, kept shouting, \"Hosanna to the son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!\"",
+          "korean": "앞서 가는 사람들과 뒤따르는 사람들이 계속 소리쳤어요. \"호산나, 다윗의 자손이시여! 주의 이름으로 오시는 분이 복 있어요! 높은 곳에서 호산나!\""
+        },
+        {
+          "verse": 10,
+          "original": "When he had come into Jerusalem, all the city was stirred up, saying, \"Who is this?\"",
+          "korean": "예수님이 예루살렘에 들어오시자 온 도시가 들끓으며 말했어요. \"이분이 누구야?\""
+        },
+        {
+          "verse": 11,
+          "original": "The multitudes said, \"This is the prophet, Jesus, from Nazareth of Galilee.\"",
+          "korean": "사람들이 말했어요. \"이분은 갈릴리 나사렛 출신 선지자 예수님이야.\""
+        },
+        {
+          "verse": 12,
+          "original": "Jesus entered into the temple of God, and drove out all of those who sold and bought in the temple, and overthrew the money changers' tables and the seats of those who sold the doves.",
+          "korean": "예수님이 하나님의 성전에 들어가셔서 성전에서 사고파는 사람들을 다 내쫓으셨어요. 돈 바꾸는 사람들의 상과 비둘기 파는 사람들의 의자를 뒤엎으셨어요."
+        },
+        {
+          "verse": 13,
+          "original": "He said to them, \"It is written, 'My house shall be called a house of prayer,' but you have made it a den of robbers!\"",
+          "korean": "그들에게 말씀하셨어요. \"'내 집은 기도하는 집이라 불릴 것이다'라고 기록되어 있어요. 그런데 너희가 강도의 소굴로 만들었어요!\""
+        },
+        {
+          "verse": 14,
+          "original": "The blind and the lame came to him in the temple, and he healed them.",
+          "korean": "눈먼 사람들과 다리 저는 사람들이 성전에서 예수님께 왔어요. 예수님이 그들을 고쳐 주셨어요."
+        },
+        {
+          "verse": 15,
+          "original": "But when the chief priests and the scribes saw the wonderful things that he did, and the children who were crying in the temple and saying, \"Hosanna to the son of David!\" they were indignant,",
+          "korean": "그러나 대제사장들과 서기관들이 예수님이 행하신 놀라운 일들과 성전에서 '호산나, 다윗의 자손이시여!'라고 외치는 아이들을 보고 화가 났어요."
+        },
+        {
+          "verse": 16,
+          "original": "and said to him, \"Do you hear what these are saying?\" Jesus said to them, \"Yes. Did you never read, 'Out of the mouth of babes and nursing babies you have perfected praise?' \"",
+          "korean": "그리고 예수님께 말했어요. \"아이들이 하는 말이 들려요?\" 예수님이 말씀하셨어요. \"네, 들려요. '어린아이들과 젖먹이들의 입에서 찬양을 완전하게 하셨다'라는 것을 읽지 못했어요?\""
+        },
+        {
+          "verse": 17,
+          "original": "He left them, and went out of the city to Bethany, and camped there.",
+          "korean": "예수님이 그들을 떠나 도시 밖 베다니로 가서 거기서 머무셨어요."
+        },
+        {
+          "verse": 18,
+          "original": "Now in the morning, as he returned to the city, he was hungry.",
+          "korean": "아침에 도시로 돌아오실 때 배가 고프셨어요."
+        },
+        {
+          "verse": 19,
+          "original": "Seeing a fig tree by the road, he came to it, and found nothing on it but leaves. He said to it, \"Let there be no fruit from you forever!\" Immediately the fig tree withered away.",
+          "korean": "길가에 무화과나무를 보시고 가까이 가셨는데, 잎만 있고 아무것도 없었어요. 나무에게 말씀하셨어요. \"이제부터 영원히 네게서 열매가 나지 않을 것이다!\" 그러자 즉시 무화과나무가 말랐어요."
+        },
+        {
+          "verse": 20,
+          "original": "When the disciples saw it, they marveled, saying, \"How did the fig tree immediately wither away?\"",
+          "korean": "제자들이 이것을 보고 놀라며 말했어요. \"어떻게 무화과나무가 바로 말랐어요?\""
+        },
+        {
+          "verse": 21,
+          "original": "Jesus answered them, \"Most certainly I tell you, if you have faith, and don't doubt, you will not only do what was done to the fig tree, but even if you told this mountain, 'Be taken up and cast into the sea,' it would be done.",
+          "korean": "예수님이 대답하셨어요. \"진실로 너희에게 말해요. 너희가 믿음이 있고 의심하지 않으면 무화과나무에 된 일뿐 아니라, 이 산에게 '들려서 바다에 던져져라' 해도 될 거예요."
+        },
+        {
+          "verse": 22,
+          "original": "All things, whatever you ask in prayer, believing, you will receive.\"",
+          "korean": "믿고 기도하면 무엇이든지 다 받을 거예요.\""
+        },
+        {
+          "verse": 23,
+          "original": "When he had come into the temple, the chief priests and the elders of the people came to him as he was teaching, and said, \"By what authority do you do these things? Who gave you this authority?\"",
+          "korean": "예수님이 성전에 들어가 가르치실 때 대제사장들과 백성의 장로들이 와서 물었어요. \"무슨 권위로 이런 일을 해요? 누가 이 권위를 줬어요?\""
+        },
+        {
+          "verse": 24,
+          "original": "Jesus answered them, \"I also will ask you one question, which if you tell me, I likewise will tell you by what authority I do these things.",
+          "korean": "예수님이 대답하셨어요. \"나도 너희에게 하나 물을게요. 대답하면 나도 무슨 권위로 이 일을 하는지 말해 줄게요."
+        },
+        {
+          "verse": 25,
+          "original": "The baptism of John, where was it from? From heaven or from men?\" They reasoned with themselves, saying, \"If we say, 'From heaven,' he will ask us, 'Why then did you not believe him?'",
+          "korean": "요한의 세례는 어디서 온 거예요? 하늘에서 왔어요, 아니면 사람에게서 왔어요?\" 그들이 서로 의논했어요. \"만약 '하늘에서 왔다'고 하면 '그러면 왜 그를 믿지 않았어요?'라고 물을 거야."
+        },
+        {
+          "verse": 26,
+          "original": "But if we say, 'From men,' we fear the multitude, for all hold John as a prophet.\"",
+          "korean": "그러나 '사람에게서 왔다'고 하면 백성을 두려워해야 해. 모두가 요한을 선지자로 여기니까.\""
+        },
+        {
+          "verse": 27,
+          "original": "They answered Jesus, and said, \"We don't know.\" He also said to them, \"Neither will I tell you by what authority I do these things.",
+          "korean": "그들이 예수님께 대답했어요. \"모르겠어요.\" 예수님도 그들에게 말씀하셨어요. \"나도 무슨 권위로 이 일을 하는지 너희에게 말하지 않을 거예요."
+        },
+        {
+          "verse": 28,
+          "original": "But what do you think? A man had two sons, and he came to the first, and said, 'Son, go work today in my vineyard.'",
+          "korean": "그런데 어떻게 생각해요? 어떤 사람에게 두 아들이 있었어요. 첫째에게 가서 말했어요. '아들아, 오늘 내 포도원에 가서 일해라.'"
+        },
+        {
+          "verse": 29,
+          "original": "He answered, 'I will not,' but afterward he changed his mind, and went.",
+          "korean": "아들이 대답했어요. '싫어요.' 그러나 나중에 마음을 바꾸고 갔어요."
+        },
+        {
+          "verse": 30,
+          "original": "He came to the second, and said the same thing. He answered, 'I'm going, sir,' but he didn't go.",
+          "korean": "둘째에게 가서 같은 말을 했어요. 둘째가 대답했어요. '네, 아버지.' 그러나 가지 않았어요."
+        },
+        {
+          "verse": 31,
+          "original": "Which of the two did the will of his father?\" They said to him, \"The first.\" Jesus said to them, \"Most certainly I tell you that the tax collectors and the prostitutes are entering into God's Kingdom before you.",
+          "korean": "둘 중에 누가 아버지의 뜻대로 했어요?\" 그들이 말했어요. \"첫째요.\" 예수님이 그들에게 말씀하셨어요. \"진실로 너희에게 말해요. 세리들과 창녀들이 너희보다 먼저 하나님 나라에 들어가요."
+        },
+        {
+          "verse": 32,
+          "original": "For John came to you in the way of righteousness, and you didn't believe him, but the tax collectors and the prostitutes believed him. When you saw it, you didn't even repent afterward, that you might believe him.",
+          "korean": "요한이 의의 길로 너희에게 왔는데 너희는 그를 믿지 않았어요. 그러나 세리들과 창녀들은 그를 믿었어요. 너희는 그것을 보고도 나중에 회개하여 믿지 않았어요."
+        },
+        {
+          "verse": 33,
+          "original": "\"Hear another parable. There was a man who was a master of a household, who planted a vineyard, set a hedge about it, dug a wine press in it, built a tower, leased it out to farmers, and went into another country.",
+          "korean": "다른 비유를 들으세요. 어떤 집주인이 포도원을 만들고 울타리를 두르고 포도 짜는 틀을 파고 망대를 짓고 소작인들에게 맡기고 다른 나라로 갔어요."
+        },
+        {
+          "verse": 34,
+          "original": "When the season for the fruit came near, he sent his servants to the farmers, to receive his fruit.",
+          "korean": "열매 거둘 때가 가까워지자 자기 열매를 받으러 종들을 소작인들에게 보냈어요."
+        },
+        {
+          "verse": 35,
+          "original": "The farmers took his servants, beat one, killed another, and stoned another.",
+          "korean": "소작인들이 종들을 잡아서 하나는 때리고, 하나는 죽이고, 하나는 돌로 쳤어요."
+        },
+        {
+          "verse": 36,
+          "original": "Again, he sent other servants more than the first: and they treated them the same way.",
+          "korean": "또 처음보다 더 많은 종들을 보냈는데 그들도 같은 대우를 받았어요."
+        },
+        {
+          "verse": 37,
+          "original": "But afterward he sent to them his son, saying, 'They will respect my son.'",
+          "korean": "마지막으로 아들을 보내며 말했어요. '내 아들은 존경할 거야.'"
+        },
+        {
+          "verse": 38,
+          "original": "But the farmers, when they saw the son, said among themselves, 'This is the heir. Come, let's kill him, and seize his inheritance.'",
+          "korean": "그러나 소작인들이 아들을 보고 서로 말했어요. '이 사람이 상속자야. 자, 죽이고 유산을 빼앗자.'"
+        },
+        {
+          "verse": 39,
+          "original": "So they took him, and threw him out of the vineyard, and killed him.",
+          "korean": "그래서 그들이 아들을 잡아 포도원 밖으로 내쫓고 죽였어요."
+        },
+        {
+          "verse": 40,
+          "original": "When therefore the lord of the vineyard comes, what will he do to those farmers?\"",
+          "korean": "그러면 포도원 주인이 오면 그 소작인들에게 어떻게 할까요?\""
+        },
+        {
+          "verse": 41,
+          "original": "They told him, \"He will miserably destroy those miserable men, and will lease out the vineyard to other farmers, who will give him the fruit in its season.\"",
+          "korean": "그들이 말했어요. \"그 악한 자들을 비참하게 멸하고, 포도원을 제때에 열매를 바칠 다른 소작인들에게 맡길 거예요.\""
+        },
+        {
+          "verse": 42,
+          "original": "Jesus said to them, \"Did you never read in the Scriptures, 'The stone which the builders rejected was made the head of the corner. This was from the Lord. It is marvelous in our eyes?'",
+          "korean": "예수님이 그들에게 말씀하셨어요. \"'건축자들이 버린 돌이 모퉁이의 머릿돌이 되었다. 이것은 주님께서 하신 것이요, 우리 눈에 놀라운 일이다'라는 것을 성경에서 읽지 못했어요?"
+        },
+        {
+          "verse": 43,
+          "original": "\"Therefore I tell you, God's Kingdom will be taken away from you, and will be given to a nation producing its fruit.",
+          "korean": "그러므로 내가 너희에게 말해요. 하나님의 나라를 너희에게서 빼앗아 열매 맺는 백성에게 줄 거예요."
+        },
+        {
+          "verse": 44,
+          "original": "He who falls on this stone will be broken to pieces, but on whomever it will fall, it will scatter him as dust.\"",
+          "korean": "이 돌 위에 떨어지는 사람은 부서질 것이고, 이 돌이 누구 위에 떨어지면 그를 가루로 만들 거예요.\""
+        },
+        {
+          "verse": 45,
+          "original": "When the chief priests and the Pharisees heard his parables, they perceived that he spoke about them.",
+          "korean": "대제사장들과 바리새인들이 예수님의 비유를 듣고 자기들에 대해 말씀하시는 것을 알았어요."
+        },
+        {
+          "verse": 46,
+          "original": "When they sought to seize him, they feared the multitudes, because they considered him to be a prophet.",
+          "korean": "예수님을 잡으려 했지만 백성들을 두려워했어요. 사람들이 예수님을 선지자로 여겼기 때문이에요."
+        }
+      ]
     }
   ]
 }
