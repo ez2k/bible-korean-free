@@ -5,29 +5,236 @@
     {
       "chapter": 1,
       "verses": [
-        {"verse": 1, "original": "Paul, an apostle of Christ Jesus through the will of God, to the saints who are at Ephesus, and the faithful in Christ Jesus:", "korean": "하나님의 뜻으로 그리스도 예수님의 사도가 된 바울이, 에베소에 있는 성도들과 그리스도 예수님 안에서 신실한 사람들에게 편지해요."},
-        {"verse": 2, "original": "Grace to you and peace from God our Father and the Lord Jesus Christ.", "korean": "우리 아버지 하나님과 주 예수 그리스도로부터 은혜와 평안이 여러분에게 있기를 바라요."},
-        {"verse": 3, "original": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,", "korean": "우리 주 예수 그리스도의 아버지 하나님을 찬양해요! 하나님께서 그리스도 안에서 하늘에 있는 모든 영적인 복을 우리에게 주셨어요."},
-        {"verse": 4, "original": "even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love,", "korean": "하나님께서 세상을 만들기 전에 그리스도 안에서 우리를 선택하셨어요. 우리가 사랑 안에서 하나님 앞에 거룩하고 흠이 없게 하시려고요."},
-        {"verse": 5, "original": "having predestined us for adoption as children through Jesus Christ to himself, according to the good pleasure of his desire,", "korean": "하나님께서 자신의 기뻐하시는 뜻대로 예수 그리스도를 통해 우리를 자녀로 삼으시기로 미리 정하셨어요."},
-        {"verse": 6, "original": "to the praise of the glory of his grace, by which he freely gave us favor in the Beloved,", "korean": "그것은 하나님의 영광스러운 은혜를 찬양하게 하려는 거예요. 하나님께서 사랑하시는 아들 안에서 우리에게 은혜를 베풀어 주셨어요."},
-        {"verse": 7, "original": "in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,", "korean": "우리는 그리스도 안에서 그분의 피로 구원을 받았어요. 하나님의 풍성한 은혜를 따라 우리의 죄를 용서받았어요."},
-        {"verse": 8, "original": "which he made to abound toward us in all wisdom and prudence,", "korean": "하나님께서 모든 지혜와 슬기로 이 은혜를 우리에게 넘치게 주셨어요."},
-        {"verse": 9, "original": "making known to us the mystery of his will, according to his good pleasure which he purposed in him", "korean": "하나님께서 기뻐하시는 뜻대로 그리스도 안에서 미리 계획하신 비밀을 우리에게 알려 주셨어요."},
-        {"verse": 10, "original": "to an administration of the fullness of the times, to sum up all things in Christ, the things in the heavens and the things on the earth, in him.", "korean": "때가 다 차면 하늘과 땅에 있는 모든 것을 그리스도 안에서 하나로 모으시려는 계획이에요."},
-        {"verse": 11, "original": "We were also assigned an inheritance in him, having been foreordained according to the purpose of him who does all things after the counsel of his will,", "korean": "우리는 또한 그리스도 안에서 기업을 받게 되었어요. 모든 것을 자신의 뜻대로 이루시는 하나님의 계획을 따라 미리 정해졌어요."},
-        {"verse": 12, "original": "to the end that we should be to the praise of his glory, we who had before hoped in Christ.", "korean": "이것은 먼저 그리스도를 소망한 우리가 하나님의 영광을 찬양하게 하려는 거예요."},
-        {"verse": 13, "original": "In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,", "korean": "여러분도 진리의 말씀, 곧 여러분의 구원의 복음을 듣고 그리스도를 믿었을 때, 약속하신 성령으로 도장을 받았어요."},
-        {"verse": 14, "original": "who is a pledge of our inheritance, to the redemption of God's own possession, to the praise of his glory.", "korean": "성령님은 우리가 받을 기업의 보증이에요. 하나님께서 자기 백성을 완전히 구원하실 때까지 그래요. 이 모든 것은 하나님의 영광을 찬양하기 위한 거예요."},
-        {"verse": 15, "original": "For this cause I also, having heard of the faith in the Lord Jesus which is among you, and the love which you have toward all the saints,", "korean": "그래서 나도 여러분이 주 예수님을 믿는다는 것과 모든 성도들을 사랑한다는 것을 듣고,"},
-        {"verse": 16, "original": "don't cease to give thanks for you, making mention of you in my prayers,", "korean": "여러분을 위해 감사하기를 멈추지 않고, 기도할 때마다 여러분을 기억해요."},
-        {"verse": 17, "original": "that the God of our Lord Jesus Christ, the Father of glory, may give to you a spirit of wisdom and revelation in the knowledge of him,", "korean": "우리 주 예수 그리스도의 하나님, 영광의 아버지께서 여러분에게 지혜와 계시의 영을 주셔서 하나님을 더 잘 알게 되기를 기도해요."},
-        {"verse": 18, "original": "having the eyes of your hearts enlightened, that you may know what is the hope of his calling, and what are the riches of the glory of his inheritance in the saints,", "korean": "마음의 눈이 밝아져서 하나님께서 부르신 소망이 무엇인지, 성도들 안에 있는 하나님 기업의 영광이 얼마나 풍성한지 알게 되기를 바라요."},
-        {"verse": 19, "original": "and what is the exceeding greatness of his power toward us who believe, according to that working of the strength of his might", "korean": "또한 믿는 우리에게 베푸시는 하나님의 능력이 얼마나 크고 강한지 알게 되기를 바라요."},
-        {"verse": 20, "original": "which he worked in Christ, when he raised him from the dead and made him to sit at his right hand in the heavenly places,", "korean": "하나님께서 이 능력으로 그리스도를 죽은 사람들 가운데서 살리시고, 하늘에서 자기 오른쪽에 앉히셨어요."},
-        {"verse": 21, "original": "far above all rule, authority, power, dominion, and every name that is named, not only in this age, but also in that which is to come.", "korean": "모든 통치와 권세와 능력과 주권 위에, 이 세상뿐 아니라 오는 세상에서도 일컬을 모든 이름 위에 뛰어나게 하셨어요."},
-        {"verse": 22, "original": "He put all things in subjection under his feet, and gave him to be head over all things for the assembly,", "korean": "하나님께서 만물을 그리스도의 발 아래 두시고, 그리스도를 모든 것 위에 교회의 머리로 삼으셨어요."},
-        {"verse": 23, "original": "which is his body, the fullness of him who fills all in all.", "korean": "교회는 그리스도의 몸이에요. 만물 안에서 만물을 채우시는 분의 충만함이에요."}
+        {
+          "verse": 1,
+          "original": "Paul, an apostle of Christ Jesus through the will of God, to the saints who are at Ephesus, and the faithful in Christ Jesus:",
+          "korean": "하나님의 뜻으로 그리스도 예수님의 사도가 된 바울이, 에베소에 있는 성도들과 그리스도 예수님 안에서 신실한 사람들에게 편지해요."
+        },
+        {
+          "verse": 2,
+          "original": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "korean": "우리 아버지 하나님과 주 예수 그리스도로부터 은혜와 평안이 여러분에게 있기를 바라요."
+        },
+        {
+          "verse": 3,
+          "original": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,",
+          "korean": "우리 주 예수 그리스도의 아버지 하나님을 찬양해요! 하나님께서 그리스도 안에서 하늘에 있는 모든 영적인 복을 우리에게 주셨어요."
+        },
+        {
+          "verse": 4,
+          "original": "even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love,",
+          "korean": "하나님께서 세상을 만들기 전에 그리스도 안에서 우리를 선택하셨어요. 우리가 사랑 안에서 하나님 앞에 거룩하고 흠이 없게 하시려고요."
+        },
+        {
+          "verse": 5,
+          "original": "having predestined us for adoption as children through Jesus Christ to himself, according to the good pleasure of his desire,",
+          "korean": "하나님께서 자신의 기뻐하시는 뜻대로 예수 그리스도를 통해 우리를 자녀로 삼으시기로 미리 정하셨어요."
+        },
+        {
+          "verse": 6,
+          "original": "to the praise of the glory of his grace, by which he freely gave us favor in the Beloved,",
+          "korean": "그것은 하나님의 영광스러운 은혜를 찬양하게 하려는 거예요. 하나님께서 사랑하시는 아들 안에서 우리에게 은혜를 베풀어 주셨어요."
+        },
+        {
+          "verse": 7,
+          "original": "in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,",
+          "korean": "우리는 그리스도 안에서 그분의 피로 구원을 받았어요. 하나님의 풍성한 은혜를 따라 우리의 죄를 용서받았어요."
+        },
+        {
+          "verse": 8,
+          "original": "which he made to abound toward us in all wisdom and prudence,",
+          "korean": "하나님께서 모든 지혜와 슬기로 이 은혜를 우리에게 넘치게 주셨어요."
+        },
+        {
+          "verse": 9,
+          "original": "making known to us the mystery of his will, according to his good pleasure which he purposed in him",
+          "korean": "하나님께서 기뻐하시는 뜻대로 그리스도 안에서 미리 계획하신 비밀을 우리에게 알려 주셨어요."
+        },
+        {
+          "verse": 10,
+          "original": "to an administration of the fullness of the times, to sum up all things in Christ, the things in the heavens and the things on the earth, in him.",
+          "korean": "때가 다 차면 하늘과 땅에 있는 모든 것을 그리스도 안에서 하나로 모으시려는 계획이에요."
+        },
+        {
+          "verse": 11,
+          "original": "We were also assigned an inheritance in him, having been foreordained according to the purpose of him who does all things after the counsel of his will,",
+          "korean": "우리는 또한 그리스도 안에서 기업을 받게 되었어요. 모든 것을 자신의 뜻대로 이루시는 하나님의 계획을 따라 미리 정해졌어요."
+        },
+        {
+          "verse": 12,
+          "original": "to the end that we should be to the praise of his glory, we who had before hoped in Christ.",
+          "korean": "이것은 먼저 그리스도를 소망한 우리가 하나님의 영광을 찬양하게 하려는 거예요."
+        },
+        {
+          "verse": 13,
+          "original": "In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,",
+          "korean": "여러분도 진리의 말씀, 곧 여러분의 구원의 복음을 듣고 그리스도를 믿었을 때, 약속하신 성령으로 도장을 받았어요."
+        },
+        {
+          "verse": 14,
+          "original": "who is a pledge of our inheritance, to the redemption of God's own possession, to the praise of his glory.",
+          "korean": "성령님은 우리가 받을 기업의 보증이에요. 하나님께서 자기 백성을 완전히 구원하실 때까지 그래요. 이 모든 것은 하나님의 영광을 찬양하기 위한 거예요."
+        },
+        {
+          "verse": 15,
+          "original": "For this cause I also, having heard of the faith in the Lord Jesus which is among you, and the love which you have toward all the saints,",
+          "korean": "그래서 나도 여러분이 주 예수님을 믿는다는 것과 모든 성도들을 사랑한다는 것을 듣고,"
+        },
+        {
+          "verse": 16,
+          "original": "don't cease to give thanks for you, making mention of you in my prayers,",
+          "korean": "여러분을 위해 감사하기를 멈추지 않고, 기도할 때마다 여러분을 기억해요."
+        },
+        {
+          "verse": 17,
+          "original": "that the God of our Lord Jesus Christ, the Father of glory, may give to you a spirit of wisdom and revelation in the knowledge of him,",
+          "korean": "우리 주 예수 그리스도의 하나님, 영광의 아버지께서 여러분에게 지혜와 계시의 영을 주셔서 하나님을 더 잘 알게 되기를 기도해요."
+        },
+        {
+          "verse": 18,
+          "original": "having the eyes of your hearts enlightened, that you may know what is the hope of his calling, and what are the riches of the glory of his inheritance in the saints,",
+          "korean": "마음의 눈이 밝아져서 하나님께서 부르신 소망이 무엇인지, 성도들 안에 있는 하나님 기업의 영광이 얼마나 풍성한지 알게 되기를 바라요."
+        },
+        {
+          "verse": 19,
+          "original": "and what is the exceeding greatness of his power toward us who believe, according to that working of the strength of his might",
+          "korean": "또한 믿는 우리에게 베푸시는 하나님의 능력이 얼마나 크고 강한지 알게 되기를 바라요."
+        },
+        {
+          "verse": 20,
+          "original": "which he worked in Christ, when he raised him from the dead and made him to sit at his right hand in the heavenly places,",
+          "korean": "하나님께서 이 능력으로 그리스도를 죽은 사람들 가운데서 살리시고, 하늘에서 자기 오른쪽에 앉히셨어요."
+        },
+        {
+          "verse": 21,
+          "original": "far above all rule, authority, power, dominion, and every name that is named, not only in this age, but also in that which is to come.",
+          "korean": "모든 통치와 권세와 능력과 주권 위에, 이 세상뿐 아니라 오는 세상에서도 일컬을 모든 이름 위에 뛰어나게 하셨어요."
+        },
+        {
+          "verse": 22,
+          "original": "He put all things in subjection under his feet, and gave him to be head over all things for the assembly,",
+          "korean": "하나님께서 만물을 그리스도의 발 아래 두시고, 그리스도를 모든 것 위에 교회의 머리로 삼으셨어요."
+        },
+        {
+          "verse": 23,
+          "original": "which is his body, the fullness of him who fills all in all.",
+          "korean": "교회는 그리스도의 몸이에요. 만물 안에서 만물을 채우시는 분의 충만함이에요."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "You were made alive when you were dead in transgressions and sins,",
+          "korean": "여러분은 죄와 허물로 죽어 있었는데, 하나님께서 살려 주셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.",
+          "korean": "예전에 여러분은 이 세상의 풍습을 따라 살았어요. 공중의 권세 잡은 자를 따랐는데, 그것은 지금 불순종하는 사람들 안에서 일하는 영이에요."
+        },
+        {
+          "verse": 3,
+          "original": "We also all once lived among them in the lusts of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest.",
+          "korean": "우리도 모두 전에는 그들 가운데서 육체의 욕심대로 살았어요. 육체와 생각이 원하는 것을 따랐고, 다른 사람들처럼 본래 진노의 자녀였어요."
+        },
+        {
+          "verse": 4,
+          "original": "But God, being rich in mercy, for his great love with which he loved us,",
+          "korean": "그러나 하나님께서 긍휼이 풍성하시고, 우리를 크게 사랑하셨기 때문에,"
+        },
+        {
+          "verse": 5,
+          "original": "even when we were dead through our trespasses, made us alive together with Christ—by grace you have been saved—",
+          "korean": "허물로 죽어 있던 우리를 그리스도와 함께 살려 주셨어요. 여러분은 은혜로 구원받았어요!"
+        },
+        {
+          "verse": 6,
+          "original": "and raised us up with him, and made us to sit with him in the heavenly places in Christ Jesus,",
+          "korean": "하나님께서 우리를 그리스도와 함께 살리시고, 그리스도 예수님 안에서 함께 하늘에 앉히셨어요."
+        },
+        {
+          "verse": 7,
+          "original": "that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus;",
+          "korean": "이것은 오는 세상에서 그리스도 예수님 안에서 우리에게 베푸신 자비로 그의 은혜가 얼마나 풍성한지 보여 주시려는 거예요."
+        },
+        {
+          "verse": 8,
+          "original": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
+          "korean": "여러분은 은혜로 믿음을 통해 구원받았어요. 이것은 여러분에게서 난 것이 아니라 하나님의 선물이에요."
+        },
+        {
+          "verse": 9,
+          "original": "not of works, that no one would boast.",
+          "korean": "행위로 된 것이 아니에요. 아무도 자랑하지 못하게 하려는 거예요."
+        },
+        {
+          "verse": 10,
+          "original": "For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them.",
+          "korean": "우리는 하나님께서 만드신 작품이에요. 그리스도 예수님 안에서 선한 일을 하도록 지어졌어요. 하나님께서 미리 예비하셔서 우리가 그 일을 하며 살게 하셨어요."
+        },
+        {
+          "verse": 11,
+          "original": "Therefore remember that once you, the Gentiles in the flesh, who are called \"uncircumcision\" by that which is called \"circumcision\" (in the flesh, made by hands),",
+          "korean": "그러므로 기억하세요. 전에 여러분은 육체적으로 이방인이었어요. '할례파'라고 불리는 사람들에게 '무할례자'라고 불렸어요. 그 할례는 손으로 육체에 한 것이에요."
+        },
+        {
+          "verse": 12,
+          "original": "that you were at that time separate from Christ, alienated from the commonwealth of Israel, and strangers from the covenants of the promise, having no hope and without God in the world.",
+          "korean": "그때 여러분은 그리스도와 떨어져 있었고, 이스라엘 나라에서 제외되었고, 약속의 언약에서 낯선 사람이었어요. 세상에서 소망도 없고 하나님도 없이 살았어요."
+        },
+        {
+          "verse": 13,
+          "original": "But now in Christ Jesus you who once were far off are made near in the blood of Christ.",
+          "korean": "그러나 이제 그리스도 예수님 안에서, 전에 멀리 있던 여러분이 그리스도의 피로 가까이 왔어요."
+        },
+        {
+          "verse": 14,
+          "original": "For he is our peace, who made both one, and broke down the middle wall of separation,",
+          "korean": "그리스도께서 우리의 화평이에요. 둘을 하나로 만드시고, 가운데 막힌 담을 허셨어요."
+        },
+        {
+          "verse": 15,
+          "original": "having abolished in his flesh the hostility, the law of commandments contained in ordinances, that he might create in himself one new man of the two, making peace,",
+          "korean": "그리스도께서 자기 몸으로 원수 된 것, 곧 규정으로 된 계명의 율법을 없애셨어요. 이것은 둘로 자기 안에서 하나의 새 사람을 만들어 화평하게 하시려는 거예요."
+        },
+        {
+          "verse": 16,
+          "original": "and might reconcile them both in one body to God through the cross, having killed the hostility through it.",
+          "korean": "또 십자가를 통해 둘을 한 몸으로 하나님과 화해시키시고, 십자가로 원수 됨을 없애셨어요."
+        },
+        {
+          "verse": 17,
+          "original": "He came and preached peace to you who were far off and to those who were near.",
+          "korean": "그리스도께서 오셔서 멀리 있는 여러분에게도, 가까이 있는 사람들에게도 화평을 전하셨어요."
+        },
+        {
+          "verse": 18,
+          "original": "For through him we both have our access in one Spirit to the Father.",
+          "korean": "이제 우리 둘 다 그리스도를 통해 한 성령 안에서 아버지께 나아갈 수 있어요."
+        },
+        {
+          "verse": 19,
+          "original": "So then you are no longer strangers and foreigners, but you are fellow citizens with the saints and of the household of God,",
+          "korean": "그러므로 이제 여러분은 더 이상 나그네도 외국인도 아니에요. 성도들과 같은 시민이고, 하나님의 가족이에요."
+        },
+        {
+          "verse": 20,
+          "original": "being built on the foundation of the apostles and prophets, Christ Jesus himself being the chief cornerstone;",
+          "korean": "여러분은 사도들과 예언자들의 터 위에 세워졌어요. 그리스도 예수님 자신이 모퉁잇돌이에요."
+        },
+        {
+          "verse": 21,
+          "original": "in whom the whole building, fitted together, grows into a holy temple in the Lord;",
+          "korean": "그리스도 안에서 건물 전체가 서로 연결되어 주님 안에서 거룩한 성전으로 자라요."
+        },
+        {
+          "verse": 22,
+          "original": "in whom you also are built together for a habitation of God in the Spirit.",
+          "korean": "그리스도 안에서 여러분도 함께 지어져서 성령으로 하나님이 거하실 집이 되어요."
+        }
       ]
     }
   ]
