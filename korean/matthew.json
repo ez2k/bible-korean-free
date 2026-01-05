@@ -891,6 +891,156 @@
           "korean": "그러므로 내일 일을 걱정하지 마세요. 내일은 내일이 걱정할 거예요. 그날의 괴로움은 그날로 충분해요."
         }
       ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "\"Don't judge, so that you won't be judged.",
+          "korean": "\"비판하지 마세요. 그래야 너희가 비판받지 않을 거예요."
+        },
+        {
+          "verse": 2,
+          "original": "For with whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you.",
+          "korean": "너희가 비판하는 대로 너희도 비판받을 거예요. 너희가 되어 주는 대로 너희도 받을 거예요."
+        },
+        {
+          "verse": 3,
+          "original": "Why do you see the speck that is in your brother's eye, but don't consider the beam that is in your own eye?",
+          "korean": "어째서 형제의 눈에 있는 티끌은 보면서 네 눈에 있는 들보는 생각하지 않나요?"
+        },
+        {
+          "verse": 4,
+          "original": "Or how will you tell your brother, 'Let me remove the speck from your eye;' and behold, the beam is in your own eye?",
+          "korean": "어떻게 형제에게 '네 눈에서 티끌을 빼 줄게'라고 말할 수 있어요? 네 눈에는 들보가 있는데요!"
+        },
+        {
+          "verse": 5,
+          "original": "You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother's eye.",
+          "korean": "위선자야! 먼저 네 눈에서 들보를 빼세요. 그 후에야 똑똑히 보고 형제의 눈에서 티끌을 뺄 수 있을 거예요."
+        },
+        {
+          "verse": 6,
+          "original": "\"Don't give that which is holy to the dogs, neither throw your pearls before the pigs, lest perhaps they trample them under their feet, and turn and tear you to pieces.",
+          "korean": "거룩한 것을 개에게 주지 마세요. 진주를 돼지 앞에 던지지도 마세요. 돼지가 발로 밟고 돌아서서 너희를 물어뜯을 수도 있어요."
+        },
+        {
+          "verse": 7,
+          "original": "\"Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you.",
+          "korean": "구하세요, 그러면 받을 거예요. 찾으세요, 그러면 찾을 거예요. 두드리세요, 그러면 열릴 거예요."
+        },
+        {
+          "verse": 8,
+          "original": "For everyone who asks receives. He who seeks finds. To him who knocks it will be opened.",
+          "korean": "구하는 사람마다 받고, 찾는 사람은 찾고, 두드리는 사람에게 열릴 거예요."
+        },
+        {
+          "verse": 9,
+          "original": "Or who is there among you, who, if his son asks him for bread, will give him a stone?",
+          "korean": "너희 중에 누가 아들이 빵을 달라고 하면 돌을 주겠어요?"
+        },
+        {
+          "verse": 10,
+          "original": "Or if he asks for a fish, who will give him a serpent?",
+          "korean": "생선을 달라고 하면 뱀을 주겠어요?"
+        },
+        {
+          "verse": 11,
+          "original": "If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!",
+          "korean": "너희가 악하면서도 좋은 것을 자녀에게 줄 줄 알거든, 하늘에 계신 아버지께서는 구하는 사람에게 좋은 것을 얼마나 더 많이 주시겠어요!"
+        },
+        {
+          "verse": 12,
+          "original": "Therefore whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets.",
+          "korean": "그러므로 너희가 다른 사람에게 대접받고 싶은 대로 너희도 다른 사람을 대접하세요. 이것이 율법과 예언자들의 가르침이에요."
+        },
+        {
+          "verse": 13,
+          "original": "\"Enter in by the narrow gate; for wide is the gate and broad is the way that leads to destruction, and many are those who enter in by it.",
+          "korean": "좁은 문으로 들어가세요. 멸망으로 이르는 문은 넓고 길도 넓어서 그리로 들어가는 사람이 많아요."
+        },
+        {
+          "verse": 14,
+          "original": "How narrow is the gate, and restricted is the way that leads to life! Few are those who find it.",
+          "korean": "생명으로 이르는 문은 얼마나 좁고 길도 얼마나 험한지요! 그것을 찾는 사람이 적어요."
+        },
+        {
+          "verse": 15,
+          "original": "\"Beware of false prophets, who come to you in sheep's clothing, but inwardly are ravening wolves.",
+          "korean": "거짓 예언자들을 조심하세요. 그들은 양의 옷을 입고 너희에게 오지만 속은 사나운 이리예요."
+        },
+        {
+          "verse": 16,
+          "original": "By their fruits you will know them. Do you gather grapes from thorns, or figs from thistles?",
+          "korean": "그들의 열매로 알 수 있어요. 가시나무에서 포도를 따거나 엉겅퀴에서 무화과를 따나요?"
+        },
+        {
+          "verse": 17,
+          "original": "Even so, every good tree produces good fruit; but the corrupt tree produces evil fruit.",
+          "korean": "이처럼 좋은 나무마다 좋은 열매를 맺고, 나쁜 나무는 나쁜 열매를 맺어요."
+        },
+        {
+          "verse": 18,
+          "original": "A good tree can't produce evil fruit, neither can a corrupt tree produce good fruit.",
+          "korean": "좋은 나무가 나쁜 열매를 맺을 수 없고, 나쁜 나무가 좋은 열매를 맺을 수 없어요."
+        },
+        {
+          "verse": 19,
+          "original": "Every tree that doesn't grow good fruit is cut down, and thrown into the fire.",
+          "korean": "좋은 열매를 맺지 않는 나무는 다 찍혀서 불에 던져져요."
+        },
+        {
+          "verse": 20,
+          "original": "Therefore by their fruits you will know them.",
+          "korean": "그러므로 그들의 열매로 그들을 알 거예요."
+        },
+        {
+          "verse": 21,
+          "original": "Not everyone who says to me, 'Lord, Lord,' will enter into the Kingdom of Heaven; but he who does the will of my Father who is in heaven.",
+          "korean": "나에게 '주님, 주님!' 하고 말하는 사람이 다 하늘나라에 들어가는 것이 아니에요. 하늘에 계신 내 아버지의 뜻을 행하는 사람이 들어갈 거예요."
+        },
+        {
+          "verse": 22,
+          "original": "Many will tell me in that day, 'Lord, Lord, didn't we prophesy in your name, in your name cast out demons, and in your name do many mighty works?'",
+          "korean": "그날에 많은 사람이 나에게 말할 거예요. '주님, 주님! 우리가 주님의 이름으로 예언하지 않았나요? 주님의 이름으로 귀신을 쫓아내지 않았나요? 주님의 이름으로 많은 놀라운 일을 하지 않았나요?'"
+        },
+        {
+          "verse": 23,
+          "original": "Then I will tell them, 'I never knew you. Depart from me, you who work iniquity.'",
+          "korean": "그때 내가 그들에게 분명히 말할 거예요. '나는 너희를 알지 못한다. 불법을 행하는 자들아, 나를 떠나가라.'"
+        },
+        {
+          "verse": 24,
+          "original": "\"Everyone therefore who hears these words of mine, and does them, I will liken him to a wise man, who built his house on a rock.",
+          "korean": "그러므로 이 내 말을 듣고 행하는 사람은 다 슬기로운 사람 같아요. 그 사람은 반석 위에 집을 지었어요."
+        },
+        {
+          "verse": 25,
+          "original": "The rain came down, the floods came, and the winds blew, and beat on that house; and it didn't fall, for it was founded on the rock.",
+          "korean": "비가 내리고 홍수가 나고 바람이 불어 그 집에 부딪쳤지만 무너지지 않았어요. 반석 위에 세워졌기 때문이에요."
+        },
+        {
+          "verse": 26,
+          "original": "Everyone who hears these words of mine, and doesn't do them will be like a foolish man, who built his house on the sand.",
+          "korean": "이 내 말을 듣고 행하지 않는 사람은 다 어리석은 사람 같아요. 그 사람은 모래 위에 집을 지었어요."
+        },
+        {
+          "verse": 27,
+          "original": "The rain came down, the floods came, and the winds blew, and beat on that house; and it fell—and great was its fall.\"",
+          "korean": "비가 내리고 홍수가 나고 바람이 불어 그 집에 부딪치니 무너졌어요. 그 무너짐이 컸어요.\""
+        },
+        {
+          "verse": 28,
+          "original": "When Jesus had finished saying these things, the multitudes were astonished at his teaching,",
+          "korean": "예수님이 이 말씀을 마치시니 무리가 그의 가르침에 놀랐어요."
+        },
+        {
+          "verse": 29,
+          "original": "for he taught them with authority, and not like the scribes.",
+          "korean": "예수님이 율법학자들과 다르게 권위 있게 가르치셨기 때문이에요."
+        }
+      ]
     }
   ]
 }
