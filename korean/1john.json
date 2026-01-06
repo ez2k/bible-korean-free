@@ -1,0 +1,556 @@
+{
+  "book": "1 John",
+  "bookKorean": "요한1서",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life",
+          "korean": "처음부터 있었던 것, 우리가 들은 것, 눈으로 본 것, 바라보고 손으로 만진 것, 생명의 말씀에 대해 말해요."
+        },
+        {
+          "verse": 2,
+          "original": "(and the life was revealed, and we have seen, and testify, and declare to you the life, the eternal life, which was with the Father, and was revealed to us);",
+          "korean": "(생명이 나타났어요. 우리가 보았고, 증거하고, 아버지와 함께 계셨다가 우리에게 나타난 영원한 생명을 여러분에게 전해요.)"
+        },
+        {
+          "verse": 3,
+          "original": "that which we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father, and with his Son, Jesus Christ.",
+          "korean": "우리가 보고 들은 것을 여러분에게 전해요. 여러분도 우리와 사귐을 가지게 하려고요. 우리의 사귐은 아버지와 그 아들 예수 그리스도와 함께하는 거에요."
+        },
+        {
+          "verse": 4,
+          "original": "And we write these things to you, that our joy may be fulfilled.",
+          "korean": "우리의 기쁨이 가득 차게 하려고 이것을 써요."
+        },
+        {
+          "verse": 5,
+          "original": "This is the message which we have heard from him and announce to you, that God is light, and in him is no darkness at all.",
+          "korean": "우리가 그분에게서 듣고 여러분에게 전하는 메시지는 이거에요: 하나님은 빛이시고, 그분 안에는 어둠이 전혀 없어요."
+        },
+        {
+          "verse": 6,
+          "original": "If we say that we have fellowship with him and walk in the darkness, we lie, and don't tell the truth.",
+          "korean": "만약 그분과 사귐이 있다고 하면서 어둠 속에서 살면, 거짓말하는 거고, 진리를 말하지 않는 거에요."
+        },
+        {
+          "verse": 7,
+          "original": "But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus Christ, his Son, cleanses us from all sin.",
+          "korean": "그러나 그분이 빛 가운데 계신 것처럼 우리도 빛 가운데 살면, 서로 사귐을 가지고, 그 아들 예수 그리스도의 피가 우리를 모든 죄에서 깨끗하게 해줘요."
+        },
+        {
+          "verse": 8,
+          "original": "If we say that we have no sin, we deceive ourselves, and the truth is not in us.",
+          "korean": "만약 우리에게 죄가 없다고 하면, 자기를 속이는 거고, 진리가 우리 안에 없어요."
+        },
+        {
+          "verse": 9,
+          "original": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
+          "korean": "만약 우리가 죄를 고백하면, 그분은 신실하시고 의로우셔서 우리 죄를 용서해주시고, 모든 불의에서 깨끗하게 해주세요."
+        },
+        {
+          "verse": 10,
+          "original": "If we say that we haven't sinned, we make him a liar, and his word is not in us.",
+          "korean": "만약 우리가 죄를 짓지 않았다고 하면, 그분을 거짓말쟁이로 만드는 거고, 그분의 말씀이 우리 안에 없어요."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor with the Father, Jesus Christ, the righteous.",
+          "korean": "나의 어린 자녀들이여, 여러분이 죄를 짓지 않게 하려고 이것을 써요. 만약 누가 죄를 지으면, 우리에게는 아버지 앞에서 변호해주시는 분이 계세요. 의로우신 예수 그리스도에요."
+        },
+        {
+          "verse": 2,
+          "original": "And he is the atoning sacrifice for our sins, and not for ours only, but also for the whole world.",
+          "korean": "그분은 우리 죄를 위한 화해 제물이에요. 우리 죄만이 아니라 온 세상의 죄를 위한 것이기도 해요."
+        },
+        {
+          "verse": 3,
+          "original": "This is how we know that we know him: if we keep his commandments.",
+          "korean": "이것이 우리가 그분을 안다는 것을 아는 방법이에요: 그분의 계명을 지키는 거에요."
+        },
+        {
+          "verse": 4,
+          "original": "One who says, \"I know him,\" and doesn't keep his commandments, is a liar, and the truth isn't in him.",
+          "korean": "'내가 그분을 안다'고 하면서 그분의 계명을 지키지 않는 사람은 거짓말쟁이이고, 진리가 그 안에 없어요."
+        },
+        {
+          "verse": 5,
+          "original": "But God's love has most certainly been perfected in whoever keeps his word. This is how we know that we are in him:",
+          "korean": "그러나 그분의 말씀을 지키는 사람 안에서 하나님의 사랑이 확실히 완전해졌어요. 이것이 우리가 그분 안에 있다는 것을 아는 방법이에요:"
+        },
+        {
+          "verse": 6,
+          "original": "he who says he remains in him ought himself also to walk just like he walked.",
+          "korean": "그분 안에 머문다고 말하는 사람은 그분이 걸으신 것처럼 자기도 그렇게 걸어야 해요."
+        },
+        {
+          "verse": 7,
+          "original": "Brothers, I write no new commandment to you, but an old commandment which you had from the beginning. The old commandment is the word which you heard from the beginning.",
+          "korean": "형제들이여, 내가 여러분에게 새 계명을 쓰는 것이 아니라, 처음부터 가지고 있던 옛 계명을 써요. 옛 계명은 처음부터 들은 말씀이에요."
+        },
+        {
+          "verse": 8,
+          "original": "Again, I write a new commandment to you, which is true in him and in you; because the darkness is passing away and the true light already shines.",
+          "korean": "또한 새 계명을 여러분에게 써요. 이것은 그분 안에서와 여러분 안에서 참이에요. 어둠이 지나가고 있고 참 빛이 이미 비추고 있기 때문이에요."
+        },
+        {
+          "verse": 9,
+          "original": "He who says he is in the light and hates his brother is in the darkness even until now.",
+          "korean": "빛 안에 있다고 하면서 형제를 미워하는 사람은 지금까지도 어둠 속에 있어요."
+        },
+        {
+          "verse": 10,
+          "original": "He who loves his brother remains in the light, and there is no occasion for stumbling in him.",
+          "korean": "형제를 사랑하는 사람은 빛 안에 머물고, 그 안에 넘어지게 하는 것이 없어요."
+        },
+        {
+          "verse": 11,
+          "original": "But he who hates his brother is in the darkness, and walks in the darkness, and doesn't know where he is going, because the darkness has blinded his eyes.",
+          "korean": "그러나 형제를 미워하는 사람은 어둠 속에 있고, 어둠 속에서 걷고, 어디로 가는지 몰라요. 어둠이 그의 눈을 멀게 했기 때문이에요."
+        },
+        {
+          "verse": 12,
+          "original": "I write to you, little children, because your sins are forgiven you for his name's sake.",
+          "korean": "어린 자녀들이여, 그분의 이름 때문에 여러분의 죄가 용서받았으므로 여러분에게 써요."
+        },
+        {
+          "verse": 13,
+          "original": "I write to you, fathers, because you know him who is from the beginning. I write to you, young men, because you have overcome the evil one. I write to you, little children, because you know the Father.",
+          "korean": "아버지들이여, 처음부터 계신 분을 알기 때문에 여러분에게 써요. 젊은이들이여, 악한 자를 이겼기 때문에 여러분에게 써요. 어린 자녀들이여, 아버지를 알기 때문에 여러분에게 써요."
+        },
+        {
+          "verse": 14,
+          "original": "I have written to you, fathers, because you know him who is from the beginning. I have written to you, young men, because you are strong, and the word of God remains in you, and you have overcome the evil one.",
+          "korean": "아버지들이여, 처음부터 계신 분을 알기 때문에 여러분에게 썼어요. 젊은이들이여, 여러분이 강하고, 하나님의 말씀이 여러분 안에 머물고, 악한 자를 이겼기 때문에 여러분에게 썼어요."
+        },
+        {
+          "verse": 15,
+          "original": "Don't love the world or the things that are in the world. If anyone loves the world, the Father's love isn't in him.",
+          "korean": "세상이나 세상에 있는 것들을 사랑하지 마세요. 누구든지 세상을 사랑하면, 아버지의 사랑이 그 안에 없어요."
+        },
+        {
+          "verse": 16,
+          "original": "For all that is in the world, the lust of the flesh, the lust of the eyes, and the pride of life, isn't the Father's, but is the world's.",
+          "korean": "세상에 있는 모든 것, 즉 육체의 욕심, 눈의 욕심, 삶의 자랑은 아버지에게서 온 것이 아니라 세상에서 온 것이에요."
+        },
+        {
+          "verse": 17,
+          "original": "The world is passing away with its lusts, but he who does God's will remains forever.",
+          "korean": "세상과 그 욕심들은 지나가고 있어요. 하지만 하나님의 뜻을 행하는 사람은 영원히 남아요."
+        },
+        {
+          "verse": 18,
+          "original": "Little children, these are the end times, and as you heard that the Antichrist is coming, even now many antichrists have arisen. By this we know that it is the final hour.",
+          "korean": "어린 자녀들이여, 이것은 마지막 때에요. 적그리스도가 온다고 들었는데, 지금도 많은 적그리스도들이 나타났어요. 이것으로 마지막 때인 것을 알아요."
+        },
+        {
+          "verse": 19,
+          "original": "They went out from us, but they didn't belong to us; for if they had belonged to us, they would have continued with us. But they left, that they might be revealed that none of them belong to us.",
+          "korean": "그들이 우리 가운데서 나갔지만 우리에게 속한 게 아니었어요. 만약 우리에게 속했다면 우리와 함께 있었을 거에요. 하지만 그들이 떠난 것은 그들 중 아무도 우리에게 속하지 않았다는 것이 드러나게 하려는 거에요."
+        },
+        {
+          "verse": 20,
+          "original": "You have an anointing from the Holy One, and you all have knowledge.",
+          "korean": "여러분은 거룩하신 분에게서 기름 부음을 받았고, 여러분 모두가 알아요."
+        },
+        {
+          "verse": 21,
+          "original": "I have not written to you because you don't know the truth, but because you know it, and because no lie is of the truth.",
+          "korean": "여러분이 진리를 모르기 때문에 쓴 게 아니라, 진리를 알기 때문에, 그리고 거짓은 진리에서 나온 것이 아니기 때문에 썼어요."
+        },
+        {
+          "verse": 22,
+          "original": "Who is the liar but he who denies that Jesus is the Christ? This is the Antichrist, he who denies the Father and the Son.",
+          "korean": "예수가 그리스도라는 것을 부인하는 사람이 아니면 누가 거짓말쟁이일까요? 이 사람이 적그리스도에요. 아버지와 아들을 부인하는 자에요."
+        },
+        {
+          "verse": 23,
+          "original": "Whoever denies the Son doesn't have the Father. He who confesses the Son has the Father also.",
+          "korean": "아들을 부인하는 사람은 아버지도 모셔요. 아들을 고백하는 사람은 아버지도 모셔요."
+        },
+        {
+          "verse": 24,
+          "original": "Therefore, as for you, let that remain in you which you heard from the beginning. If that which you heard from the beginning remains in you, you also will remain in the Son, and in the Father.",
+          "korean": "그러므로 처음부터 들은 것이 여러분 안에 머무르게 하세요. 처음부터 들은 것이 여러분 안에 머물면, 여러분도 아들 안에, 아버지 안에 머물 거에요."
+        },
+        {
+          "verse": 25,
+          "original": "This is the promise which he promised us, the eternal life.",
+          "korean": "이것이 그분이 우리에게 약속하신 것, 영원한 생명이에요."
+        },
+        {
+          "verse": 26,
+          "original": "These things I have written to you concerning those who would lead you astray.",
+          "korean": "여러분을 잘못된 길로 이끄는 자들에 대해 이것을 썼어요."
+        },
+        {
+          "verse": 27,
+          "original": "As for you, the anointing which you received from him remains in you, and you don't need for anyone to teach you. But as his anointing teaches you concerning all things, and is true, and is no lie, and even as it taught you, you will remain in him.",
+          "korean": "여러분은 그분에게서 받은 기름 부음이 여러분 안에 머물러 있어서, 아무도 여러분을 가르칠 필요가 없어요. 그 기름 부음이 모든 것에 대해 가르치고, 참되며 거짓이 없으니까, 그것이 가르친 대로 그분 안에 머무세요."
+        },
+        {
+          "verse": 28,
+          "original": "Now, little children, remain in him, that when he appears, we may have boldness, and not be ashamed before him at his coming.",
+          "korean": "이제 어린 자녀들이여, 그분 안에 머무세요. 그분이 나타나실 때 담대함을 갖고, 그분이 오실 때 그분 앞에서 부끄럽지 않게 하려고요."
+        },
+        {
+          "verse": 29,
+          "original": "If you know that he is righteous, you know that everyone who practices righteousness has been born of him.",
+          "korean": "그분이 의로우신 것을 알면, 의를 행하는 모든 사람이 그분에게서 났다는 것도 알아요."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "See how great a love the Father has given to us, that we should be called children of God! For this cause the world doesn't know us, because it didn't know him.",
+          "korean": "아버지께서 우리에게 주신 사랑이 얼마나 큰지 보세요! 우리가 하나님의 자녀라고 불리게 되었어요. 세상이 우리를 모르는 이유는 그분을 몰랐기 때문이에요."
+        },
+        {
+          "verse": 2,
+          "original": "Beloved, now we are children of God. It is not yet revealed what we will be; but we know that when he is revealed, we will be like him; for we will see him just as he is.",
+          "korean": "사랑하는 사람들이여, 지금 우리는 하나님의 자녀에요. 우리가 무엇이 될지는 아직 나타나지 않았어요. 하지만 그분이 나타나실 때 우리가 그분과 같아질 것을 알아요. 그분을 있는 그대로 볼 것이기 때문이에요."
+        },
+        {
+          "verse": 3,
+          "original": "Everyone who has this hope set on him purifies himself, even as he is pure.",
+          "korean": "그분을 향해 이 소망을 가진 모든 사람은 그분이 깨끗하신 것처럼 자기를 깨끗하게 해요."
+        },
+        {
+          "verse": 4,
+          "original": "Everyone who sins also commits lawlessness. Sin is lawlessness.",
+          "korean": "죄를 짓는 모든 사람은 또한 법을 어기는 거에요. 죄는 법을 어기는 것이에요."
+        },
+        {
+          "verse": 5,
+          "original": "You know that he was revealed to take away our sins, and no sin is in him.",
+          "korean": "그분이 우리 죄를 없애려고 나타나셨다는 것을 알아요. 그분 안에는 죄가 없어요."
+        },
+        {
+          "verse": 6,
+          "original": "Whoever remains in him doesn't sin. Whoever sins hasn't seen him and doesn't know him.",
+          "korean": "그분 안에 머무는 사람은 죄를 짓지 않아요. 죄를 짓는 사람은 그분을 보지 못했고 알지 못했어요."
+        },
+        {
+          "verse": 7,
+          "original": "Little children, let no one lead you astray. He who does righteousness is righteous, even as he is righteous.",
+          "korean": "어린 자녀들이여, 아무도 여러분을 잘못된 길로 이끌지 못하게 하세요. 의를 행하는 사람이 의로워요. 그분이 의로우신 것처럼요."
+        },
+        {
+          "verse": 8,
+          "original": "He who sins is of the devil, for the devil has been sinning from the beginning. To this end the Son of God was revealed: that he might destroy the works of the devil.",
+          "korean": "죄를 짓는 사람은 마귀에게서 났어요. 마귀가 처음부터 죄를 지었기 때문이에요. 하나님의 아들이 나타나신 목적은 마귀의 일을 멸하시려는 거에요."
+        },
+        {
+          "verse": 9,
+          "original": "Whoever is born of God doesn't commit sin, because his seed remains in him, and he can't sin, because he is born of God.",
+          "korean": "하나님에게서 난 사람은 죄를 짓지 않아요. 그분의 씨가 그 안에 머물기 때문이에요. 하나님에게서 났기 때문에 죄를 지을 수 없어요."
+        },
+        {
+          "verse": 10,
+          "original": "In this the children of God are revealed, and the children of the devil. Whoever doesn't do righteousness is not of God, neither is he who doesn't love his brother.",
+          "korean": "이것으로 하나님의 자녀와 마귀의 자녀가 드러나요. 의를 행하지 않는 사람은 하나님에게서 나지 않았어요. 형제를 사랑하지 않는 사람도 마찬가지에요."
+        },
+        {
+          "verse": 11,
+          "original": "For this is the message which you heard from the beginning, that we should love one another;",
+          "korean": "이것이 처음부터 들은 메시지에요: 우리가 서로 사랑해야 한다는 거에요."
+        },
+        {
+          "verse": 12,
+          "original": "unlike Cain, who was of the evil one, and killed his brother. Why did he kill him? Because his deeds were evil, and his brother's righteous.",
+          "korean": "악한 자에게서 나서 자기 형제를 죽인 가인처럼 하지 마세요. 왜 그를 죽였을까요? 자기 행실은 악하고 형제의 행실은 의로웠기 때문이에요."
+        },
+        {
+          "verse": 13,
+          "original": "Don't be surprised, my brothers, if the world hates you.",
+          "korean": "형제들이여, 세상이 여러분을 미워해도 놀라지 마세요."
+        },
+        {
+          "verse": 14,
+          "original": "We know that we have passed out of death into life, because we love the brothers. He who doesn't love his brother remains in death.",
+          "korean": "우리가 사망에서 생명으로 옮겨진 것을 알아요. 형제들을 사랑하기 때문이에요. 형제를 사랑하지 않는 사람은 사망에 머물러 있어요."
+        },
+        {
+          "verse": 15,
+          "original": "Whoever hates his brother is a murderer, and you know that no murderer has eternal life remaining in him.",
+          "korean": "형제를 미워하는 사람은 살인자에요. 살인자에게는 영원한 생명이 머물지 않는다는 것을 알아요."
+        },
+        {
+          "verse": 16,
+          "original": "By this we know love, because he laid down his life for us. And we ought to lay down our lives for the brothers.",
+          "korean": "이것으로 우리가 사랑을 알아요: 그분이 우리를 위해 자기 생명을 버리셨어요. 우리도 형제들을 위해 생명을 버려야 해요."
+        },
+        {
+          "verse": 17,
+          "original": "But whoever has the world's goods and sees his brother in need, then closes his heart of compassion against him, how does God's love remain in him?",
+          "korean": "그런데 세상 재물을 가지고 있으면서 형제가 어려운 것을 보고도 마음을 닫으면, 하나님의 사랑이 그 안에 어떻게 머물겠어요?"
+        },
+        {
+          "verse": 18,
+          "original": "My little children, let's not love in word only, or with the tongue only, but in deed and truth.",
+          "korean": "나의 어린 자녀들이여, 말로만, 혀로만 사랑하지 말고, 행동과 진실로 사랑해요."
+        },
+        {
+          "verse": 19,
+          "original": "And by this we know that we are of the truth, and persuade our hearts before him,",
+          "korean": "이것으로 우리가 진리에 속한 것을 알고, 그분 앞에서 마음을 안심시켜요."
+        },
+        {
+          "verse": 20,
+          "original": "because if our heart condemns us, God is greater than our heart, and knows all things.",
+          "korean": "우리 마음이 우리를 정죄해도, 하나님은 우리 마음보다 크시고 모든 것을 아시기 때문이에요."
+        },
+        {
+          "verse": 21,
+          "original": "Beloved, if our hearts don't condemn us, we have boldness toward God;",
+          "korean": "사랑하는 사람들이여, 우리 마음이 우리를 정죄하지 않으면, 하나님 앞에 담대함이 있어요."
+        },
+        {
+          "verse": 22,
+          "original": "so whatever we ask, we receive from him, because we keep his commandments and do the things that are pleasing in his sight.",
+          "korean": "그래서 무엇을 구하든지 그분에게서 받아요. 그분의 계명을 지키고 그분 보시기에 기쁜 것을 행하기 때문이에요."
+        },
+        {
+          "verse": 23,
+          "original": "This is his commandment, that we should believe in the name of his Son, Jesus Christ, and love one another, even as he commanded.",
+          "korean": "이것이 그분의 계명이에요: 그분의 아들 예수 그리스도의 이름을 믿고, 그분이 명령하신 대로 서로 사랑해요."
+        },
+        {
+          "verse": 24,
+          "original": "He who keeps his commandments remains in him, and he in him. By this we know that he remains in us, by the Spirit which he gave us.",
+          "korean": "그분의 계명을 지키는 사람은 그분 안에 머물고, 그분도 그 안에 머물러요. 이것으로 그분이 우리 안에 머무시는 것을 알아요: 그분이 우리에게 주신 성령으로요."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Beloved, don't believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world.",
+          "korean": "사랑하는 사람들이여, 모든 영을 믿지 말고 그 영들이 하나님에게서 왔는지 시험하세요. 많은 거짓 선지자들이 세상에 나갔기 때문이에요."
+        },
+        {
+          "verse": 2,
+          "original": "By this you know the Spirit of God: every spirit who confesses that Jesus Christ has come in the flesh is of God,",
+          "korean": "이것으로 하나님의 영을 알아요: 예수 그리스도께서 육체로 오셨다고 고백하는 영은 하나님에게서 온 거에요."
+        },
+        {
+          "verse": 3,
+          "original": "and every spirit who doesn't confess that Jesus Christ has come in the flesh is not of God, and this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already.",
+          "korean": "예수 그리스도께서 육체로 오셨다고 고백하지 않는 영은 하나님에게서 온 것이 아니에요. 이것이 적그리스도의 영이에요. 온다고 들었는데, 지금 이미 세상에 있어요."
+        },
+        {
+          "verse": 4,
+          "original": "You are of God, little children, and have overcome them; because greater is he who is in you than he who is in the world.",
+          "korean": "어린 자녀들이여, 여러분은 하나님에게 속했고 그들을 이겼어요. 여러분 안에 계신 분이 세상에 있는 자보다 크시기 때문이에요."
+        },
+        {
+          "verse": 5,
+          "original": "They are of the world. Therefore they speak of the world, and the world hears them.",
+          "korean": "그들은 세상에 속했어요. 그래서 세상에 대해 말하고, 세상이 그들의 말을 들어요."
+        },
+        {
+          "verse": 6,
+          "original": "We are of God. He who knows God listens to us. He who is not of God doesn't listen to us. By this we know the spirit of truth, and the spirit of error.",
+          "korean": "우리는 하나님에게 속했어요. 하나님을 아는 사람은 우리 말을 들어요. 하나님에게 속하지 않은 사람은 우리 말을 듣지 않아요. 이것으로 진리의 영과 미혹의 영을 알아요."
+        },
+        {
+          "verse": 7,
+          "original": "Beloved, let's love one another, for love is of God; and everyone who loves has been born of God, and knows God.",
+          "korean": "사랑하는 사람들이여, 서로 사랑해요. 사랑은 하나님에게서 나왔기 때문이에요. 사랑하는 모든 사람은 하나님에게서 났고 하나님을 알아요."
+        },
+        {
+          "verse": 8,
+          "original": "He who doesn't love doesn't know God, for God is love.",
+          "korean": "사랑하지 않는 사람은 하나님을 몰라요. 하나님은 사랑이시기 때문이에요."
+        },
+        {
+          "verse": 9,
+          "original": "By this God's love was revealed in us, that God has sent his one and only Son into the world that we might live through him.",
+          "korean": "이것으로 하나님의 사랑이 우리에게 나타났어요: 하나님께서 독생자를 세상에 보내셔서 우리가 그분을 통해 살게 하셨어요."
+        },
+        {
+          "verse": 10,
+          "original": "In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.",
+          "korean": "이것이 사랑이에요: 우리가 하나님을 사랑한 것이 아니라, 그분이 우리를 사랑하시고 자기 아들을 우리 죄를 위한 화해 제물로 보내신 거에요."
+        },
+        {
+          "verse": 11,
+          "original": "Beloved, if God loved us in this way, we also ought to love one another.",
+          "korean": "사랑하는 사람들이여, 하나님이 우리를 이렇게 사랑하셨으니, 우리도 서로 사랑해야 해요."
+        },
+        {
+          "verse": 12,
+          "original": "No one has seen God at any time. If we love one another, God remains in us, and his love has been perfected in us.",
+          "korean": "아무도 어느 때나 하나님을 본 적이 없어요. 우리가 서로 사랑하면 하나님이 우리 안에 머무시고, 그분의 사랑이 우리 안에서 완전해져요."
+        },
+        {
+          "verse": 13,
+          "original": "By this we know that we remain in him and he in us, because he has given us of his Spirit.",
+          "korean": "이것으로 우리가 그분 안에 머물고 그분이 우리 안에 머무시는 것을 알아요: 그분이 자기 영을 우리에게 주셨기 때문이에요."
+        },
+        {
+          "verse": 14,
+          "original": "We have seen and testify that the Father has sent the Son as the Savior of the world.",
+          "korean": "우리가 보았고 증거해요: 아버지께서 아들을 세상의 구주로 보내셨어요."
+        },
+        {
+          "verse": 15,
+          "original": "Whoever confesses that Jesus is the Son of God, God remains in him, and he in God.",
+          "korean": "예수가 하나님의 아들이라고 고백하는 사람 안에 하나님이 머무시고, 그 사람도 하나님 안에 머물러요."
+        },
+        {
+          "verse": 16,
+          "original": "We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him.",
+          "korean": "우리가 하나님이 우리를 향해 가지신 사랑을 알고 믿었어요. 하나님은 사랑이시에요. 사랑 안에 머무는 사람은 하나님 안에 머물고, 하나님도 그 안에 머무세요."
+        },
+        {
+          "verse": 17,
+          "original": "In this love has been made perfect among us, that we may have boldness in the day of judgment, because as he is, even so we are in this world.",
+          "korean": "이것으로 사랑이 우리 가운데서 완전해졌어요: 심판 날에 담대함을 갖게 하려고요. 그분이 그러신 것처럼 우리도 이 세상에서 그러하기 때문이에요."
+        },
+        {
+          "verse": 18,
+          "original": "There is no fear in love; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love.",
+          "korean": "사랑 안에는 두려움이 없어요. 완전한 사랑은 두려움을 내쫓아요. 두려움에는 벌이 있기 때문이에요. 두려워하는 사람은 사랑 안에서 완전해지지 않았어요."
+        },
+        {
+          "verse": 19,
+          "original": "We love him, because he first loved us.",
+          "korean": "우리가 그분을 사랑하는 것은 그분이 먼저 우리를 사랑하셨기 때문이에요."
+        },
+        {
+          "verse": 20,
+          "original": "If a man says, \"I love God,\" and hates his brother, he is a liar; for he who doesn't love his brother whom he has seen, how can he love God whom he has not seen?",
+          "korean": "'내가 하나님을 사랑한다'고 하면서 형제를 미워하는 사람은 거짓말쟁이에요. 본 형제를 사랑하지 않는 사람이 보지 못한 하나님을 어떻게 사랑할 수 있을까요?"
+        },
+        {
+          "verse": 21,
+          "original": "This commandment we have from him, that he who loves God should also love his brother.",
+          "korean": "그분에게서 받은 계명이 이거에요: 하나님을 사랑하는 사람은 형제도 사랑해야 해요."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Whoever believes that Jesus is the Christ has been born of God. Whoever loves the Father also loves the child who is born of him.",
+          "korean": "예수가 그리스도라고 믿는 사람은 하나님에게서 났어요. 아버지를 사랑하는 사람은 그분에게서 난 자녀도 사랑해요."
+        },
+        {
+          "verse": 2,
+          "original": "By this we know that we love the children of God, when we love God and keep his commandments.",
+          "korean": "이것으로 우리가 하나님의 자녀들을 사랑하는 것을 알아요: 하나님을 사랑하고 그분의 계명을 지킬 때에요."
+        },
+        {
+          "verse": 3,
+          "original": "For this is loving God, that we keep his commandments. His commandments are not grievous.",
+          "korean": "이것이 하나님을 사랑하는 것이에요: 그분의 계명을 지키는 거에요. 그분의 계명은 무겁지 않아요."
+        },
+        {
+          "verse": 4,
+          "original": "For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith.",
+          "korean": "하나님에게서 난 것은 세상을 이기기 때문이에요. 이것이 세상을 이긴 승리에요: 여러분의 믿음이에요."
+        },
+        {
+          "verse": 5,
+          "original": "Who is he who overcomes the world, but he who believes that Jesus is the Son of God?",
+          "korean": "세상을 이기는 사람이 누구일까요? 예수가 하나님의 아들이라고 믿는 사람이에요."
+        },
+        {
+          "verse": 6,
+          "original": "This is he who came by water and blood, Jesus Christ; not with the water only, but with the water and the blood. It is the Spirit who testifies, because the Spirit is the truth.",
+          "korean": "이분이 물과 피로 오신 분, 예수 그리스도에요. 물로만 오신 것이 아니라 물과 피로 오셨어요. 증거하시는 분은 성령이에요. 성령은 진리이시기 때문이에요."
+        },
+        {
+          "verse": 7,
+          "original": "For there are three who testify:",
+          "korean": "증거하는 것이 셋이 있어요:"
+        },
+        {
+          "verse": 8,
+          "original": "the Spirit, the water, and the blood; and the three agree as one.",
+          "korean": "성령과 물과 피에요. 이 셋이 하나로 일치해요."
+        },
+        {
+          "verse": 9,
+          "original": "If we receive the witness of men, the witness of God is greater; for this is God's testimony which he has testified concerning his Son.",
+          "korean": "사람들의 증거를 받아들인다면, 하나님의 증거는 더 커요. 이것이 그분의 아들에 대해 증거하신 하나님의 증거이기 때문이에요."
+        },
+        {
+          "verse": 10,
+          "original": "He who believes in the Son of God has the testimony in himself. He who doesn't believe God has made him a liar, because he has not believed in the testimony that God has given concerning his Son.",
+          "korean": "하나님의 아들을 믿는 사람은 자기 안에 증거를 가지고 있어요. 하나님을 믿지 않는 사람은 그분을 거짓말쟁이로 만들었어요. 하나님이 자기 아들에 대해 주신 증거를 믿지 않았기 때문이에요."
+        },
+        {
+          "verse": 11,
+          "original": "The testimony is this, that God gave to us eternal life, and this life is in his Son.",
+          "korean": "그 증거는 이거에요: 하나님이 우리에게 영원한 생명을 주셨고, 이 생명은 그분의 아들 안에 있어요."
+        },
+        {
+          "verse": 12,
+          "original": "He who has the Son has the life. He who doesn't have God's Son doesn't have the life.",
+          "korean": "아들이 있는 사람은 생명이 있어요. 하나님의 아들이 없는 사람은 생명이 없어요."
+        },
+        {
+          "verse": 13,
+          "original": "These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may continue to believe in the name of the Son of God.",
+          "korean": "하나님의 아들의 이름을 믿는 여러분에게 이것을 썼어요. 여러분이 영원한 생명이 있다는 것을 알고, 계속 하나님의 아들의 이름을 믿게 하려고요."
+        },
+        {
+          "verse": 14,
+          "original": "This is the boldness which we have toward him, that if we ask anything according to his will, he listens to us.",
+          "korean": "이것이 우리가 그분을 향해 가진 담대함이에요: 그분의 뜻대로 무엇을 구하면 그분이 들으세요."
+        },
+        {
+          "verse": 15,
+          "original": "And if we know that he listens to us, whatever we ask, we know that we have the petitions which we have asked of him.",
+          "korean": "그분이 우리 말을 들으시는 줄 알면, 무엇을 구하든지 그분께 구한 것을 받은 줄 알아요."
+        },
+        {
+          "verse": 16,
+          "original": "If anyone sees his brother sinning a sin not leading to death, he shall ask, and God will give him life for those who sin not leading to death. There is a sin leading to death. I don't say that he should make a request concerning this.",
+          "korean": "누가 형제가 죽음에 이르지 않는 죄를 짓는 것을 보면 구하세요. 하나님이 죽음에 이르지 않는 죄를 짓는 사람들에게 생명을 주실 거에요. 죽음에 이르는 죄가 있어요. 그것에 대해서는 구하라고 말하지 않아요."
+        },
+        {
+          "verse": 17,
+          "original": "All unrighteousness is sin, and there is a sin not leading to death.",
+          "korean": "모든 불의는 죄에요. 하지만 죽음에 이르지 않는 죄도 있어요."
+        },
+        {
+          "verse": 18,
+          "original": "We know that whoever is born of God doesn't sin, but he who was born of God keeps himself, and the evil one doesn't touch him.",
+          "korean": "하나님에게서 난 사람은 죄를 짓지 않는다는 것을 알아요. 하나님에게서 나신 분이 그를 지켜주셔서 악한 자가 건드리지 못해요."
+        },
+        {
+          "verse": 19,
+          "original": "We know that we are of God, and the whole world lies in the power of the evil one.",
+          "korean": "우리가 하나님께 속했다는 것을 알아요. 온 세상은 악한 자의 권세 아래 있어요."
+        },
+        {
+          "verse": 20,
+          "original": "We know that the Son of God has come, and has given us an understanding, that we know him who is true, and we are in him who is true, in his Son Jesus Christ. This is the true God and eternal life.",
+          "korean": "하나님의 아들이 오셨고, 우리에게 참되신 분을 알 수 있는 지혜를 주신 것을 알아요. 우리는 참되신 분 안에, 그 아들 예수 그리스도 안에 있어요. 이분이 참 하나님이시고 영원한 생명이에요."
+        },
+        {
+          "verse": 21,
+          "original": "Little children, keep yourselves from idols.",
+          "korean": "어린 자녀들이여, 우상을 멀리하세요."
+        }
+      ]
+    }
+  ]
+}
