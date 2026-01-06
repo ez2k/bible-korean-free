@@ -4256,6 +4256,181 @@
           "korean": "이것이 여호와께서 모세를 통해 시내 산에서 자신과 이스라엘 자손 사이에 세운 규정과 법도와 율법이에요."
         }
       ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": ""Speak to the children of Israel, and say to them, 'When a man consecrates a person to Yahweh in a vow, according to your valuation,",
+          "korean": "\"이스라엘 자손에게 말해. '어떤 사람이 서원으로 사람을 여호와께 바치면, 네 값을 매겨야 해."
+        },
+        {
+          "verse": 3,
+          "original": "your valuation of a male from twenty years old to sixty years old shall be fifty shekels of silver, according to the shekel of the sanctuary.",
+          "korean": "이십 세부터 육십 세까지의 남자는 성소의 세겔로 은 오십 세겔로 값을 매겨야 해."
+        },
+        {
+          "verse": 4,
+          "original": "If she is a female, then your valuation shall be thirty shekels.",
+          "korean": "여자면 삼십 세겔로 값을 매겨야 해."
+        },
+        {
+          "verse": 5,
+          "original": "If the person is from five years old to twenty years old, then your valuation shall be for a male twenty shekels, and for a female ten shekels.",
+          "korean": "오 세부터 이십 세까지면 남자는 이십 세겔, 여자는 십 세겔로 값을 매겨야 해."
+        },
+        {
+          "verse": 6,
+          "original": "If the person is from a month old to five years old, then your valuation shall be for a male five shekels of silver, and for a female your valuation shall be three shekels of silver.",
+          "korean": "한 달부터 오 세까지면 남자는 은 오 세겔, 여자는 은 삼 세겔로 값을 매겨야 해."
+        },
+        {
+          "verse": 7,
+          "original": "If the person is from sixty years old and upward; if he is a male, then your valuation shall be fifteen shekels, and for a female ten shekels.",
+          "korean": "육십 세 이상이면 남자는 십오 세겔, 여자는 십 세겔로 값을 매겨야 해."
+        },
+        {
+          "verse": 8,
+          "original": "But if he is poorer than your valuation, then he shall be set before the priest, and the priest shall assign a value to him. The priest shall assign a value according to his ability to pay.",
+          "korean": "그러나 그가 네가 매긴 값보다 가난하면, 제사장 앞에 세워야 해. 제사장이 그의 지불 능력에 따라 값을 매겨야 해."
+        },
+        {
+          "verse": 9,
+          "original": "" 'If it is an animal of which men offer an offering to Yahweh, all that any man gives of such to Yahweh becomes holy.",
+          "korean": "\"'여호와께 제물로 드리는 동물이면, 여호와께 주는 것은 다 거룩해져."
+        },
+        {
+          "verse": 10,
+          "original": "He shall not alter it, nor exchange it, a good for a bad, or a bad for a good. If he shall at all exchange animal for animal, then both it and that for which it is exchanged shall be holy.",
+          "korean": "바꾸거나 대신하면 안 돼. 좋은 것을 나쁜 것으로, 나쁜 것을 좋은 것으로 바꾸면 안 돼. 동물을 동물로 바꾸면 둘 다 거룩해져."
+        },
+        {
+          "verse": 11,
+          "original": "If it is any unclean animal, of which they do not offer as an offering to Yahweh, then he shall set the animal before the priest;",
+          "korean": "여호와께 제물로 드리지 않는 부정한 동물이면 그 동물을 제사장 앞에 세워야 해."
+        },
+        {
+          "verse": 12,
+          "original": "and the priest shall evaluate it, whether it is good or bad. As the priest evaluates it, so it shall be.",
+          "korean": "제사장이 좋은지 나쁜지 값을 매겨야 해. 제사장이 매긴 대로 될 거야."
+        },
+        {
+          "verse": 13,
+          "original": "But if he will indeed redeem it, then he shall add the fifth part of it to its valuation.",
+          "korean": "그러나 그것을 되사려면 매긴 값에 오분의 일을 더해야 해."
+        },
+        {
+          "verse": 14,
+          "original": "" 'When a man dedicates his house to be holy to Yahweh, then the priest shall evaluate it, whether it is good or bad. As the priest evaluates it, so it shall stand.",
+          "korean": "\"'어떤 사람이 자기 집을 여호와께 거룩하게 바치면, 제사장이 좋은지 나쁜지 값을 매겨야 해. 제사장이 매긴 대로 정해질 거야."
+        },
+        {
+          "verse": 15,
+          "original": "If he who dedicates it will redeem his house, then he shall add the fifth part of the money of your valuation to it, and it shall be his.",
+          "korean": "바친 사람이 자기 집을 되사려면, 매긴 값에 오분의 일을 더해야 해. 그러면 그의 것이 될 거야."
+        },
+        {
+          "verse": 16,
+          "original": "" 'If a man dedicates to Yahweh part of the field of his possession, then your valuation shall be according to the seed for it. The sowing of a homer of barley shall be valued at fifty shekels of silver.",
+          "korean": "\"'어떤 사람이 자기 소유 밭의 일부를 여호와께 바치면, 씨 뿌릴 양에 따라 값을 매겨야 해. 보리 한 호멜을 뿌릴 밭은 은 오십 세겔로 값을 매겨야 해."
+        },
+        {
+          "verse": 17,
+          "original": "If he dedicates his field from the Year of Jubilee, according to your valuation it shall stand.",
+          "korean": "희년부터 밭을 바치면 네가 매긴 값대로 정해질 거야."
+        },
+        {
+          "verse": 18,
+          "original": "But if he dedicates his field after the Jubilee, then the priest shall reckon to him the money according to the years that remain to the Year of Jubilee; and an abatement shall be made from your valuation.",
+          "korean": "그러나 희년 후에 밭을 바치면, 제사장이 희년까지 남은 년 수에 따라 값을 계산해야 해. 네가 매긴 값에서 줄여야 해."
+        },
+        {
+          "verse": 19,
+          "original": "If he who dedicated the field will indeed redeem it, then he shall add the fifth part of the money of your valuation to it, and it shall remain his.",
+          "korean": "밭을 바친 사람이 되사려면, 매긴 값에 오분의 일을 더해야 해. 그러면 그의 것으로 남을 거야."
+        },
+        {
+          "verse": 20,
+          "original": "If he will not redeem the field, or if he has sold the field to another man, it shall not be redeemed any more;",
+          "korean": "밭을 되사지 않거나 다른 사람에게 팔았으면, 더 이상 되살 수 없어."
+        },
+        {
+          "verse": 21,
+          "original": "but the field, when it goes out in the Jubilee, shall be holy to Yahweh, as a devoted field. It shall be owned by the priests.",
+          "korean": "그 밭이 희년에 나갈 때 바쳐진 밭처럼 여호와께 거룩해질 거야. 제사장들의 것이 될 거야."
+        },
+        {
+          "verse": 22,
+          "original": "" 'If he dedicates a field to Yahweh which he has bought, which is not of the field of his possession,",
+          "korean": "\"'어떤 사람이 산 밭으로 자기 소유 밭이 아닌 것을 여호와께 바치면,"
+        },
+        {
+          "verse": 23,
+          "original": "then the priest shall reckon to him the worth of your valuation up to the Year of Jubilee; and he shall give your valuation on that day, as a holy thing to Yahweh.",
+          "korean": "제사장이 희년까지 매긴 값을 계산해야 해. 그가 그날에 그 값을 여호와께 거룩한 것으로 드려야 해."
+        },
+        {
+          "verse": 24,
+          "original": "In the Year of Jubilee the field shall return to him from whom it was bought, even to him to whom the possession of the land belongs.",
+          "korean": "희년에 그 밭은 산 사람에게, 곧 그 땅의 원래 소유자에게 돌아가야 해."
+        },
+        {
+          "verse": 25,
+          "original": "All your valuations shall be according to the shekel of the sanctuary: twenty gerahs to the shekel.",
+          "korean": "모든 값은 성소의 세겔에 따라야 해. 한 세겔은 이십 게라야."
+        },
+        {
+          "verse": 26,
+          "original": "" 'However the firstborn among animals, which belongs to Yahweh as a firstborn, no man may dedicate, whether an ox or a sheep. It is Yahweh's.",
+          "korean": "\"'그러나 동물의 첫 태생은 첫 태생으로 여호와의 것이니, 아무도 바칠 수 없어. 소든 양이든 여호와의 것이야."
+        },
+        {
+          "verse": 27,
+          "original": "If it is an unclean animal, then he shall buy it back according to your valuation, and shall add to it the fifth part of it; or if it isn't redeemed, then it shall be sold according to your valuation.",
+          "korean": "부정한 동물이면 매긴 값에 오분의 일을 더해서 되사야 해. 되사지 않으면 매긴 값대로 팔아야 해."
+        },
+        {
+          "verse": 28,
+          "original": "" 'Notwithstanding, no devoted thing that a man devotes to Yahweh of all that he has, whether of man or animal, or of the field of his possession, shall be sold or redeemed. Everything that is permanently devoted is most holy to Yahweh.",
+          "korean": "\"'그러나 어떤 사람이 자기가 가진 모든 것 중에서 사람이든 동물이든 자기 소유 밭이든 여호와께 바친 것은 팔거나 되살 수 없어. 영구히 바쳐진 것은 다 여호와께 지극히 거룩해."
+        },
+        {
+          "verse": 29,
+          "original": "" 'No one devoted to destruction, who shall be devoted from among men, shall be ransomed. He shall surely be put to death.",
+          "korean": "\"'사람 가운데서 멸하도록 바쳐진 자는 값을 치르고 풀려날 수 없어. 반드시 죽임을 당해야 해."
+        },
+        {
+          "verse": 30,
+          "original": "" 'All the tithe of the land, whether of the seed of the land or of the fruit of the trees, is Yahweh's. It is holy to Yahweh.",
+          "korean": "\"'땅의 소출이든 나무의 열매든 땅의 모든 십일조는 여호와의 것이야. 여호와께 거룩해."
+        },
+        {
+          "verse": 31,
+          "original": "If a man redeems anything of his tithe, he shall add a fifth part to it.",
+          "korean": "어떤 사람이 자기 십일조의 일부를 되사려면 오분의 일을 더해야 해."
+        },
+        {
+          "verse": 32,
+          "original": "All the tithe of the herds or the flocks, whatever passes under the rod, the tenth shall be holy to Yahweh.",
+          "korean": "소 떼나 양 떼의 모든 십일조는 막대기 아래로 지나가는 것 중 열 번째 것이 여호와께 거룩해."
+        },
+        {
+          "verse": 33,
+          "original": "He shall not examine whether it is good or bad, neither shall he exchange it. If he exchanges it at all, then both it and that for which it is exchanged shall be holy. It shall not be redeemed.' "",
+          "korean": "좋은지 나쁜지 살피지 말고 바꾸지 마. 바꾸면 둘 다 거룩해져. 되살 수 없어.'\""
+        },
+        {
+          "verse": 34,
+          "original": "These are the commandments which Yahweh commanded Moses for the children of Israel on Mount Sinai.",
+          "korean": "이것이 여호와께서 시내 산에서 이스라엘 자손을 위해 모세에게 명령하신 것이에요."
+        }
+      ]
     }
   ]
 }
