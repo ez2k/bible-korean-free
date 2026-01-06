@@ -1121,6 +1121,146 @@
           "korean": "그 남자는 죄가 없고 그 여자가 자기 죄를 져야 해요.'\""
         }
       ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Speak to the children of Israel, and tell them: 'When either man or woman shall make a special vow, the vow of a Nazirite, to separate himself to Yahweh,",
+          "korean": "\"이스라엘 자손에게 말해라: '남자든 여자든 특별한 서원, 곧 나실인의 서원을 하여 자신을 여호와께 구별하면,"
+        },
+        {
+          "verse": 3,
+          "original": "he shall separate himself from wine and strong drink. He shall drink no vinegar of wine, or vinegar of fermented drink, neither shall he drink any juice of grapes, nor eat fresh grapes or dried.",
+          "korean": "포도주와 독주에서 멀리해야 해요. 포도주의 초나 독주의 초를 마시지 말고, 포도즙도 마시지 말고, 생포도나 건포도도 먹지 말아야 해요."
+        },
+        {
+          "verse": 4,
+          "original": "All the days of his separation he shall eat nothing that is made of the grapevine, from the seeds even to the skins.",
+          "korean": "그가 구별된 모든 날 동안 포도나무에서 나는 것은 씨부터 껍질까지 아무것도 먹지 말아야 해요."
+        },
+        {
+          "verse": 5,
+          "original": "\"'All the days of his vow of separation no razor shall come on his head, until the days are fulfilled in which he separates himself to Yahweh. He shall be holy. He shall let the locks of the hair of his head grow long.",
+          "korean": "\"'자신을 여호와께 구별한 날이 다 차기까지 그의 서원 기간 동안 머리에 삭도를 대지 말아야 해요. 그가 거룩해야 해요. 머리털을 길게 자라게 해야 해요."
+        },
+        {
+          "verse": 6,
+          "original": "\"'All the days that he separates himself to Yahweh he shall not go near a dead body.",
+          "korean": "\"'자신을 여호와께 구별한 모든 날 동안 시체에 가까이 가지 말아야 해요."
+        },
+        {
+          "verse": 7,
+          "original": "He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die, because his separation to God is on his head.",
+          "korean": "아버지나 어머니나 형제나 자매가 죽어도 그들 때문에 자신을 부정하게 하지 말아야 해요. 하나님께 구별한 표가 그의 머리에 있기 때문이에요."
+        },
+        {
+          "verse": 8,
+          "original": "All the days of his separation he is holy to Yahweh.",
+          "korean": "그가 구별된 모든 날 동안 여호와께 거룩해요."
+        },
+        {
+          "verse": 9,
+          "original": "\"'If any man dies very suddenly beside him, and he defiles the head of his separation, then he shall shave his head in the day of his cleansing. On the seventh day he shall shave it.",
+          "korean": "\"'만일 어떤 사람이 갑자기 그 곁에서 죽어 그의 구별된 머리를 더럽혔으면, 정결하게 되는 날에 머리를 밀어야 해요. 일곱째 날에 밀어야 해요."
+        },
+        {
+          "verse": 10,
+          "original": "On the eighth day he shall bring two turtledoves or two young pigeons to the priest, to the door of the Tent of Meeting.",
+          "korean": "여덟째 날에 산비둘기 두 마리나 어린 비둘기 두 마리를 제사장에게 회막 문으로 가져와야 해요."
+        },
+        {
+          "verse": 11,
+          "original": "The priest shall offer one for a sin offering, and the other for a burnt offering, and make atonement for him, because he sinned by reason of the dead, and shall make his head holy that same day.",
+          "korean": "제사장이 하나는 속죄제로, 다른 하나는 번제로 드려 그를 위해 속죄해야 해요. 시체 때문에 죄를 지었기 때문이에요. 그날 그의 머리를 거룩하게 해야 해요."
+        },
+        {
+          "verse": 12,
+          "original": "He shall separate to Yahweh the days of his separation, and shall bring a male lamb a year old for a trespass offering; but the former days shall be void, because his separation was defiled.",
+          "korean": "그가 구별된 날들을 여호와께 다시 드리고, 일 년 된 숫양을 속건제로 가져와야 해요. 그러나 그전의 날들은 무효가 돼요. 그의 구별이 더럽혀졌기 때문이에요."
+        },
+        {
+          "verse": 13,
+          "original": "\"'This is the law of the Nazirite: when the days of his separation are fulfilled, he shall be brought to the door of the Tent of Meeting,",
+          "korean": "\"'이것이 나실인의 법이에요: 그의 구별된 날이 다 차면 회막 문으로 데려와야 해요."
+        },
+        {
+          "verse": 14,
+          "original": "and he shall offer his offering to Yahweh: one male lamb a year old without defect for a burnt offering, one ewe lamb a year old without defect for a sin offering, one ram without defect for peace offerings,",
+          "korean": "그가 여호와께 예물을 드려야 해요: 흠 없는 일 년 된 숫양 한 마리를 번제로, 흠 없는 일 년 된 암양 한 마리를 속죄제로, 흠 없는 숫양 한 마리를 화목제로 드려요."
+        },
+        {
+          "verse": 15,
+          "original": "a basket of unleavened bread, cakes of fine flour mixed with oil, and unleavened wafers anointed with oil with their meal offering and their drink offerings.",
+          "korean": "무교병 한 광주리, 기름 섞은 고운 가루로 만든 과자와 기름 바른 무교 전병을 그 소제와 전제와 함께 드려야 해요."
+        },
+        {
+          "verse": 16,
+          "original": "The priest shall present them before Yahweh, and shall offer his sin offering and his burnt offering.",
+          "korean": "제사장이 그것들을 여호와 앞에 드리고, 그의 속죄제와 번제를 드려야 해요."
+        },
+        {
+          "verse": 17,
+          "original": "He shall offer the ram for a sacrifice of peace offerings to Yahweh, with the basket of unleavened bread. The priest shall offer also its meal offering and its drink offering.",
+          "korean": "숫양을 무교병 광주리와 함께 여호와께 화목제로 드려야 해요. 제사장이 그 소제와 전제도 드려야 해요."
+        },
+        {
+          "verse": 18,
+          "original": "The Nazirite shall shave the head of his separation at the door of the Tent of Meeting, take the hair of the head of his separation, and put it on the fire which is under the sacrifice of peace offerings.",
+          "korean": "나실인이 회막 문에서 그의 구별된 머리를 밀고, 그 구별된 머리털을 가져다가 화목제 아래 있는 불에 넣어야 해요."
+        },
+        {
+          "verse": 19,
+          "original": "The priest shall take the boiled shoulder of the ram, one unleavened cake out of the basket, and one unleavened wafer, and shall put them on the hands of the Nazirite after he has shaved the head of his separation;",
+          "korean": "제사장이 숫양의 삶은 어깨와 광주리에서 무교 과자 하나와 무교 전병 하나를 가져다가 나실인이 머리를 민 후에 그의 손에 올려 주어야 해요."
+        },
+        {
+          "verse": 20,
+          "original": "and the priest shall wave them for a wave offering before Yahweh. They are holy for the priest, together with the breast that is waved and the thigh that is offered. After that the Nazirite may drink wine.",
+          "korean": "제사장이 그것들을 여호와 앞에서 흔들어 요제로 드려야 해요. 그것들이 흔든 가슴과 들어 드린 넓적다리와 함께 제사장에게 거룩한 것이에요. 그 후에 나실인이 포도주를 마셔도 돼요."
+        },
+        {
+          "verse": 21,
+          "original": "\"'This is the law of the Nazirite who vows and of his offering to Yahweh for his separation, in addition to that which he is able to afford. According to his vow which he vows, so he must do after the law of his separation.'\"",
+          "korean": "\"'이것이 서원하는 나실인의 법이에요. 그가 감당할 수 있는 것 외에 그의 구별을 위해 여호와께 드리는 예물이에요. 그가 서원한 대로 그의 구별의 법을 따라 행해야 해요.'\""
+        },
+        {
+          "verse": 22,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 23,
+          "original": "\"Speak to Aaron and to his sons, saying, 'This is how you shall bless the children of Israel.' Say to them,",
+          "korean": "\"아론과 그의 아들들에게 말해라: '이렇게 이스라엘 자손을 축복해라.' 그들에게 말해라,"
+        },
+        {
+          "verse": 24,
+          "original": "'Yahweh bless you, and keep you.",
+          "korean": "'여호와께서 네게 복을 주시고 너를 지키시기를."
+        },
+        {
+          "verse": 25,
+          "original": "Yahweh make his face to shine on you, and be gracious to you.",
+          "korean": "여호와께서 그의 얼굴을 네게 비추시고 은혜를 베푸시기를."
+        },
+        {
+          "verse": 26,
+          "original": "Yahweh lift up his face toward you, and give you peace.'",
+          "korean": "여호와께서 그의 얼굴을 네게로 드시고 평강을 주시기를.'"
+        },
+        {
+          "verse": 27,
+          "original": "\"So they shall put my name on the children of Israel; and I will bless them.\"",
+          "korean": "\"이렇게 그들이 내 이름을 이스라엘 자손 위에 두면 내가 그들에게 복을 줄 거야.\""
+        }
+      ]
     }
   ]
 }
