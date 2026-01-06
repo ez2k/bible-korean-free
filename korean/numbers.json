@@ -1,0 +1,281 @@
+{
+  "book": "Numbers",
+  "bookKorean": "민수기",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,",
+          "korean": "여호와께서 이집트 땅에서 나온 지 이 년째 되는 해, 둘째 달 첫째 날에 시내 광야 회막에서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Take a census of all the congregation of the children of Israel, by their families, by their fathers' houses, according to the number of the names, every male, one by one,",
+          "korean": "\"이스라엘 자손의 모든 회중을 그들의 가족대로, 그들의 조상의 집대로 인원수를 세어라. 모든 남자를 한 사람씩 세어라."
+        },
+        {
+          "verse": 3,
+          "original": "from twenty years old and upward, all who are able to go out to war in Israel. You and Aaron shall count them by their divisions.",
+          "korean": "스무 살 이상으로 이스라엘에서 전쟁에 나갈 수 있는 모든 사람을 너와 아론이 그들의 부대별로 세어라."
+        },
+        {
+          "verse": 4,
+          "original": "With you there shall be a man of every tribe, each one head of his fathers' house.",
+          "korean": "각 지파에서 한 사람씩, 각각 자기 조상 집의 우두머리가 너희와 함께 할 거야."
+        },
+        {
+          "verse": 5,
+          "original": "These are the names of the men who shall stand with you: Of Reuben: Elizur the son of Shedeur.",
+          "korean": "너희와 함께 설 사람들의 이름은 이거야: 르우벤 지파에서는 스데울의 아들 엘리술이야."
+        },
+        {
+          "verse": 6,
+          "original": "Of Simeon: Shelumiel the son of Zurishaddai.",
+          "korean": "시므온 지파에서는 수리삿대의 아들 슬루미엘이야."
+        },
+        {
+          "verse": 7,
+          "original": "Of Judah: Nahshon the son of Amminadab.",
+          "korean": "유다 지파에서는 암미나답의 아들 나손이야."
+        },
+        {
+          "verse": 8,
+          "original": "Of Issachar: Nethanel the son of Zuar.",
+          "korean": "잇사갈 지파에서는 수알의 아들 느다넬이야."
+        },
+        {
+          "verse": 9,
+          "original": "Of Zebulun: Eliab the son of Helon.",
+          "korean": "스불론 지파에서는 헬론의 아들 엘리압이야."
+        },
+        {
+          "verse": 10,
+          "original": "Of the children of Joseph: of Ephraim: Elishama the son of Ammihud; of Manasseh: Gamaliel the son of Pedahzur.",
+          "korean": "요셉 자손 중에서는 에브라임 지파에서 암미훗의 아들 엘리사마, 므낫세 지파에서 브다술의 아들 가말리엘이야."
+        },
+        {
+          "verse": 11,
+          "original": "Of Benjamin: Abidan the son of Gideoni.",
+          "korean": "베냐민 지파에서는 기드오니의 아들 아비단이야."
+        },
+        {
+          "verse": 12,
+          "original": "Of Dan: Ahiezer the son of Ammishaddai.",
+          "korean": "단 지파에서는 암미삿대의 아들 아히에셀이야."
+        },
+        {
+          "verse": 13,
+          "original": "Of Asher: Pagiel the son of Ochran.",
+          "korean": "아셀 지파에서는 오그란의 아들 바기엘이야."
+        },
+        {
+          "verse": 14,
+          "original": "Of Gad: Eliasaph the son of Deuel.",
+          "korean": "갓 지파에서는 드우엘의 아들 엘리아삽이야."
+        },
+        {
+          "verse": 15,
+          "original": "Of Naphtali: Ahira the son of Enan.\"",
+          "korean": "납달리 지파에서는 에난의 아들 아히라야.\""
+        },
+        {
+          "verse": 16,
+          "original": "These are those who were called of the congregation, the princes of the tribes of their fathers; they were the heads of the thousands of Israel.",
+          "korean": "이들이 회중에서 부름 받은 자들이에요. 그들의 조상 지파의 지도자들이고 이스라엘의 천부장들이에요."
+        },
+        {
+          "verse": 17,
+          "original": "Moses and Aaron took these men who are mentioned by name.",
+          "korean": "모세와 아론이 이름이 지명된 이 사람들을 데려왔어요."
+        },
+        {
+          "verse": 18,
+          "original": "They assembled all the congregation together on the first day of the second month; and they declared their ancestry by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, one by one.",
+          "korean": "그들이 둘째 달 첫째 날에 모든 회중을 모았어요. 회중이 스무 살 이상으로 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 한 사람씩 자기 족보를 밝혔어요."
+        },
+        {
+          "verse": 19,
+          "original": "As Yahweh commanded Moses, so he counted them in the wilderness of Sinai.",
+          "korean": "여호와께서 모세에게 명령하신 대로 모세가 시내 광야에서 그들을 세었어요."
+        },
+        {
+          "verse": 20,
+          "original": "The children of Reuben, Israel's firstborn, their generations, by their families, by their fathers' houses, according to the number of the names, one by one, every male from twenty years old and upward, all who were able to go out to war:",
+          "korean": "이스라엘의 장자 르우벤 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 남자를 한 사람씩 세었어요."
+        },
+        {
+          "verse": 21,
+          "original": "those who were counted of them, of the tribe of Reuben, were forty-six thousand five hundred.",
+          "korean": "르우벤 지파에서 계수된 자들은 사만 육천오백 명이었어요."
+        },
+        {
+          "verse": 22,
+          "original": "Of the children of Simeon, their generations, by their families, by their fathers' houses, those who were counted of it, according to the number of the names, one by one, every male from twenty years old and upward, all who were able to go out to war:",
+          "korean": "시므온 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 남자를 한 사람씩 계수했어요."
+        },
+        {
+          "verse": 23,
+          "original": "those who were counted of them, of the tribe of Simeon, were fifty-nine thousand three hundred.",
+          "korean": "시므온 지파에서 계수된 자들은 오만 구천삼백 명이었어요."
+        },
+        {
+          "verse": 24,
+          "original": "Of the children of Gad, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:",
+          "korean": "갓 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 사람을 세었어요."
+        },
+        {
+          "verse": 25,
+          "original": "those who were counted of them, of the tribe of Gad, were forty-five thousand six hundred fifty.",
+          "korean": "갓 지파에서 계수된 자들은 사만 오천육백오십 명이었어요."
+        },
+        {
+          "verse": 26,
+          "original": "Of the children of Judah, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:",
+          "korean": "유다 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 사람을 세었어요."
+        },
+        {
+          "verse": 27,
+          "original": "those who were counted of them, of the tribe of Judah, were seventy-four thousand six hundred.",
+          "korean": "유다 지파에서 계수된 자들은 칠만 사천육백 명이었어요."
+        },
+        {
+          "verse": 28,
+          "original": "Of the children of Issachar, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:",
+          "korean": "잇사갈 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 사람을 세었어요."
+        },
+        {
+          "verse": 29,
+          "original": "those who were counted of them, of the tribe of Issachar, were fifty-four thousand four hundred.",
+          "korean": "잇사갈 지파에서 계수된 자들은 오만 사천사백 명이었어요."
+        },
+        {
+          "verse": 30,
+          "original": "Of the children of Zebulun, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:",
+          "korean": "스불론 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 사람을 세었어요."
+        },
+        {
+          "verse": 31,
+          "original": "those who were counted of them, of the tribe of Zebulun, were fifty-seven thousand four hundred.",
+          "korean": "스불론 지파에서 계수된 자들은 오만 칠천사백 명이었어요."
+        },
+        {
+          "verse": 32,
+          "original": "Of the children of Joseph: of the children of Ephraim, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:",
+          "korean": "요셉 자손 중 에브라임 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 사람을 세었어요."
+        },
+        {
+          "verse": 33,
+          "original": "those who were counted of them, of the tribe of Ephraim, were forty thousand five hundred.",
+          "korean": "에브라임 지파에서 계수된 자들은 사만 오백 명이었어요."
+        },
+        {
+          "verse": 34,
+          "original": "Of the children of Manasseh, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:",
+          "korean": "므낫세 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 사람을 세었어요."
+        },
+        {
+          "verse": 35,
+          "original": "those who were counted of them, of the tribe of Manasseh, were thirty-two thousand two hundred.",
+          "korean": "므낫세 지파에서 계수된 자들은 삼만 이천이백 명이었어요."
+        },
+        {
+          "verse": 36,
+          "original": "Of the children of Benjamin, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:",
+          "korean": "베냐민 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 사람을 세었어요."
+        },
+        {
+          "verse": 37,
+          "original": "those who were counted of them, of the tribe of Benjamin, were thirty-five thousand four hundred.",
+          "korean": "베냐민 지파에서 계수된 자들은 삼만 오천사백 명이었어요."
+        },
+        {
+          "verse": 38,
+          "original": "Of the children of Dan, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:",
+          "korean": "단 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 사람을 세었어요."
+        },
+        {
+          "verse": 39,
+          "original": "those who were counted of them, of the tribe of Dan, were sixty-two thousand seven hundred.",
+          "korean": "단 지파에서 계수된 자들은 육만 이천칠백 명이었어요."
+        },
+        {
+          "verse": 40,
+          "original": "Of the children of Asher, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:",
+          "korean": "아셀 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 사람을 세었어요."
+        },
+        {
+          "verse": 41,
+          "original": "those who were counted of them, of the tribe of Asher, were forty-one thousand five hundred.",
+          "korean": "아셀 지파에서 계수된 자들은 사만 천오백 명이었어요."
+        },
+        {
+          "verse": 42,
+          "original": "Of the children of Naphtali, their generations, by their families, by their fathers' houses, according to the number of the names, from twenty years old and upward, all who were able to go out to war:",
+          "korean": "납달리 자손의 세대대로, 그들의 가족대로, 그들의 조상의 집대로 이름의 수를 따라 스무 살 이상 전쟁에 나갈 수 있는 모든 사람을 세었어요."
+        },
+        {
+          "verse": 43,
+          "original": "those who were counted of them, of the tribe of Naphtali, were fifty-three thousand four hundred.",
+          "korean": "납달리 지파에서 계수된 자들은 오만 삼천사백 명이었어요."
+        },
+        {
+          "verse": 44,
+          "original": "These are those who were counted, whom Moses and Aaron counted, and the twelve men who were princes of Israel, each one for his fathers' house.",
+          "korean": "이들이 계수된 사람들이에요. 모세와 아론과 이스라엘의 열두 지도자가 그들을 세었어요. 각 지도자는 자기 조상의 집을 대표했어요."
+        },
+        {
+          "verse": 45,
+          "original": "So all those who were counted of the children of Israel by their fathers' houses, from twenty years old and upward, all who were able to go out to war in Israel—",
+          "korean": "이렇게 이스라엘 자손이 그들의 조상의 집대로 계수되었어요. 스무 살 이상으로 이스라엘에서 전쟁에 나갈 수 있는 모든 사람이에요."
+        },
+        {
+          "verse": 46,
+          "original": "all those who were counted were six hundred three thousand five hundred fifty.",
+          "korean": "계수된 모든 사람은 육십만 삼천오백오십 명이었어요."
+        },
+        {
+          "verse": 47,
+          "original": "But the Levites after the tribe of their fathers were not counted among them.",
+          "korean": "그러나 레위 사람들은 그들의 조상 지파대로 그들 중에 계수되지 않았어요."
+        },
+        {
+          "verse": 48,
+          "original": "For Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 49,
+          "original": "\"Only the tribe of Levi you shall not count, neither shall you take a census of them among the children of Israel;",
+          "korean": "\"레위 지파만은 세지 말고 이스라엘 자손 중에 계수하지 말아라."
+        },
+        {
+          "verse": 50,
+          "original": "but appoint the Levites over the Tabernacle of the Testimony, and over all its furnishings, and over all that belongs to it. They shall carry the tabernacle and all its furnishings; and they shall take care of it, and shall encamp around it.",
+          "korean": "레위 사람들에게 증거의 성막과 그 모든 기구와 거기 딸린 모든 것을 맡겨라. 그들이 성막과 그 모든 기구를 옮기고 돌보며 성막 주변에 진을 쳐라."
+        },
+        {
+          "verse": 51,
+          "original": "When the tabernacle is to move, the Levites shall take it down; and when the tabernacle is to be set up, the Levites shall set it up. The stranger who comes near shall be put to death.",
+          "korean": "성막을 옮길 때는 레위 사람들이 그것을 걷고, 성막을 세울 때는 레위 사람들이 그것을 세워라. 외인이 가까이 오면 죽임을 당할 거야."
+        },
+        {
+          "verse": 52,
+          "original": "The children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, according to their divisions.",
+          "korean": "이스라엘 자손은 각각 자기 진에 자기 기 아래 부대별로 장막을 쳐라."
+        },
+        {
+          "verse": 53,
+          "original": "But the Levites shall encamp around the Tabernacle of the Testimony, that there may be no wrath on the congregation of the children of Israel. The Levites shall be responsible for the Tabernacle of the Testimony.\"",
+          "korean": "그러나 레위 사람들은 증거의 성막 주변에 진을 쳐라. 그래야 이스라엘 자손의 회중에 진노가 임하지 않아. 레위 사람들이 증거의 성막을 지켜라.\""
+        },
+        {
+          "verse": 54,
+          "original": "Thus the children of Israel did. According to all that Yahweh commanded Moses, so they did.",
+          "korean": "이스라엘 자손이 그대로 했어요. 여호와께서 모세에게 명령하신 대로 그들이 다 행했어요."
+        }
+      ]
+    }
+  ]
+}
