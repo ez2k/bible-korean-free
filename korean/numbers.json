@@ -711,6 +711,416 @@
           "korean": "모세가 여호와의 말씀대로, 여호와께서 모세에게 명령하신 대로 속전을 아론과 그의 아들들에게 주었어요."
         }
       ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh spoke to Moses and to Aaron, saying,",
+          "korean": "여호와께서 모세와 아론에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Take a census of the sons of Kohath from among the sons of Levi, by their families, by their fathers' houses,",
+          "korean": "\"레위 자손 중에서 고핫 자손을 그들의 가족대로, 그들의 조상 집대로 세어라."
+        },
+        {
+          "verse": 3,
+          "original": "from thirty years old and upward even until fifty years old, all who enter into the service to do the work in the Tent of Meeting.",
+          "korean": "서른 살부터 쉰 살까지 회막에서 일하러 봉사에 들어가는 모든 사람을 세어라."
+        },
+        {
+          "verse": 4,
+          "original": "\"This is the service of the sons of Kohath in the Tent of Meeting, regarding the most holy things.",
+          "korean": "고핫 자손이 회막에서 맡을 일은 지극히 거룩한 것들에 관한 것이야."
+        },
+        {
+          "verse": 5,
+          "original": "When the camp moves forward, Aaron shall go in with his sons; and they shall take down the veil of the screen, cover the ark of the Testimony with it,",
+          "korean": "진영이 출발할 때 아론이 그의 아들들과 함께 들어가서 휘장을 내려 그것으로 증거궤를 덮어라."
+        },
+        {
+          "verse": 6,
+          "original": "put a covering of sealskin on it, spread a blue cloth over it, and put in its poles.",
+          "korean": "그 위에 해달 가죽 덮개를 씌우고 그 위에 순청색 천을 펴고 채를 꿰어라."
+        },
+        {
+          "verse": 7,
+          "original": "\"On the table of show bread they shall spread a blue cloth, and put on it the dishes, the spoons, the bowls, and the cups with which to pour out; and the continual bread shall be on it.",
+          "korean": "진설병 상 위에 청색 천을 펴고 접시, 숟가락, 잔, 따르는 병을 그 위에 놓아라. 항상 있는 떡도 그 위에 있어야 해."
+        },
+        {
+          "verse": 8,
+          "original": "They shall spread on them a scarlet cloth, and cover it with a covering of sealskin, and shall put in its poles.",
+          "korean": "홍색 천을 그 위에 펴고 해달 가죽 덮개로 덮고 채를 꿰어라."
+        },
+        {
+          "verse": 9,
+          "original": "\"They shall take a blue cloth and cover the lamp stand of the light, its lamps, its snuffers, its snuff dishes, and all its oil vessels, with which they minister to it.",
+          "korean": "청색 천으로 등잔대와 그 등잔들, 부집개, 불똥 그릇, 그것을 섬기는 데 쓰는 모든 기름 그릇을 덮어라."
+        },
+        {
+          "verse": 10,
+          "original": "They shall put it and all its vessels within a covering of sealskin, and shall put it on the frame.",
+          "korean": "그것과 그 모든 기구를 해달 가죽 덮개에 싸서 틀 위에 놓아라."
+        },
+        {
+          "verse": 11,
+          "original": "\"On the golden altar they shall spread a blue cloth, and cover it with a covering of sealskin, and shall put in its poles.",
+          "korean": "금 제단 위에 청색 천을 펴고 해달 가죽 덮개로 덮고 채를 꿰어라."
+        },
+        {
+          "verse": 12,
+          "original": "\"They shall take all the vessels of ministry with which they minister in the sanctuary, and put them in a blue cloth, cover them with a covering of sealskin, and shall put them on the frame.",
+          "korean": "성소에서 섬기는 데 쓰는 모든 기구를 청색 천에 싸서 해달 가죽 덮개로 덮고 틀 위에 놓아라."
+        },
+        {
+          "verse": 13,
+          "original": "\"They shall take away the ashes from the altar, and spread a purple cloth on it.",
+          "korean": "제단의 재를 치우고 그 위에 자색 천을 펴라."
+        },
+        {
+          "verse": 14,
+          "original": "They shall put on it all its vessels with which they minister about it, the fire pans, the meat hooks, the shovels, and the basins—all the vessels of the altar; and they shall spread on it a covering of sealskin, and put in its poles.",
+          "korean": "그것을 섬기는 데 쓰는 모든 기구, 불 옮기는 그릇, 고기 갈고리, 부삽, 대야 등 제단의 모든 기구를 그 위에 놓아라. 그리고 해달 가죽 덮개를 그 위에 펴고 채를 꿰어라."
+        },
+        {
+          "verse": 15,
+          "original": "\"When Aaron and his sons have finished covering the sanctuary and all the furniture of the sanctuary, as the camp moves forward; after that, the sons of Kohath shall come to carry it; but they shall not touch the sanctuary, lest they die. The sons of Kohath shall carry these things belonging to the Tent of Meeting.",
+          "korean": "진영이 출발할 때 아론과 그의 아들들이 성소와 성소의 모든 기구를 다 덮으면, 그 후에 고핫 자손이 와서 그것을 옮겨라. 그러나 그들이 성물을 만지면 죽어요. 이것이 회막에 속한 것 중 고핫 자손이 옮길 것이에요."
+        },
+        {
+          "verse": 16,
+          "original": "\"The duty of Eleazar the son of Aaron the priest shall be the oil for the light, the sweet incense, the continual meal offering, and the anointing oil, the requirements of all the tabernacle, and of all that is in it, the sanctuary, and its furnishings.\"",
+          "korean": "제사장 아론의 아들 엘르아살이 맡을 일은 등잔 기름, 향기로운 향, 항상 드리는 소제, 관유, 성막 전체와 그 안의 모든 것, 성소와 그 기구들이야.\""
+        },
+        {
+          "verse": 17,
+          "original": "Yahweh spoke to Moses and to Aaron, saying,",
+          "korean": "여호와께서 모세와 아론에게 말씀하셨어요."
+        },
+        {
+          "verse": 18,
+          "original": "\"Don't cut off the tribe of the families of the Kohathites from among the Levites;",
+          "korean": "\"고핫 가족 지파를 레위 사람들 중에서 끊어지게 하지 말아라."
+        },
+        {
+          "verse": 19,
+          "original": "but thus do to them, that they may live, and not die, when they approach the most holy things: Aaron and his sons shall go in and appoint everyone to his service and to his burden;",
+          "korean": "그들이 지극히 거룩한 것들에 가까이 갈 때 살고 죽지 않도록 이렇게 해라: 아론과 그의 아들들이 들어가서 각각 자기 봉사와 자기 짐을 맡게 해라."
+        },
+        {
+          "verse": 20,
+          "original": "but they shall not go in to see the sanctuary even for a moment, lest they die.\"",
+          "korean": "그러나 그들이 성물을 잠깐이라도 보려고 들어가면 죽을 거야.\""
+        },
+        {
+          "verse": 21,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 22,
+          "original": "\"Take a census of the sons of Gershon also, by their fathers' houses, by their families;",
+          "korean": "\"게르손 자손도 그들의 조상 집대로, 그들의 가족대로 세어라."
+        },
+        {
+          "verse": 23,
+          "original": "you shall count them from thirty years old and upward until fifty years old: all who enter in to wait on the service, to do the work in the Tent of Meeting.",
+          "korean": "서른 살부터 쉰 살까지, 회막에서 일하러 봉사에 들어가는 모든 사람을 세어라."
+        },
+        {
+          "verse": 24,
+          "original": "\"This is the service of the families of the Gershonites, in serving and in bearing burdens:",
+          "korean": "게르손 가족들이 섬기고 짐을 지는 일은 이거야:"
+        },
+        {
+          "verse": 25,
+          "original": "they shall carry the curtains of the tabernacle and the Tent of Meeting, its covering, the covering of sealskin that is on it, the screen for the door of the Tent of Meeting,",
+          "korean": "그들이 성막의 휘장과 회막, 그 덮개, 그 위의 해달 가죽 덮개, 회막 문의 휘장을 옮겨라."
+        },
+        {
+          "verse": 26,
+          "original": "the hangings of the court, the screen for the door of the gate of the court which is by the tabernacle and around the altar, their cords, and all the instruments of their service, and whatever shall be done with them. They shall serve in there.",
+          "korean": "뜰의 휘장, 성막과 제단 주변 뜰 문의 휘장, 그 줄들, 그 봉사에 쓰는 모든 기구들, 그것들로 할 모든 일을 옮겨라. 그들이 거기서 섬겨라."
+        },
+        {
+          "verse": 27,
+          "original": "At the commandment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burden and in all their service; and you shall appoint their duty to them in all their responsibilities.",
+          "korean": "게르손 자손의 모든 봉사는 그들의 모든 짐과 모든 일에서 아론과 그의 아들들의 명령에 따라야 해요. 그들에게 모든 맡은 바를 맡게 해라."
+        },
+        {
+          "verse": 28,
+          "original": "This is the service of the families of the sons of the Gershonites in the Tent of Meeting. Their duty shall be under the hand of Ithamar the son of Aaron the priest.",
+          "korean": "이것이 게르손 자손 가족들이 회막에서 할 봉사예요. 그들이 맡은 일은 제사장 아론의 아들 이다말의 지휘 아래 있어요."
+        },
+        {
+          "verse": 29,
+          "original": "\"As for the sons of Merari, you shall count them by their families, by their fathers' houses;",
+          "korean": "\"므라리 자손을 그들의 가족대로, 그들의 조상 집대로 세어라."
+        },
+        {
+          "verse": 30,
+          "original": "you shall count them from thirty years old and upward even to fifty years old—everyone who enters on the service, to do the work of the Tent of Meeting.",
+          "korean": "서른 살부터 쉰 살까지, 회막에서 일하러 봉사에 들어가는 모든 사람을 세어라."
+        },
+        {
+          "verse": 31,
+          "original": "This is the duty of their burden, according to all their service in the Tent of Meeting: the tabernacle's boards, its bars, its pillars, its sockets,",
+          "korean": "그들이 회막에서 모든 봉사에 따라 짐 지는 의무는 이거야: 성막의 널판들, 띠들, 기둥들, 받침들이에요."
+        },
+        {
+          "verse": 32,
+          "original": "the pillars of the court around it, their sockets, their pins, their cords, with all their instruments, and with all their service. You shall appoint the instruments of the duty of their burden to them by name.",
+          "korean": "그 주변 뜰의 기둥들, 그 받침들, 말뚝들, 줄들, 그 모든 기구들과 그 모든 봉사에요. 그들이 짐 지는 의무의 기구들을 이름으로 지정해 주어라."
+        },
+        {
+          "verse": 33,
+          "original": "This is the service of the families of the sons of Merari, according to all their service in the Tent of Meeting, under the hand of Ithamar the son of Aaron the priest.\"",
+          "korean": "이것이 므라리 자손 가족들이 회막에서 모든 봉사에 따라 할 일이에요. 제사장 아론의 아들 이다말의 지휘 아래 있어요.\""
+        },
+        {
+          "verse": 34,
+          "original": "Moses and Aaron and the princes of the congregation counted the sons of the Kohathites by their families, and by their fathers' houses,",
+          "korean": "모세와 아론과 회중의 지도자들이 고핫 자손을 그들의 가족대로, 그들의 조상 집대로 세었어요."
+        },
+        {
+          "verse": 35,
+          "original": "from thirty years old and upward even to fifty years old, everyone who entered into the service for work in the Tent of Meeting.",
+          "korean": "서른 살부터 쉰 살까지, 회막에서 일하러 봉사에 들어가는 모든 사람이에요."
+        },
+        {
+          "verse": 36,
+          "original": "Those who were counted of them by their families were two thousand seven hundred fifty.",
+          "korean": "그들의 가족대로 계수된 자들은 이천칠백오십 명이었어요."
+        },
+        {
+          "verse": 37,
+          "original": "These are those who were counted of the families of the Kohathites, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the commandment of Yahweh by Moses.",
+          "korean": "이들이 고핫 가족들 중에 계수된 자들이에요. 회막에서 섬기는 모든 사람으로, 모세와 아론이 여호와께서 모세를 통해 명령하신 대로 세었어요."
+        },
+        {
+          "verse": 38,
+          "original": "Those who were counted of the sons of Gershon, by their families, and by their fathers' houses,",
+          "korean": "게르손 자손 중에 계수된 자들은 그들의 가족대로, 그들의 조상 집대로,"
+        },
+        {
+          "verse": 39,
+          "original": "from thirty years old and upward even to fifty years old—everyone who entered into the service for work in the Tent of Meeting,",
+          "korean": "서른 살부터 쉰 살까지, 회막에서 일하러 봉사에 들어가는 모든 사람이에요."
+        },
+        {
+          "verse": 40,
+          "original": "even those who were counted of them, by their families, by their fathers' houses, were two thousand six hundred thirty.",
+          "korean": "그들의 가족대로, 그들의 조상 집대로 계수된 자들은 이천육백삼십 명이었어요."
+        },
+        {
+          "verse": 41,
+          "original": "These are those who were counted of the families of the sons of Gershon, all who served in the Tent of Meeting, whom Moses and Aaron counted according to the commandment of Yahweh.",
+          "korean": "이들이 게르손 자손 가족들 중에 계수된 자들이에요. 회막에서 섬기는 모든 사람으로, 모세와 아론이 여호와의 명령대로 세었어요."
+        },
+        {
+          "verse": 42,
+          "original": "Those who were counted of the families of the sons of Merari, by their families, by their fathers' houses,",
+          "korean": "므라리 자손 가족들 중에 계수된 자들은 그들의 가족대로, 그들의 조상 집대로,"
+        },
+        {
+          "verse": 43,
+          "original": "from thirty years old and upward even to fifty years old—everyone who entered into the service for work in the Tent of Meeting,",
+          "korean": "서른 살부터 쉰 살까지, 회막에서 일하러 봉사에 들어가는 모든 사람이에요."
+        },
+        {
+          "verse": 44,
+          "original": "even those who were counted of them by their families, were three thousand two hundred.",
+          "korean": "그들의 가족대로 계수된 자들은 삼천이백 명이었어요."
+        },
+        {
+          "verse": 45,
+          "original": "These are those who were counted of the families of the sons of Merari, whom Moses and Aaron counted according to the commandment of Yahweh by Moses.",
+          "korean": "이들이 므라리 자손 가족들 중에 계수된 자들이에요. 모세와 아론이 여호와께서 모세를 통해 명령하신 대로 세었어요."
+        },
+        {
+          "verse": 46,
+          "original": "All those who were counted of the Levites whom Moses and Aaron and the princes of Israel counted, by their families and by their fathers' houses,",
+          "korean": "모세와 아론과 이스라엘 지도자들이 레위 사람들을 그들의 가족대로, 그들의 조상 집대로 다 세었어요."
+        },
+        {
+          "verse": 47,
+          "original": "from thirty years old and upward even to fifty years old, everyone who entered in to do the work of service and the work of bearing burdens in the Tent of Meeting,",
+          "korean": "서른 살부터 쉰 살까지, 회막에서 봉사 일과 짐 지는 일을 하러 들어가는 모든 사람이에요."
+        },
+        {
+          "verse": 48,
+          "original": "even those who were counted of them, were eight thousand five hundred eighty.",
+          "korean": "계수된 자들은 팔천오백팔십 명이었어요."
+        },
+        {
+          "verse": 49,
+          "original": "According to the commandment of Yahweh they were counted by Moses, everyone according to his service and according to his burden. Thus they were counted by him, as Yahweh commanded Moses.",
+          "korean": "여호와의 명령대로 모세가 그들을 세었어요. 각각 자기 봉사대로, 자기 짐대로요. 여호와께서 모세에게 명령하신 대로 그가 그들을 세었어요."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Command the children of Israel that they put out of the camp every leper, everyone who has a discharge, and whoever is unclean by a corpse.",
+          "korean": "\"이스라엘 자손에게 명령하여 모든 나병 환자, 유출병이 있는 자, 시체로 부정하게 된 자를 진영 밖으로 내보내라."
+        },
+        {
+          "verse": 3,
+          "original": "You shall put both male and female outside of the camp so that they don't defile their camp, in the midst of which I dwell.\"",
+          "korean": "남자든 여자든 진영 밖으로 내보내라. 내가 거하는 진영을 더럽히지 않게 하려고요.\""
+        },
+        {
+          "verse": 4,
+          "original": "The children of Israel did so, and put them outside of the camp; as Yahweh spoke to Moses, so the children of Israel did.",
+          "korean": "이스라엘 자손이 그대로 해서 그들을 진영 밖으로 내보냈어요. 여호와께서 모세에게 말씀하신 대로 이스라엘 자손이 했어요."
+        },
+        {
+          "verse": 5,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 6,
+          "original": "\"Speak to the children of Israel: 'When a man or woman commits any sin that men commit, so as to trespass against Yahweh, and that soul is guilty,",
+          "korean": "\"이스라엘 자손에게 말해라: '남자든 여자든 사람이 짓는 어떤 죄든 지어 여호와께 범죄하면 그 사람이 죄가 있어요."
+        },
+        {
+          "verse": 7,
+          "original": "then he shall confess his sin which he has done; and he shall make restitution for his guilt in full, add to it the fifth part of it, and give it to him against whom he has been guilty.",
+          "korean": "그러면 자기가 지은 죄를 자백해야 해요. 자기 죄에 대해 온전히 배상하고 거기에 오분의 일을 더해서 자기가 죄를 범한 사람에게 주어야 해요."
+        },
+        {
+          "verse": 8,
+          "original": "But if the man has no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made to Yahweh shall be the priest's, in addition to the ram of the atonement, by which atonement shall be made for him.",
+          "korean": "그러나 그 사람에게 배상을 받을 친족이 없으면 여호와께 드리는 배상이 제사장의 것이 돼요. 그를 위해 속죄할 속죄 숫양 외에요."
+        },
+        {
+          "verse": 9,
+          "original": "Every heave offering of all the holy things of the children of Israel, which they present to the priest, shall be his.",
+          "korean": "이스라엘 자손의 모든 거룩한 것 중에서 제사장에게 드리는 모든 거제물은 제사장의 것이에요."
+        },
+        {
+          "verse": 10,
+          "original": "Every man's holy things shall be his; whatever any man gives the priest, it shall be his.'\"",
+          "korean": "각 사람의 거룩한 것은 자기 것이에요. 누구든지 제사장에게 주는 것은 제사장의 것이에요.'\""
+        },
+        {
+          "verse": 11,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 12,
+          "original": "\"Speak to the children of Israel, and tell them: 'If any man's wife goes astray and is unfaithful to him,",
+          "korean": "\"이스라엘 자손에게 말해라: '어떤 사람의 아내가 곁길로 가서 남편에게 불충실하면,"
+        },
+        {
+          "verse": 13,
+          "original": "and a man lies with her carnally, and it is hidden from the eyes of her husband and this is kept concealed, and she is defiled, there is no witness against her, and she isn't taken in the act;",
+          "korean": "다른 남자가 그 여자와 동침했는데 그것이 남편의 눈에 숨겨지고 비밀로 유지되었고, 그 여자가 더럽혀졌지만 그 여자를 고발할 증인도 없고 현장에서 잡히지도 않았다면,"
+        },
+        {
+          "verse": 14,
+          "original": "and the spirit of jealousy comes on him, and he is jealous of his wife and she is defiled; or if the spirit of jealousy comes on him, and he is jealous of his wife and she isn't defiled;",
+          "korean": "질투의 영이 그에게 임하여 아내를 의심하는데 아내가 더럽혀졌다면, 또는 질투의 영이 그에게 임하여 아내를 의심하는데 아내가 더럽혀지지 않았다면,"
+        },
+        {
+          "verse": 15,
+          "original": "then the man shall bring his wife to the priest, and shall bring her offering for her: one tenth of an ephah of barley meal. He shall pour no oil on it, nor put frankincense on it, for it is a meal offering of jealousy, a meal offering of memorial, bringing iniquity to memory.",
+          "korean": "그 남자가 아내를 제사장에게 데려가고 그 여자를 위한 예물을 가져가야 해요: 보리 가루 십분의 일 에바요. 그 위에 기름을 붓지도 말고 유향을 놓지도 말아야 해요. 이것은 질투의 소제요, 죄를 기억나게 하는 기념 소제이기 때문이에요."
+        },
+        {
+          "verse": 16,
+          "original": "The priest shall bring her near, and set her before Yahweh.",
+          "korean": "제사장이 그 여자를 가까이 데려와서 여호와 앞에 세워야 해요."
+        },
+        {
+          "verse": 17,
+          "original": "The priest shall take holy water in an earthen vessel; and the priest shall take some of the dust that is on the floor of the tabernacle and put it into the water.",
+          "korean": "제사장이 토기에 거룩한 물을 담고, 성막 바닥의 흙을 좀 집어서 물에 넣어야 해요."
+        },
+        {
+          "verse": 18,
+          "original": "The priest shall set the woman before Yahweh, and let the hair of the woman's head go loose, and put the meal offering of memorial in her hands, which is the meal offering of jealousy. The priest shall have in his hand the water of bitterness that causes the curse.",
+          "korean": "제사장이 여호와 앞에 그 여자를 세우고 그 여자의 머리를 풀게 하고, 기념 소제물 곧 질투의 소제물을 그 여자 손에 들게 해야 해요. 제사장은 저주를 부르는 쓴 물을 손에 들어야 해요."
+        },
+        {
+          "verse": 19,
+          "original": "The priest shall cause her to take an oath and shall tell the woman, \"If no man has lain with you, and if you haven't gone astray to uncleanness, being under your husband, be free from this water of bitterness that brings a curse.",
+          "korean": "제사장이 그 여자에게 맹세하게 하고 말해야 해요. \"만일 다른 남자가 너와 동침하지 않았고 네가 남편 아래 있으면서 곁길로 가서 부정하게 되지 않았다면, 이 저주를 부르는 쓴 물에서 면해라."
+        },
+        {
+          "verse": 20,
+          "original": "But if you have gone astray, being under your husband's authority, and if you are defiled, and some man has lain with you besides your husband—\"",
+          "korean": "그러나 네가 남편 아래 있으면서 곁길로 가서 부정하게 되어 남편 외에 다른 남자가 너와 동침했다면—\""
+        },
+        {
+          "verse": 21,
+          "original": "then the priest shall cause the woman to swear with the oath of cursing, and the priest shall tell the woman, \"May Yahweh make you a curse and an oath among your people, when Yahweh allows your thigh to fall away, and your body to swell;",
+          "korean": "제사장이 그 여자에게 저주의 맹세를 하게 하고 말해야 해요. \"여호와께서 네 백성 중에서 너를 저주와 맹세 거리가 되게 하셔서, 여호와께서 네 넓적다리가 쇠하게 하시고 네 배가 부어오르게 하시기를."
+        },
+        {
+          "verse": 22,
+          "original": "and this water that brings a curse will go into your bowels, and make your body swell, and your thigh fall away.\" The woman shall say, \"Amen, Amen.\"",
+          "korean": "이 저주를 부르는 물이 네 창자 속으로 들어가서 네 배가 부어오르고 네 넓적다리가 쇠하게 하기를.\" 그 여자가 '아멘, 아멘' 하고 말해야 해요."
+        },
+        {
+          "verse": 23,
+          "original": "\"The priest shall write these curses in a book, and he shall wipe them into the water of bitterness.",
+          "korean": "\"제사장이 이 저주들을 두루마리에 쓰고 그것을 쓴 물에 씻어 넣어야 해요."
+        },
+        {
+          "verse": 24,
+          "original": "He shall make the woman drink the water of bitterness that causes the curse; and the water that causes the curse shall enter into her and become bitter.",
+          "korean": "그 여자에게 저주를 부르는 쓴 물을 마시게 해야 해요. 저주를 부르는 물이 그 여자 속에 들어가서 쓰게 될 거예요."
+        },
+        {
+          "verse": 25,
+          "original": "The priest shall take the meal offering of jealousy out of the woman's hand, and shall wave the meal offering before Yahweh, and bring it to the altar.",
+          "korean": "제사장이 그 여자의 손에서 질투의 소제물을 가져다가 여호와 앞에서 흔들어 제단으로 가져가야 해요."
+        },
+        {
+          "verse": 26,
+          "original": "The priest shall take a handful of the meal offering, as its memorial portion, and burn it on the altar, and afterward shall make the woman drink the water.",
+          "korean": "제사장이 소제물 중 한 움큼을 기념물로 집어서 제단에서 불사르고, 그 후에 그 여자에게 물을 마시게 해야 해요."
+        },
+        {
+          "verse": 27,
+          "original": "When he has made her drink the water, then it shall happen, if she is defiled and has committed a trespass against her husband, that the water that causes the curse will enter into her and become bitter, and her body will swell, and her thigh will fall away; and the woman will be a curse among her people.",
+          "korean": "그 여자에게 물을 마시게 한 후에, 만일 그 여자가 더럽혀져서 남편에게 범죄했다면, 저주를 부르는 물이 그 여자 속에 들어가서 쓰게 되고, 배가 부어오르고, 넓적다리가 쇠할 거예요. 그 여자가 자기 백성 중에서 저주 거리가 될 거예요."
+        },
+        {
+          "verse": 28,
+          "original": "If the woman isn't defiled, but is clean; then she shall be free, and shall conceive offspring.",
+          "korean": "그러나 그 여자가 더럽혀지지 않고 깨끗하면, 그 여자가 면하고 아이를 가질 거예요."
+        },
+        {
+          "verse": 29,
+          "original": "\"This is the law of jealousy, when a wife, being under her husband, goes astray, and is defiled,",
+          "korean": "\"이것이 질투의 법이에요. 아내가 남편 아래 있으면서 곁길로 가서 더럽혀졌을 때나,"
+        },
+        {
+          "verse": 30,
+          "original": "or when the spirit of jealousy comes on a man, and he is jealous of his wife; then he shall set the woman before Yahweh, and the priest shall execute on her all this law.",
+          "korean": "질투의 영이 남자에게 임하여 아내를 의심할 때를 위한 법이에요. 그가 아내를 여호와 앞에 세우고 제사장이 이 모든 법을 그 여자에게 행해야 해요."
+        },
+        {
+          "verse": 31,
+          "original": "The man shall be free from iniquity, and that woman shall bear her iniquity.'\"",
+          "korean": "그 남자는 죄가 없고 그 여자가 자기 죄를 져야 해요.'\""
+        }
+      ]
     }
   ]
 }
