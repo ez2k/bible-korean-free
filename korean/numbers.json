@@ -1846,6 +1846,126 @@
           "korean": "회막에서 형제들을 도와 맡은 일을 지키되 봉사는 하지 말아야 해요. 레위 사람들의 맡은 일에 대해 이렇게 해라.\""
         }
       ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying,",
+          "korean": "이집트 땅에서 나온 지 이 년째 첫째 달에 여호와께서 시내 광야에서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Let the children of Israel keep the Passover in its appointed season.",
+          "korean": "\"이스라엘 자손이 정한 때에 유월절을 지키게 해라."
+        },
+        {
+          "verse": 3,
+          "original": "On the fourteenth day of this month, at evening, you shall keep it in its appointed season. You shall keep it according to all its statutes and according to all its ordinances.\"",
+          "korean": "이 달 십사 일 저녁에 정한 때에 그것을 지켜라. 그 모든 규례와 법도대로 지켜라.\""
+        },
+        {
+          "verse": 4,
+          "original": "Moses told the children of Israel that they should keep the Passover.",
+          "korean": "모세가 이스라엘 자손에게 유월절을 지키라고 말했어요."
+        },
+        {
+          "verse": 5,
+          "original": "They kept the Passover in the first month, on the fourteenth day of the month at evening, in the wilderness of Sinai. According to all that Yahweh commanded Moses, so the children of Israel did.",
+          "korean": "그들이 첫째 달 십사 일 저녁에 시내 광야에서 유월절을 지켰어요. 여호와께서 모세에게 명령하신 대로 이스라엘 자손이 행했어요."
+        },
+        {
+          "verse": 6,
+          "original": "There were certain men who were unclean because of a dead person, so that they could not keep the Passover on that day, and they came before Moses and Aaron on that day.",
+          "korean": "시체 때문에 부정하게 되어 그날 유월절을 지킬 수 없는 사람들이 있었어요. 그들이 그날 모세와 아론 앞에 왔어요."
+        },
+        {
+          "verse": 7,
+          "original": "Those men said to him, \"We are unclean because of a dead person. Why are we kept back, that we may not offer the offering of Yahweh in its appointed season among the children of Israel?\"",
+          "korean": "그 사람들이 모세에게 말했어요. \"우리가 시체 때문에 부정해요. 왜 우리가 이스라엘 자손 중에서 정한 때에 여호와의 예물을 드리지 못하게 됩니까?\""
+        },
+        {
+          "verse": 8,
+          "original": "Moses answered them, \"Wait, that I may hear what Yahweh will command concerning you.\"",
+          "korean": "모세가 그들에게 대답했어요. \"기다려라. 여호와께서 너희에 관하여 무엇을 명령하실지 들어볼게.\""
+        },
+        {
+          "verse": 9,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 10,
+          "original": "\"Say to the children of Israel, 'If any man of you or of your generations is unclean by reason of a dead body, or is on a journey far away, he shall still keep the Passover to Yahweh.",
+          "korean": "\"이스라엘 자손에게 말해라: '너희 중 어떤 사람이나 너희 후손이 시체 때문에 부정하거나 먼 길을 가고 있으면, 그래도 여호와께 유월절을 지켜야 해요."
+        },
+        {
+          "verse": 11,
+          "original": "In the second month, on the fourteenth day at evening they shall keep it; they shall eat it with unleavened bread and bitter herbs.",
+          "korean": "둘째 달 십사 일 저녁에 그것을 지켜라. 무교병과 쓴 나물과 함께 먹어라."
+        },
+        {
+          "verse": 12,
+          "original": "They shall leave none of it until the morning, nor break a bone of it. According to all the statute of the Passover they shall keep it.",
+          "korean": "아침까지 남겨 두지 말고 그 뼈를 꺾지 말아라. 유월절의 모든 규례대로 지켜라."
+        },
+        {
+          "verse": 13,
+          "original": "But the man who is clean, and is not on a journey, and fails to keep the Passover, that soul shall be cut off from his people. Because he didn't offer the offering of Yahweh in its appointed season, that man shall bear his sin.",
+          "korean": "깨끗하고 길을 가지 않는데도 유월절을 지키지 않는 사람은 그 백성 중에서 끊어져야 해요. 정한 때에 여호와의 예물을 드리지 않았으니 그 사람이 자기 죄를 져야 해요."
+        },
+        {
+          "verse": 14,
+          "original": "If a foreigner lives among you and desires to keep the Passover to Yahweh, he shall keep it according to the statute of the Passover and according to its ordinance. You shall have one statute, both for the foreigner and for him who is born in the land.'\"",
+          "korean": "외국인이 너희 중에 살면서 여호와께 유월절을 지키려고 하면, 유월절의 규례와 법도대로 지켜야 해요. 외국인과 본토 사람에게 한 규례가 있어야 해요.'\""
+        },
+        {
+          "verse": 15,
+          "original": "On the day that the tabernacle was raised up, the cloud covered the tabernacle, even the Tent of the Testimony. At evening it was over the tabernacle, as it were the appearance of fire, until morning.",
+          "korean": "성막을 세운 날에 구름이 성막, 곧 증거의 장막을 덮었어요. 저녁에는 아침까지 불의 형상 같은 것이 성막 위에 있었어요."
+        },
+        {
+          "verse": 16,
+          "original": "So it was always: the cloud covered it, and the appearance of fire by night.",
+          "korean": "항상 그랬어요: 구름이 성막을 덮고 밤에는 불의 형상이 있었어요."
+        },
+        {
+          "verse": 17,
+          "original": "Whenever the cloud was taken up from over the Tent, then after that the children of Israel traveled; and in the place where the cloud remained, there the children of Israel encamped.",
+          "korean": "구름이 성막 위에서 떠오를 때마다 그 후에 이스라엘 자손이 길을 떠났어요. 구름이 머무는 곳에 이스라엘 자손이 진을 쳤어요."
+        },
+        {
+          "verse": 18,
+          "original": "At the commandment of Yahweh the children of Israel traveled, and at the commandment of Yahweh they encamped. As long as the cloud remained on the tabernacle they remained encamped.",
+          "korean": "여호와의 명령에 따라 이스라엘 자손이 길을 떠나고, 여호와의 명령에 따라 진을 쳤어요. 구름이 성막 위에 머무는 동안 그들도 진을 치고 있었어요."
+        },
+        {
+          "verse": 19,
+          "original": "When the cloud stayed on the tabernacle many days, then the children of Israel kept Yahweh's command, and didn't travel.",
+          "korean": "구름이 성막 위에 여러 날 머물면 이스라엘 자손이 여호와의 명령을 지키고 길을 떠나지 않았어요."
+        },
+        {
+          "verse": 20,
+          "original": "Sometimes the cloud was a few days on the tabernacle; then according to the commandment of Yahweh they remained encamped, and according to the commandment of Yahweh they traveled.",
+          "korean": "때로는 구름이 며칠 동안 성막 위에 있었어요. 여호와의 명령에 따라 진을 치고, 여호와의 명령에 따라 길을 떠났어요."
+        },
+        {
+          "verse": 21,
+          "original": "Sometimes the cloud was from evening until morning; and when the cloud was taken up in the morning, they traveled; or by day and by night, when the cloud was taken up, they traveled.",
+          "korean": "때로는 구름이 저녁부터 아침까지 있었어요. 아침에 구름이 떠오르면 그들이 길을 떠났어요. 또는 낮이든 밤이든 구름이 떠오르면 그들이 길을 떠났어요."
+        },
+        {
+          "verse": 22,
+          "original": "Whether it was two days, or a month, or a year that the cloud stayed on the tabernacle, remaining on it, the children of Israel remained encamped, and didn't travel; but when it was taken up, they traveled.",
+          "korean": "이틀이든, 한 달이든, 일 년이든 구름이 성막 위에 머물러 있으면 이스라엘 자손이 진을 치고 길을 떠나지 않았어요. 그러나 구름이 떠오르면 그들이 길을 떠났어요."
+        },
+        {
+          "verse": 23,
+          "original": "At the commandment of Yahweh they encamped, and at the commandment of Yahweh they traveled. They kept Yahweh's command, at the commandment of Yahweh by Moses.",
+          "korean": "여호와의 명령에 따라 진을 치고, 여호와의 명령에 따라 길을 떠났어요. 모세를 통해 주신 여호와의 명령에 따라 여호와의 명령을 지켰어요."
+        }
+      ]
     }
   ]
 }
