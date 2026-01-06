@@ -106,6 +106,156 @@
           "korean": "'내 오른손에 있는 것으로 네가 본 일곱 별과 일곱 금 촛대의 비밀은 이것이다: 일곱 별은 일곱 교회의 천사들이고, 일곱 촛대는 일곱 교회다.'"
         }
       ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "\"To the angel of the assembly in Ephesus write: \"He who holds the seven stars in his right hand, he who walks among the seven golden lamp stands says these things:",
+          "korean": "'에베소에 있는 교회의 천사에게 이렇게 써라: 오른손에 일곱 별을 쥐고 계시고 일곱 금 촛대 사이를 걸으시는 분이 이렇게 말씀하세요:'"
+        },
+        {
+          "verse": 2,
+          "original": "\"I know your works, and your toil and perseverance, and that you can't tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false.",
+          "korean": "'나는 네 행위와 수고와 인내를 알아요. 네가 악한 사람들을 용납하지 못하고, 스스로 사도라고 말하지만 아닌 자들을 시험해서 거짓된 자들인 것을 알아냈어요.'"
+        },
+        {
+          "verse": 3,
+          "original": "You have perseverance and have endured for my name's sake, and have not grown weary.",
+          "korean": "'네가 인내하고 내 이름을 위해 견디면서 지치지 않았어요.'"
+        },
+        {
+          "verse": 4,
+          "original": "But I have this against you, that you left your first love.",
+          "korean": "'그러나 너에게 이것을 책망해요: 네가 처음 사랑을 버렸어요.'"
+        },
+        {
+          "verse": 5,
+          "original": "Remember therefore from where you have fallen, and repent and do the first works; or else I am coming to you swiftly, and will move your lamp stand out of its place, unless you repent.",
+          "korean": "'그러므로 네가 어디서 떨어졌는지 기억하고, 회개하고 처음 행위를 하세요. 그렇지 않으면 내가 빨리 너에게 가서 네 촛대를 그 자리에서 옮길 거에요. 회개하지 않으면요.'"
+        },
+        {
+          "verse": 6,
+          "original": "But this you have, that you hate the works of the Nicolaitans, which I also hate.",
+          "korean": "'그러나 네가 니골라당의 행위를 미워하는 것이 있어요. 나도 그것을 미워해요.'"
+        },
+        {
+          "verse": 7,
+          "original": "He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes I will give to eat from the tree of life, which is in the Paradise of my God.\"",
+          "korean": "'귀 있는 사람은 성령이 교회들에게 말씀하시는 것을 들으세요. 이기는 사람에게는 내 하나님의 낙원에 있는 생명나무의 열매를 먹게 해줄 거에요.'"
+        },
+        {
+          "verse": 8,
+          "original": "\"To the angel of the assembly in Smyrna write: \"The first and the last, who was dead, and has come to life says these things:",
+          "korean": "'서머나에 있는 교회의 천사에게 이렇게 써라: 처음이요 마지막이며, 죽었다가 살아나신 분이 이렇게 말씀하세요:'"
+        },
+        {
+          "verse": 9,
+          "original": "\"I know your works, oppression, and your poverty (but you are rich), and the blasphemy of those who say they are Jews, and they are not, but are a synagogue of Satan.",
+          "korean": "'나는 네 행위와 환난과 가난을 알아요 (그러나 너는 부자에요). 스스로 유대인이라고 말하지만 아니고 사탄의 회당인 자들이 비방하는 것을 알아요.'"
+        },
+        {
+          "verse": 10,
+          "original": "Don't be afraid of the things which you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested; and you will have oppression for ten days. Be faithful to death, and I will give you the crown of life.",
+          "korean": "'네가 받을 고난을 두려워하지 마세요. 보세요, 마귀가 너희 중 일부를 옥에 던져 시험받게 할 거에요. 열흘 동안 환난이 있을 거에요. 죽기까지 충성하세요. 그러면 내가 생명의 면류관을 줄 거에요.'"
+        },
+        {
+          "verse": 11,
+          "original": "He who has an ear, let him hear what the Spirit says to the assemblies. He who overcomes won't be harmed by the second death.\"",
+          "korean": "'귀 있는 사람은 성령이 교회들에게 말씀하시는 것을 들으세요. 이기는 사람은 둘째 사망의 해를 받지 않을 거에요.'"
+        },
+        {
+          "verse": 12,
+          "original": "\"To the angel of the assembly in Pergamum write: \"He who has the sharp two-edged sword says these things:",
+          "korean": "'버가모에 있는 교회의 천사에게 이렇게 써라: 날카로운 양날 검을 가지신 분이 이렇게 말씀하세요:'"
+        },
+        {
+          "verse": 13,
+          "original": "\"I know your works and where you dwell, where Satan's throne is. You hold firmly to my name, and didn't deny my faith in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwells.",
+          "korean": "'나는 네 행위와 네가 사는 곳을 알아요. 사탄의 왕좌가 있는 곳이에요. 너는 내 이름을 굳게 붙들고, 사탄이 사는 너희 가운데서 죽임당한 나의 증인, 나의 충성된 자 안디바의 날에도 내 믿음을 부인하지 않았어요.'"
+        },
+        {
+          "verse": 14,
+          "original": "But I have a few things against you, because you have there some who hold the teaching of Balaam, who taught Balak to throw a stumbling block before the children of Israel, to eat things sacrificed to idols, and to commit sexual immorality.",
+          "korean": "'그러나 너에게 책망할 것이 몇 가지 있어요. 거기에 발람의 가르침을 따르는 사람들이 있기 때문이에요. 발람은 발락에게 이스라엘 자녀들 앞에 걸림돌을 놓아 우상에게 바친 것을 먹고 음란하게 하라고 가르쳤어요.'"
+        },
+        {
+          "verse": 15,
+          "original": "So you also have some who hold to the teaching of the Nicolaitans likewise.",
+          "korean": "'너도 마찬가지로 니골라당의 가르침을 따르는 사람들이 있어요.'"
+        },
+        {
+          "verse": 16,
+          "original": "Repent therefore, or else I am coming to you quickly, and I will make war against them with the sword of my mouth.",
+          "korean": "'그러므로 회개하세요. 그렇지 않으면 내가 빨리 너에게 가서 내 입의 검으로 그들과 싸울 거에요.'"
+        },
+        {
+          "verse": 17,
+          "original": "He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes, to him I will give of the hidden manna, and I will give him a white stone, and on the stone a new name written, which no one knows but he who receives it.\"",
+          "korean": "'귀 있는 사람은 성령이 교회들에게 말씀하시는 것을 들으세요. 이기는 사람에게는 감추어진 만나를 주고 흰 돌을 줄 거에요. 그 돌에는 새 이름이 적혀 있는데, 받는 사람 외에는 아무도 몰라요.'"
+        },
+        {
+          "verse": 18,
+          "original": "\"To the angel of the assembly in Thyatira write: \"The Son of God, who has his eyes like a flame of fire, and his feet are like burnished brass, says these things:",
+          "korean": "'두아디라에 있는 교회의 천사에게 이렇게 써라: 눈은 불꽃 같고 발은 빛나는 놋 같은 하나님의 아들이 이렇게 말씀하세요:'"
+        },
+        {
+          "verse": 19,
+          "original": "\"I know your works, your love, faith, service, patient endurance, and that your last works are more than the first.",
+          "korean": "'나는 네 행위와 사랑과 믿음과 섬김과 인내를 알아요. 네 나중 행위가 처음보다 더 많아요.'"
+        },
+        {
+          "verse": 20,
+          "original": "But I have this against you, that you tolerate your woman, Jezebel, who calls herself a prophetess. She teaches and seduces my servants to commit sexual immorality, and to eat things sacrificed to idols.",
+          "korean": "'그러나 너에게 이것을 책망해요: 네가 스스로 선지자라고 말하는 이세벨이라는 여자를 용납하고 있어요. 그 여자가 내 종들을 가르쳐서 미혹하여 음란하게 하고 우상에게 바친 것을 먹게 해요.'"
+        },
+        {
+          "verse": 21,
+          "original": "I gave her time to repent, but she refuses to repent of her sexual immorality.",
+          "korean": "'내가 그 여자에게 회개할 시간을 주었는데, 그 여자는 자기 음란을 회개하지 않아요.'"
+        },
+        {
+          "verse": 22,
+          "original": "Behold, I will throw her into a bed, and those who commit adultery with her into great oppression, unless they repent of her works.",
+          "korean": "'보세요, 내가 그 여자를 병상에 눕히고, 그 여자와 간음하는 자들도 큰 환난에 던질 거에요. 그들이 그 여자의 행위를 회개하지 않으면요.'"
+        },
+        {
+          "verse": 23,
+          "original": "I will kill her children with Death, and all the assemblies will know that I am he who searches the minds and hearts. I will give to each one of you according to your deeds.",
+          "korean": "'내가 그 여자의 자녀들을 죽음으로 죽일 거에요. 모든 교회가 내가 마음과 생각을 살피는 자인 것을 알 거에요. 나는 각 사람에게 행위대로 줄 거에요.'"
+        },
+        {
+          "verse": 24,
+          "original": "But to you I say, to the rest who are in Thyatira, as many as don't have this teaching, who don't know what some call 'the deep things of Satan,' to you I say, I am not putting any other burden on you.",
+          "korean": "'그러나 두아디라에 남아 있는 사람들, 이 가르침을 갖지 않고 어떤 이들이 말하는 '사탄의 깊은 것'을 알지 못하는 너희에게 말해요: 다른 짐을 지우지 않을 거에요.'"
+        },
+        {
+          "verse": 25,
+          "original": "Nevertheless, hold that which you have firmly until I come.",
+          "korean": "'다만 내가 올 때까지 가진 것을 굳게 붙드세요.'"
+        },
+        {
+          "verse": 26,
+          "original": "He who overcomes, and he who keeps my works to the end, to him I will give authority over the nations.",
+          "korean": "'이기는 사람, 내 일을 끝까지 지키는 사람에게 열방을 다스리는 권세를 줄 거에요.'"
+        },
+        {
+          "verse": 27,
+          "original": "He will rule them with a rod of iron, shattering them like clay pots; as I also have received of my Father:",
+          "korean": "'그가 철 지팡이로 그들을 다스리고 질그릇처럼 부술 거에요. 내가 아버지에게서 받은 것처럼요.'"
+        },
+        {
+          "verse": 28,
+          "original": "and I will give him the morning star.",
+          "korean": "'또 그에게 새벽별을 줄 거에요.'"
+        },
+        {
+          "verse": 29,
+          "original": "He who has an ear, let him hear what the Spirit says to the assemblies.",
+          "korean": "'귀 있는 사람은 성령이 교회들에게 말씀하시는 것을 들으세요.'"
+        }
+      ]
     }
   ]
 }
