@@ -276,6 +276,181 @@
           "korean": "이스라엘 자손이 그대로 했어요. 여호와께서 모세에게 명령하신 대로 그들이 다 행했어요."
         }
       ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh spoke to Moses and to Aaron, saying,",
+          "korean": "여호와께서 모세와 아론에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"The children of Israel shall encamp every man by his own standard, with the banners of their fathers' houses. They shall encamp around the Tent of Meeting at a distance from it.\"",
+          "korean": "\"이스라엘 자손은 각각 자기 기 아래, 자기 조상 집의 깃발 아래 진을 쳐라. 회막 주위에 거리를 두고 진을 쳐라.\""
+        },
+        {
+          "verse": 3,
+          "original": "Those who encamp on the east side toward the sunrise shall be of the standard of the camp of Judah, according to their divisions. The prince of the children of Judah shall be Nahshon the son of Amminadab.",
+          "korean": "동쪽 해 뜨는 쪽에 진 치는 자들은 유다 진영의 기 아래 부대별로 있어야 해요. 유다 자손의 지도자는 암미나답의 아들 나손이에요."
+        },
+        {
+          "verse": 4,
+          "original": "His division, and those who were counted of them, were seventy-four thousand six hundred.",
+          "korean": "그의 부대와 계수된 자들은 칠만 사천육백 명이었어요."
+        },
+        {
+          "verse": 5,
+          "original": "Those who encamp next to him shall be the tribe of Issachar. The prince of the children of Issachar shall be Nethanel the son of Zuar.",
+          "korean": "그 옆에 진 치는 자들은 잇사갈 지파에요. 잇사갈 자손의 지도자는 수알의 아들 느다넬이에요."
+        },
+        {
+          "verse": 6,
+          "original": "His division, and those who were counted of it, were fifty-four thousand four hundred.",
+          "korean": "그의 부대와 계수된 자들은 오만 사천사백 명이었어요."
+        },
+        {
+          "verse": 7,
+          "original": "The tribe of Zebulun: the prince of the children of Zebulun shall be Eliab the son of Helon.",
+          "korean": "스불론 지파: 스불론 자손의 지도자는 헬론의 아들 엘리압이에요."
+        },
+        {
+          "verse": 8,
+          "original": "His division, and those who were counted of it, were fifty-seven thousand four hundred.",
+          "korean": "그의 부대와 계수된 자들은 오만 칠천사백 명이었어요."
+        },
+        {
+          "verse": 9,
+          "original": "All who were counted of the camp of Judah were one hundred eighty-six thousand four hundred, according to their divisions. They shall set out first.",
+          "korean": "유다 진영에서 계수된 모든 사람은 부대별로 십팔만 육천사백 명이었어요. 그들이 먼저 출발해야 해요."
+        },
+        {
+          "verse": 10,
+          "original": "\"On the south side shall be the standard of the camp of Reuben according to their divisions. The prince of the children of Reuben shall be Elizur the son of Shedeur.",
+          "korean": "\"남쪽에는 르우벤 진영의 기가 부대별로 있어야 해요. 르우벤 자손의 지도자는 스데울의 아들 엘리술이에요."
+        },
+        {
+          "verse": 11,
+          "original": "His division, and those who were counted of it, were forty-six thousand five hundred.",
+          "korean": "그의 부대와 계수된 자들은 사만 육천오백 명이었어요."
+        },
+        {
+          "verse": 12,
+          "original": "\"Those who encamp next to him shall be the tribe of Simeon. The prince of the children of Simeon shall be Shelumiel the son of Zurishaddai.",
+          "korean": "그 옆에 진 치는 자들은 시므온 지파에요. 시므온 자손의 지도자는 수리삿대의 아들 슬루미엘이에요."
+        },
+        {
+          "verse": 13,
+          "original": "His division, and those who were counted of them, were fifty-nine thousand three hundred.",
+          "korean": "그의 부대와 계수된 자들은 오만 구천삼백 명이었어요."
+        },
+        {
+          "verse": 14,
+          "original": "\"The tribe of Gad: the prince of the children of Gad shall be Eliasaph the son of Reuel.",
+          "korean": "갓 지파: 갓 자손의 지도자는 르우엘의 아들 엘리아삽이에요."
+        },
+        {
+          "verse": 15,
+          "original": "His division, and those who were counted of them, were forty-five thousand six hundred fifty.",
+          "korean": "그의 부대와 계수된 자들은 사만 오천육백오십 명이었어요."
+        },
+        {
+          "verse": 16,
+          "original": "\"All who were counted of the camp of Reuben were one hundred fifty-one thousand four hundred fifty, according to their armies. They shall set out second.",
+          "korean": "르우벤 진영에서 계수된 모든 사람은 군대별로 십오만 천사백오십 명이었어요. 그들이 두 번째로 출발해야 해요."
+        },
+        {
+          "verse": 17,
+          "original": "\"Then the Tent of Meeting shall set out, with the camp of the Levites in the middle of the camps. As they encamp, so shall they set out, every man in his place, by their standards.",
+          "korean": "그 다음에 회막이 레위 진영과 함께 진영들 가운데서 출발해야 해요. 진 칠 때처럼 출발할 때도 각각 자기 위치에서 자기 기를 따라 가야 해요."
+        },
+        {
+          "verse": 18,
+          "original": "\"On the west side shall be the standard of the camp of Ephraim according to their divisions. The prince of the children of Ephraim shall be Elishama the son of Ammihud.",
+          "korean": "서쪽에는 에브라임 진영의 기가 부대별로 있어야 해요. 에브라임 자손의 지도자는 암미훗의 아들 엘리사마에요."
+        },
+        {
+          "verse": 19,
+          "original": "His division, and those who were counted of them, were forty thousand five hundred.",
+          "korean": "그의 부대와 계수된 자들은 사만 오백 명이었어요."
+        },
+        {
+          "verse": 20,
+          "original": "\"Next to him shall be the tribe of Manasseh. The prince of the children of Manasseh shall be Gamaliel the son of Pedahzur.",
+          "korean": "그 옆에는 므낫세 지파가 있어야 해요. 므낫세 자손의 지도자는 브다술의 아들 가말리엘이에요."
+        },
+        {
+          "verse": 21,
+          "original": "His division, and those who were counted of them, were thirty-two thousand two hundred.",
+          "korean": "그의 부대와 계수된 자들은 삼만 이천이백 명이었어요."
+        },
+        {
+          "verse": 22,
+          "original": "\"The tribe of Benjamin: the prince of the children of Benjamin shall be Abidan the son of Gideoni.",
+          "korean": "베냐민 지파: 베냐민 자손의 지도자는 기드오니의 아들 아비단이에요."
+        },
+        {
+          "verse": 23,
+          "original": "His army, and those who were counted of them, were thirty-five thousand four hundred.",
+          "korean": "그의 군대와 계수된 자들은 삼만 오천사백 명이었어요."
+        },
+        {
+          "verse": 24,
+          "original": "\"All who were counted of the camp of Ephraim were one hundred eight thousand one hundred, according to their divisions. They shall set out third.",
+          "korean": "에브라임 진영에서 계수된 모든 사람은 부대별로 십만 팔천백 명이었어요. 그들이 세 번째로 출발해야 해요."
+        },
+        {
+          "verse": 25,
+          "original": "\"On the north side shall be the standard of the camp of Dan according to their divisions. The prince of the children of Dan shall be Ahiezer the son of Ammishaddai.",
+          "korean": "북쪽에는 단 진영의 기가 부대별로 있어야 해요. 단 자손의 지도자는 암미삿대의 아들 아히에셀이에요."
+        },
+        {
+          "verse": 26,
+          "original": "His division, and those who were counted of them, were sixty-two thousand seven hundred.",
+          "korean": "그의 부대와 계수된 자들은 육만 이천칠백 명이었어요."
+        },
+        {
+          "verse": 27,
+          "original": "\"Those who encamp next to him shall be the tribe of Asher. The prince of the children of Asher shall be Pagiel the son of Ochran.",
+          "korean": "그 옆에 진 치는 자들은 아셀 지파에요. 아셀 자손의 지도자는 오그란의 아들 바기엘이에요."
+        },
+        {
+          "verse": 28,
+          "original": "His division, and those who were counted of them, were forty-one thousand and five hundred.",
+          "korean": "그의 부대와 계수된 자들은 사만 천오백 명이었어요."
+        },
+        {
+          "verse": 29,
+          "original": "\"The tribe of Naphtali: the prince of the children of Naphtali shall be Ahira the son of Enan.",
+          "korean": "납달리 지파: 납달리 자손의 지도자는 에난의 아들 아히라에요."
+        },
+        {
+          "verse": 30,
+          "original": "His division, and those who were counted of them, were fifty-three thousand four hundred.",
+          "korean": "그의 부대와 계수된 자들은 오만 삼천사백 명이었어요."
+        },
+        {
+          "verse": 31,
+          "original": "\"All who were counted of the camp of Dan were one hundred fifty-seven thousand six hundred. They shall set out last by their standards.\"",
+          "korean": "단 진영에서 계수된 모든 사람은 십오만 칠천육백 명이었어요. 그들이 자기 기를 따라 맨 나중에 출발해야 해요.\""
+        },
+        {
+          "verse": 32,
+          "original": "These are those who were counted of the children of Israel by their fathers' houses. All who were counted of the camps according to their armies were six hundred three thousand five hundred fifty.",
+          "korean": "이들이 이스라엘 자손의 조상 집대로 계수된 자들이에요. 진영에서 군대별로 계수된 모든 사람은 육십만 삼천오백오십 명이었어요."
+        },
+        {
+          "verse": 33,
+          "original": "But the Levites were not counted among the children of Israel, as Yahweh commanded Moses.",
+          "korean": "그러나 레위 사람들은 여호와께서 모세에게 명령하신 대로 이스라엘 자손 중에 계수되지 않았어요."
+        },
+        {
+          "verse": 34,
+          "original": "Thus the children of Israel did. According to all that Yahweh commanded Moses, so they encamped by their standards, and so they set out, everyone by their families, according to their fathers' houses.",
+          "korean": "이스라엘 자손이 그대로 했어요. 여호와께서 모세에게 명령하신 대로 그들이 자기 기를 따라 진을 치고, 각각 자기 가족대로, 자기 조상의 집대로 출발했어요."
+        }
+      ]
     }
   ]
 }
