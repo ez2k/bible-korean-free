@@ -1,0 +1,1581 @@
+{
+  "book": "Joshua",
+  "bookKorean": "여호수아",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now after the death of Moses the servant of Yahweh, Yahweh spoke to Joshua the son of Nun, Moses' servant, saying,",
+          "korean": "여호와의 종 모세가 죽은 후에, 여호와께서 모세의 조수였던 눈의 아들 여호수아에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Moses my servant is dead. Now therefore arise, go across this Jordan, you and all these people, to the land which I am giving to them, even to the children of Israel.",
+          "korean": "'내 종 모세가 죽었다. 이제 일어나서 이 요단을 건너가라. 너와 이 모든 백성이 함께, 내가 이스라엘 자손에게 주는 땅으로 가라."
+        },
+        {
+          "verse": 3,
+          "original": "I have given you every place that the sole of your foot will tread on, as I told Moses.",
+          "korean": "내가 모세에게 말한 대로, 너희 발바닥이 밟는 모든 곳을 너희에게 주었다."
+        },
+        {
+          "verse": 4,
+          "original": "From the wilderness and this Lebanon even to the great river, the river Euphrates, all the land of the Hittites, and to the great sea toward the going down of the sun, shall be your border.",
+          "korean": "광야와 이 레바논에서부터 큰 강 유프라테스까지, 헷 사람의 온 땅과 해 지는 쪽의 큰 바다까지가 너희 경계가 될 것이다."
+        },
+        {
+          "verse": 5,
+          "original": "No man will be able to stand before you all the days of your life. As I was with Moses, so I will be with you. I will not fail you nor forsake you.",
+          "korean": "네 평생에 아무도 너를 대적하여 설 수 없을 것이다. 내가 모세와 함께했던 것처럼 너와 함께할 것이다. 내가 너를 버리지 않고 떠나지 않겠다."
+        },
+        {
+          "verse": 6,
+          "original": "\"Be strong and courageous; for you shall cause this people to inherit the land which I swore to their fathers to give them.",
+          "korean": "강하고 담대하라. 네가 이 백성에게 내가 그들의 조상에게 주기로 맹세한 땅을 기업으로 얻게 할 것이다."
+        },
+        {
+          "verse": 7,
+          "original": "Only be strong and very courageous. Be careful to observe to do according to all the law which Moses my servant commanded you. Don't turn from it to the right hand or to the left, that you may have good success wherever you go.",
+          "korean": "오직 강하고 아주 담대하라. 내 종 모세가 네게 명령한 모든 율법을 지켜 행하도록 조심하라. 좌로나 우로나 치우치지 말라. 그러면 네가 어디로 가든지 형통할 것이다."
+        },
+        {
+          "verse": 8,
+          "original": "This book of the law shall not depart from your mouth, but you shall meditate on it day and night, that you may observe to do according to all that is written in it; for then you shall make your way prosperous, and then you shall have good success.",
+          "korean": "이 율법책을 네 입에서 떠나지 않게 하고, 주야로 그것을 묵상하여 그 안에 기록된 모든 것을 지켜 행하라. 그러면 네 길이 형통하고 성공할 것이다."
+        },
+        {
+          "verse": 9,
+          "original": "Haven't I commanded you? Be strong and courageous. Don't be afraid. Don't be dismayed, for Yahweh your God is with you wherever you go.\"",
+          "korean": "내가 네게 명령하지 않았느냐? 강하고 담대하라. 두려워하지 말고 놀라지 말라. 네가 어디로 가든지 네 하나님 여호와가 너와 함께하시기 때문이다.'"
+        },
+        {
+          "verse": 10,
+          "original": "Then Joshua commanded the officers of the people, saying,",
+          "korean": "그때 여호수아가 백성의 지도자들에게 명령했어요."
+        },
+        {
+          "verse": 11,
+          "original": "\"Pass through the middle of the camp, and command the people, saying, 'Prepare food; for within three days you are to pass over this Jordan, to go in to possess the land which Yahweh your God gives you to possess.'\"",
+          "korean": "'진영 가운데로 지나가서 백성에게 명령하라. \"음식을 준비하라. 사흘 안에 너희가 이 요단을 건너서 너희 하나님 여호와께서 너희에게 주시는 땅을 차지하러 들어갈 것이다.\"'"
+        },
+        {
+          "verse": 12,
+          "original": "Joshua spoke to the Reubenites, and to the Gadites, and to the half-tribe of Manasseh, saying,",
+          "korean": "여호수아가 르우벤 사람과 갓 사람과 므낫세 반 지파에게 말했어요."
+        },
+        {
+          "verse": 13,
+          "original": "\"Remember the word which Moses the servant of Yahweh commanded you, saying, 'Yahweh your God gives you rest, and will give you this land.",
+          "korean": "'여호와의 종 모세가 너희에게 명령한 말을 기억하라. \"너희 하나님 여호와께서 너희에게 안식을 주시고 이 땅을 주실 것이다."
+        },
+        {
+          "verse": 14,
+          "original": "Your wives, your little ones, and your livestock shall live in the land which Moses gave you beyond the Jordan; but you shall pass over before your brothers armed, all the mighty men of valor, and shall help them",
+          "korean": "너희 아내와 어린 자녀와 가축은 모세가 요단 저편에서 준 땅에 살아라. 그러나 너희 중에 힘센 용사들은 무장하고 형제들 앞서 건너가서 그들을 도와야 한다."
+        },
+        {
+          "verse": 15,
+          "original": "until Yahweh has given your brothers rest, as he has given you, and they have also possessed the land which Yahweh your God gives them. Then you shall return to the land of your possession and possess it, which Moses the servant of Yahweh gave you beyond the Jordan toward the sunrise.'\"",
+          "korean": "여호와께서 너희에게 주신 것처럼 너희 형제들에게도 안식을 주시고 그들도 너희 하나님 여호와께서 주시는 땅을 차지할 때까지. 그 후에 너희는 여호와의 종 모세가 해 뜨는 쪽 요단 건너편에서 준 너희 기업의 땅으로 돌아가서 그것을 차지하라.\"'"
+        },
+        {
+          "verse": 16,
+          "original": "They answered Joshua, saying, \"All that you have commanded us we will do, and wherever you send us we will go.",
+          "korean": "그들이 여호수아에게 대답했어요. '당신이 우리에게 명령한 모든 것을 우리가 행하고, 당신이 우리를 보내는 곳이면 어디든지 가겠어요."
+        },
+        {
+          "verse": 17,
+          "original": "Just as we listened to Moses in all things, so will we listen to you. Only may Yahweh your God be with you, as he was with Moses.",
+          "korean": "우리가 모든 일에 모세의 말을 들은 것처럼 당신의 말도 듣겠어요. 오직 여호와 당신의 하나님께서 모세와 함께하셨던 것처럼 당신과도 함께하시기를 바랍니다."
+        },
+        {
+          "verse": 18,
+          "original": "Whoever rebels against your commandment, and doesn't listen to your words in all that you command him shall himself be put to death. Only be strong and courageous.\"",
+          "korean": "당신의 명령을 거역하고 당신이 명령한 모든 일에 당신의 말을 듣지 않는 자는 죽임을 당할 것입니다. 오직 강하고 담대하세요.'"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Joshua the son of Nun secretly sent two men out of Shittim as spies, saying, \"Go, view the land, including Jericho.\" They went and came into the house of a prostitute whose name was Rahab, and slept there.",
+          "korean": "눈의 아들 여호수아가 싯딤에서 두 사람을 몰래 정탐꾼으로 보내며 말했어요. '가서 그 땅과 여리고를 살펴보라.' 그들이 가서 라합이라는 여자의 집에 들어가 거기서 잤어요."
+        },
+        {
+          "verse": 2,
+          "original": "The king of Jericho was told, \"Behold, men of the children of Israel came in here tonight to spy out the land.\"",
+          "korean": "여리고 왕에게 알려졌어요. '보세요, 이스라엘 자손 중에서 사람들이 오늘 밤 이 땅을 정탐하러 왔습니다.'"
+        },
+        {
+          "verse": 3,
+          "original": "Jericho's king sent to Rahab, saying, \"Bring out the men who have come to you, who have entered into your house; for they have come to spy out all the land.\"",
+          "korean": "여리고 왕이 라합에게 사람을 보내 말했어요. '네게 와서 네 집에 들어간 사람들을 내보내라. 그들이 온 땅을 정탐하러 왔다.'"
+        },
+        {
+          "verse": 4,
+          "original": "The woman took the two men and hid them. Then she said, \"Yes, the men came to me, but I didn't know where they came from.",
+          "korean": "그 여자가 두 사람을 데려다 숨겼어요. 그리고 말했어요. '네, 그 사람들이 제게 왔지만, 그들이 어디서 왔는지 몰랐어요."
+        },
+        {
+          "verse": 5,
+          "original": "About the time of the shutting of the gate, when it was dark, the men went out. Where the men went, I don't know. Pursue them quickly. You may catch up with them.\"",
+          "korean": "어두워질 때 성문을 닫을 무렵에 그 사람들이 나갔어요. 그들이 어디로 갔는지 모르겠어요. 빨리 쫓아가세요. 따라잡을 수 있을 거예요.'"
+        },
+        {
+          "verse": 6,
+          "original": "But she had brought them up to the roof, and hidden them under the stalks of flax which she had laid in order on the roof.",
+          "korean": "그러나 그녀는 그들을 지붕으로 데려가서, 지붕 위에 정리해 놓은 삼대 아래에 숨겨놓았어요."
+        },
+        {
+          "verse": 7,
+          "original": "The men pursued them along the way to the fords of the Jordan River. As soon as those who pursued them had gone out, they shut the gate.",
+          "korean": "그 사람들이 요단 강 나루터로 가는 길을 따라 그들을 쫓아갔어요. 쫓는 사람들이 나가자마자 성문을 닫았어요."
+        },
+        {
+          "verse": 8,
+          "original": "Before they had lain down, she came up to them on the roof.",
+          "korean": "그들이 눕기 전에 그녀가 지붕 위로 올라갔어요."
+        },
+        {
+          "verse": 9,
+          "original": "She said to the men, \"I know that Yahweh has given you the land, and that the fear of you has fallen upon us, and that all the inhabitants of the land melt away before you.",
+          "korean": "그녀가 그 사람들에게 말했어요. '저는 여호와께서 이 땅을 당신들에게 주신 것을 알아요. 당신들에 대한 두려움이 우리에게 떨어졌고, 이 땅의 모든 주민이 당신들 앞에서 녹아내리고 있어요."
+        },
+        {
+          "verse": 10,
+          "original": "For we have heard how Yahweh dried up the water of the Red Sea before you, when you came out of Egypt; and what you did to the two kings of the Amorites, who were beyond the Jordan, to Sihon and to Og, whom you utterly destroyed.",
+          "korean": "우리는 당신들이 애굽에서 나올 때 여호와께서 홍해 물을 당신들 앞에서 마르게 하신 것과, 요단 저편에 있던 아모리 두 왕 시혼과 옥에게 한 일, 그들을 완전히 멸망시킨 것을 들었어요."
+        },
+        {
+          "verse": 11,
+          "original": "As soon as we had heard it, our hearts melted, and there wasn't any more spirit in any man, because of you: for Yahweh your God, he is God in heaven above, and on earth beneath.",
+          "korean": "우리가 그것을 듣자마자 마음이 녹았고, 당신들 때문에 누구에게도 용기가 남아있지 않아요. 당신들의 하나님 여호와, 그분이 위로 하늘에서나 아래로 땅에서나 하나님이시기 때문이에요."
+        },
+        {
+          "verse": 12,
+          "original": "Now therefore, please swear to me by Yahweh, since I have dealt kindly with you, that you also will deal kindly with my father's house, and give me a true sign;",
+          "korean": "이제 제가 당신들에게 친절을 베풀었으니, 여호와로 제게 맹세해 주세요. 당신들도 제 아버지 집에 친절을 베풀고, 확실한 표징을 제게 주세요."
+        },
+        {
+          "verse": 13,
+          "original": "and that you will save alive my father, my mother, my brothers, and my sisters, and all that they have, and will deliver our lives from death.\"",
+          "korean": "그리고 제 아버지, 어머니, 형제들, 자매들과 그들에게 속한 모든 것을 살려서, 우리 목숨을 죽음에서 건져주세요.'"
+        },
+        {
+          "verse": 14,
+          "original": "The men said to her, \"Our life for yours, if you don't talk about this business of ours; and it shall be, when Yahweh gives us the land, that we will deal kindly and truly with you.\"",
+          "korean": "그 사람들이 그녀에게 말했어요. '만약 네가 우리 일을 말하지 않으면, 우리 목숨을 걸고 네 목숨을 지키겠다. 여호와께서 우리에게 이 땅을 주시면, 우리가 네게 친절하고 진실하게 대할 것이다.'"
+        },
+        {
+          "verse": 15,
+          "original": "Then she let them down by a cord through the window; for her house was on the side of the wall, and she lived on the wall.",
+          "korean": "그래서 그녀가 줄로 그들을 창문을 통해 내려보냈어요. 그녀의 집이 성벽 옆에 있어서 그녀가 성벽에 살았거든요."
+        },
+        {
+          "verse": 16,
+          "original": "She said to them, \"Go to the mountain, lest the pursuers find you. Hide yourselves there three days, until the pursuers have returned. Afterward, you may go your way.\"",
+          "korean": "그녀가 그들에게 말했어요. '산으로 가세요. 쫓는 사람들에게 발각되지 않게요. 거기서 사흘 동안 숨어 계세요. 쫓는 사람들이 돌아갈 때까지요. 그 후에 길을 가세요.'"
+        },
+        {
+          "verse": 17,
+          "original": "The men said to her, \"We will be guiltless of this your oath which you've made us to swear.",
+          "korean": "그 사람들이 그녀에게 말했어요. '네가 우리에게 맹세하게 한 이 서약에 우리가 죄가 없을 것이다."
+        },
+        {
+          "verse": 18,
+          "original": "Behold, when we come into the land, tie this line of scarlet thread in the window which you used to let us down. Gather to yourself into the house your father, your mother, your brothers, and all your father's household.",
+          "korean": "우리가 이 땅에 들어올 때, 네가 우리를 내려보낸 창문에 이 붉은 줄을 매어라. 그리고 네 아버지, 어머니, 형제들과 네 아버지의 온 가족을 집 안으로 모아라."
+        },
+        {
+          "verse": 19,
+          "original": "It shall be that whoever goes out of the doors of your house into the street, his blood will be on his head, and we will be guiltless. Whoever is with you in the house, his blood shall be on our head, if any hand is on him.",
+          "korean": "누구든지 네 집 문밖 거리로 나가면 그의 피가 자기 머리에 있을 것이고, 우리는 죄가 없을 것이다. 집 안에 너와 함께 있는 자는 누구든지, 만약 누가 그에게 손을 대면 그의 피가 우리 머리에 있을 것이다."
+        },
+        {
+          "verse": 20,
+          "original": "But if you talk about this business of ours, then we shall be guiltless of your oath which you've made us to swear.\"",
+          "korean": "그러나 네가 우리 일을 말하면, 네가 우리에게 맹세하게 한 서약에서 우리가 자유롭게 될 것이다.'"
+        },
+        {
+          "verse": 21,
+          "original": "She said, \"Let it be as you have said.\" She sent them away, and they departed. Then she tied the scarlet line in the window.",
+          "korean": "그녀가 말했어요. '당신들 말대로 되기를.' 그녀가 그들을 보내자 그들이 떠났어요. 그리고 그녀가 붉은 줄을 창문에 매었어요."
+        },
+        {
+          "verse": 22,
+          "original": "They went and came to the mountain, and stayed there three days, until the pursuers had returned. The pursuers sought them all along the way, but didn't find them.",
+          "korean": "그들이 가서 산에 이르러 사흘 동안 거기 머물렀어요. 쫓는 사람들이 돌아갈 때까지요. 쫓는 사람들이 길을 따라 두루 찾았지만 찾지 못했어요."
+        },
+        {
+          "verse": 23,
+          "original": "Then the two men returned, descended from the mountain, crossed the river, and came to Joshua the son of Nun. They told him all that had happened to them.",
+          "korean": "그 후에 두 사람이 돌아와서 산에서 내려오고, 강을 건너 눈의 아들 여호수아에게 왔어요. 그들에게 일어난 모든 일을 그에게 말했어요."
+        },
+        {
+          "verse": 24,
+          "original": "They said to Joshua, \"Truly Yahweh has delivered all the land into our hands. Moreover, all the inhabitants of the land melt away before us.\"",
+          "korean": "그들이 여호수아에게 말했어요. '정말로 여호와께서 온 땅을 우리 손에 넘겨주셨어요. 게다가 그 땅의 모든 주민이 우리 앞에서 녹아내리고 있어요.'"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Joshua got up early in the morning; and they moved from Shittim and came to the Jordan, he and all the children of Israel. They camped there before they crossed over.",
+          "korean": "여호수아가 아침 일찍 일어났어요. 그와 온 이스라엘 자손이 싯딤에서 떠나 요단에 이르러 건너기 전에 거기서 진을 쳤어요."
+        },
+        {
+          "verse": 2,
+          "original": "After three days, the officers went through the middle of the camp;",
+          "korean": "사흘 후에 지도자들이 진영 가운데로 다녔어요."
+        },
+        {
+          "verse": 3,
+          "original": "and they commanded the people, saying, \"When you see the ark of Yahweh your God's covenant, and the Levitical priests bearing it, then leave your place and follow it.",
+          "korean": "그들이 백성에게 명령했어요. '너희 하나님 여호와의 언약궤와 그것을 메는 레위인 제사장들을 보면 너희 자리를 떠나 그것을 따라가라."
+        },
+        {
+          "verse": 4,
+          "original": "Yet there shall be a space between you and it of about two thousand cubits by measure—don't come closer to it—that you may know the way by which you must go; for you have not passed this way before.\"",
+          "korean": "그러나 약 이천 규빗쯤 너희와 그것 사이에 거리를 두어라. 그것에 가까이 가지 마라. 그래야 너희가 갈 길을 알 수 있을 것이다. 너희가 이 길을 전에 지나본 적이 없기 때문이다.'"
+        },
+        {
+          "verse": 5,
+          "original": "Joshua said to the people, \"Sanctify yourselves; for tomorrow Yahweh will do wonders among you.\"",
+          "korean": "여호수아가 백성에게 말했어요. '너희 자신을 거룩하게 하라. 내일 여호와께서 너희 가운데서 놀라운 일을 행하실 것이다.'"
+        },
+        {
+          "verse": 6,
+          "original": "Joshua spoke to the priests, saying, \"Take up the ark of the covenant, and cross over before the people.\" They took up the ark of the covenant, and went before the people.",
+          "korean": "여호수아가 제사장들에게 말했어요. '언약궤를 메고 백성 앞서 건너가라.' 그들이 언약궤를 메고 백성 앞으로 갔어요."
+        },
+        {
+          "verse": 7,
+          "original": "Yahweh said to Joshua, \"Today I will begin to magnify you in the sight of all Israel, that they may know that as I was with Moses, so I will be with you.",
+          "korean": "여호와께서 여호수아에게 말씀하셨어요. '오늘 내가 온 이스라엘 앞에서 너를 높이기 시작할 것이다. 그래서 그들이 내가 모세와 함께했던 것처럼 너와도 함께할 것을 알게 될 것이다."
+        },
+        {
+          "verse": 8,
+          "original": "You shall command the priests who bear the ark of the covenant, saying, 'When you come to the brink of the waters of the Jordan, you shall stand still in the Jordan.'\"",
+          "korean": "너는 언약궤를 메는 제사장들에게 명령하여 이르라. \"너희가 요단 물가에 이르면 요단 안에 서 있으라.\"'"
+        },
+        {
+          "verse": 9,
+          "original": "Joshua said to the children of Israel, \"Come here, and hear the words of Yahweh your God.\"",
+          "korean": "여호수아가 이스라엘 자손에게 말했어요. '이리로 가까이 와서 너희 하나님 여호와의 말씀을 들으라.'"
+        },
+        {
+          "verse": 10,
+          "original": "Joshua said, \"By this you shall know that the living God is among you, and that he will without fail drive the Canaanite, the Hittite, the Hivite, the Perizzite, the Girgashite, the Amorite, and the Jebusite out from before you.",
+          "korean": "여호수아가 말했어요. '이것으로 너희가 살아계신 하나님이 너희 가운데 계시고, 가나안 사람, 헷 사람, 히위 사람, 브리스 사람, 기르가스 사람, 아모리 사람, 여부스 사람을 너희 앞에서 반드시 쫓아내실 것을 알게 될 것이다."
+        },
+        {
+          "verse": 11,
+          "original": "Behold, the ark of the covenant of the Lord of all the earth passes over before you into the Jordan.",
+          "korean": "보라, 온 땅의 주인이신 분의 언약궤가 너희 앞서 요단으로 건너간다."
+        },
+        {
+          "verse": 12,
+          "original": "Now therefore take twelve men out of the tribes of Israel, for every tribe a man.",
+          "korean": "이제 이스라엘 지파 중에서 각 지파에서 한 사람씩 열두 사람을 택하라."
+        },
+        {
+          "verse": 13,
+          "original": "It shall be that when the soles of the feet of the priests who bear the ark of Yahweh, the Lord of all the earth, rest in the waters of the Jordan, that the waters of the Jordan will be cut off. The waters that come down from above shall stand in one heap.\"",
+          "korean": "온 땅의 주인이신 여호와의 궤를 메는 제사장들의 발바닥이 요단 물에 들어서면 요단 물이 끊어질 것이다. 위에서 내려오는 물이 쌓여 설 것이다.'"
+        },
+        {
+          "verse": 14,
+          "original": "When the people moved from their tents to pass over the Jordan, the priests who bore the ark of the covenant being before the people,",
+          "korean": "백성이 요단을 건너려고 자기 장막에서 떠날 때, 언약궤를 멘 제사장들이 백성 앞에 있었어요."
+        },
+        {
+          "verse": 15,
+          "original": "and when those who bore the ark had come to the Jordan, and the feet of the priests who bore the ark had dipped in the edge of the water (for the Jordan overflows all its banks all the time of harvest),",
+          "korean": "궤를 메는 자들이 요단에 이르고, 궤를 메는 제사장들의 발이 물 가장자리에 잠기자 (요단은 수확 때에는 언제나 둑을 넘치기 때문이에요),"
+        },
+        {
+          "verse": 16,
+          "original": "the waters which came down from above stood, and rose up in one heap a great way off, at Adam, the city that is beside Zarethan; and those that went down toward the sea of the Arabah, even the Salt Sea, were wholly cut off. Then the people passed over near Jericho.",
+          "korean": "위에서 내려오는 물이 멈추어 서서 사르단 곁에 있는 아담 성읍에서 아주 멀리까지 무더기를 이루어 섰고, 아라바 바다 곧 소금 바다로 내려가는 물은 완전히 끊어졌어요. 그래서 백성이 여리고 맞은편으로 건넜어요."
+        },
+        {
+          "verse": 17,
+          "original": "The priests who bore the ark of Yahweh's covenant stood firm on dry ground in the middle of the Jordan; and all Israel crossed over on dry ground, until all the nation had passed completely over the Jordan.",
+          "korean": "여호와의 언약궤를 멘 제사장들이 요단 한가운데 마른 땅에 굳게 서 있었어요. 온 이스라엘이 마른 땅으로 건너서 온 민족이 요단을 완전히 건널 때까지요."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "When all the nation had completely crossed over the Jordan, Yahweh spoke to Joshua, saying,",
+          "korean": "온 민족이 요단을 완전히 건넜을 때, 여호와께서 여호수아에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Take twelve men out of the people, a man out of every tribe,",
+          "korean": "'백성 중에서 각 지파에서 한 사람씩 열두 사람을 택하라."
+        },
+        {
+          "verse": 3,
+          "original": "and command them, saying, 'Take from out of the middle of the Jordan, out of the place where the priests' feet stood firm, twelve stones, carry them over with you, and lay them down in the place where you'll camp tonight.'\"",
+          "korean": "그들에게 명령하여 이르라. \"요단 한가운데, 제사장들의 발이 굳게 서 있던 곳에서 돌 열두 개를 취하여 너희와 함께 가져가서 오늘 밤 묵을 곳에 내려놓으라.\"'"
+        },
+        {
+          "verse": 4,
+          "original": "Then Joshua called the twelve men whom he had prepared of the children of Israel, a man out of every tribe.",
+          "korean": "여호수아가 이스라엘 자손 중에서 각 지파에서 한 사람씩 준비해 둔 열두 사람을 불렀어요."
+        },
+        {
+          "verse": 5,
+          "original": "Joshua said to them, \"Cross before the ark of Yahweh your God into the middle of the Jordan, and each of you pick up a stone and put it on your shoulder, according to the number of the tribes of the children of Israel;",
+          "korean": "여호수아가 그들에게 말했어요. '너희 하나님 여호와의 궤 앞서 요단 한가운데로 건너가서, 이스라엘 자손 지파 수에 따라 각자 돌 하나씩 어깨에 메라."
+        },
+        {
+          "verse": 6,
+          "original": "that this may be a sign among you, that when your children ask in the future, saying, 'What do you mean by these stones?'",
+          "korean": "이것이 너희 가운데 표징이 되어, 후에 너희 자녀가 물어 \"이 돌들이 무슨 뜻입니까?\"라고 할 때"
+        },
+        {
+          "verse": 7,
+          "original": "then you shall tell them, 'Because the waters of the Jordan were cut off before the ark of Yahweh's covenant. When it crossed over the Jordan, the waters of the Jordan were cut off. These stones shall be for a memorial to the children of Israel forever.'\"",
+          "korean": "너희가 그들에게 말하라. \"여호와의 언약궤 앞에서 요단 물이 끊어졌기 때문이다. 궤가 요단을 건널 때 요단 물이 끊어졌다. 이 돌들이 이스라엘 자손에게 영원히 기념이 될 것이다.\"'"
+        },
+        {
+          "verse": 8,
+          "original": "The children of Israel did as Joshua commanded, and took up twelve stones out of the middle of the Jordan, as Yahweh spoke to Joshua, according to the number of the tribes of the children of Israel. They carried them over with them to the place where they camped, and laid them down there.",
+          "korean": "이스라엘 자손이 여호수아가 명령한 대로 했어요. 여호와께서 여호수아에게 말씀하신 대로 이스라엘 자손 지파 수에 따라 요단 한가운데서 돌 열두 개를 취해서, 그것을 가지고 묵는 곳으로 가서 거기 내려놓았어요."
+        },
+        {
+          "verse": 9,
+          "original": "Joshua set up twelve stones in the middle of the Jordan, in the place where the feet of the priests who bore the ark of the covenant stood; and they are there to this day.",
+          "korean": "여호수아가 요단 한가운데, 언약궤를 멘 제사장들의 발이 서 있던 곳에 돌 열두 개를 세웠어요. 그것이 오늘날까지 거기 있어요."
+        },
+        {
+          "verse": 10,
+          "original": "For the priests who bore the ark stood in the middle of the Jordan until everything was finished that Yahweh commanded Joshua to speak to the people, according to all that Moses commanded Joshua; and the people hurried and passed over.",
+          "korean": "궤를 멘 제사장들이 요단 한가운데 서서, 여호와께서 여호수아에게 백성에게 전하라고 명령하신 모든 일이, 모세가 여호수아에게 명령한 모든 것에 따라 끝날 때까지 있었어요. 백성이 서둘러 건넜어요."
+        },
+        {
+          "verse": 11,
+          "original": "When all the people had completely crossed over, Yahweh's ark crossed over with the priests in the presence of the people.",
+          "korean": "모든 백성이 다 건너자, 여호와의 궤와 제사장들이 백성 앞에서 건넜어요."
+        },
+        {
+          "verse": 12,
+          "original": "The children of Reuben, and the children of Gad, and the half-tribe of Manasseh crossed over armed before the children of Israel, as Moses spoke to them.",
+          "korean": "르우벤 자손과 갓 자손과 므낫세 반 지파가 모세가 말한 대로 무장하고 이스라엘 자손 앞서 건넜어요."
+        },
+        {
+          "verse": 13,
+          "original": "About forty thousand men, ready and armed for war, passed over before Yahweh to battle, to the plains of Jericho.",
+          "korean": "전쟁 준비를 하고 무장한 약 사만 명이 여호와 앞에서 여리고 평지로 싸우러 건넜어요."
+        },
+        {
+          "verse": 14,
+          "original": "On that day, Yahweh magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life.",
+          "korean": "그 날에 여호와께서 온 이스라엘 앞에서 여호수아를 높이셨어요. 그들이 모세를 두려워한 것처럼 그의 평생 그를 두려워했어요."
+        },
+        {
+          "verse": 15,
+          "original": "Yahweh spoke to Joshua, saying,",
+          "korean": "여호와께서 여호수아에게 말씀하셨어요."
+        },
+        {
+          "verse": 16,
+          "original": "\"Command the priests who bear the ark of the covenant, that they come up out of the Jordan.\"",
+          "korean": "'언약궤를 메는 제사장들에게 요단에서 올라오라고 명령하라.'"
+        },
+        {
+          "verse": 17,
+          "original": "Joshua therefore commanded the priests, saying, \"Come up out of the Jordan!\"",
+          "korean": "여호수아가 제사장들에게 명령했어요. '요단에서 올라오라!'"
+        },
+        {
+          "verse": 18,
+          "original": "When the priests who bore the ark of Yahweh's covenant had come up out of the middle of the Jordan, and the soles of the priests' feet had been lifted up to the dry ground, the waters of the Jordan returned to their place, and went over all its banks, as before.",
+          "korean": "여호와의 언약궤를 멘 제사장들이 요단 한가운데서 올라오고, 제사장들의 발바닥이 마른 땅에 옮겨졌을 때, 요단 물이 제자리로 돌아와 전처럼 모든 둑을 넘쳤어요."
+        },
+        {
+          "verse": 19,
+          "original": "The people came up out of the Jordan on the tenth day of the first month, and encamped in Gilgal, on the east border of Jericho.",
+          "korean": "정월 열흘날에 백성이 요단에서 올라와서 여리고 동쪽 경계에 있는 길갈에 진을 쳤어요."
+        },
+        {
+          "verse": 20,
+          "original": "Joshua set up those twelve stones, which they took out of the Jordan, in Gilgal.",
+          "korean": "여호수아가 요단에서 가져온 그 열두 돌을 길갈에 세웠어요."
+        },
+        {
+          "verse": 21,
+          "original": "He spoke to the children of Israel, saying, \"When your children ask their fathers in time to come, saying, 'What do these stones mean?'",
+          "korean": "그가 이스라엘 자손에게 말했어요. '후에 너희 자녀가 아버지에게 물어 \"이 돌들이 무슨 뜻입니까?\"라고 할 때"
+        },
+        {
+          "verse": 22,
+          "original": "Then you shall let your children know, saying, 'Israel came over this Jordan on dry land.",
+          "korean": "너희 자녀에게 알려주어라. \"이스라엘이 이 요단을 마른 땅으로 건넜다."
+        },
+        {
+          "verse": 23,
+          "original": "For Yahweh your God dried up the waters of the Jordan from before you until you had crossed over, as Yahweh your God did to the Red Sea, which he dried up from before us, until we had crossed over,",
+          "korean": "너희 하나님 여호와께서 요단 물을 너희 앞에서 마르게 하사 너희가 건널 때까지 하셨다. 너희 하나님 여호와께서 홍해에 하신 것처럼, 우리가 건널 때까지 우리 앞에서 마르게 하셨다."
+        },
+        {
+          "verse": 24,
+          "original": "that all the peoples of the earth may know that Yahweh's hand is mighty, and that you may fear Yahweh your God forever.'\"",
+          "korean": "이것은 땅의 모든 민족이 여호와의 손이 능력 있음을 알게 하려 함이고, 너희가 영원히 너희 하나님 여호와를 경외하게 하려 함이다.\"'"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "When all the kings of the Amorites, who were beyond the Jordan westward, and all the kings of the Canaanites, who were by the sea, heard how Yahweh had dried up the waters of the Jordan from before the children of Israel until we had crossed over, their heart melted, and there was no more spirit in them, because of the children of Israel.",
+          "korean": "요단 서편에 있는 아모리 사람의 모든 왕과 바닷가에 있는 가나안 사람의 모든 왕이, 여호와께서 우리가 건널 때까지 이스라엘 자손 앞에서 요단 물을 마르게 하신 것을 듣고, 그들의 마음이 녹았어요. 이스라엘 자손 때문에 그들에게 더 이상 용기가 없었어요."
+        },
+        {
+          "verse": 2,
+          "original": "At that time, Yahweh said to Joshua, \"Make flint knives, and circumcise again the sons of Israel the second time.\"",
+          "korean": "그때 여호와께서 여호수아에게 말씀하셨어요. '부싯돌 칼을 만들어 이스라엘 아들들에게 다시 두 번째로 할례를 행하라.'"
+        },
+        {
+          "verse": 3,
+          "original": "Joshua made himself flint knives, and circumcised the sons of Israel at the hill of the foreskins.",
+          "korean": "여호수아가 부싯돌 칼을 만들어 할례산에서 이스라엘 아들들에게 할례를 행했어요."
+        },
+        {
+          "verse": 4,
+          "original": "This is the reason Joshua circumcised them: all the people who came out of Egypt, who were males, even all the men of war, died in the wilderness along the way, after they came out of Egypt.",
+          "korean": "여호수아가 할례를 행한 이유는 이것이에요. 애굽에서 나온 모든 백성 중에 남자들, 곧 모든 전쟁하는 남자가 애굽에서 나온 후에 광야에서 길 가다가 죽었어요."
+        },
+        {
+          "verse": 5,
+          "original": "For all the people who came out were circumcised; but all the people who were born in the wilderness along the way as they came out of Egypt had not been circumcised.",
+          "korean": "나온 모든 백성은 할례를 받았지만, 애굽에서 나온 후 광야에서 길 가다가 태어난 모든 백성은 할례를 받지 않았어요."
+        },
+        {
+          "verse": 6,
+          "original": "For the children of Israel walked forty years in the wilderness until all the nation, even the men of war who came out of Egypt, were consumed, because they didn't listen to Yahweh's voice. Yahweh swore to them that he wouldn't let them see the land which Yahweh swore to their fathers that he would give us, a land flowing with milk and honey.",
+          "korean": "이스라엘 자손이 사십 년 동안 광야에서 걸었어요. 애굽에서 나온 전쟁하는 남자들 곧 온 민족이 다 소멸될 때까지요. 그들이 여호와의 음성을 듣지 않았기 때문이에요. 여호와께서 그들에게 맹세하시기를, 여호와께서 조상들에게 주시겠다고 맹세하신 젖과 꿀이 흐르는 땅을 그들에게 보여주지 않겠다고 하셨어요."
+        },
+        {
+          "verse": 7,
+          "original": "Their children, whom he raised up in their place, were circumcised by Joshua, for they were uncircumcised, because they had not circumcised them on the way.",
+          "korean": "그들 대신 세우신 자녀들에게 여호수아가 할례를 행했어요. 그들에게 할례가 없었기 때문이에요. 길에서 할례를 행하지 않았거든요."
+        },
+        {
+          "verse": 8,
+          "original": "When they were done circumcising the whole nation, they stayed in their places in the camp until they were healed.",
+          "korean": "온 민족에게 할례를 다 행한 후에, 그들이 나을 때까지 진영에서 자기 자리에 머물렀어요."
+        },
+        {
+          "verse": 9,
+          "original": "Yahweh said to Joshua, \"Today I have rolled away the reproach of Egypt from you.\" Therefore the name of that place was called Gilgal to this day.",
+          "korean": "여호와께서 여호수아에게 말씀하셨어요. '오늘 내가 애굽의 수치를 너희에게서 굴려버렸다.' 그래서 그곳 이름을 오늘날까지 길갈이라 불러요."
+        },
+        {
+          "verse": 10,
+          "original": "The children of Israel encamped in Gilgal. They kept the Passover on the fourteenth day of the month at evening in the plains of Jericho.",
+          "korean": "이스라엘 자손이 길갈에 진을 쳤어요. 그 달 십사일 저녁에 여리고 평지에서 유월절을 지켰어요."
+        },
+        {
+          "verse": 11,
+          "original": "They ate unleavened cakes and parched grain of the produce of the land on the next day after the Passover, in the same day.",
+          "korean": "유월절 다음 날 바로 그 날에 그 땅 소출로 무교병과 볶은 곡식을 먹었어요."
+        },
+        {
+          "verse": 12,
+          "original": "The manna ceased on the next day, after they had eaten of the produce of the land. The children of Israel didn't have manna any more, but they ate of the fruit of the land of Canaan that year.",
+          "korean": "그 땅 소출을 먹은 다음 날 만나가 그쳤어요. 이스라엘 자손에게 더 이상 만나가 없었어요. 그해에 가나안 땅의 열매를 먹었어요."
+        },
+        {
+          "verse": 13,
+          "original": "When Joshua was by Jericho, he lifted up his eyes and looked, and behold, a man stood in front of him with his sword drawn in his hand. Joshua went to him and said to him, \"Are you for us, or for our enemies?\"",
+          "korean": "여호수아가 여리고 근처에 있을 때 눈을 들어 보니, 한 사람이 칼을 빼어 손에 들고 그 앞에 서 있었어요. 여호수아가 그에게 가서 물었어요. '당신은 우리 편입니까, 우리 원수 편입니까?'"
+        },
+        {
+          "verse": 14,
+          "original": "He said, \"No; but I have come now as commander of Yahweh's army.\" Joshua fell on his face to the earth, and worshiped, and asked him, \"What does my lord say to his servant?\"",
+          "korean": "그가 말했어요. '아니다. 나는 이제 여호와의 군대의 지휘관으로 왔다.' 여호수아가 땅에 엎드려 경배하며 물었어요. '내 주께서 종에게 무엇을 말씀하시겠습니까?'"
+        },
+        {
+          "verse": 15,
+          "original": "The prince of Yahweh's army said to Joshua, \"Take off your sandals from off your feet, for the place on which you stand is holy.\" Joshua did so.",
+          "korean": "여호와의 군대의 지휘관이 여호수아에게 말했어요. '네 발에서 신을 벗으라. 네가 서 있는 곳은 거룩하다.' 여호수아가 그렇게 했어요."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now Jericho was tightly shut up because of the children of Israel. No one went out, and no one came in.",
+          "korean": "이때 여리고 성은 이스라엘 백성 때문에 문을 굳게 닫아 놓았어요. 아무도 나가지도 못하고, 들어오지도 못했어요."
+        },
+        {
+          "verse": 2,
+          "original": "Yahweh said to Joshua, \"Behold, I have given Jericho into your hand, with its king and the mighty men of valor.",
+          "korean": "여호와께서 여호수아에게 말씀하셨어요. \"보아라, 내가 여리고 성과 그 왕과 용사들을 네 손에 넘겨주었다."
+        },
+        {
+          "verse": 3,
+          "original": "All of your men of war shall march around the city, going around the city once. You shall do this six days.",
+          "korean": "너희 군사들은 성 주위를 돌되, 하루에 한 번씩 돌아라. 엿새 동안 이렇게 하여라."
+        },
+        {
+          "verse": 4,
+          "original": "Seven priests shall bear seven trumpets of rams' horns before the ark. On the seventh day, you shall march around the city seven times, and the priests shall blow the trumpets.",
+          "korean": "일곱 제사장이 언약궤 앞에서 양 뿔로 만든 나팔 일곱 개를 들고 가거라. 일곱째 날에는 성 주위를 일곱 번 돌고, 제사장들은 나팔을 불어라."
+        },
+        {
+          "verse": 5,
+          "original": "It shall be that when they make a long blast with the ram's horn, and when you hear the sound of the trumpet, all the people shall shout with a great shout; and the city wall shall fall down flat, and the people shall go up, every man straight in front of him.\"",
+          "korean": "나팔 소리가 길게 울리면 백성들은 모두 크게 소리쳐라. 그러면 성벽이 무너질 것이다. 그때 백성들은 각자 앞으로 곧장 올라가거라.\""
+        },
+        {
+          "verse": 6,
+          "original": "Joshua the son of Nun called the priests, and said to them, \"Take up the ark of the covenant, and let seven priests bear seven trumpets of rams' horns before Yahweh's ark.\"",
+          "korean": "눈의 아들 여호수아가 제사장들을 불러서 말했어요. \"언약궤를 메고 가세요. 일곱 제사장은 양 뿔 나팔 일곱 개를 들고 여호와의 궤 앞에서 가세요.\""
+        },
+        {
+          "verse": 7,
+          "original": "They said to the people, \"Advance! March around the city, and let the armed men pass on before Yahweh's ark.\"",
+          "korean": "또 백성에게 말했어요. \"나아가라! 성 주위를 돌아라. 무장한 군사들은 여호와의 궤 앞에서 가거라.\""
+        },
+        {
+          "verse": 8,
+          "original": "It was so, that when Joshua had spoken to the people, the seven priests bearing the seven trumpets of rams' horns before Yahweh advanced and blew the trumpets, and the ark of Yahweh's covenant followed them.",
+          "korean": "여호수아가 백성에게 말한 대로, 양 뿔 나팔 일곱 개를 든 일곱 제사장이 여호와 앞에서 나아가며 나팔을 불었어요. 여호와의 언약궤는 그들 뒤를 따랐어요."
+        },
+        {
+          "verse": 9,
+          "original": "The armed men went before the priests who blew the trumpets, and the ark went after them. The trumpets sounded as they went.",
+          "korean": "무장한 군사들은 나팔 부는 제사장들 앞에서 갔고, 언약궤는 그 뒤를 따랐어요. 그들이 행진하는 동안 나팔 소리가 울려 퍼졌어요."
+        },
+        {
+          "verse": 10,
+          "original": "Joshua commanded the people, saying, \"You shall not shout nor let your voice be heard, neither shall any word proceed out of your mouth until the day I tell you to shout. Then you shall shout.\"",
+          "korean": "여호수아가 백성에게 명령했어요. \"소리 지르지 말고, 말도 하지 마라. 내가 소리 지르라고 할 때까지 입에서 아무 말도 내지 마라. 그때 너희가 소리 지르라.\""
+        },
+        {
+          "verse": 11,
+          "original": "So he caused Yahweh's ark to go around the city, circling it once. Then they came into the camp, and stayed in the camp.",
+          "korean": "그래서 여호와의 궤가 성 주위를 한 번 돌게 했어요. 그리고 진영으로 돌아와서 그곳에서 머물렀어요."
+        },
+        {
+          "verse": 12,
+          "original": "Joshua rose early in the morning, and the priests took up Yahweh's ark.",
+          "korean": "여호수아가 아침 일찍 일어났고, 제사장들은 여호와의 궤를 메었어요."
+        },
+        {
+          "verse": 13,
+          "original": "The seven priests bearing the seven trumpets of rams' horns in front of Yahweh's ark went on continually, and blew the trumpets. The armed men went in front of them. The rear guard came after Yahweh's ark. The trumpets sounded as they went.",
+          "korean": "양 뿔 나팔 일곱 개를 든 일곱 제사장이 여호와의 궤 앞에서 계속 걸으며 나팔을 불었어요. 무장한 군사들은 그들 앞에서 갔고, 후위 부대는 여호와의 궤 뒤를 따랐어요. 그들이 행진하는 동안 나팔 소리가 울렸어요."
+        },
+        {
+          "verse": 14,
+          "original": "The second day they marched around the city once, and returned into the camp. They did this six days.",
+          "korean": "둘째 날에도 성 주위를 한 번 돌고 진영으로 돌아왔어요. 엿새 동안 이렇게 했어요."
+        },
+        {
+          "verse": 15,
+          "original": "On the seventh day, they rose early at the dawning of the day, and marched around the city in the same way seven times. On this day only they marched around the city seven times.",
+          "korean": "일곱째 날에는 동이 틀 때 일찍 일어나서 같은 방법으로 성 주위를 일곱 번 돌았어요. 이 날만 성 주위를 일곱 번 돌았어요."
+        },
+        {
+          "verse": 16,
+          "original": "At the seventh time, when the priests blew the trumpets, Joshua said to the people, \"Shout, for Yahweh has given you the city!",
+          "korean": "일곱 번째 돌 때 제사장들이 나팔을 불자, 여호수아가 백성에게 말했어요. \"소리 질러라! 여호와께서 이 성을 너희에게 주셨다!"
+        },
+        {
+          "verse": 17,
+          "original": "The city shall be devoted, even it and all that is in it, to Yahweh. Only Rahab the prostitute shall live, she and all who are with her in the house, because she hid the messengers that we sent.",
+          "korean": "이 성과 그 안에 있는 모든 것은 여호와께 바쳐질 것이다. 오직 라합과 그 집에 있는 모든 사람만 살려 두어라. 그녀가 우리가 보낸 정탐꾼을 숨겨 주었기 때문이다."
+        },
+        {
+          "verse": 18,
+          "original": "But as for you, only keep yourselves from what is devoted to destruction, lest when you have devoted it, you take of the devoted thing; so you would make the camp of Israel accursed and trouble it.",
+          "korean": "그러나 너희는 바쳐진 물건에 손대지 마라. 만일 바쳐진 것을 가져가면 이스라엘 진영에 저주를 불러일으키고 재앙을 가져올 것이다."
+        },
+        {
+          "verse": 19,
+          "original": "But all the silver, gold, and vessels of bronze and iron are holy to Yahweh. They shall come into Yahweh's treasury.\"",
+          "korean": "그러나 모든 은과 금과 놋과 철 그릇은 여호와께 거룩하게 바쳐진 것이니 여호와의 창고로 들어가야 한다.\""
+        },
+        {
+          "verse": 20,
+          "original": "So the people shouted and the priests blew the trumpets. When the people heard the sound of the trumpet, the people shouted with a great shout, and the wall fell down flat, so that the people went up into the city, every man straight in front of him, and they took the city.",
+          "korean": "그래서 백성이 소리를 질렀고 제사장들은 나팔을 불었어요. 백성이 나팔 소리를 듣고 크게 소리 지르자, 성벽이 무너져 내렸어요! 백성들은 각자 앞으로 곧장 올라가서 성을 점령했어요."
+        },
+        {
+          "verse": 21,
+          "original": "They utterly destroyed all that was in the city, both man and woman, both young and old, and ox, sheep, and donkey, with the edge of the sword.",
+          "korean": "그들은 성 안에 있는 모든 것을 완전히 멸망시켰어요. 남자와 여자, 어린이와 늙은이, 소와 양과 나귀까지 칼로 쳤어요."
+        },
+        {
+          "verse": 22,
+          "original": "Joshua said to the two men who had spied out the land, \"Go into the prostitute's house, and bring the woman and all that she has out from there, as you swore to her.\"",
+          "korean": "여호수아가 땅을 정탐했던 두 사람에게 말했어요. \"라합의 집으로 가서, 그 여자와 그에게 속한 모든 사람을 데리고 나오너라. 너희가 그녀에게 약속한 대로 하여라.\""
+        },
+        {
+          "verse": 23,
+          "original": "The young men who were spies went in, and brought out Rahab with her father, her mother, her brothers, and all that she had. They also brought out all of her relatives, and they set them outside of the camp of Israel.",
+          "korean": "정탐꾼이었던 젊은이들이 들어가서 라합과 그 아버지, 어머니, 형제들, 그리고 그에게 속한 모든 사람을 데리고 나왔어요. 그들의 모든 친척도 데리고 나와서 이스라엘 진영 밖에 두었어요."
+        },
+        {
+          "verse": 24,
+          "original": "They burned the city with fire, and all that was in it. Only they put the silver, the gold, and the vessels of bronze and of iron into the treasury of Yahweh's house.",
+          "korean": "그들은 성과 그 안에 있는 모든 것을 불로 태웠어요. 오직 은과 금과 놋과 철 그릇만 여호와의 집 창고에 넣었어요."
+        },
+        {
+          "verse": 25,
+          "original": "But Rahab the prostitute, her father's household, and all that she had, Joshua saved alive. She lives in the middle of Israel to this day, because she hid the messengers whom Joshua sent to spy out Jericho.",
+          "korean": "그러나 라합과 그 아버지의 가족, 그리고 그에게 속한 모든 사람은 여호수아가 살려 주었어요. 라합은 여리고를 정탐하러 보낸 사람들을 숨겨 주었기 때문에, 오늘날까지 이스라엘 가운데서 살고 있어요."
+        },
+        {
+          "verse": 26,
+          "original": "Joshua commanded them with an oath at that time, saying, \"Cursed is the man before Yahweh who rises up and builds this city Jericho. With the loss of his firstborn he will lay its foundation, and with the loss of his youngest son he will set up its gates.\"",
+          "korean": "그때 여호수아가 맹세하며 명령했어요. \"누구든지 이 여리고 성을 다시 세우는 자는 여호와 앞에서 저주를 받을 것이다. 그 성의 기초를 놓을 때 맏아들을 잃고, 성문을 세울 때 막내아들을 잃을 것이다.\""
+        },
+        {
+          "verse": 27,
+          "original": "So Yahweh was with Joshua; and his fame was in all the land.",
+          "korean": "여호와께서 여호수아와 함께하셨어요. 그래서 그의 명성이 온 땅에 퍼졌어요."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "But the children of Israel committed a trespass in the devoted things; for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took some of the devoted things. Therefore Yahweh's anger burned against the children of Israel.",
+          "korean": "그런데 이스라엘 백성이 바쳐진 물건에 대해 죄를 지었어요. 유다 지파에 속한 세라의 증손자이며 삽디의 손자이고 갈미의 아들인 아간이 바쳐진 물건 중에서 가져갔어요. 그래서 여호와께서 이스라엘 백성에게 노하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "Joshua sent men from Jericho to Ai, which is beside Beth Aven, on the east side of Bethel, and spoke to them, saying, \"Go up and spy out the land.\" The men went up and spied out Ai.",
+          "korean": "여호수아가 여리고에서 사람들을 아이 성으로 보냈어요. 아이 성은 벧엘 동쪽, 벧아웬 곁에 있었어요. 여호수아가 그들에게 말했어요. \"올라가서 그 땅을 정탐하라.\" 그 사람들이 올라가서 아이를 정탐했어요."
+        },
+        {
+          "verse": 3,
+          "original": "They returned to Joshua, and said to him, \"Don't let all the people go up, but let about two or three thousand men go up and strike Ai. Don't make all the people to toil there, for there are only a few of them.\"",
+          "korean": "그들이 여호수아에게 돌아와서 말했어요. \"모든 백성이 올라갈 필요가 없어요. 이삼천 명만 보내서 아이를 치게 하세요. 거기 사람이 적으니 모든 백성을 수고시키지 마세요.\""
+        },
+        {
+          "verse": 4,
+          "original": "So about three thousand men of the people went up there, and they fled before the men of Ai.",
+          "korean": "그래서 백성 중 삼천 명쯤 올라갔는데, 아이 사람들 앞에서 도망쳤어요."
+        },
+        {
+          "verse": 5,
+          "original": "The men of Ai struck about thirty-six men of them. They chased them from before the gate even to Shebarim, and struck them at the descent. The hearts of the people melted, and became like water.",
+          "korean": "아이 사람들이 그들 중 삼십육 명을 쳤어요. 성문 앞에서부터 스바림까지 쫓아가서 내리막에서 그들을 쳤어요. 그래서 백성의 마음이 녹아 물처럼 되었어요."
+        },
+        {
+          "verse": 6,
+          "original": "Joshua tore his clothes, and fell to the earth on his face before Yahweh's ark until the evening, he and the elders of Israel; and they put dust on their heads.",
+          "korean": "여호수아가 옷을 찢고, 이스라엘 장로들과 함께 여호와의 궤 앞에 저녁까지 얼굴을 땅에 대고 엎드렸어요. 그들은 머리에 티끌을 뿌렸어요."
+        },
+        {
+          "verse": 7,
+          "original": "Joshua said, \"Alas, Lord Yahweh, why have you brought this people over the Jordan at all, to deliver us into the hand of the Amorites, to cause us to perish? I wish that we had been content and lived beyond the Jordan!",
+          "korean": "여호수아가 말했어요. \"아, 주 여호와여, 어찌하여 이 백성을 요단강을 건너게 하셨나이까? 우리를 아모리 사람들 손에 넘겨 멸망시키려 하셨나이까? 차라리 요단강 저쪽에서 만족하며 살았으면 좋았을 것을!"
+        },
+        {
+          "verse": 8,
+          "original": "Oh, Lord, what shall I say, after Israel has turned their backs before their enemies?",
+          "korean": "오 주여, 이스라엘이 원수들 앞에서 등을 돌려 도망쳤으니, 제가 무슨 말을 하리이까?"
+        },
+        {
+          "verse": 9,
+          "original": "For the Canaanites and all the inhabitants of the land will hear of it, and will surround us, and cut off our name from the earth. What will you do for your great name?\"",
+          "korean": "가나안 사람과 이 땅의 모든 주민이 이것을 듣고, 우리를 둘러싸서 우리 이름을 땅에서 없애 버릴 것이에요. 그러면 주의 크신 이름을 위해 어찌하시렵니까?\""
+        },
+        {
+          "verse": 10,
+          "original": "Yahweh said to Joshua, \"Get up! Why have you fallen on your face like that?",
+          "korean": "여호와께서 여호수아에게 말씀하셨어요. \"일어나라! 어찌하여 네가 그렇게 엎드려 있느냐?"
+        },
+        {
+          "verse": 11,
+          "original": "Israel has sinned. Yes, they have even transgressed my covenant which I commanded them. Yes, they have even taken some of the devoted things, and have also stolen, and also deceived. They have even put it among their own stuff.",
+          "korean": "이스라엘이 죄를 지었다. 내가 그들에게 명령한 나의 언약을 어겼다. 바쳐진 물건을 가져갔고, 도둑질했고, 속였다. 그것을 자기 물건 속에 넣어 두었다."
+        },
+        {
+          "verse": 12,
+          "original": "Therefore the children of Israel can't stand before their enemies. They turn their backs before their enemies, because they have become devoted for destruction. I will not be with you any more, unless you destroy the devoted things from among you.",
+          "korean": "그러므로 이스라엘 백성이 원수 앞에 설 수 없다. 저주받을 것이 되었으므로 원수 앞에서 등을 돌려 도망친다. 너희가 저주받은 것을 너희 중에서 없애지 않으면, 내가 더 이상 너희와 함께하지 않을 것이다."
+        },
+        {
+          "verse": 13,
+          "original": "Get up! Sanctify the people, and say, 'Sanctify yourselves for tomorrow, for Yahweh, the God of Israel, says, \"There is a devoted thing among you, Israel. You cannot stand before your enemies until you take away the devoted thing from among you.\"",
+          "korean": "일어나서 백성을 거룩하게 하고 말하여라. '내일을 위해 자신을 거룩하게 하여라. 이스라엘의 하나님 여호와께서 말씀하신다. \"이스라엘아, 너희 중에 바쳐진 물건이 있다. 너희가 바쳐진 물건을 너희 중에서 없애기 전에는 원수 앞에 설 수 없을 것이다.\""
+        },
+        {
+          "verse": 14,
+          "original": "In the morning therefore you shall be brought near by your tribes. It shall be that the tribe which Yahweh selects shall come near by families. The family which Yahweh selects shall come near by households. The household which Yahweh selects shall come near man by man.",
+          "korean": "그러므로 아침에 지파별로 나아오너라. 여호와께서 뽑으시는 지파는 가족별로 나아오고, 여호와께서 뽑으시는 가족은 집안별로 나아오고, 여호와께서 뽑으시는 집안은 한 사람씩 나아오너라."
+        },
+        {
+          "verse": 15,
+          "original": "It shall be, that he who is taken with the devoted thing shall be burned with fire, he and all that he has, because he has transgressed Yahweh's covenant, and because he has done a disgraceful thing in Israel.'\"",
+          "korean": "바쳐진 물건과 함께 잡힌 자는 불에 태워질 것이다. 그와 그에게 속한 모든 것이 그렇게 될 것이다. 그가 여호와의 언약을 어기고 이스라엘에서 수치스러운 일을 행했기 때문이다.'\""
+        },
+        {
+          "verse": 16,
+          "original": "So Joshua rose up early in the morning and brought Israel near by their tribes. The tribe of Judah was selected.",
+          "korean": "여호수아가 아침 일찍 일어나서 이스라엘을 지파별로 나아오게 했어요. 유다 지파가 뽑혔어요."
+        },
+        {
+          "verse": 17,
+          "original": "He brought near the family of Judah, and he selected the family of the Zerahites. He brought near the family of the Zerahites man by man, and Zabdi was selected.",
+          "korean": "유다 지파의 가족들을 나아오게 하니 세라 가족이 뽑혔어요. 세라 가족을 한 사람씩 나아오게 하니 삽디가 뽑혔어요."
+        },
+        {
+          "verse": 18,
+          "original": "He brought near his household man by man, and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was selected.",
+          "korean": "삽디의 집안을 한 사람씩 나아오게 했어요. 그러자 유다 지파에 속한 세라의 증손자이며 삽디의 손자이고 갈미의 아들인 아간이 뽑혔어요."
+        },
+        {
+          "verse": 19,
+          "original": "Joshua said to Achan, \"My son, please give glory to Yahweh, the God of Israel, and make confession to him. Tell me now what you have done! Don't hide it from me!\"",
+          "korean": "여호수아가 아간에게 말했어요. \"내 아들아, 이스라엘의 하나님 여호와께 영광을 돌리고, 그에게 고백하여라. 네가 무엇을 했는지 지금 내게 말하여라! 나에게 숨기지 말아라!\""
+        },
+        {
+          "verse": 20,
+          "original": "Achan answered Joshua, and said, \"I have truly sinned against Yahweh, the God of Israel, and this is what I have done.",
+          "korean": "아간이 여호수아에게 대답했어요. \"저는 정말로 이스라엘의 하나님 여호와께 죄를 지었어요. 제가 한 일은 이것이에요."
+        },
+        {
+          "verse": 21,
+          "original": "When I saw among the plunder a beautiful Babylonian robe, two hundred shekels of silver, and a wedge of gold weighing fifty shekels, then I coveted them and took them. Behold, they are hidden in the ground in the middle of my tent, with the silver under it.\"",
+          "korean": "전리품 중에서 아름다운 바벨론 옷 한 벌과 은 이백 세겔과 금 오십 세겔짜리 금덩이를 보았어요. 그것들을 탐내어 가져갔어요. 보세요, 그것들이 제 장막 가운데 땅 속에 숨겨져 있고, 은은 그 밑에 있어요.\""
+        },
+        {
+          "verse": 22,
+          "original": "So Joshua sent messengers, and they ran to the tent. Behold, it was hidden in his tent, with the silver under it.",
+          "korean": "그래서 여호수아가 전령들을 보냈고, 그들이 장막으로 달려갔어요. 보라, 그것들이 그의 장막에 숨겨져 있었고, 은은 그 밑에 있었어요."
+        },
+        {
+          "verse": 23,
+          "original": "They took them from the middle of the tent, and brought them to Joshua and to all the children of Israel. They laid them down before Yahweh.",
+          "korean": "그들이 그것들을 장막 가운데서 가져다가 여호수아와 이스라엘 모든 백성에게 가져왔어요. 그것들을 여호와 앞에 놓았어요."
+        },
+        {
+          "verse": 24,
+          "original": "Joshua, and all Israel with him, took Achan the son of Zerah, the silver, the robe, the wedge of gold, his sons, his daughters, his cattle, his donkeys, his sheep, his tent, and all that he had; and they brought them up to the valley of Achor.",
+          "korean": "여호수아와 온 이스라엘이 세라의 자손 아간과 그 은과 옷과 금덩이와 그의 아들들과 딸들과 소와 나귀와 양과 장막과 그에게 속한 모든 것을 가지고 아골 골짜기로 올라갔어요."
+        },
+        {
+          "verse": 25,
+          "original": "Joshua said, \"Why have you troubled us? Yahweh will trouble you today.\" All Israel stoned him with stones, and they burned them with fire and stoned them with stones.",
+          "korean": "여호수아가 말했어요. \"네가 어찌하여 우리를 괴롭게 했느냐? 여호와께서 오늘 너를 괴롭게 하실 것이다.\" 온 이스라엘이 그를 돌로 치고, 불로 태우고, 돌로 쳤어요."
+        },
+        {
+          "verse": 26,
+          "original": "They raised over him a great heap of stones that remains to this day. Yahweh turned from the fierceness of his anger. Therefore the name of that place was called \"The valley of Achor\" to this day.",
+          "korean": "그 위에 큰 돌무더기를 쌓았는데, 오늘날까지 남아 있어요. 그래서 여호와께서 맹렬한 진노에서 돌이키셨어요. 그러므로 그곳 이름을 오늘날까지 아골 골짜기라고 불러요."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh said to Joshua, \"Don't be afraid, and don't be dismayed. Take all the warriors with you, and arise, go up to Ai. Behold, I have given into your hand the king of Ai, with his people, his city, and his land.",
+          "korean": "여호와께서 여호수아에게 말씀하셨어요. \"두려워하지 말고, 낙심하지 마라. 모든 군사를 데리고 일어나서 아이로 올라가라. 보아라, 내가 아이 왕과 그 백성과 그 성과 그 땅을 네 손에 넘겨주었다."
+        },
+        {
+          "verse": 2,
+          "original": "You shall do to Ai and her king as you did to Jericho and her king, except you shall take its goods and its livestock for yourselves. Set an ambush for the city behind it.\"",
+          "korean": "네가 여리고와 그 왕에게 한 것처럼 아이와 그 왕에게 하여라. 다만 그 물건과 가축은 너희가 가져도 된다. 그 성 뒤에 복병을 두어라.\""
+        },
+        {
+          "verse": 3,
+          "original": "So Joshua arose, with all the warriors, to go up to Ai. Joshua chose thirty thousand men, the mighty men of valor, and sent them out by night.",
+          "korean": "그래서 여호수아가 모든 군사와 함께 일어나 아이로 올라갔어요. 여호수아가 삼만 명의 용사를 뽑아서 밤에 보냈어요."
+        },
+        {
+          "verse": 4,
+          "original": "He commanded them, saying, \"Behold, you shall lie in ambush against the city, behind the city. Don't go very far from the city, but all of you be ready.",
+          "korean": "그가 그들에게 명령했어요. \"보라, 너희는 성 뒤에서 복병으로 숨어 있어라. 성에서 너무 멀리 가지 말고, 모두 준비하고 있어라."
+        },
+        {
+          "verse": 5,
+          "original": "I and all the people who are with me will approach the city. It shall happen, when they come out against us, as at the first, that we will flee before them.",
+          "korean": "나와 나와 함께 있는 모든 백성은 성으로 다가갈 것이다. 그들이 처음처럼 우리에게 나와서 맞설 때, 우리가 그들 앞에서 도망칠 것이다."
+        },
+        {
+          "verse": 6,
+          "original": "They will come out after us until we have drawn them away from the city; for they will say, 'They flee before us, like the first time.' So we will flee before them,",
+          "korean": "그들이 우리를 쫓아 나와서 성에서 멀리 떨어지게 할 것이다. 그들은 말할 것이다. '처음처럼 우리 앞에서 도망친다.' 그래서 우리가 그들 앞에서 도망칠 것이다."
+        },
+        {
+          "verse": 7,
+          "original": "and you shall rise up from the ambush, and take possession of the city; for Yahweh your God will deliver it into your hand.",
+          "korean": "그러면 너희는 복병에서 일어나 성을 점령하여라. 너희 하나님 여호와께서 그것을 너희 손에 넘겨주실 것이다."
+        },
+        {
+          "verse": 8,
+          "original": "It shall be, when you have seized the city, that you shall set the city on fire. You shall do this according to Yahweh's word. Behold, I have commanded you.\"",
+          "korean": "성을 점령하거든 불을 놓아라. 여호와의 말씀대로 하여라. 보라, 내가 너희에게 명령했다.\""
+        },
+        {
+          "verse": 9,
+          "original": "Joshua sent them out; and they went to set up the ambush, and stayed between Bethel and Ai on the west side of Ai; but Joshua stayed among the people that night.",
+          "korean": "여호수아가 그들을 보냈어요. 그들은 복병하러 가서 아이 서쪽, 벧엘과 아이 사이에 머물렀어요. 그러나 여호수아는 그 밤에 백성 가운데 머물렀어요."
+        },
+        {
+          "verse": 10,
+          "original": "Joshua rose up early in the morning, mustered the people, and went up, he and the elders of Israel, before the people to Ai.",
+          "korean": "여호수아가 아침 일찍 일어나서 백성을 점검하고, 이스라엘 장로들과 함께 백성 앞에서 아이로 올라갔어요."
+        },
+        {
+          "verse": 11,
+          "original": "All the people, even the men of war who were with him, went up and came near, and came before the city and encamped on the north side of Ai. Now there was a valley between him and Ai.",
+          "korean": "그와 함께 있던 모든 백성, 곧 군사들이 올라가서 가까이 나아갔어요. 성 앞에 와서 아이 북쪽에 진을 쳤어요. 그와 아이 사이에는 골짜기가 있었어요."
+        },
+        {
+          "verse": 12,
+          "original": "He took about five thousand men, and set them in ambush between Bethel and Ai, on the west side of the city.",
+          "korean": "그가 오천 명쯤을 뽑아서 성 서쪽, 벧엘과 아이 사이에 복병으로 두었어요."
+        },
+        {
+          "verse": 13,
+          "original": "So they set the people, even all the army who was on the north of the city, and their ambush on the west of the city; and Joshua went that night into the middle of the valley.",
+          "korean": "그래서 백성을 배치했어요. 모든 군대는 성 북쪽에, 복병은 성 서쪽에 두었어요. 여호수아는 그 밤에 골짜기 가운데로 갔어요."
+        },
+        {
+          "verse": 14,
+          "original": "When the king of Ai saw it, they hurried and rose up early, and the men of the city went out against Israel to battle, he and all his people, at the time appointed, before the Arabah; but he didn't know that there was an ambush against him behind the city.",
+          "korean": "아이 왕이 그것을 보자, 서둘러서 일찍 일어났어요. 그와 그의 모든 백성, 성 사람들이 이스라엘과 싸우러 아라바 앞 정해진 장소로 나갔어요. 그러나 그는 성 뒤에 복병이 있는 줄 몰랐어요."
+        },
+        {
+          "verse": 15,
+          "original": "Joshua and all Israel made as if they were beaten before them, and fled by the way of the wilderness.",
+          "korean": "여호수아와 온 이스라엘이 그들 앞에서 진 것처럼 하며 광야 쪽 길로 도망쳤어요."
+        },
+        {
+          "verse": 16,
+          "original": "All the people who were in the city were called together to pursue after them. They pursued Joshua, and were drawn away from the city.",
+          "korean": "성 안의 모든 백성이 불려 모여서 그들을 쫓았어요. 그들은 여호수아를 쫓다가 성에서 멀리 떨어졌어요."
+        },
+        {
+          "verse": 17,
+          "original": "There was not a man left in Ai or Bethel who didn't go out after Israel. They left the city open, and pursued Israel.",
+          "korean": "아이나 벧엘에 이스라엘을 쫓아 나가지 않은 사람이 없었어요. 그들은 성을 열어 놓고 이스라엘을 쫓았어요."
+        },
+        {
+          "verse": 18,
+          "original": "Yahweh said to Joshua, \"Stretch out the javelin that is in your hand toward Ai, for I will give it into your hand.\" Joshua stretched out the javelin that was in his hand toward the city.",
+          "korean": "여호와께서 여호수아에게 말씀하셨어요. \"네 손에 있는 창을 아이를 향해 내밀어라. 내가 그것을 네 손에 넘겨주겠다.\" 여호수아가 손에 있는 창을 성을 향해 내밀었어요."
+        },
+        {
+          "verse": 19,
+          "original": "The ambush arose quickly out of their place, and they ran as soon as he had stretched out his hand and entered into the city and took it. They hurried and set the city on fire.",
+          "korean": "복병이 그 자리에서 재빨리 일어났어요. 여호수아가 손을 내밀자마자 달려가서 성에 들어가서 점령했어요. 그들은 서둘러서 성에 불을 놓았어요."
+        },
+        {
+          "verse": 20,
+          "original": "When the men of Ai looked behind them, they saw, and behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way. The people who fled to the wilderness turned back on the pursuers.",
+          "korean": "아이 사람들이 뒤를 돌아보니, 성에서 연기가 하늘로 올라가는 것이 보였어요! 그들은 이쪽 저쪽으로 도망칠 힘이 없었어요. 광야로 도망치던 백성이 돌아서서 쫓던 자들을 쳤어요."
+        },
+        {
+          "verse": 21,
+          "original": "When Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned back and killed the men of Ai.",
+          "korean": "여호수아와 온 이스라엘이 복병이 성을 점령하고 성에서 연기가 올라가는 것을 보고 돌아서서 아이 사람들을 쳤어요."
+        },
+        {
+          "verse": 22,
+          "original": "The others came out of the city against them, so they were in the middle of Israel, some on this side, and some on that side. They struck them, so that they let none of them remain or escape.",
+          "korean": "다른 이스라엘 사람들은 성에서 나와서 그들을 쳤어요. 그래서 아이 사람들은 이스라엘 가운데 끼게 되었어요. 이쪽에도 저쪽에도 이스라엘이 있었어요. 그들을 쳐서 남은 자도 도망친 자도 없게 했어요."
+        },
+        {
+          "verse": 23,
+          "original": "They captured the king of Ai alive, and brought him to Joshua.",
+          "korean": "그들은 아이 왕을 사로잡아서 여호수아에게 데려왔어요."
+        },
+        {
+          "verse": 24,
+          "original": "When Israel had finished killing all the inhabitants of Ai in the field, in the wilderness in which they pursued them, and they had all fallen by the edge of the sword until they were consumed, all Israel returned to Ai and struck it with the edge of the sword.",
+          "korean": "이스라엘이 들판과 그들을 쫓았던 광야에서 아이의 모든 주민을 다 죽이고, 그들이 모두 칼에 쓰러져 다 없어지자, 온 이스라엘이 아이로 돌아가서 칼로 쳤어요."
+        },
+        {
+          "verse": 25,
+          "original": "All that fell that day, both of men and women, were twelve thousand, even all the people of Ai.",
+          "korean": "그 날 쓰러진 자들은 남녀 합해서 만 이천 명이었는데, 이들은 아이의 모든 백성이었어요."
+        },
+        {
+          "verse": 26,
+          "original": "For Joshua didn't draw back his hand, with which he stretched out the javelin, until he had utterly destroyed all the inhabitants of Ai.",
+          "korean": "여호수아는 아이의 모든 주민을 완전히 멸망시킬 때까지 창을 내민 손을 거두지 않았어요."
+        },
+        {
+          "verse": 27,
+          "original": "Israel took for themselves only the livestock and the goods of that city, according to Yahweh's word which he commanded Joshua.",
+          "korean": "이스라엘은 여호와께서 여호수아에게 명령하신 말씀대로 그 성의 가축과 물건만 자기들을 위해 가져갔어요."
+        },
+        {
+          "verse": 28,
+          "original": "So Joshua burned Ai and made it a heap forever, even a desolation, to this day.",
+          "korean": "그래서 여호수아가 아이를 불태워서 영원히 무더기가 되게 하여 오늘날까지 황폐하게 했어요."
+        },
+        {
+          "verse": 29,
+          "original": "He hanged the king of Ai on a tree until the evening. At sundown, Joshua commanded, and they took his body down from the tree and threw it at the entrance of the gate of the city, and raised a great heap of stones on it that remains to this day.",
+          "korean": "아이 왕을 나무에 매달아 저녁까지 두었어요. 해가 질 때 여호수아가 명령하여 그의 시체를 나무에서 내려 성문 입구에 던지게 하고, 그 위에 큰 돌무더기를 쌓게 했는데 오늘날까지 남아 있어요."
+        },
+        {
+          "verse": 30,
+          "original": "Then Joshua built an altar to Yahweh, the God of Israel, on Mount Ebal,",
+          "korean": "그때 여호수아가 에발 산에서 이스라엘의 하나님 여호와께 제단을 쌓았어요."
+        },
+        {
+          "verse": 31,
+          "original": "as Moses the servant of Yahweh commanded the children of Israel, as it is written in the book of the law of Moses: an altar of uncut stones, on which no one had lifted up any iron. They offered burnt offerings on it to Yahweh and sacrificed peace offerings.",
+          "korean": "여호와의 종 모세가 이스라엘 백성에게 명령한 대로, 모세의 율법책에 기록된 대로, 쇠붙이를 대지 않은 다듬지 않은 돌로 제단을 만들었어요. 그 위에 여호와께 번제를 드리고 화목제를 드렸어요."
+        },
+        {
+          "verse": 32,
+          "original": "He wrote there on the stones a copy of Moses' law, which he wrote in the presence of the children of Israel.",
+          "korean": "여호수아가 거기 돌들 위에 이스라엘 백성 앞에서 모세의 율법 사본을 기록했어요."
+        },
+        {
+          "verse": 33,
+          "original": "All Israel, with their elders, officers, and judges, stood on both sides of the ark before the Levitical priests, who carried the ark of Yahweh's covenant, the foreigner as well as the native; half of them in front of Mount Gerizim, and half of them in front of Mount Ebal, as Moses the servant of Yahweh had commanded at the first, that they should bless the people of Israel.",
+          "korean": "온 이스라엘과 장로들과 관리들과 재판관들이 여호와의 언약궤를 메는 레위 제사장들 앞, 언약궤 양쪽에 섰어요. 외국인도 본토인도 함께했어요. 절반은 그리심 산 앞에, 절반은 에발 산 앞에 섰어요. 여호와의 종 모세가 처음에 명령한 대로 이스라엘 백성을 축복하기 위해서였어요."
+        },
+        {
+          "verse": 34,
+          "original": "Afterward he read all the words of the law, the blessing and the curse, according to all that is written in the book of the law.",
+          "korean": "그 후에 여호수아가 율법의 모든 말씀, 축복과 저주를 율법책에 기록된 대로 다 읽었어요."
+        },
+        {
+          "verse": 35,
+          "original": "There was not a word of all that Moses commanded which Joshua didn't read before all the assembly of Israel, with the women, the little ones, and the foreigners who were among them.",
+          "korean": "모세가 명령한 모든 말씀 중에 여호수아가 이스라엘 온 회중 앞에서 읽지 않은 것이 없었어요. 여자들과 아이들과 그들 가운데 있는 외국인들도 함께했어요."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "When all the kings who were beyond the Jordan, in the hill country, and in the lowland, and on all the shore of the great sea in front of Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard of it",
+          "korean": "요단강 저쪽, 산지와 평지와 레바논 앞 대해 연안에 있는 모든 왕들, 곧 헷 사람과 아모리 사람과 가나안 사람과 브리스 사람과 히위 사람과 여부스 사람이 이 소식을 들었어요."
+        },
+        {
+          "verse": 2,
+          "original": "they gathered themselves together to fight with Joshua and with Israel, with one accord.",
+          "korean": "그들은 한마음으로 모여서 여호수아와 이스라엘과 싸우기로 했어요."
+        },
+        {
+          "verse": 3,
+          "original": "But when the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai,",
+          "korean": "그러나 기브온 주민들은 여호수아가 여리고와 아이에 한 일을 듣고,"
+        },
+        {
+          "verse": 4,
+          "original": "they also resorted to a ruse, and went and made as if they had been ambassadors, and took old sacks on their donkeys, and old, torn-up and bound up wine skins,",
+          "korean": "그들도 꾀를 내어 사신인 것처럼 꾸몄어요. 나귀에 낡은 자루를 싣고, 찢어지고 기운 낡은 포도주 가죽 부대를 가지고 갔어요."
+        },
+        {
+          "verse": 5,
+          "original": "and old and patched sandals on their feet, and wore old garments. All the bread of their food supply was dry and moldy.",
+          "korean": "발에는 낡고 기운 신발을 신고, 낡은 옷을 입었어요. 그들의 양식인 빵은 모두 마르고 곰팡이가 났어요."
+        },
+        {
+          "verse": 6,
+          "original": "They went to Joshua at the camp at Gilgal, and said to him and to the men of Israel, \"We have come from a far country. Now therefore make a covenant with us.\"",
+          "korean": "그들이 길갈 진영에 있는 여호수아에게 가서 그와 이스라엘 사람들에게 말했어요. \"우리는 먼 나라에서 왔어요. 이제 우리와 언약을 맺어 주세요.\""
+        },
+        {
+          "verse": 7,
+          "original": "The men of Israel said to the Hivites, \"What if you live among us? How could we make a covenant with you?\"",
+          "korean": "이스라엘 사람들이 히위 사람들에게 말했어요. \"너희가 우리 가운데 살고 있으면 어쩌느냐? 어떻게 너희와 언약을 맺겠느냐?\""
+        },
+        {
+          "verse": 8,
+          "original": "They said to Joshua, \"We are your servants.\" Joshua said to them, \"Who are you? Where do you come from?\"",
+          "korean": "그들이 여호수아에게 말했어요. \"우리는 당신의 종들이에요.\" 여호수아가 그들에게 물었어요. \"너희는 누구냐? 어디서 왔느냐?\""
+        },
+        {
+          "verse": 9,
+          "original": "They said to him, \"Your servants have come from a very far country because of the name of Yahweh your God; for we have heard of his fame, all that he did in Egypt,",
+          "korean": "그들이 그에게 말했어요. \"당신의 종들은 당신의 하나님 여호와의 이름 때문에 아주 먼 나라에서 왔어요. 우리는 그분의 명성을 들었어요. 그분이 이집트에서 하신 모든 일과,"
+        },
+        {
+          "verse": 10,
+          "original": "and all that he did to the two kings of the Amorites who were beyond the Jordan, to Sihon king of Heshbon and to Og king of Bashan, who was at Ashtaroth.",
+          "korean": "요단강 저쪽에 있던 아모리 두 왕, 헤스본 왕 시혼과 아스다롯에 있던 바산 왕 옥에게 하신 모든 일을 들었어요."
+        },
+        {
+          "verse": 11,
+          "original": "Our elders and all the inhabitants of our country spoke to us, saying, 'Take supplies in your hand for the journey, and go to meet them. Tell them, \"We are your servants. Now make a covenant with us.\"'",
+          "korean": "그래서 우리 장로들과 우리 나라의 모든 주민이 우리에게 말했어요. '여행을 위한 양식을 손에 가지고 가서 그들을 만나라. 그리고 말해라. \"우리는 당신들의 종이에요. 이제 우리와 언약을 맺어 주세요.\"'"
+        },
+        {
+          "verse": 12,
+          "original": "This our bread we took hot for our supplies out of our houses on the day we went out to go to you; but now, behold, it is dry, and has become moldy.",
+          "korean": "이 빵은 우리가 당신들에게 오려고 떠나던 날 집에서 양식으로 가지고 나올 때는 따뜻했어요. 그런데 보세요, 지금은 마르고 곰팡이가 났어요."
+        },
+        {
+          "verse": 13,
+          "original": "These wine skins, which we filled, were new; and behold, they are torn. These our garments and our sandals have become old because of the very long journey.\"",
+          "korean": "이 포도주 가죽 부대는 채울 때는 새것이었어요. 그런데 보세요, 찢어졌어요. 우리 옷과 신발도 아주 긴 여행 때문에 낡았어요.\""
+        },
+        {
+          "verse": 14,
+          "original": "The men sampled their provisions, and didn't ask counsel from Yahweh's mouth.",
+          "korean": "이스라엘 사람들은 그들의 양식을 살펴보았지만, 여호와께 물어보지는 않았어요."
+        },
+        {
+          "verse": 15,
+          "original": "Joshua made peace with them, and made a covenant with them, to let them live. The princes of the congregation swore to them.",
+          "korean": "여호수아가 그들과 화친하고, 그들을 살려 주기로 언약을 맺었어요. 회중의 족장들도 그들에게 맹세했어요."
+        },
+        {
+          "verse": 16,
+          "original": "At the end of three days after they had made a covenant with them, they heard that they were their neighbors, and that they lived among them.",
+          "korean": "그들과 언약을 맺은 지 사흘 후에, 그들이 이웃이고 자기들 가운데 살고 있다는 것을 들었어요."
+        },
+        {
+          "verse": 17,
+          "original": "The children of Israel traveled and came to their cities on the third day. Now their cities were Gibeon, Chephirah, Beeroth, and Kiriath Jearim.",
+          "korean": "이스라엘 백성이 출발하여 셋째 날에 그들의 성읍에 도착했어요. 그들의 성읍은 기브온, 그비라, 브에롯, 기럇여아림이었어요."
+        },
+        {
+          "verse": 18,
+          "original": "The children of Israel didn't strike them, because the princes of the congregation had sworn to them by Yahweh, the God of Israel. All the congregation murmured against the princes.",
+          "korean": "이스라엘 백성은 그들을 치지 않았어요. 회중의 족장들이 이스라엘의 하나님 여호와의 이름으로 그들에게 맹세했기 때문이에요. 온 회중이 족장들에게 원망했어요."
+        },
+        {
+          "verse": 19,
+          "original": "But all the princes said to all the congregation, \"We have sworn to them by Yahweh, the God of Israel. Now therefore we may not touch them.",
+          "korean": "그러나 모든 족장이 온 회중에게 말했어요. \"우리가 이스라엘의 하나님 여호와의 이름으로 그들에게 맹세했으니, 이제 우리는 그들을 건드릴 수 없다."
+        },
+        {
+          "verse": 20,
+          "original": "We will do this to them, and let them live; lest wrath be on us, because of the oath which we swore to them.\"",
+          "korean": "우리가 그들에게 이렇게 하여 살려 두자. 우리가 그들에게 한 맹세 때문에 진노가 우리에게 임하지 않도록 하자.\""
+        },
+        {
+          "verse": 21,
+          "original": "The princes said to them, \"Let them live.\" So they became wood cutters and drawers of water for all the congregation, as the princes had spoken to them.",
+          "korean": "족장들이 그들에게 말했어요. \"살려 두어라.\" 그래서 족장들이 말한 대로 그들은 온 회중을 위해 나무를 베고 물을 긷는 사람이 되었어요."
+        },
+        {
+          "verse": 22,
+          "original": "Joshua called for them, and he spoke to them, saying, \"Why have you deceived us, saying, 'We are very far from you,' when you live among us?",
+          "korean": "여호수아가 그들을 불러서 말했어요. \"너희가 우리 가운데 살면서 어찌하여 '우리는 너희에게서 아주 멀리 있다'고 말하여 우리를 속였느냐?"
+        },
+        {
+          "verse": 23,
+          "original": "Now therefore you are cursed, and some of you will never fail to be slaves, both wood cutters and drawers of water for the house of my God.\"",
+          "korean": "그러므로 이제 너희는 저주를 받았다. 너희 중에 종이 끊이지 않을 것이니, 내 하나님의 집을 위해 나무를 베고 물을 긷는 자가 될 것이다.\""
+        },
+        {
+          "verse": 24,
+          "original": "They answered Joshua, and said, \"Because your servants were certainly told how Yahweh your God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you. Therefore we were very afraid for our lives because of you, and have done this thing.",
+          "korean": "그들이 여호수아에게 대답했어요. \"당신의 종들은 당신의 하나님 여호와께서 그의 종 모세에게 명령하셔서 이 모든 땅을 당신들에게 주시고, 이 땅의 모든 주민을 당신들 앞에서 멸망시키라고 하신 것을 분명히 들었어요. 그래서 우리는 당신들 때문에 우리 목숨이 두려워서 이 일을 했어요."
+        },
+        {
+          "verse": 25,
+          "original": "Now, behold, we are in your hand. Do to us as it seems good and right to you to do.\"",
+          "korean": "이제 보세요, 우리는 당신 손에 있어요. 당신이 보기에 좋고 옳은 대로 우리에게 하세요.\""
+        },
+        {
+          "verse": 26,
+          "original": "He did so to them, and delivered them out of the hand of the children of Israel, so that they didn't kill them.",
+          "korean": "여호수아가 그들에게 그렇게 했어요. 그들을 이스라엘 백성의 손에서 건져서 죽이지 않게 했어요."
+        },
+        {
+          "verse": 27,
+          "original": "That day Joshua made them wood cutters and drawers of water for the congregation and for Yahweh's altar to this day, in the place which he should choose.",
+          "korean": "그 날 여호수아가 그들을 회중과 여호와의 제단을 위해 나무를 베고 물을 긷는 자로 삼았어요. 그것은 여호와께서 택하실 곳에서 오늘날까지 그러해요."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now when Adoni-Zedek king of Jerusalem heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them,",
+          "korean": "예루살렘 왕 아도니세덱이 여호수아가 아이를 점령하여 완전히 멸망시킨 것을 들었어요. 여리고와 그 왕에게 한 것처럼 아이와 그 왕에게도 했다는 것을, 또한 기브온 주민들이 이스라엘과 화친하여 그들 가운데 있다는 것을 들었어요."
+        },
+        {
+          "verse": 2,
+          "original": "they were very afraid, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all its men were mighty.",
+          "korean": "그들은 매우 두려워했어요. 기브온은 왕성 중 하나 같은 큰 성이었고, 아이보다 컸고, 그 모든 남자들은 용사였기 때문이에요."
+        },
+        {
+          "verse": 3,
+          "original": "Therefore Adoni-Zedek king of Jerusalem sent to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish, and Debir king of Eglon, saying,",
+          "korean": "그래서 예루살렘 왕 아도니세덱이 헤브론 왕 호함, 야르뭇 왕 비람, 라기스 왕 야비아, 에글론 왕 드빌에게 사람을 보내어 말했어요."
+        },
+        {
+          "verse": 4,
+          "original": "\"Come up to me and help me. Let's strike Gibeon; for they have made peace with Joshua and with the children of Israel.\"",
+          "korean": "\"내게로 올라와서 나를 도우라. 우리가 기브온을 치자. 그들이 여호수아와 이스라엘 백성과 화친했기 때문이다.\""
+        },
+        {
+          "verse": 5,
+          "original": "Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon, gathered themselves together and went up, they and all their armies, and encamped against Gibeon, and made war against it.",
+          "korean": "그래서 아모리 다섯 왕, 예루살렘 왕, 헤브론 왕, 야르뭇 왕, 라기스 왕, 에글론 왕이 모여서 그들의 모든 군대와 함께 올라가서 기브온을 대항하여 진을 치고 싸웠어요."
+        },
+        {
+          "verse": 6,
+          "original": "The men of Gibeon sent to Joshua at the camp at Gilgal, saying, \"Don't abandon your servants! Come up to us quickly and save us! Help us; for all the kings of the Amorites that dwell in the hill country have gathered together against us.\"",
+          "korean": "기브온 사람들이 길갈 진영에 있는 여호수아에게 사람을 보내어 말했어요. \"당신의 종들을 버리지 마세요! 빨리 우리에게 올라와서 우리를 구해 주세요! 도와주세요! 산지에 사는 아모리의 모든 왕이 우리를 대항하여 모였어요.\""
+        },
+        {
+          "verse": 7,
+          "original": "So Joshua went up from Gilgal, he, and the whole army with him, including all the mighty men of valor.",
+          "korean": "그래서 여호수아가 길갈에서 올라갔어요. 그와 그의 모든 군대, 모든 용사들이 함께했어요."
+        },
+        {
+          "verse": 8,
+          "original": "Yahweh said to Joshua, \"Don't fear them, for I have delivered them into your hands. Not a man of them will stand before you.\"",
+          "korean": "여호와께서 여호수아에게 말씀하셨어요. \"그들을 두려워하지 마라. 내가 그들을 네 손에 넘겨주었다. 그들 중 아무도 네 앞에 서지 못할 것이다.\""
+        },
+        {
+          "verse": 9,
+          "original": "Joshua therefore came to them suddenly. He marched from Gilgal all night.",
+          "korean": "그래서 여호수아가 갑자기 그들에게 갔어요. 밤새도록 길갈에서 행군했어요."
+        },
+        {
+          "verse": 10,
+          "original": "Yahweh confused them before Israel. He killed them with a great slaughter at Gibeon, and chased them by the way of the ascent of Beth Horon, and struck them to Azekah and to Makkedah.",
+          "korean": "여호와께서 이스라엘 앞에서 그들을 혼란에 빠뜨리셨어요. 기브온에서 크게 쳐서 죽이고, 벧호론 언덕길로 쫓아가서 아세가와 막게다까지 쳤어요."
+        },
+        {
+          "verse": 11,
+          "original": "As they fled from before Israel, while they were at the descent of Beth Horon, Yahweh hurled down great stones from the sky on them to Azekah, and they died. There were more who died from the hailstones than those whom the children of Israel killed with the sword.",
+          "korean": "그들이 이스라엘 앞에서 도망칠 때, 벧호론 내리막에서 여호와께서 하늘에서 그들에게 큰 돌덩이를 아세가까지 내려 보내셔서 죽게 하셨어요. 우박 돌에 죽은 자가 이스라엘 백성이 칼로 죽인 자보다 많았어요."
+        },
+        {
+          "verse": 12,
+          "original": "Then Joshua spoke to Yahweh in the day when Yahweh delivered up the Amorites before the children of Israel. He said in the sight of Israel, \"Sun, stand still on Gibeon! You, moon, stop in the valley of Aijalon!\"",
+          "korean": "그때 여호와께서 아모리 사람들을 이스라엘 백성 앞에 넘겨주시던 날, 여호수아가 여호와께 말씀드렸어요. 그가 이스라엘 앞에서 말했어요. \"해야, 기브온 위에 머물러라! 달아, 아얄론 골짜기에 멈추어라!\""
+        },
+        {
+          "verse": 13,
+          "original": "The sun stood still, and the moon stayed, until the nation had avenged themselves of their enemies. Isn't this written in the book of Jashar? The sun stayed in the middle of the sky, and didn't hurry to go down about a whole day.",
+          "korean": "해가 머물고 달이 멈추어서, 백성이 원수들에게 복수할 때까지 그랬어요. 이것이 야살의 책에 기록되어 있지 않아요? 해가 하늘 한가운데 머물러서 거의 하루 종일 지지 않았어요."
+        },
+        {
+          "verse": 14,
+          "original": "There was no day like that before it or after it, that Yahweh listened to the voice of a man; for Yahweh fought for Israel.",
+          "korean": "여호와께서 사람의 말을 들으신 그런 날은 그 전에도 그 후에도 없었어요. 여호와께서 이스라엘을 위해 싸우셨기 때문이에요."
+        },
+        {
+          "verse": 15,
+          "original": "Joshua returned, and all Israel with him, to the camp to Gilgal.",
+          "korean": "여호수아와 온 이스라엘이 길갈 진영으로 돌아갔어요."
+        },
+        {
+          "verse": 16,
+          "original": "These five kings fled, and hid themselves in the cave at Makkedah.",
+          "korean": "그 다섯 왕이 도망쳐서 막게다에 있는 굴에 숨었어요."
+        },
+        {
+          "verse": 17,
+          "original": "Joshua was told, saying, \"The five kings have been found, hidden in the cave at Makkedah.\"",
+          "korean": "여호수아에게 알려졌어요. \"다섯 왕이 막게다 굴에 숨어 있는 것을 발견했어요.\""
+        },
+        {
+          "verse": 18,
+          "original": "Joshua said, \"Roll large stones to cover the cave's entrance, and set men by it to guard them;",
+          "korean": "여호수아가 말했어요. \"큰 돌들을 굴러서 굴 입구를 막고, 거기에 사람들을 두어 지키게 하여라."
+        },
+        {
+          "verse": 19,
+          "original": "but don't stay there. Pursue your enemies, and attack them from the rear. Don't allow them to enter into their cities; for Yahweh your God has delivered them into your hand.\"",
+          "korean": "그러나 거기 머물지 말고 원수들을 쫓아가서 뒤에서 치라. 그들이 그들의 성읍으로 들어가지 못하게 하여라. 너희 하나님 여호와께서 그들을 너희 손에 넘겨주셨다.\""
+        },
+        {
+          "verse": 20,
+          "original": "When Joshua and the children of Israel had finished killing them with a very great slaughter until they were consumed, and the remnant which remained of them had entered into the fortified cities,",
+          "korean": "여호수아와 이스라엘 백성이 그들을 크게 쳐서 다 없앨 때까지 죽이고, 남은 자들은 견고한 성읍으로 들어갔어요."
+        },
+        {
+          "verse": 21,
+          "original": "all the people returned to the camp to Joshua at Makkedah in peace. None moved his tongue against any of the children of Israel.",
+          "korean": "모든 백성이 평안히 막게다 진영에 있는 여호수아에게 돌아왔어요. 이스라엘 백성을 대항하여 혀를 놀리는 자가 없었어요."
+        },
+        {
+          "verse": 22,
+          "original": "Then Joshua said, \"Open the cave entrance, and bring those five kings out of the cave to me.\"",
+          "korean": "그때 여호수아가 말했어요. \"굴 입구를 열고, 그 다섯 왕을 굴에서 내게로 끌어내라.\""
+        },
+        {
+          "verse": 23,
+          "original": "They did so, and brought those five kings out of the cave to him: the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon.",
+          "korean": "그들이 그렇게 하여 그 다섯 왕을 굴에서 그에게 끌어냈어요. 예루살렘 왕, 헤브론 왕, 야르뭇 왕, 라기스 왕, 에글론 왕이었어요."
+        },
+        {
+          "verse": 24,
+          "original": "When they brought those kings out to Joshua, Joshua called for all the men of Israel, and said to the chiefs of the men of war who went with him, \"Come near. Put your feet on the necks of these kings.\" They came near, and put their feet on their necks.",
+          "korean": "그들이 그 왕들을 여호수아에게 끌어내자, 여호수아가 이스라엘 모든 사람을 부르고, 자기와 함께 갔던 군사 지휘관들에게 말했어요. \"가까이 와서 이 왕들의 목을 밟아라.\" 그들이 가까이 와서 그들의 목을 밟았어요."
+        },
+        {
+          "verse": 25,
+          "original": "Joshua said to them, \"Don't be afraid, nor be dismayed. Be strong and courageous, for Yahweh will do this to all your enemies against whom you fight.\"",
+          "korean": "여호수아가 그들에게 말했어요. \"두려워하지 말고, 낙심하지 마라. 강하고 담대하여라. 여호와께서 너희가 싸우는 모든 원수에게 이와 같이 하실 것이다.\""
+        },
+        {
+          "verse": 26,
+          "original": "Afterward Joshua struck them, put them to death, and hanged them on five trees. They were hanging on the trees until the evening.",
+          "korean": "그 후에 여호수아가 그들을 쳐서 죽이고, 다섯 나무에 매달았어요. 그들은 저녁까지 나무에 매달려 있었어요."
+        },
+        {
+          "verse": 27,
+          "original": "At the time of the going down of the sun, Joshua commanded, and they took them down off the trees, and threw them into the cave in which they had hidden themselves, and laid great stones on the mouth of the cave, which remain to this very day.",
+          "korean": "해가 질 때 여호수아가 명령하여 그들을 나무에서 내려서 그들이 숨었던 굴에 던지고, 굴 입구에 큰 돌들을 쌓게 했어요. 그 돌들은 바로 오늘날까지 남아 있어요."
+        },
+        {
+          "verse": 28,
+          "original": "Joshua took Makkedah on that day, and struck it with the edge of the sword, with its king. He utterly destroyed it and all the souls who were in it. He left no one remaining. He did to the king of Makkedah as he had done to the king of Jericho.",
+          "korean": "여호수아가 그 날 막게다를 점령하고 그 왕과 함께 칼로 쳤어요. 그것과 그 안에 있는 모든 생명을 완전히 멸망시켰어요. 남은 자가 없었어요. 막게다 왕에게 여리고 왕에게 한 것처럼 했어요."
+        },
+        {
+          "verse": 29,
+          "original": "Joshua passed from Makkedah, and all Israel with him, to Libnah, and fought against Libnah.",
+          "korean": "여호수아가 온 이스라엘과 함께 막게다에서 립나로 건너가서 립나와 싸웠어요."
+        },
+        {
+          "verse": 30,
+          "original": "Yahweh delivered it also, with its king, into the hand of Israel. He struck it with the edge of the sword, and all the souls who were in it. He left no one remaining in it. He did to its king as he had done to the king of Jericho.",
+          "korean": "여호와께서 그것과 그 왕도 이스라엘 손에 넘겨주셨어요. 그것과 그 안에 있는 모든 생명을 칼로 쳤어요. 그 안에 남은 자가 없었어요. 그 왕에게 여리고 왕에게 한 것처럼 했어요."
+        },
+        {
+          "verse": 31,
+          "original": "Joshua passed from Libnah, and all Israel with him, to Lachish, and encamped against it, and fought against it.",
+          "korean": "여호수아가 온 이스라엘과 함께 립나에서 라기스로 건너가서 그것을 대항하여 진을 치고 싸웠어요."
+        },
+        {
+          "verse": 32,
+          "original": "Yahweh delivered Lachish into the hand of Israel. He took it on the second day, and struck it with the edge of the sword, with all the souls who were in it, according to all that he had done to Libnah.",
+          "korean": "여호와께서 라기스를 이스라엘 손에 넘겨주셨어요. 둘째 날에 점령하고, 그 안에 있는 모든 생명을 칼로 쳤어요. 립나에 한 것처럼 다 했어요."
+        },
+        {
+          "verse": 33,
+          "original": "Then Horam king of Gezer came up to help Lachish; and Joshua struck him and his people, until he had left him no one remaining.",
+          "korean": "그때 게셀 왕 호람이 라기스를 도우러 올라왔어요. 여호수아가 그와 그의 백성을 쳐서 남은 자가 없게 했어요."
+        },
+        {
+          "verse": 34,
+          "original": "Joshua passed from Lachish, and all Israel with him, to Eglon; and they encamped against it and fought against it.",
+          "korean": "여호수아가 온 이스라엘과 함께 라기스에서 에글론으로 건너가서 그것을 대항하여 진을 치고 싸웠어요."
+        },
+        {
+          "verse": 35,
+          "original": "They took it on that day, and struck it with the edge of the sword. He utterly destroyed all the souls who were in it that day, according to all that he had done to Lachish.",
+          "korean": "그 날에 점령하고 칼로 쳤어요. 그 날 그 안에 있는 모든 생명을 완전히 멸망시켰어요. 라기스에 한 것처럼 다 했어요."
+        },
+        {
+          "verse": 36,
+          "original": "Joshua went up from Eglon, and all Israel with him, to Hebron; and they fought against it.",
+          "korean": "여호수아가 온 이스라엘과 함께 에글론에서 헤브론으로 올라가서 그것과 싸웠어요."
+        },
+        {
+          "verse": 37,
+          "original": "They took it, and struck it with the edge of the sword, with its king and all its cities, and all the souls who were in it. He left no one remaining, according to all that he had done to Eglon; but he utterly destroyed it, and all the souls who were in it.",
+          "korean": "점령하고 그것과 그 왕과 모든 성읍과 그 안에 있는 모든 생명을 칼로 쳤어요. 에글론에 한 것처럼 남은 자가 없었어요. 그것과 그 안에 있는 모든 생명을 완전히 멸망시켰어요."
+        },
+        {
+          "verse": 38,
+          "original": "Joshua returned, and all Israel with him, to Debir, and fought against it.",
+          "korean": "여호수아가 온 이스라엘과 함께 드빌로 돌아가서 그것과 싸웠어요."
+        },
+        {
+          "verse": 39,
+          "original": "He took it, with its king and all its cities. They struck them with the edge of the sword, and utterly destroyed all the souls who were in it. He left no one remaining. As he had done to Hebron, so he did to Debir, and to its king; as he had done also to Libnah, and to its king.",
+          "korean": "점령하고 그것과 그 왕과 모든 성읍을 칼로 쳐서 그 안에 있는 모든 생명을 완전히 멸망시켰어요. 남은 자가 없었어요. 헤브론에 한 것처럼, 립나와 그 왕에게 한 것처럼, 드빌과 그 왕에게도 그렇게 했어요."
+        },
+        {
+          "verse": 40,
+          "original": "So Joshua struck all the land, the hill country, the South, the lowland, the slopes, and all their kings. He left no one remaining, but he utterly destroyed all that breathed, as Yahweh, the God of Israel, commanded.",
+          "korean": "그래서 여호수아가 온 땅, 산지, 남쪽 지방, 평지, 비탈과 그 모든 왕을 쳤어요. 남은 자가 없었고, 숨 쉬는 것을 다 완전히 멸망시켰어요. 이스라엘의 하나님 여호와께서 명령하신 대로 했어요."
+        },
+        {
+          "verse": 41,
+          "original": "Joshua struck them from Kadesh Barnea even to Gaza, and all the country of Goshen, even to Gibeon.",
+          "korean": "여호수아가 가데스바네아에서 가사까지, 고센 온 땅에서 기브온까지 그들을 쳤어요."
+        },
+        {
+          "verse": 42,
+          "original": "Joshua took all these kings and their land at one time because Yahweh, the God of Israel, fought for Israel.",
+          "korean": "여호수아가 이 모든 왕과 그 땅을 한꺼번에 점령했어요. 이스라엘의 하나님 여호와께서 이스라엘을 위해 싸우셨기 때문이에요."
+        },
+        {
+          "verse": 43,
+          "original": "Joshua returned, and all Israel with him, to the camp to Gilgal.",
+          "korean": "여호수아가 온 이스라엘과 함께 길갈 진영으로 돌아갔어요."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "When Jabin king of Hazor heard of it, he sent to Jobab king of Madon, to the king of Shimron, to the king of Achshaph,",
+          "korean": "하솔 왕 야빈이 이 소식을 듣고, 마돈 왕 요밥, 시므론 왕, 악삽 왕에게 사람을 보냈어요."
+        },
+        {
+          "verse": 2,
+          "original": "and to the kings who were on the north, in the hill country, in the Arabah south of Chinneroth, in the lowland, and in the heights of Dor on the west,",
+          "korean": "북쪽 산지에 있는 왕들, 긴네롯 남쪽 아라바에 있는 왕들, 평지에 있는 왕들, 서쪽 돌 높은 곳에 있는 왕들에게도 보냈어요."
+        },
+        {
+          "verse": 3,
+          "original": "to the Canaanite on the east and on the west, the Amorite, the Hittite, the Perizzite, the Jebusite in the hill country, and the Hivite under Hermon in the land of Mizpah.",
+          "korean": "동쪽과 서쪽의 가나안 사람, 아모리 사람, 헷 사람, 브리스 사람, 산지의 여부스 사람, 미스바 땅 헤르몬 산 아래의 히위 사람에게도 보냈어요."
+        },
+        {
+          "verse": 4,
+          "original": "They went out, they and all their armies with them, many people, even as the sand that is on the seashore in multitude, with very many horses and chariots.",
+          "korean": "그들이 나왔어요. 그들과 그들의 모든 군대가 함께했는데, 바닷가의 모래처럼 수가 많았고, 말과 병거도 아주 많았어요."
+        },
+        {
+          "verse": 5,
+          "original": "All these kings met together; and they came and encamped together at the waters of Merom, to fight with Israel.",
+          "korean": "이 모든 왕이 함께 모여서 이스라엘과 싸우려고 메롬 물가에 함께 진을 쳤어요."
+        },
+        {
+          "verse": 6,
+          "original": "Yahweh said to Joshua, \"Don't be afraid because of them; for tomorrow at this time, I will deliver them up all slain before Israel. You shall hamstring their horses and burn their chariots with fire.\"",
+          "korean": "여호와께서 여호수아에게 말씀하셨어요. \"그들 때문에 두려워하지 마라. 내일 이 시간에 내가 그들을 이스라엘 앞에 죽임을 당한 자로 넘겨줄 것이다. 너는 그들의 말의 발목 힘줄을 끊고, 그들의 병거를 불로 태워라.\""
+        },
+        {
+          "verse": 7,
+          "original": "So Joshua came suddenly, with all the warriors, against them by the waters of Merom, and attacked them.",
+          "korean": "그래서 여호수아가 모든 군사와 함께 갑자기 메롬 물가에서 그들을 급습했어요."
+        },
+        {
+          "verse": 8,
+          "original": "Yahweh delivered them into the hand of Israel, and they struck them, and chased them to great Sidon, and to Misrephoth Maim, and to the valley of Mizpah eastward. They struck them until they left them no one remaining.",
+          "korean": "여호와께서 그들을 이스라엘 손에 넘겨주셨어요. 그들을 치고 큰 시돈과 미스르봇마임과 동쪽 미스바 골짜기까지 쫓아갔어요. 남은 자가 없도록 그들을 쳤어요."
+        },
+        {
+          "verse": 9,
+          "original": "Joshua did to them as Yahweh told him. He hamstrung their horses and burned their chariots with fire.",
+          "korean": "여호수아가 여호와께서 말씀하신 대로 그들에게 했어요. 그들의 말의 발목 힘줄을 끊고, 그들의 병거를 불로 태웠어요."
+        },
+        {
+          "verse": 10,
+          "original": "Joshua turned back at that time, and took Hazor, and struck its king with the sword: for Hazor used to be the head of all those kingdoms.",
+          "korean": "그때 여호수아가 돌이켜서 하솔을 점령하고 그 왕을 칼로 쳤어요. 하솔은 예전에 이 모든 나라의 우두머리였어요."
+        },
+        {
+          "verse": 11,
+          "original": "They struck all the souls who were in it with the edge of the sword, utterly destroying them. There was no one left who breathed. He burned Hazor with fire.",
+          "korean": "그 안에 있는 모든 생명을 칼로 쳐서 완전히 멸망시켰어요. 숨 쉬는 것이 하나도 남지 않았어요. 하솔을 불로 태웠어요."
+        },
+        {
+          "verse": 12,
+          "original": "Joshua captured all the cities of those kings, with their kings, and he struck them with the edge of the sword, and utterly destroyed them; as Moses the servant of Yahweh commanded.",
+          "korean": "여호수아가 그 왕들의 모든 성읍과 그 왕들을 점령하고, 칼로 쳐서 완전히 멸망시켰어요. 여호와의 종 모세가 명령한 대로 했어요."
+        },
+        {
+          "verse": 13,
+          "original": "But as for the cities that stood on their mounds, Israel burned none of them, except Hazor only. Joshua burned that.",
+          "korean": "그러나 언덕 위에 세워진 성읍들은 이스라엘이 불태우지 않았어요. 오직 하솔만 여호수아가 불태웠어요."
+        },
+        {
+          "verse": 14,
+          "original": "The children of Israel took all the plunder of these cities, with the livestock, as plunder for themselves; but every man they struck with the edge of the sword, until they had destroyed them. They didn't leave any who breathed.",
+          "korean": "이스라엘 백성은 이 성읍들의 모든 전리품과 가축을 자기들의 전리품으로 가져갔어요. 그러나 모든 사람은 칼로 쳐서 멸망시켰어요. 숨 쉬는 것은 아무것도 남기지 않았어요."
+        },
+        {
+          "verse": 15,
+          "original": "As Yahweh commanded Moses his servant, so Moses commanded Joshua. Joshua did so. He left nothing undone of all that Yahweh commanded Moses.",
+          "korean": "여호와께서 그의 종 모세에게 명령하신 대로, 모세가 여호수아에게 명령했어요. 여호수아가 그렇게 했어요. 여호와께서 모세에게 명령하신 것 중에 하나도 빠뜨리지 않고 다 했어요."
+        },
+        {
+          "verse": 16,
+          "original": "So Joshua captured all that land, the hill country, all the South, all the land of Goshen, the lowland, the Arabah, the hill country of Israel, and the lowland of the same;",
+          "korean": "그래서 여호수아가 그 온 땅을 점령했어요. 산지, 온 남쪽 지방, 고센 온 땅, 평지, 아라바, 이스라엘 산지와 그 평지였어요."
+        },
+        {
+          "verse": 17,
+          "original": "from Mount Halak, that goes up to Seir, even to Baal Gad in the valley of Lebanon under Mount Hermon. He took all their kings, struck them, and put them to death.",
+          "korean": "세일로 올라가는 할락 산에서부터 헤르몬 산 아래 레바논 골짜기의 바알갓까지였어요. 그 모든 왕을 사로잡아 쳐서 죽였어요."
+        },
+        {
+          "verse": 18,
+          "original": "Joshua made war a long time with all those kings.",
+          "korean": "여호수아가 그 모든 왕과 오랫동안 싸웠어요."
+        },
+        {
+          "verse": 19,
+          "original": "There was not a city that made peace with the children of Israel, except the Hivites, the inhabitants of Gibeon. They took all in battle.",
+          "korean": "이스라엘 백성과 화친한 성읍은 기브온에 사는 히위 사람 외에는 없었어요. 그들은 전투로 다 점령했어요."
+        },
+        {
+          "verse": 20,
+          "original": "For it was of Yahweh to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor, but that he might destroy them, as Yahweh commanded Moses.",
+          "korean": "여호와께서 그들의 마음을 완고하게 하셔서 이스라엘과 싸우러 나오게 하셨어요. 그것은 그들을 완전히 멸망시키기 위함이었어요. 그들이 은혜를 받지 못하고 멸망되게 하려고, 여호와께서 모세에게 명령하신 대로 하셨어요."
+        },
+        {
+          "verse": 21,
+          "original": "Joshua came at that time, and cut off the Anakim from the hill country, from Hebron, from Debir, from Anab, and from all the hill country of Judah, and from all the hill country of Israel: Joshua utterly destroyed them with their cities.",
+          "korean": "그때 여호수아가 와서 산지에서 아낙 사람들을 쳐 없앴어요. 헤브론에서, 드빌에서, 아납에서, 유다 온 산지에서, 이스라엘 온 산지에서 그랬어요. 여호수아가 그들을 그들의 성읍과 함께 완전히 멸망시켰어요."
+        },
+        {
+          "verse": 22,
+          "original": "There were none of the Anakim left in the land of the children of Israel. Only in Gaza, in Gath, and in Ashdod, did some remain.",
+          "korean": "이스라엘 백성의 땅에 아낙 사람이 남아 있지 않았어요. 오직 가사, 가드, 아스돗에만 얼마가 남아 있었어요."
+        },
+        {
+          "verse": 23,
+          "original": "So Joshua took the whole land, according to all that Yahweh spoke to Moses; and Joshua gave it for an inheritance to Israel according to their divisions by their tribes. Then the land had rest from war.",
+          "korean": "그래서 여호수아가 여호와께서 모세에게 말씀하신 대로 온 땅을 점령했어요. 여호수아가 그것을 지파별로 나누어 이스라엘에게 기업으로 주었어요. 그리고 땅이 전쟁에서 쉬었어요."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now these are the kings of the land, whom the children of Israel struck, and possessed their land beyond the Jordan toward the sunrise, from the valley of the Arnon to Mount Hermon, and all the Arabah eastward:",
+          "korean": "이스라엘 백성이 쳐서 그 땅을 차지한 왕들은 이러해요. 요단강 저쪽 동쪽으로, 아르논 골짜기에서 헤르몬 산까지, 그리고 동쪽 아라바 전체였어요."
+        },
+        {
+          "verse": 2,
+          "original": "Sihon king of the Amorites, who lived in Heshbon, and ruled from Aroer, which is on the edge of the valley of the Arnon, and the middle of the valley, and half Gilead, even to the river Jabbok, the border of the children of Ammon;",
+          "korean": "헤스본에 살던 아모리 사람의 왕 시혼이 있었어요. 그는 아르논 골짜기 가장자리에 있는 아로엘에서부터 골짜기 가운데와 길르앗 절반, 암몬 자손의 경계인 얍복 강까지 다스렸어요."
+        },
+        {
+          "verse": 3,
+          "original": "and the Arabah to the sea of Chinneroth, eastward, and to the sea of the Arabah, even the Salt Sea, eastward, the way to Beth Jeshimoth; and on the south, under the slopes of Pisgah:",
+          "korean": "또 아라바에서 동쪽으로 긴네롯 바다까지, 그리고 아라바 바다, 곧 소금 바다까지 동쪽으로 벧여시못 쪽 길과 남쪽으로 비스가 산 비탈 아래까지 다스렸어요."
+        },
+        {
+          "verse": 4,
+          "original": "and the border of Og king of Bashan, of the remnant of the Rephaim, who lived at Ashtaroth and at Edrei,",
+          "korean": "그리고 바산 왕 옥의 영토가 있었어요. 그는 르바 사람의 남은 자로서 아스다롯과 에드레이에 살았어요."
+        },
+        {
+          "verse": 5,
+          "original": "and ruled in Mount Hermon, and in Salecah, and in all Bashan, to the border of the Geshurites and the Maacathites, and half Gilead, the border of Sihon king of Heshbon.",
+          "korean": "그가 헤르몬 산과 살르가와 온 바산에서 그술 사람과 마아갓 사람의 경계까지, 그리고 길르앗 절반, 헤스본 왕 시혼의 경계까지 다스렸어요."
+        },
+        {
+          "verse": 6,
+          "original": "Moses the servant of Yahweh and the children of Israel struck them. Moses the servant of Yahweh gave it for a possession to the Reubenites, and the Gadites, and the half-tribe of Manasseh.",
+          "korean": "여호와의 종 모세와 이스라엘 백성이 그들을 쳤어요. 여호와의 종 모세가 그 땅을 르우벤 사람과 갓 사람과 므낫세 반 지파에게 기업으로 주었어요."
+        },
+        {
+          "verse": 7,
+          "original": "These are the kings of the land whom Joshua and the children of Israel struck beyond the Jordan westward, from Baal Gad in the valley of Lebanon even to Mount Halak, that goes up to Seir. Joshua gave it to the tribes of Israel for a possession according to their divisions;",
+          "korean": "여호수아와 이스라엘 백성이 요단강 저쪽 서쪽에서 친 왕들은 이러해요. 레바논 골짜기의 바알갓에서부터 세일로 올라가는 할락 산까지였어요. 여호수아가 그 땅을 이스라엘 지파들에게 그들의 구분에 따라 기업으로 주었어요."
+        },
+        {
+          "verse": 8,
+          "original": "in the hill country, and in the lowland, and in the Arabah, and in the slopes, and in the wilderness, and in the South; the Hittite, the Amorite, and the Canaanite, the Perizzite, the Hivite, and the Jebusite:",
+          "korean": "산지와 평지와 아라바와 비탈과 광야와 남쪽 지방이었어요. 헷 사람, 아모리 사람, 가나안 사람, 브리스 사람, 히위 사람, 여부스 사람이 있었어요."
+        },
+        {
+          "verse": 9,
+          "original": "the king of Jericho, one; the king of Ai, which is beside Bethel, one;",
+          "korean": "여리고 왕, 하나. 벧엘 곁에 있는 아이 왕, 하나."
+        },
+        {
+          "verse": 10,
+          "original": "the king of Jerusalem, one; the king of Hebron, one;",
+          "korean": "예루살렘 왕, 하나. 헤브론 왕, 하나."
+        },
+        {
+          "verse": 11,
+          "original": "the king of Jarmuth, one; the king of Lachish, one;",
+          "korean": "야르뭇 왕, 하나. 라기스 왕, 하나."
+        },
+        {
+          "verse": 12,
+          "original": "the king of Eglon, one; the king of Gezer, one;",
+          "korean": "에글론 왕, 하나. 게셀 왕, 하나."
+        },
+        {
+          "verse": 13,
+          "original": "the king of Debir, one; the king of Geder, one;",
+          "korean": "드빌 왕, 하나. 게델 왕, 하나."
+        },
+        {
+          "verse": 14,
+          "original": "the king of Hormah, one; the king of Arad, one;",
+          "korean": "호르마 왕, 하나. 아랏 왕, 하나."
+        },
+        {
+          "verse": 15,
+          "original": "the king of Libnah, one; the king of Adullam, one;",
+          "korean": "립나 왕, 하나. 아둘람 왕, 하나."
+        },
+        {
+          "verse": 16,
+          "original": "the king of Makkedah, one; the king of Bethel, one;",
+          "korean": "막게다 왕, 하나. 벧엘 왕, 하나."
+        },
+        {
+          "verse": 17,
+          "original": "the king of Tappuah, one; the king of Hepher, one;",
+          "korean": "답부아 왕, 하나. 헤벨 왕, 하나."
+        },
+        {
+          "verse": 18,
+          "original": "the king of Aphek, one; the king of Lassharon, one;",
+          "korean": "아벡 왕, 하나. 랏사론 왕, 하나."
+        },
+        {
+          "verse": 19,
+          "original": "the king of Madon, one; the king of Hazor, one;",
+          "korean": "마돈 왕, 하나. 하솔 왕, 하나."
+        },
+        {
+          "verse": 20,
+          "original": "the king of Shimron Meron, one; the king of Achshaph, one;",
+          "korean": "시므론므론 왕, 하나. 악삽 왕, 하나."
+        },
+        {
+          "verse": 21,
+          "original": "the king of Taanach, one; the king of Megiddo, one;",
+          "korean": "다아낙 왕, 하나. 므깃도 왕, 하나."
+        },
+        {
+          "verse": 22,
+          "original": "the king of Kedesh, one; the king of Jokneam in Carmel, one;",
+          "korean": "게데스 왕, 하나. 갈멜에 있는 욕느암 왕, 하나."
+        },
+        {
+          "verse": 23,
+          "original": "the king of Dor in the height of Dor, one; the king of Goiim in Gilgal, one;",
+          "korean": "돌 높은 곳에 있는 돌 왕, 하나. 길갈에 있는 고임 왕, 하나."
+        },
+        {
+          "verse": 24,
+          "original": "the king of Tirzah, one: all the kings thirty-one.",
+          "korean": "디르사 왕, 하나. 왕이 모두 서른한 명이었어요."
+        }
+      ]
+    }
+  ]
+}
