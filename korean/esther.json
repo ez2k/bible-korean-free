@@ -1,0 +1,121 @@
+{
+  "book": "Esther",
+  "bookKorean": "에스더",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now in the days of Ahasuerus (this is Ahasuerus who reigned from India even to Ethiopia, over one hundred twenty-seven provinces),",
+          "korean": "아하수에로 왕 때의 이야기예요. 아하수에로는 인도에서 에티오피아까지 백이십칠 개 지역을 다스리는 왕이었어요."
+        },
+        {
+          "verse": 2,
+          "original": "in those days, when the King Ahasuerus sat on the throne of his kingdom, which was in Susa the palace,",
+          "korean": "그때 아하수에로 왕은 수산 왕궁에서 왕위에 앉아 나라를 다스리고 있었어요."
+        },
+        {
+          "verse": 3,
+          "original": "in the third year of his reign, he made a feast for all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, being before him.",
+          "korean": "왕이 된 지 삼 년째 되던 해에 왕은 모든 신하들을 위해 큰 잔치를 열었어요. 페르시아와 메디아의 군대 지휘관들과 각 지역의 귀족들과 관리들이 왕 앞에 모였어요."
+        },
+        {
+          "verse": 4,
+          "original": "He displayed the riches of his glorious kingdom and the honor of his excellent majesty many days, even one hundred eighty days.",
+          "korean": "왕은 자기 나라의 부유함과 자신의 위대함을 백팔십 일 동안이나 보여주었어요."
+        },
+        {
+          "verse": 5,
+          "original": "When these days were fulfilled, the king made a seven day feast for all the people who were present in Susa the palace, both great and small, in the court of the garden of the king's palace.",
+          "korean": "이 기간이 끝나자 왕은 수산 성에 있는 모든 사람들을 위해 왕궁 정원 뜰에서 칠 일 동안 또 잔치를 베풀었어요. 높은 사람이든 낮은 사람이든 모두 초대했어요."
+        },
+        {
+          "verse": 6,
+          "original": "There were hangings of white and blue material, fastened with cords of fine linen and purple to silver rings and marble pillars. The couches were of gold and silver, on a pavement of red, white, yellow, and black marble.",
+          "korean": "하얀색과 파란색 천이 고운 삼베와 자주색 끈으로 은 고리와 대리석 기둥에 매달려 있었어요. 금과 은으로 만든 의자들이 빨간색, 흰색, 노란색, 검은색 대리석 바닥 위에 놓여 있었어요."
+        },
+        {
+          "verse": 7,
+          "original": "They gave them drinks in golden vessels of various kinds, including royal wine in abundance, according to the bounty of the king.",
+          "korean": "음료는 여러 가지 모양의 금잔에 담겨 나왔어요. 왕의 넉넉한 마음처럼 왕실 포도주가 풍성하게 나왔어요."
+        },
+        {
+          "verse": 8,
+          "original": "In accordance with the law, the drinking was not compulsory; for so the king had instructed all the officials of his house, that they should do according to every man's pleasure.",
+          "korean": "마시는 것은 억지로 시키지 않았어요. 왕이 모든 신하들에게 각자 원하는 대로 하게 하라고 명령했기 때문이에요."
+        },
+        {
+          "verse": 9,
+          "original": "Also Vashti the queen made a feast for the women in the royal house which belonged to King Ahasuerus.",
+          "korean": "와스디 왕비도 아하수에로 왕의 궁전에서 여자들을 위한 잔치를 열었어요."
+        },
+        {
+          "verse": 10,
+          "original": "On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcass, the seven eunuchs who served in the presence of Ahasuerus the king,",
+          "korean": "잔치 일곱째 날, 왕이 포도주를 마시고 기분이 좋아졌을 때 왕을 가까이서 모시는 일곱 명의 내시들, 곧 므후만, 비스다, 하르보나, 빅다, 아박다, 세달, 가르가스를 불렀어요."
+        },
+        {
+          "verse": 11,
+          "original": "to bring Vashti the queen before the king with the royal crown, to show the people and the princes her beauty; for she was beautiful.",
+          "korean": "왕은 그들에게 와스디 왕비에게 왕관을 씌워서 데려오라고 명령했어요. 왕비가 아주 아름다웠기 때문에 백성들과 신하들에게 그 아름다움을 보여주고 싶었던 거예요."
+        },
+        {
+          "verse": 12,
+          "original": "But the queen Vashti refused to come at the king's commandment by the eunuchs. Therefore the king was very angry, and his anger burned in him.",
+          "korean": "그런데 와스디 왕비가 내시들이 전한 왕의 명령을 거절했어요. 왕은 몹시 화가 나서 속이 부글부글 끓었어요."
+        },
+        {
+          "verse": 13,
+          "original": "Then the king said to the wise men, who knew the times (for it was the king's custom to consult those who knew law and judgment;",
+          "korean": "그래서 왕은 법과 판결을 잘 아는 지혜로운 사람들에게 물었어요. 왕은 늘 그런 사람들과 상의하곤 했거든요."
+        },
+        {
+          "verse": 14,
+          "original": "and the next to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who saw the king's face, and sat first in the kingdom),",
+          "korean": "왕 곁에는 가르스나, 세달, 아드마다, 다시스, 메레스, 마르스나, 므무간이 있었어요. 이 일곱 명은 페르시아와 메디아의 신하들로, 왕을 직접 만날 수 있고 나라에서 가장 높은 자리에 앉는 사람들이었어요."
+        },
+        {
+          "verse": 15,
+          "original": "\"What shall we do to the queen Vashti according to law, because she has not done the bidding of the King Ahasuerus by the eunuchs?\"",
+          "korean": "왕이 물었어요. \"와스디 왕비가 내시들을 통해 전한 내 명령을 따르지 않았는데, 법에 따르면 어떻게 해야 하오?\""
+        },
+        {
+          "verse": 16,
+          "original": "Memucan answered before the king and the princes, \"Vashti the queen has not done wrong to just the king, but also to all the princes, and to all the people who are in all the provinces of the King Ahasuerus.",
+          "korean": "므무간이 왕과 신하들 앞에서 대답했어요. \"와스디 왕비는 왕에게만 잘못한 게 아닙니다. 모든 신하들과 왕의 모든 지역에 사는 모든 백성에게도 잘못한 것입니다."
+        },
+        {
+          "verse": 17,
+          "original": "For this deed of the queen will become known to all women, causing them to show contempt for their husbands, when it is reported, 'King Ahasuerus commanded Vashti the queen to be brought in before him, but she didn't come.'",
+          "korean": "왕비가 한 일이 모든 여자들에게 알려지면 그들도 남편을 무시하게 될 것입니다. '아하수에로 왕이 와스디 왕비를 불렀는데 오지 않았대'라고 소문이 퍼질 것입니다."
+        },
+        {
+          "verse": 18,
+          "original": "Today, the princesses of Persia and Media who have heard of the queen's deed will tell all the king's princes. This will cause much contempt and wrath.",
+          "korean": "오늘 페르시아와 메디아의 귀부인들도 왕비가 한 일을 듣게 될 것입니다. 그들도 왕의 신하들에게 똑같이 하면 무시와 다툼이 많아질 것입니다."
+        },
+        {
+          "verse": 19,
+          "original": "\"If it pleases the king, let a royal commandment go from him, and let it be written among the laws of the Persians and the Medes, so that it cannot be altered, that Vashti may never again come before King Ahasuerus; and let the king give her royal estate to another who is better than she.",
+          "korean": "왕께서 좋다고 하시면 왕의 명령을 내리셔서 페르시아와 메디아의 법에 기록하세요. 그래서 바꿀 수 없게 하세요. 와스디가 다시는 왕 앞에 나타나지 못하게 하시고, 왕비 자리를 그보다 더 나은 사람에게 주세요."
+        },
+        {
+          "verse": 20,
+          "original": "When the king's decree which he shall make is published throughout all his kingdom (for it is great), all the wives will give their husbands honor, both great and small.\"",
+          "korean": "왕께서 내리신 명령이 이 큰 나라 전체에 알려지면, 모든 아내들이 높은 사람이든 낮은 사람이든 남편을 존중하게 될 것입니다.\""
+        },
+        {
+          "verse": 21,
+          "original": "This advice pleased the king and the princes, and the king did according to the word of Memucan:",
+          "korean": "이 말이 왕과 신하들의 마음에 들었어요. 그래서 왕은 므무간이 말한 대로 했어요."
+        },
+        {
+          "verse": 22,
+          "original": "for he sent letters into all the king's provinces, into every province according to its writing, and to every people in their language, that every man should rule his own house, speaking in the language of his own people.",
+          "korean": "왕은 모든 지역에 편지를 보냈어요. 각 지역의 글자와 각 민족의 언어로 써서 보냈어요. 모든 남자가 자기 집안의 주인이 되어야 한다는 내용이었어요."
+        }
+      ]
+    }
+  ]
+}
