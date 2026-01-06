@@ -236,6 +236,86 @@
           "korean": "이 일을 조사해 보니 사실이었어요. 그래서 두 사람은 나무에 달려 죽임을 당했어요. 이 일은 왕 앞에서 역사책에 기록되었어요."
         }
       ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "After these things King Ahasuerus promoted Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes who were with him.",
+          "korean": "이런 일들이 있은 후에 아하수에로 왕은 아각 사람 함므다다의 아들 하만을 높여 주었어요. 왕은 하만을 다른 모든 신하들보다 높은 자리에 앉게 했어요."
+        },
+        {
+          "verse": 2,
+          "original": "All the king's servants who were in the king's gate bowed down, and paid homage to Haman; for the king had so commanded concerning him. But Mordecai didn't bow down or pay him homage.",
+          "korean": "왕궁 문에 있는 모든 왕의 신하들은 하만에게 무릎을 꿇고 절했어요. 왕이 그렇게 하라고 명령했기 때문이에요. 하지만 모르드개는 무릎도 꿇지 않고 절도 하지 않았어요."
+        },
+        {
+          "verse": 3,
+          "original": "Then the king's servants, who were in the king's gate, said to Mordecai, \"Why do you disobey the king's commandment?\"",
+          "korean": "왕궁 문에 있는 왕의 신하들이 모르드개에게 물었어요. \"왜 왕의 명령을 따르지 않습니까?\""
+        },
+        {
+          "verse": 4,
+          "original": "Now it came to pass, when they spoke daily to him, and he didn't listen to them, that they told Haman, to see whether Mordecai's reason would stand; for he had told them that he was a Jew.",
+          "korean": "그들이 날마다 모르드개에게 말했지만 그는 듣지 않았어요. 그래서 그들은 이 일을 하만에게 말했어요. 모르드개가 자기는 유다 사람이라고 말했기 때문에 그 이유가 통할지 보려고 했어요."
+        },
+        {
+          "verse": 5,
+          "original": "When Haman saw that Mordecai didn't bow down, nor pay him homage, Haman was full of wrath.",
+          "korean": "하만은 모르드개가 무릎을 꿇지 않고 절하지 않는 것을 보고 몹시 화가 났어요."
+        },
+        {
+          "verse": 6,
+          "original": "But he scorned the thought of laying hands on Mordecai alone, for they had made known to him Mordecai's people. Therefore Haman sought to destroy all the Jews who were throughout the whole kingdom of Ahasuerus, even Mordecai's people.",
+          "korean": "하지만 하만은 모르드개만 해치는 것은 너무 적다고 생각했어요. 모르드개가 유다 사람이라는 것을 알았기 때문에, 하만은 아하수에로 왕의 온 나라에 있는 모든 유다 사람들, 곧 모르드개의 민족을 없애버리려고 했어요."
+        },
+        {
+          "verse": 7,
+          "original": "In the first month, which is the month Nisan, in the twelfth year of King Ahasuerus, they cast Pur, that is, the lot, before Haman from day to day, and from month to month, and chose the twelfth month, which is the month Adar.",
+          "korean": "아하수에로 왕 십이 년 첫째 달, 곧 니산월에 하만 앞에서 날마다 달마다 제비를 뽑았어요. '부르'라는 제비를 뽑아서 열두째 달, 곧 아달월이 뽑혔어요."
+        },
+        {
+          "verse": 8,
+          "original": "Haman said to King Ahasuerus, \"There is a certain people scattered abroad and dispersed among the peoples in all the provinces of your kingdom, and their laws are different from other people's. They don't keep the king's laws. Therefore it is not for the king's profit to allow them to remain.",
+          "korean": "하만이 아하수에로 왕에게 말했어요. \"왕의 모든 지역에 흩어져 사는 어떤 민족이 있습니다. 그들의 법은 다른 민족들의 법과 다릅니다. 그들은 왕의 법을 따르지 않습니다. 그들을 그냥 두는 것은 왕에게 좋지 않습니다."
+        },
+        {
+          "verse": 9,
+          "original": "If it pleases the king, let it be written that they be destroyed; and I will pay ten thousand talents of silver into the hands of those who are in charge of the king's business, to bring it into the king's treasuries.\"",
+          "korean": "왕께서 좋다고 하시면 그들을 죽이라고 명령을 내려 주세요. 그러면 제가 은 만 달란트를 왕의 일을 맡은 사람들에게 주어서 왕의 창고에 넣겠습니다.\""
+        },
+        {
+          "verse": 10,
+          "original": "The king took his ring from his hand, and gave it to Haman the son of Hammedatha the Agagite, the Jews' enemy.",
+          "korean": "왕은 손에서 반지를 빼서 유다 사람들의 원수인 아각 사람 함므다다의 아들 하만에게 주었어요."
+        },
+        {
+          "verse": 11,
+          "original": "The king said to Haman, \"The silver is given to you, the people also, to do with them as it seems good to you.\"",
+          "korean": "왕이 하만에게 말했어요. \"그 돈은 네가 가져도 되고, 그 백성도 네 마음대로 하여라.\""
+        },
+        {
+          "verse": 12,
+          "original": "Then the king's scribes were called in on the first month, on the thirteenth day of the month; and all that Haman commanded was written to the king's local governors, and to the governors who were over every province, and to the princes of every people, to every province according to its writing, and to every people in their language. It was written in the name of King Ahasuerus, and it was sealed with the king's ring.",
+          "korean": "첫째 달 십삼 일에 왕의 서기관들이 불려왔어요. 하만이 명령한 대로 모든 지역의 총독들과 각 민족의 지도자들에게 편지를 썼어요. 각 지역의 글자와 각 민족의 언어로 썼어요. 아하수에로 왕의 이름으로 쓰고 왕의 반지로 도장을 찍었어요."
+        },
+        {
+          "verse": 13,
+          "original": "Letters were sent by couriers into all the king's provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, even on the thirteenth day of the twelfth month, which is the month Adar, and to plunder their possessions.",
+          "korean": "전령들이 왕의 모든 지역에 편지를 가지고 갔어요. 열두째 달, 곧 아달월 십삼 일 하루 동안에 모든 유다 사람들을 죽이고 없애 버리라는 내용이었어요. 어린이든 노인이든, 여자든 아이든 모두 죽이고 그들의 재산을 빼앗으라고 했어요."
+        },
+        {
+          "verse": 14,
+          "original": "A copy of the letter, that the decree should be given out in every province, was published to all the peoples, that they should be ready against that day.",
+          "korean": "이 명령서의 사본이 모든 지역에 알려졌어요. 모든 백성들이 그날을 위해 준비하도록 했어요."
+        },
+        {
+          "verse": 15,
+          "original": "The couriers went out in haste by the king's commandment, and the decree was given out in the citadel of Susa. The king and Haman sat down to drink; but the city of Susa was perplexed.",
+          "korean": "전령들은 왕의 명령에 따라 급히 달려갔어요. 수산 성에서도 이 명령이 알려졌어요. 왕과 하만은 앉아서 술을 마셨지만, 수산 성 사람들은 어리둥절했어요."
+        }
+      ]
     }
   ]
 }
