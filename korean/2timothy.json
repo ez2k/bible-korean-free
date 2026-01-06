@@ -5,24 +5,231 @@
     {
       "chapter": 1,
       "verses": [
-        {"verse": 1, "original": "Paul, an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus,", "korean": "하나님의 뜻을 따라 그리스도 예수님 안에 있는 생명의 약속대로 예수 그리스도의 사도가 된 바울이,"},
-        {"verse": 2, "original": "to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.", "korean": "사랑하는 아들 디모데에게 편지해요. 아버지 하나님과 우리 주 그리스도 예수님에게서 은혜와 긍휼과 평안이 있기를 바라요."},
-        {"verse": 3, "original": "I thank God, whom I serve as my forefathers did, with a pure conscience. How unceasing is my memory of you in my petitions, night and day", "korean": "나는 조상들처럼 깨끗한 양심으로 섬기는 하나님께 감사해요. 밤낮으로 기도할 때 끊임없이 너를 기억해요."},
-        {"verse": 4, "original": "longing to see you, remembering your tears, that I may be filled with joy;", "korean": "네 눈물을 기억하며 너를 보기를 간절히 원해요. 그래서 기쁨으로 가득 차려고요."},
-        {"verse": 5, "original": "having been reminded of the sincere faith that is in you, which lived first in your grandmother Lois, and your mother Eunice, and, I am persuaded, in you also.", "korean": "네 안에 있는 거짓 없는 믿음을 기억해요. 그 믿음이 먼저 네 외할머니 로이스와 네 어머니 유니게 안에 있었어요. 나는 네 안에도 있다고 확신해요."},
-        {"verse": 6, "original": "For this cause, I remind you that you should stir up the gift of God which is in you through the laying on of my hands.", "korean": "그러므로 내가 안수할 때 네 안에 있는 하나님의 은사를 불붙이라고 상기시켜요."},
-        {"verse": 7, "original": "For God didn't give us a spirit of fear, but of power, love, and self-control.", "korean": "하나님께서 우리에게 두려움의 영을 주지 않으셨어요. 능력과 사랑과 절제의 영을 주셨어요."},
-        {"verse": 8, "original": "Therefore don't be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News according to the power of God,", "korean": "그러므로 우리 주님의 증언을 부끄러워하지 말아요. 그분의 죄수인 나도 부끄러워하지 말아요. 하나님의 능력을 따라 복음을 위해 고난을 받아요."},
-        {"verse": 9, "original": "who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal,", "korean": "하나님께서 우리를 구원하시고 거룩한 부르심으로 부르셨어요. 우리 행위대로가 아니라 그분의 뜻과 은혜대로예요. 영원 전에 그리스도 예수님 안에서 우리에게 주셨어요."},
-        {"verse": 10, "original": "but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News.", "korean": "이제 우리 구원자 그리스도 예수님이 나타나심으로 드러났어요. 그분이 죽음을 폐하시고 복음을 통해 생명과 썩지 않음을 드러내셨어요."},
-        {"verse": 11, "original": "For this I was appointed as a preacher, an apostle, and a teacher of the Gentiles.", "korean": "이것을 위해 내가 전도자와 사도와 이방인의 선생으로 세워졌어요."},
-        {"verse": 12, "original": "For this cause I also suffer these things. Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day.", "korean": "이 때문에 내가 이런 고난도 받아요. 그러나 부끄럽지 않아요. 내가 누구를 믿었는지 알아요. 그분이 내가 맡긴 것을 그 날까지 지키실 수 있다고 확신해요."},
-        {"verse": 13, "original": "Hold the pattern of sound words which you have heard from me, in faith and love which is in Christ Jesus.", "korean": "네가 내게서 들은 건전한 말씀의 본을 지켜요. 그리스도 예수님 안에 있는 믿음과 사랑으로요."},
-        {"verse": 14, "original": "That good thing which was committed to you, guard through the Holy Spirit who dwells in us.", "korean": "네게 맡겨진 좋은 것을 우리 안에 사시는 성령으로 지켜요."},
-        {"verse": 15, "original": "This you know, that all who are in Asia turned away from me, of whom are Phygelus and Hermogenes.", "korean": "아시아에 있는 모든 사람이 나를 버렸어요. 이것을 너도 알아요. 그 중에 부겔로와 허모게네가 있어요."},
-        {"verse": 16, "original": "May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me, and was not ashamed of my chain,", "korean": "주님께서 오네시보로의 집에 긍휼을 베푸시기를 바라요. 그가 나를 자주 위로해 주고 내 쇠사슬을 부끄러워하지 않았어요."},
-        {"verse": 17, "original": "but when he was in Rome, he sought me diligently and found me", "korean": "오히려 로마에 있을 때 열심히 나를 찾아서 만났어요."},
-        {"verse": 18, "original": "(the Lord grant to him to find the Lord's mercy in that day); and in how many things he served at Ephesus, you know very well.", "korean": "(주님께서 그 날에 그가 주님의 긍휼을 받게 해 주시기를 바라요.) 그가 에베소에서 얼마나 많이 섬겼는지 네가 잘 알아요."}
+        {
+          "verse": 1,
+          "original": "Paul, an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus,",
+          "korean": "하나님의 뜻을 따라 그리스도 예수님 안에 있는 생명의 약속대로 예수 그리스도의 사도가 된 바울이,"
+        },
+        {
+          "verse": 2,
+          "original": "to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.",
+          "korean": "사랑하는 아들 디모데에게 편지해요. 아버지 하나님과 우리 주 그리스도 예수님에게서 은혜와 긍휼과 평안이 있기를 바라요."
+        },
+        {
+          "verse": 3,
+          "original": "I thank God, whom I serve as my forefathers did, with a pure conscience. How unceasing is my memory of you in my petitions, night and day",
+          "korean": "나는 조상들처럼 깨끗한 양심으로 섬기는 하나님께 감사해요. 밤낮으로 기도할 때 끊임없이 너를 기억해요."
+        },
+        {
+          "verse": 4,
+          "original": "longing to see you, remembering your tears, that I may be filled with joy;",
+          "korean": "네 눈물을 기억하며 너를 보기를 간절히 원해요. 그래서 기쁨으로 가득 차려고요."
+        },
+        {
+          "verse": 5,
+          "original": "having been reminded of the sincere faith that is in you, which lived first in your grandmother Lois, and your mother Eunice, and, I am persuaded, in you also.",
+          "korean": "네 안에 있는 거짓 없는 믿음을 기억해요. 그 믿음이 먼저 네 외할머니 로이스와 네 어머니 유니게 안에 있었어요. 나는 네 안에도 있다고 확신해요."
+        },
+        {
+          "verse": 6,
+          "original": "For this cause, I remind you that you should stir up the gift of God which is in you through the laying on of my hands.",
+          "korean": "그러므로 내가 안수할 때 네 안에 있는 하나님의 은사를 불붙이라고 상기시켜요."
+        },
+        {
+          "verse": 7,
+          "original": "For God didn't give us a spirit of fear, but of power, love, and self-control.",
+          "korean": "하나님께서 우리에게 두려움의 영을 주지 않으셨어요. 능력과 사랑과 절제의 영을 주셨어요."
+        },
+        {
+          "verse": 8,
+          "original": "Therefore don't be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News according to the power of God,",
+          "korean": "그러므로 우리 주님의 증언을 부끄러워하지 말아요. 그분의 죄수인 나도 부끄러워하지 말아요. 하나님의 능력을 따라 복음을 위해 고난을 받아요."
+        },
+        {
+          "verse": 9,
+          "original": "who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal,",
+          "korean": "하나님께서 우리를 구원하시고 거룩한 부르심으로 부르셨어요. 우리 행위대로가 아니라 그분의 뜻과 은혜대로예요. 영원 전에 그리스도 예수님 안에서 우리에게 주셨어요."
+        },
+        {
+          "verse": 10,
+          "original": "but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News.",
+          "korean": "이제 우리 구원자 그리스도 예수님이 나타나심으로 드러났어요. 그분이 죽음을 폐하시고 복음을 통해 생명과 썩지 않음을 드러내셨어요."
+        },
+        {
+          "verse": 11,
+          "original": "For this I was appointed as a preacher, an apostle, and a teacher of the Gentiles.",
+          "korean": "이것을 위해 내가 전도자와 사도와 이방인의 선생으로 세워졌어요."
+        },
+        {
+          "verse": 12,
+          "original": "For this cause I also suffer these things. Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day.",
+          "korean": "이 때문에 내가 이런 고난도 받아요. 그러나 부끄럽지 않아요. 내가 누구를 믿었는지 알아요. 그분이 내가 맡긴 것을 그 날까지 지키실 수 있다고 확신해요."
+        },
+        {
+          "verse": 13,
+          "original": "Hold the pattern of sound words which you have heard from me, in faith and love which is in Christ Jesus.",
+          "korean": "네가 내게서 들은 건전한 말씀의 본을 지켜요. 그리스도 예수님 안에 있는 믿음과 사랑으로요."
+        },
+        {
+          "verse": 14,
+          "original": "That good thing which was committed to you, guard through the Holy Spirit who dwells in us.",
+          "korean": "네게 맡겨진 좋은 것을 우리 안에 사시는 성령으로 지켜요."
+        },
+        {
+          "verse": 15,
+          "original": "This you know, that all who are in Asia turned away from me, of whom are Phygelus and Hermogenes.",
+          "korean": "아시아에 있는 모든 사람이 나를 버렸어요. 이것을 너도 알아요. 그 중에 부겔로와 허모게네가 있어요."
+        },
+        {
+          "verse": 16,
+          "original": "May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me, and was not ashamed of my chain,",
+          "korean": "주님께서 오네시보로의 집에 긍휼을 베푸시기를 바라요. 그가 나를 자주 위로해 주고 내 쇠사슬을 부끄러워하지 않았어요."
+        },
+        {
+          "verse": 17,
+          "original": "but when he was in Rome, he sought me diligently and found me",
+          "korean": "오히려 로마에 있을 때 열심히 나를 찾아서 만났어요."
+        },
+        {
+          "verse": 18,
+          "original": "(the Lord grant to him to find the Lord's mercy in that day); and in how many things he served at Ephesus, you know very well.",
+          "korean": "(주님께서 그 날에 그가 주님의 긍휼을 받게 해 주시기를 바라요.) 그가 에베소에서 얼마나 많이 섬겼는지 네가 잘 알아요."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "You therefore, my child, be strengthened in the grace that is in Christ Jesus.",
+          "korean": "그러므로 내 아들아, 그리스도 예수님 안에 있는 은혜로 강해져요."
+        },
+        {
+          "verse": 2,
+          "original": "The things which you have heard from me among many witnesses, commit the same things to faithful men, who will be able to teach others also.",
+          "korean": "네가 많은 증인 앞에서 내게 들은 것을 신실한 사람들에게 맡겨요. 그들이 다른 사람들도 가르칠 수 있어요."
+        },
+        {
+          "verse": 3,
+          "original": "You therefore must endure hardship as a good soldier of Christ Jesus.",
+          "korean": "그러므로 그리스도 예수님의 좋은 군사로서 고난을 받아요."
+        },
+        {
+          "verse": 4,
+          "original": "No soldier on duty entangles himself in the affairs of life, that he may please him who enrolled him as a soldier.",
+          "korean": "군사로 복무하는 자는 생활의 일에 얽매이지 않아요. 자기를 군사로 뽑은 자를 기쁘게 하려고요."
+        },
+        {
+          "verse": 5,
+          "original": "Also, if anyone competes in athletics, he isn't crowned unless he has competed by the rules.",
+          "korean": "또한 경기하는 자가 규칙대로 경기하지 않으면 면류관을 받지 못해요."
+        },
+        {
+          "verse": 6,
+          "original": "The farmer who labors must be the first to get a share of the crops.",
+          "korean": "수고한 농부가 먼저 열매를 받아야 해요."
+        },
+        {
+          "verse": 7,
+          "original": "Consider what I say, and may the Lord give you understanding in all things.",
+          "korean": "내가 말하는 것을 생각해요. 주님께서 네게 모든 것을 깨닫게 해 주실 거예요."
+        },
+        {
+          "verse": 8,
+          "original": "Remember Jesus Christ, risen from the dead, of the offspring of David, according to my Good News,",
+          "korean": "내 복음대로 다윗의 자손으로서 죽은 자 가운데서 살아나신 예수 그리스도를 기억해요."
+        },
+        {
+          "verse": 9,
+          "original": "in which I suffer hardship to the point of chains as a criminal. But God's word isn't chained.",
+          "korean": "내가 그 복음 때문에 죄인처럼 쇠사슬에 매이기까지 고난받아요. 그러나 하나님의 말씀은 매이지 않아요."
+        },
+        {
+          "verse": 10,
+          "original": "Therefore I endure all things for the chosen ones' sake, that they also may obtain the salvation which is in Christ Jesus with eternal glory.",
+          "korean": "그러므로 택하신 자들을 위해 모든 것을 참아요. 그들도 영원한 영광과 함께 그리스도 예수님 안에 있는 구원을 얻게요."
+        },
+        {
+          "verse": 11,
+          "original": "This saying is trustworthy: \"For if we died with him, we will also live with him.",
+          "korean": "이 말은 믿을 만해요. '우리가 그분과 함께 죽으면 또한 그분과 함께 살 거예요."
+        },
+        {
+          "verse": 12,
+          "original": "If we endure, we will also reign with him. If we deny him, he also will deny us.",
+          "korean": "우리가 참으면 또한 그분과 함께 왕 노릇 할 거예요. 우리가 그분을 부인하면 그분도 우리를 부인하실 거예요."
+        },
+        {
+          "verse": 13,
+          "original": "If we are faithless, he remains faithful; for he can't deny himself.\"",
+          "korean": "우리가 신실하지 않아도 그분은 신실하세요. 그분은 자기를 부인할 수 없으세요.'"
+        },
+        {
+          "verse": 14,
+          "original": "Remind them of these things, charging them in the sight of the Lord, that they don't argue about words, to no profit, to the subverting of those who hear.",
+          "korean": "이것을 그들에게 상기시켜요. 주님 앞에서 명해요. 말다툼하지 말라고요. 유익이 없고 듣는 자들을 망하게 해요."
+        },
+        {
+          "verse": 15,
+          "original": "Give diligence to present yourself approved by God, a workman who doesn't need to be ashamed, properly handling the Word of Truth.",
+          "korean": "네 자신을 하나님 앞에 인정받은 자로 세우려고 힘써요. 부끄러울 것이 없는 일꾼으로, 진리의 말씀을 바르게 나누는 자로요."
+        },
+        {
+          "verse": 16,
+          "original": "But shun empty chatter, for it will go further in ungodliness,",
+          "korean": "그러나 속된 빈 말을 피해요. 그것이 더욱 경건하지 않음에 이르게 해요."
+        },
+        {
+          "verse": 17,
+          "original": "and those words will consume like gangrene, of whom is Hymenaeus and Philetus:",
+          "korean": "그 말이 독한 종기처럼 퍼져요. 그 중에 후메내오와 빌레도가 있어요."
+        },
+        {
+          "verse": 18,
+          "original": "men who have erred concerning the truth, saying that the resurrection is already past, and overthrowing the faith of some.",
+          "korean": "그들은 진리에서 벗어났어요. 부활이 이미 지났다고 말하며 어떤 사람들의 믿음을 무너뜨려요."
+        },
+        {
+          "verse": 19,
+          "original": "However God's firm foundation stands, having this seal, \"The Lord knows those who are his,\" and, \"Let every one who names the name of the Lord depart from unrighteousness.\"",
+          "korean": "그러나 하나님의 굳건한 기초가 서 있어요. 이 인이 찍혀 있어요. '주님은 자기 사람을 아신다.' 또 '주님의 이름을 부르는 자는 다 불의에서 떠나라.'"
+        },
+        {
+          "verse": 20,
+          "original": "Now in a large house there are not only vessels of gold and of silver, but also of wood and of clay. Some are for honor, and some for dishonor.",
+          "korean": "큰 집에는 금과 은 그릇만 있는 게 아니에요. 나무와 질그릇도 있어요. 어떤 것은 귀하게, 어떤 것은 천하게 쓰여요."
+        },
+        {
+          "verse": 21,
+          "original": "If anyone therefore purges himself from these, he will be a vessel for honor, sanctified, and suitable for the master's use, prepared for every good work.",
+          "korean": "그러므로 누구든지 이것들에서 자기를 깨끗하게 하면 귀히 쓰는 그릇이 돼요. 거룩하게 되고 주인이 쓰기에 합당하며 모든 선한 일에 예비되어요."
+        },
+        {
+          "verse": 22,
+          "original": "Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart.",
+          "korean": "젊은이의 정욕을 피해요. 깨끗한 마음으로 주님을 부르는 자들과 함께 의로움과 믿음과 사랑과 평안을 따라요."
+        },
+        {
+          "verse": 23,
+          "original": "But refuse foolish and ignorant questionings, knowing that they generate strife.",
+          "korean": "어리석고 무식한 질문은 거절해요. 그것이 다툼을 낳는 것을 알아요."
+        },
+        {
+          "verse": 24,
+          "original": "The Lord's servant must not quarrel, but be gentle toward all, able to teach, patient,",
+          "korean": "주님의 종은 다투지 않아야 해요. 모든 사람에게 부드럽고, 가르칠 수 있고, 참을성 있어야 해요."
+        },
+        {
+          "verse": 25,
+          "original": "in gentleness correcting those who oppose him: perhaps God may give them repentance leading to a full knowledge of the truth,",
+          "korean": "온유함으로 대적하는 자들을 바로잡아요. 혹시 하나님께서 그들에게 회개를 주셔서 진리를 온전히 알게 하실 수도 있어요."
+        },
+        {
+          "verse": 26,
+          "original": "and they may recover themselves out of the devil's snare, having been taken captive by him to his will.",
+          "korean": "그래서 그들이 마귀의 올무에서 깨어날 수 있어요. 그들이 마귀에게 사로잡혀 그의 뜻대로 되었어요."
+        }
       ]
     }
   ]
