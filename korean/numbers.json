@@ -2816,6 +2816,471 @@
           "korean": "그 산지에 사는 아말렉 사람과 가나안 사람이 내려와서 그들을 쳐서 호르마까지 쫓았어요."
         }
       ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Speak to the children of Israel, and tell them, 'When you have come into the land of your habitations, which I give to you,",
+          "korean": "\"이스라엘 자손에게 말해라: '너희가 내가 너희에게 주는 거주할 땅에 들어가서,"
+        },
+        {
+          "verse": 3,
+          "original": "and will make an offering by fire to Yahweh—a burnt offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasant aroma to Yahweh, of the herd, or of the flock—",
+          "korean": "화제를 여호와께 드리려고 하면, 번제든 희생제든 서원을 이루려고든 자원제로든 절기에든, 소나 양 중에서 여호와께 향기로운 냄새를 만들려고 하면,"
+        },
+        {
+          "verse": 4,
+          "original": "then he who offers his offering shall offer to Yahweh a meal offering of one tenth of an ephah of fine flour mixed with one fourth of a hin of oil.",
+          "korean": "예물을 드리는 자가 여호와께 소제로 기름 사분의 일 힌을 섞은 고운 가루 십분의 일 에바를 드려야 해요."
+        },
+        {
+          "verse": 5,
+          "original": "You shall prepare wine for the drink offering, one fourth of a hin, with the burnt offering or for the sacrifice, for each lamb.",
+          "korean": "전제로 포도주 사분의 일 힌을 번제나 희생제와 함께 어린 양 한 마리에 드려야 해요."
+        },
+        {
+          "verse": 6,
+          "original": "\"'Or for a ram, you shall prepare for a meal offering two tenths of an ephah of fine flour mixed with the third part of a hin of oil;",
+          "korean": "\"'숫양에는 소제로 기름 삼분의 일 힌을 섞은 고운 가루 십분의 이 에바를 드려야 해요."
+        },
+        {
+          "verse": 7,
+          "original": "and for the drink offering you shall offer the third part of a hin of wine, of a pleasant aroma to Yahweh.",
+          "korean": "전제로 포도주 삼분의 일 힌을 여호와께 향기로운 냄새로 드려야 해요."
+        },
+        {
+          "verse": 8,
+          "original": "When you prepare a bull for a burnt offering or for a sacrifice, to accomplish a vow, or for peace offerings to Yahweh,",
+          "korean": "수송아지를 번제나 희생제로, 서원을 이루려고나 여호와께 화목제로 드리려고 준비하면,"
+        },
+        {
+          "verse": 9,
+          "original": "then he shall offer with the bull a meal offering of three tenths of an ephah of fine flour mixed with half a hin of oil;",
+          "korean": "수송아지와 함께 소제로 기름 반 힌을 섞은 고운 가루 십분의 삼 에바를 드려야 해요."
+        },
+        {
+          "verse": 10,
+          "original": "and you shall offer for the drink offering half a hin of wine, for an offering made by fire, of a pleasant aroma to Yahweh.",
+          "korean": "전제로 포도주 반 힌을 여호와께 향기로운 화제로 드려야 해요."
+        },
+        {
+          "verse": 11,
+          "original": "Thus it shall be done for each bull, for each ram, for each of the male lambs, or of the young goats.",
+          "korean": "각 수송아지, 각 숫양, 각 숫양이나 어린 염소에 이렇게 해야 해요."
+        },
+        {
+          "verse": 12,
+          "original": "According to the number that you shall prepare, so you shall do to everyone according to their number.",
+          "korean": "너희가 준비하는 수대로 각각 그 수대로 이렇게 해야 해요."
+        },
+        {
+          "verse": 13,
+          "original": "\"'All who are native-born shall do these things in this way, in offering an offering made by fire, of a pleasant aroma to Yahweh.",
+          "korean": "\"'모든 본토 사람이 여호와께 향기로운 화제를 드릴 때 이렇게 해야 해요."
+        },
+        {
+          "verse": 14,
+          "original": "If a stranger lives as a foreigner with you, or whoever may be among you throughout your generations, and will offer an offering made by fire, of a pleasant aroma to Yahweh, as you do, so he shall do.",
+          "korean": "외국인이 너희와 함께 거주하거나, 너희 대대로 너희 중에 누가 있어서 여호와께 향기로운 화제를 드리려면 너희가 하듯이 그도 해야 해요."
+        },
+        {
+          "verse": 15,
+          "original": "For the assembly, there shall be one statute for you and for the stranger who lives as a foreigner, a statute forever throughout your generations. As you are, so the foreigner shall be before Yahweh.",
+          "korean": "회중에게 한 규례가 있어요. 너희와 거주하는 외국인에게 대대로 영원한 규례야. 너희처럼 외국인도 여호와 앞에서 그래야 해요."
+        },
+        {
+          "verse": 16,
+          "original": "One law and one ordinance shall be for you and for the stranger who lives as a foreigner with you.'\"",
+          "korean": "한 율법과 한 법도가 너희와 너희와 함께 거주하는 외국인에게 있어요.'\""
+        },
+        {
+          "verse": 17,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 18,
+          "original": "\"Speak to the children of Israel, and tell them, 'When you come into the land where I bring you,",
+          "korean": "\"이스라엘 자손에게 말해라: '너희가 내가 인도하는 땅에 들어가서,"
+        },
+        {
+          "verse": 19,
+          "original": "then it shall be that when you eat of the bread of the land, you shall offer up a wave offering to Yahweh.",
+          "korean": "그 땅의 떡을 먹을 때 여호와께 요제를 드려야 해요."
+        },
+        {
+          "verse": 20,
+          "original": "Of the first of your dough you shall offer up a cake for a wave offering. As the wave offering of the threshing floor, so you shall heave it.",
+          "korean": "너희 반죽의 처음으로 과자를 요제로 드려야 해요. 타작마당의 요제처럼 그것을 드려야 해요."
+        },
+        {
+          "verse": 21,
+          "original": "Of the first of your dough, you shall give to Yahweh a wave offering throughout your generations.",
+          "korean": "너희 반죽의 처음으로 대대로 여호와께 요제를 드려야 해요."
+        },
+        {
+          "verse": 22,
+          "original": "\"'When you err, and don't observe all these commandments which Yahweh has spoken to Moses—",
+          "korean": "\"'너희가 실수하여 여호와께서 모세에게 말씀하신 이 모든 명령을 지키지 못하면,"
+        },
+        {
+          "verse": 23,
+          "original": "all that Yahweh has commanded you by Moses, from the day that Yahweh gave commandment and onward throughout your generations—",
+          "korean": "여호와께서 명령하신 날부터 너희 대대로 여호와께서 모세를 통해 너희에게 명령하신 모든 것을,"
+        },
+        {
+          "verse": 24,
+          "original": "then it shall be, if it was done unwittingly, without the knowledge of the congregation, that all the congregation shall offer one young bull for a burnt offering, for a pleasant aroma to Yahweh, with its meal offering and its drink offering, according to the ordinance, and one male goat for a sin offering.",
+          "korean": "회중이 모르고 무심코 범했으면, 온 회중이 번제로 수송아지 한 마리를 그 소제와 전제와 함께 규례대로 여호와께 향기로운 냄새로 드리고, 속죄제로 숫염소 한 마리를 드려야 해요."
+        },
+        {
+          "verse": 25,
+          "original": "The priest shall make atonement for all the congregation of the children of Israel, and they shall be forgiven; for it was an error, and they have brought their offering, an offering made by fire to Yahweh, and their sin offering before Yahweh, for their error.",
+          "korean": "제사장이 이스라엘 자손의 온 회중을 위해 속죄해야 해요. 그러면 용서받을 거예요. 실수였고 그들이 자기 실수에 대해 화제와 속죄제를 여호와 앞에 가져왔기 때문이에요."
+        },
+        {
+          "verse": 26,
+          "original": "All the congregation of the children of Israel shall be forgiven, as well as the stranger who lives as a foreigner among them; for with regard to all the people, it was done unwittingly.",
+          "korean": "이스라엘 자손의 온 회중과 그들 중에 거주하는 외국인이 용서받을 거예요. 모든 백성이 무심코 행했기 때문이에요."
+        },
+        {
+          "verse": 27,
+          "original": "\"'If a person sins unwittingly, then he shall offer a female goat a year old for a sin offering.",
+          "korean": "\"'한 사람이 무심코 죄를 지으면, 속죄제로 일 년 된 암염소 한 마리를 드려야 해요."
+        },
+        {
+          "verse": 28,
+          "original": "The priest shall make atonement for the soul who errs when he sins unwittingly before Yahweh. He shall make atonement for him; and he shall be forgiven.",
+          "korean": "제사장이 여호와 앞에서 무심코 죄를 지어 잘못한 사람을 위해 속죄해야 해요. 그를 위해 속죄하면 용서받을 거예요."
+        },
+        {
+          "verse": 29,
+          "original": "You shall have one law for him who does anything unwittingly, for him who is native-born among the children of Israel, and for the stranger who lives as a foreigner among them.",
+          "korean": "무심코 범한 자에게 한 율법이 있어요. 이스라엘 자손 중 본토 사람이든 그들 중에 거주하는 외국인이든."
+        },
+        {
+          "verse": 30,
+          "original": "\"'But the soul who does anything with a high hand, whether he is native-born or a foreigner, blasphemes Yahweh. That soul shall be cut off from among his people.",
+          "korean": "\"'그러나 누구든지, 본토 사람이든 외국인이든, 고의로 행하면 여호와를 모독하는 거예요. 그 사람이 자기 백성 중에서 끊어져야 해요."
+        },
+        {
+          "verse": 31,
+          "original": "Because he has despised Yahweh's word, and has broken his commandment, that soul shall be utterly cut off. His iniquity shall be on him.'\"",
+          "korean": "여호와의 말씀을 멸시하고 그 명령을 어겼으니 그 사람이 반드시 끊어져야 해요. 그의 죄악이 그에게 있어요.'\""
+        },
+        {
+          "verse": 32,
+          "original": "While the children of Israel were in the wilderness, they found a man gathering sticks on the Sabbath day.",
+          "korean": "이스라엘 자손이 광야에 있을 때 안식일에 나무를 줍는 사람을 발견했어요."
+        },
+        {
+          "verse": 33,
+          "original": "Those who found him gathering sticks brought him to Moses and Aaron, and to all the congregation.",
+          "korean": "나무 줍는 것을 발견한 자들이 그를 모세와 아론과 온 회중에게 데려왔어요."
+        },
+        {
+          "verse": 34,
+          "original": "They put him in custody, because it had not been declared what should be done to him.",
+          "korean": "그에게 어떻게 해야 할지 선포되지 않았기 때문에 그를 가두어 두었어요."
+        },
+        {
+          "verse": 35,
+          "original": "Yahweh said to Moses, \"The man shall surely be put to death. All the congregation shall stone him with stones outside of the camp.\"",
+          "korean": "여호와께서 모세에게 말씀하셨어요. \"그 사람이 반드시 죽어야 한다. 온 회중이 진영 밖에서 돌로 그를 쳐라.\""
+        },
+        {
+          "verse": 36,
+          "original": "All the congregation brought him outside of the camp, and stoned him to death with stones, as Yahweh commanded Moses.",
+          "korean": "온 회중이 그를 진영 밖으로 데리고 나가서 여호와께서 모세에게 명령하신 대로 돌로 쳐 죽였어요."
+        },
+        {
+          "verse": 37,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 38,
+          "original": "\"Speak to the children of Israel, and tell them that they should make themselves fringes on the borders of their garments throughout their generations, and that they put on the fringe of each border a cord of blue.",
+          "korean": "\"이스라엘 자손에게 말해서 대대로 옷단에 술을 만들고 각 단의 술에 청색 끈을 달게 해라."
+        },
+        {
+          "verse": 39,
+          "original": "It shall be to you for a fringe, that you may see it, and remember all Yahweh's commandments, and do them; and that you not follow your own heart and your own eyes, after which you used to play the prostitute;",
+          "korean": "너희가 그것을 보고 여호와의 모든 명령을 기억하고 행하고, 음란하게 쫓아다니던 너희 마음과 눈을 따르지 않게 하려고 그것이 너희에게 술이 될 거야."
+        },
+        {
+          "verse": 40,
+          "original": "that you may remember and do all my commandments, and be holy to your God.",
+          "korean": "그래서 내 모든 명령을 기억하고 행하여 너희 하나님께 거룩하게 될 거야."
+        },
+        {
+          "verse": 41,
+          "original": "I am Yahweh your God, who brought you out of the land of Egypt, to be your God: I am Yahweh your God.\"",
+          "korean": "나는 너희 하나님이 되려고 너희를 이집트 땅에서 인도해 낸 너희 하나님 여호와야. 나는 너희 하나님 여호와야.\""
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took some men.",
+          "korean": "레위 지파의 고핫의 손자이고 이스할의 아들인 고라와, 르우벤 지파의 엘리압의 아들들인 다단과 아비람과, 벨렛의 아들 온이 사람들을 모았어요."
+        },
+        {
+          "verse": 2,
+          "original": "They rose up before Moses, with some of the children of Israel, two hundred fifty princes of the congregation, called to the assembly, men of renown.",
+          "korean": "그들은 이스라엘 자손 중에서 회중의 족장 이백오십 명과 함께 모세에게 대항하여 일어났어요. 이들은 회의에 선출된 이름난 사람들이었어요."
+        },
+        {
+          "verse": 3,
+          "original": "They assembled themselves together against Moses and against Aaron, and said to them, \"You take too much on yourself, since all the congregation are holy, everyone of them, and Yahweh is among them! Why do you lift yourselves up above Yahweh's assembly?\"",
+          "korean": "그들이 모세와 아론을 대적하여 모여서 말했어요. \"당신들은 너무 나서는 거예요! 온 회중이 다 거룩하고 여호와께서 그들 가운데 계신데, 왜 당신들이 여호와의 회중 위에 자신을 높이나요?\""
+        },
+        {
+          "verse": 4,
+          "original": "When Moses heard it, he fell on his face.",
+          "korean": "모세는 이 말을 듣고 얼굴을 땅에 대고 엎드렸어요."
+        },
+        {
+          "verse": 5,
+          "original": "He said to Korah and to all his company, \"In the morning, Yahweh will show who are his, and who is holy, and will cause him to come near to him. Even him whom he shall choose, he will cause to come near to him.",
+          "korean": "그가 고라와 그 무리에게 말했어요. \"내일 아침에 여호와께서 누가 자기 것인지, 누가 거룩한지 보여 주실 거예요. 그분이 택하신 자를 자기에게 가까이 오게 하실 거예요."
+        },
+        {
+          "verse": 6,
+          "original": "Do this: have Korah and all his company take censers,",
+          "korean": "이렇게 해요. 고라와 그 무리는 향로를 가져와요."
+        },
+        {
+          "verse": 7,
+          "original": "put fire in them, and put incense on them before Yahweh tomorrow. It shall be that the man whom Yahweh chooses, he shall be holy. You have gone too far, you sons of Levi!\"",
+          "korean": "내일 여호와 앞에서 향로에 불을 담고 향을 놓아요. 여호와께서 택하시는 사람이 거룩한 자예요. 레위 자손들아, 당신들이 너무 나서는 거예요!\""
+        },
+        {
+          "verse": 8,
+          "original": "Moses said to Korah, \"Hear now, you sons of Levi!",
+          "korean": "모세가 고라에게 말했어요. \"레위 자손들아, 들어 봐요!"
+        },
+        {
+          "verse": 9,
+          "original": "Is it a small thing to you that the God of Israel has separated you from the congregation of Israel, to bring you near to himself, to do the service of Yahweh's tabernacle, and to stand before the congregation to minister to them;",
+          "korean": "이스라엘의 하나님께서 이스라엘 회중에서 당신들을 구별하셔서 자기에게 가까이 오게 하시고, 여호와의 성막에서 봉사하게 하시며, 회중 앞에 서서 섬기게 하신 것이 작은 일인가요?"
+        },
+        {
+          "verse": 10,
+          "original": "and that he has brought you near, and all your brothers the sons of Levi with you? Do you seek the priesthood also?",
+          "korean": "하나님께서 당신과 당신의 형제들인 레위 자손들을 가까이 오게 하셨는데, 제사장 직분까지 요구하는 건가요?"
+        },
+        {
+          "verse": 11,
+          "original": "Therefore you and all your company have gathered together against Yahweh! What is Aaron that you complain against him?\"",
+          "korean": "그러므로 당신과 당신의 무리는 여호와를 대적하여 모인 거예요! 아론이 누구라고 그를 원망하나요?\""
+        },
+        {
+          "verse": 12,
+          "original": "Moses sent to call Dathan and Abiram, the sons of Eliab; and they said, \"We won't come up!",
+          "korean": "모세가 엘리압의 아들들인 다단과 아비람을 부르러 사람을 보냈어요. 그러나 그들이 말했어요. \"우리는 올라가지 않겠어요!"
+        },
+        {
+          "verse": 13,
+          "original": "Is it a small thing that you have brought us up out of a land flowing with milk and honey, to kill us in the wilderness, but you must also make yourself a prince over us?",
+          "korean": "당신이 젖과 꿀이 흐르는 땅에서 우리를 이끌어 내서 광야에서 죽이려 하는 것도 작은 일인데, 우리 위에 지도자 노릇까지 하려고 해요?"
+        },
+        {
+          "verse": 14,
+          "original": "Moreover you haven't brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards. Will you put out the eyes of these men? We won't come up.\"",
+          "korean": "게다가 당신은 우리를 젖과 꿀이 흐르는 땅으로 인도하지도 않았고, 밭과 포도원을 유산으로 주지도 않았어요. 이 사람들의 눈을 빼려고 해요? 우리는 올라가지 않겠어요.\""
+        },
+        {
+          "verse": 15,
+          "original": "Moses was very angry, and said to Yahweh, \"Don't respect their offering. I have not taken one donkey from them, neither have I hurt one of them.\"",
+          "korean": "모세는 매우 화가 나서 여호와께 말했어요. \"그들의 예물을 받지 마세요. 저는 그들에게서 나귀 한 마리도 빼앗지 않았고, 그들 중 아무도 해치지 않았어요.\""
+        },
+        {
+          "verse": 16,
+          "original": "Moses said to Korah, \"You and all your company go before Yahweh, you, and they, and Aaron, tomorrow.",
+          "korean": "모세가 고라에게 말했어요. \"내일 당신과 당신의 모든 무리와 아론이 여호와 앞으로 나와요."
+        },
+        {
+          "verse": 17,
+          "original": "Each man take his censer and put incense on it, and each man bring before Yahweh his censer, two hundred fifty censers; you also, and Aaron, each with his censer.\"",
+          "korean": "각 사람은 자기 향로를 가져와서 향을 담고, 각 사람이 자기 향로를 여호와 앞에 가져와요. 이백오십 개의 향로와, 당신과 아론도 각각 향로를 가져와요.\""
+        },
+        {
+          "verse": 18,
+          "original": "They each took his censer, and put fire in it, and laid incense on it, and stood at the door of the Tent of Meeting with Moses and Aaron.",
+          "korean": "그래서 각 사람이 자기 향로를 가져와 불을 담고 향을 놓고, 모세와 아론과 함께 회막 입구에 섰어요."
+        },
+        {
+          "verse": 19,
+          "original": "Korah assembled all the congregation opposite them to the door of the Tent of Meeting. Yahweh's glory appeared to all the congregation.",
+          "korean": "고라가 온 회중을 모아 그들을 대항하여 회막 입구에 모았어요. 그러자 여호와의 영광이 온 회중에게 나타났어요."
+        },
+        {
+          "verse": 20,
+          "original": "Yahweh spoke to Moses and to Aaron, saying,",
+          "korean": "여호와께서 모세와 아론에게 말씀하셨어요."
+        },
+        {
+          "verse": 21,
+          "original": "\"Separate yourselves from among this congregation, that I may consume them in a moment!\"",
+          "korean": "\"이 회중에게서 떠나라. 내가 순식간에 그들을 멸하겠다!\""
+        },
+        {
+          "verse": 22,
+          "original": "They fell on their faces, and said, \"God, the God of the spirits of all flesh, shall one man sin, and will you be angry with all the congregation?\"",
+          "korean": "모세와 아론이 얼굴을 땅에 대고 엎드려 말했어요. \"하나님, 모든 육체의 생명의 하나님이시여, 한 사람이 죄를 지으면 온 회중에게 진노하시겠어요?\""
+        },
+        {
+          "verse": 23,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 24,
+          "original": "\"Speak to the congregation, saying, 'Get away from around the tent of Korah, Dathan, and Abiram!'\"",
+          "korean": "\"회중에게 말하여 이르라. '고라와 다단과 아비람의 장막 주위에서 떠나라!'\""
+        },
+        {
+          "verse": 25,
+          "original": "Moses rose up and went to Dathan and Abiram; and the elders of Israel followed him.",
+          "korean": "모세가 일어나 다단과 아비람에게로 갔고, 이스라엘의 장로들이 그를 따랐어요."
+        },
+        {
+          "verse": 26,
+          "original": "He spoke to the congregation, saying, \"Depart, please, from the tents of these wicked men, and touch nothing of theirs, lest you be consumed in all their sins!\"",
+          "korean": "그가 회중에게 말했어요. \"제발 이 악한 사람들의 장막에서 떠나고, 그들의 것은 아무것도 만지지 마세요. 그래야 그들의 모든 죄에 함께 멸망하지 않아요!\""
+        },
+        {
+          "verse": 27,
+          "original": "So they went away from the tent of Korah, Dathan, and Abiram, on every side. Dathan and Abiram came out, and stood at the door of their tents with their wives, their sons, and their little ones.",
+          "korean": "그래서 사람들이 고라와 다단과 아비람의 장막 사방에서 떠났어요. 다단과 아비람은 나와서 자기 아내들과 아들들과 어린 아이들과 함께 자기 장막 입구에 섰어요."
+        },
+        {
+          "verse": 28,
+          "original": "Moses said, \"Hereby you shall know that Yahweh has sent me to do all these works; for they are not from my own mind.",
+          "korean": "모세가 말했어요. \"이것으로 여호와께서 이 모든 일을 행하도록 나를 보내셨고, 내 마음대로 한 것이 아님을 알게 될 거예요."
+        },
+        {
+          "verse": 29,
+          "original": "If these men die the common death of all men, or if they experience what all men experience, then Yahweh hasn't sent me.",
+          "korean": "만약 이 사람들이 모든 사람처럼 자연스럽게 죽거나, 모든 사람이 겪는 일을 겪으면, 여호와께서 나를 보내지 않으신 거예요."
+        },
+        {
+          "verse": 30,
+          "original": "But if Yahweh makes a new thing, and the ground opens its mouth, and swallows them up with all that belong to them, and they go down alive into Sheol, then you shall understand that these men have despised Yahweh.\"",
+          "korean": "그러나 만약 여호와께서 새로운 일을 행하셔서 땅이 입을 벌려 그들과 그들의 모든 것을 삼키고, 그들이 산 채로 스올로 내려가면, 이 사람들이 여호와를 멸시한 것을 알게 될 거예요.\""
+        },
+        {
+          "verse": 31,
+          "original": "As he finished speaking all these words, the ground that was under them split apart.",
+          "korean": "그가 이 모든 말을 마치자마자, 그들 아래의 땅이 갈라졌어요."
+        },
+        {
+          "verse": 32,
+          "original": "The earth opened its mouth and swallowed them up with their households, all of Korah's men, and all their goods.",
+          "korean": "땅이 입을 벌려 그들과 그들의 가족과 고라에게 속한 모든 사람과 그들의 모든 재산을 삼켰어요."
+        },
+        {
+          "verse": 33,
+          "original": "So they, and all that belonged to them went down alive into Sheol. The earth closed on them, and they perished from among the assembly.",
+          "korean": "그래서 그들과 그들에게 속한 모든 것이 산 채로 스올로 내려갔어요. 땅이 그들 위로 닫히고, 그들은 회중 가운데서 멸망했어요."
+        },
+        {
+          "verse": 34,
+          "original": "All Israel that were around them fled at their cry; for they said, \"Lest the earth swallow us up!\"",
+          "korean": "그들 주위에 있던 모든 이스라엘 사람들이 그들의 비명 소리에 도망쳤어요. 그들이 말했어요. \"땅이 우리도 삼킬까 봐!\""
+        },
+        {
+          "verse": 35,
+          "original": "Fire came out from Yahweh, and devoured the two hundred fifty men who offered the incense.",
+          "korean": "여호와께로부터 불이 나와서 향을 드린 이백오십 명을 삼켰어요."
+        },
+        {
+          "verse": 36,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 37,
+          "original": "\"Speak to Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter the fire away from the camp; for they are holy,",
+          "korean": "\"아론의 아들 제사장 엘르아살에게 말하여 불에서 향로들을 꺼내고 불은 멀리 뿌리라고 해라. 향로들은 거룩하기 때문이다."
+        },
+        {
+          "verse": 38,
+          "original": "even the censers of those who sinned against their own lives. Let them be beaten into plates for a covering of the altar, for they offered them before Yahweh. Therefore they are holy. They shall be a sign to the children of Israel.\"",
+          "korean": "자기 생명을 거스려 죄를 지은 자들의 향로를 두드려 제단을 덮는 판으로 만들어라. 그들이 여호와 앞에 드렸으므로 거룩하다. 이것이 이스라엘 자손에게 표징이 될 것이다.\""
+        },
+        {
+          "verse": 39,
+          "original": "Eleazar the priest took the bronze censers which those who were burned had offered; and they beat them out for a covering of the altar,",
+          "korean": "제사장 엘르아살이 불에 탄 자들이 드린 놋 향로를 가져와 두드려 제단 덮개로 만들었어요."
+        },
+        {
+          "verse": 40,
+          "original": "to be a memorial to the children of Israel, to the end that no stranger who isn't of the offspring of Aaron, would come near to burn incense before Yahweh, that he not be as Korah, and as his company; as Yahweh spoke to him by Moses.",
+          "korean": "이것은 이스라엘 자손에게 기념이 되어, 아론의 자손이 아닌 외인은 여호와 앞에 나아와 분향하지 못하게 했어요. 그래야 고라와 그 무리처럼 되지 않아요. 이것은 여호와께서 모세를 통해 말씀하신 대로였어요."
+        },
+        {
+          "verse": 41,
+          "original": "But on the next day all the congregation of the children of Israel complained against Moses and against Aaron, saying, \"You have killed Yahweh's people!\"",
+          "korean": "그런데 다음 날 이스라엘 자손의 온 회중이 모세와 아론을 원망하며 말했어요. \"당신들이 여호와의 백성을 죽였어요!\""
+        },
+        {
+          "verse": 42,
+          "original": "When the congregation was assembled against Moses and against Aaron, they looked toward the Tent of Meeting. Behold, the cloud covered it, and Yahweh's glory appeared.",
+          "korean": "회중이 모세와 아론을 대적하여 모였을 때, 그들이 회막을 바라보니 구름이 그것을 덮었고, 여호와의 영광이 나타났어요."
+        },
+        {
+          "verse": 43,
+          "original": "Moses and Aaron came to the front of the Tent of Meeting.",
+          "korean": "모세와 아론이 회막 앞으로 갔어요."
+        },
+        {
+          "verse": 44,
+          "original": "Yahweh spoke to Moses, saying,",
+          "korean": "여호와께서 모세에게 말씀하셨어요."
+        },
+        {
+          "verse": 45,
+          "original": "\"Get away from among this congregation, that I may consume them in a moment!\" They fell on their faces.",
+          "korean": "\"이 회중에게서 떠나라. 내가 순식간에 그들을 멸하겠다!\" 모세와 아론이 얼굴을 땅에 대고 엎드렸어요."
+        },
+        {
+          "verse": 46,
+          "original": "Moses said to Aaron, \"Take your censer, put fire from the altar in it, lay incense on it, carry it quickly to the congregation, and make atonement for them; for wrath has gone out from Yahweh! The plague has begun.\"",
+          "korean": "모세가 아론에게 말했어요. \"향로를 가져와 제단에서 불을 담고 향을 놓아 빨리 회중에게로 가서 속죄해요. 여호와께로부터 진노가 나갔어요! 재앙이 시작됐어요.\""
+        },
+        {
+          "verse": 47,
+          "original": "Aaron did as Moses said, and ran into the middle of the assembly. The plague had already begun among the people. He put on the incense, and made atonement for the people.",
+          "korean": "아론이 모세가 말한 대로 하여 회중 가운데로 달려갔어요. 재앙이 이미 백성 가운데 시작되었어요. 그가 향을 피우고 백성을 위해 속죄했어요."
+        },
+        {
+          "verse": 48,
+          "original": "He stood between the dead and the living; and the plague was stayed.",
+          "korean": "그가 죽은 자들과 산 자들 사이에 섰고, 재앙이 멈췄어요."
+        },
+        {
+          "verse": 49,
+          "original": "Now those who died by the plague were fourteen thousand and seven hundred, in addition to those who died about the matter of Korah.",
+          "korean": "고라의 일로 죽은 자들 외에 재앙으로 죽은 자가 만 사천칠백 명이었어요."
+        },
+        {
+          "verse": 50,
+          "original": "Aaron returned to Moses to the door of the Tent of Meeting, and the plague was stopped.",
+          "korean": "아론은 회막 입구에 있는 모세에게로 돌아왔고, 재앙이 그쳤어요."
+        }
+      ]
     }
   ]
 }
