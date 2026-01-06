@@ -3396,6 +3396,106 @@
           "korean": "여러분이 이집트 땅에서 종이었다는 것을 기억하세요. 그래서 내가 이 일을 하라고 명령하는 거예요."
         }
       ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "If there is a controversy between men, and they come to judgment and the judges judge them, then they shall justify the righteous and condemn the wicked.",
+          "korean": "사람들 사이에 분쟁이 생겨서 재판을 받으면, 재판관들은 의로운 사람이 옳다고 하고 악한 사람을 정죄해야 해요."
+        },
+        {
+          "verse": 2,
+          "original": "It shall be, if the wicked man is worthy to be beaten, that the judge shall cause him to lie down and to be beaten before his face, according to his wickedness, by number.",
+          "korean": "만약 악한 사람이 매를 맞아야 한다면, 재판관이 그를 눕히고 재판관 앞에서 그의 악한 정도에 따라 횟수대로 때려야 해요."
+        },
+        {
+          "verse": 3,
+          "original": "He may sentence him to no more than forty stripes. He shall not give more, lest if he should give more and beat him more than that many stripes, then your brother will be degraded in your sight.",
+          "korean": "사십 대까지만 때릴 수 있어요. 그보다 더 많이 때리면 안 돼요. 더 많이 때리면 여러분의 형제가 수치를 당할 거예요."
+        },
+        {
+          "verse": 4,
+          "original": "You shall not muzzle the ox when he treads out the grain.",
+          "korean": "곡식을 밟아 타작하는 소의 입에 망을 씌우면 안 돼요."
+        },
+        {
+          "verse": 5,
+          "original": "If brothers dwell together, and one of them dies and has no son, the wife of the dead shall not be married outside to a stranger. Her husband's brother shall go in to her, and take her as his wife, and perform the duty of a husband's brother to her.",
+          "korean": "형제가 함께 살다가 한 사람이 아들 없이 죽으면, 죽은 사람의 아내가 외부인과 결혼하면 안 돼요. 그의 형제가 그녀에게 가서 아내로 삼고 시동생으로서의 의무를 행해야 해요."
+        },
+        {
+          "verse": 6,
+          "original": "It shall be that the firstborn whom she bears shall succeed in the name of his brother who is dead, that his name not be blotted out of Israel.",
+          "korean": "그녀가 낳은 맏아들이 죽은 형제의 이름을 이어받아야 해요. 그래야 그의 이름이 이스라엘에서 지워지지 않아요."
+        },
+        {
+          "verse": 7,
+          "original": "If the man doesn't want to take his brother's wife, then his brother's wife shall go up to the gate to the elders, and say, \"My husband's brother refuses to raise up to his brother a name in Israel. He will not perform the duty of a husband's brother to me.\"",
+          "korean": "만약 그 남자가 형제의 아내를 맞이하기 싫으면, 형제의 아내가 성문에 있는 장로들에게 가서 말해야 해요. '시아주버니가 형제의 이름을 이스라엘에서 세우기를 거부합니다. 그가 시동생으로서의 의무를 행하지 않으려 합니다.'"
+        },
+        {
+          "verse": 8,
+          "original": "Then the elders of his city shall call him, and speak to him. If he stands and says, \"I don't want to take her,\"",
+          "korean": "그러면 성읍의 장로들이 그를 불러서 말해야 해요. 그가 '그녀를 맞이하고 싶지 않습니다'라고 고집하면,"
+        },
+        {
+          "verse": 9,
+          "original": "then his brother's wife shall come to him in the presence of the elders, and loose his sandal from off his foot, and spit in his face. She shall answer and say, \"So shall it be done to the man who does not build up his brother's house.\"",
+          "korean": "형제의 아내가 장로들 앞에서 그에게 다가가 그의 발에서 신발을 벗기고, 그의 얼굴에 침을 뱉어야 해요. 그리고 말해야 해요. '형제의 집을 세우지 않는 자에게는 이렇게 해야 합니다.'"
+        },
+        {
+          "verse": 10,
+          "original": "His name shall be called in Israel, \"The house of him who had his sandal removed.\"",
+          "korean": "그의 집은 이스라엘에서 '신발 벗긴 자의 집'이라고 불릴 거예요."
+        },
+        {
+          "verse": 11,
+          "original": "When men strive against each other, and the wife of one draws near to deliver her husband out of the hand of him who strikes him, and puts out her hand, and grabs him by his private parts,",
+          "korean": "두 남자가 싸우고 있을 때, 한 남자의 아내가 자기 남편을 때리는 자에게서 구하려고 손을 내밀어 상대방의 은밀한 곳을 잡으면,"
+        },
+        {
+          "verse": 12,
+          "original": "then you shall cut off her hand. Your eye shall have no pity.",
+          "korean": "그녀의 손을 잘라야 해요. 불쌍히 여기면 안 돼요."
+        },
+        {
+          "verse": 13,
+          "original": "You shall not have in your bag diverse weights, one heavy and one light.",
+          "korean": "주머니에 무거운 것과 가벼운 것, 두 종류의 저울추를 가지고 다니면 안 돼요."
+        },
+        {
+          "verse": 14,
+          "original": "You shall not have in your house diverse measures, one large and one small.",
+          "korean": "집에 큰 것과 작은 것, 두 종류의 되를 두면 안 돼요."
+        },
+        {
+          "verse": 15,
+          "original": "You shall have a perfect and just weight. You shall have a perfect and just measure, that your days may be long in the land which Yahweh your God gives you.",
+          "korean": "완전하고 정확한 저울추를 가지세요. 완전하고 정확한 되를 가지세요. 그래야 여호와 하나님께서 주시는 땅에서 오래 살 거예요."
+        },
+        {
+          "verse": 16,
+          "original": "For all who do such things, all who do unrighteously, are an abomination to Yahweh your God.",
+          "korean": "이런 불의한 일을 하는 사람은 누구나 여호와 하나님께서 싫어하셔요."
+        },
+        {
+          "verse": 17,
+          "original": "Remember what Amalek did to you by the way as you came out of Egypt;",
+          "korean": "이집트에서 나올 때 길에서 아말렉이 여러분에게 한 일을 기억하세요."
+        },
+        {
+          "verse": 18,
+          "original": "how he met you by the way, and struck the rearmost of you, all who were feeble behind you, when you were faint and weary; and he didn't fear God.",
+          "korean": "그들이 길에서 여러분을 만났을 때, 여러분이 지치고 피곤할 때 뒤에 처져 있는 약한 자들을 공격했어요. 그들은 하나님을 두려워하지 않았어요."
+        },
+        {
+          "verse": 19,
+          "original": "Therefore it shall be, when Yahweh your God has given you rest from all your enemies all around, in the land which Yahweh your God gives you for an inheritance to possess it, that you shall blot out the memory of Amalek from under the sky. You shall not forget.",
+          "korean": "그러므로 여호와 하나님께서 기업으로 주시는 땅에서 주변의 모든 적들로부터 쉼을 주시면, 하늘 아래에서 아말렉에 대한 기억을 지워버려야 해요. 잊지 마세요."
+        }
+      ]
     }
   ]
 }
