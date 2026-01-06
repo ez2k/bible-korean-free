@@ -651,6 +651,376 @@
           "korean": "그들은 내 앞에서 그의 좋은 점들을 말했고, 내 말을 그에게 알려주었어요. 도비야는 나를 두렵게 하려고 편지를 보냈어요."
         }
       ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now when the wall was built, and I had set up the doors, and the gatekeepers and the singers and the Levites were appointed,",
+          "korean": "성벽이 완성되고 문을 달았을 때 문지기들과 노래하는 사람들과 레위 사람들이 임명되었어요."
+        },
+        {
+          "verse": 2,
+          "original": "I put my brother Hanani, and Hananiah the governor of the fortress, in charge of Jerusalem; for he was a faithful man, and feared God above many.",
+          "korean": "나는 내 형제 하나니와 성의 관리인 하나냐에게 예루살렘을 맡겼어요. 그는 신실한 사람이었고 많은 사람들보다 하나님을 더 경외했기 때문이에요."
+        },
+        {
+          "verse": 3,
+          "original": "I said to them, \"Don't let the gates of Jerusalem be opened until the sun is hot; and while they stand guard, let them shut the doors, and you bar them: and appoint watches of the inhabitants of Jerusalem, everyone in his watch, with everyone near his house.\"",
+          "korean": "나는 그들에게 말했어요. \"해가 뜨거워질 때까지 예루살렘의 문을 열지 마세요. 그들이 지키는 동안 문을 닫고 빗장을 걸어요. 예루살렘 주민들 중에서 파수꾼들을 세우되 각자 자기 집 근처에서 자기 차례에 지키게 해요.\""
+        },
+        {
+          "verse": 4,
+          "original": "Now the city was wide and large; but the people were few therein, and the houses were not built.",
+          "korean": "그 성은 넓고 컸지만 그 안에 사람들은 적었고 집들도 지어지지 않았어요."
+        },
+        {
+          "verse": 5,
+          "original": "My God put into my heart to gather together the nobles, and the rulers, and the people, that they might be listed by genealogy. I found the book of the genealogy of those who came up at the first, and I found this written in it:",
+          "korean": "하나님께서 내 마음에 귀족들과 관리들과 백성을 모아 족보에 기록하도록 하셨어요. 처음에 올라온 사람들의 족보 책을 찾았는데 거기에 이렇게 기록되어 있었어요."
+        },
+        {
+          "verse": 6,
+          "original": "These are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and who returned to Jerusalem and to Judah, everyone to his city,",
+          "korean": "이들은 바벨론 왕 느부갓네살에게 잡혀갔다가 풀려나서 예루살렘과 유다 각자의 성읍으로 돌아온 지방 사람들의 자손이에요."
+        },
+        {
+          "verse": 7,
+          "original": "who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number of the men of the people of Israel:",
+          "korean": "그들은 스룹바벨, 예수아, 느헤미야, 아사랴, 라아먀, 나하마니, 모르드개, 빌산, 미스베렛, 빅왜, 느훔, 바아나와 함께 왔어요. 이스라엘 백성의 남자 수는 이러해요."
+        },
+        {
+          "verse": 8,
+          "original": "The children of Parosh: two thousand one hundred seventy-two.",
+          "korean": "바로스 자손은 이천백칠십이 명이에요."
+        },
+        {
+          "verse": 9,
+          "original": "The children of Shephatiah: three hundred seventy-two.",
+          "korean": "스바댜 자손은 삼백칠십이 명이에요."
+        },
+        {
+          "verse": 10,
+          "original": "The children of Arah: six hundred fifty-two.",
+          "korean": "아라 자손은 육백오십이 명이에요."
+        },
+        {
+          "verse": 11,
+          "original": "The children of Pahathmoab, of the children of Jeshua and Joab: two thousand eight hundred eighteen.",
+          "korean": "바핫모압 자손 곧 예수아와 요압 자손은 이천팔백십팔 명이에요."
+        },
+        {
+          "verse": 12,
+          "original": "The children of Elam: one thousand two hundred fifty-four.",
+          "korean": "엘람 자손은 천이백오십사 명이에요."
+        },
+        {
+          "verse": 13,
+          "original": "The children of Zattu: eight hundred forty-five.",
+          "korean": "삿두 자손은 팔백사십오 명이에요."
+        },
+        {
+          "verse": 14,
+          "original": "The children of Zaccai: seven hundred sixty.",
+          "korean": "삭개 자손은 칠백육십 명이에요."
+        },
+        {
+          "verse": 15,
+          "original": "The children of Binnui: six hundred forty-eight.",
+          "korean": "빈누이 자손은 육백사십팔 명이에요."
+        },
+        {
+          "verse": 16,
+          "original": "The children of Bebai: six hundred twenty-eight.",
+          "korean": "베배 자손은 육백이십팔 명이에요."
+        },
+        {
+          "verse": 17,
+          "original": "The children of Azgad: two thousand three hundred twenty-two.",
+          "korean": "아스갓 자손은 이천삼백이십이 명이에요."
+        },
+        {
+          "verse": 18,
+          "original": "The children of Adonikam: six hundred sixty-seven.",
+          "korean": "아도니감 자손은 육백육십칠 명이에요."
+        },
+        {
+          "verse": 19,
+          "original": "The children of Bigvai: two thousand sixty-seven.",
+          "korean": "빅왜 자손은 이천육십칠 명이에요."
+        },
+        {
+          "verse": 20,
+          "original": "The children of Adin: six hundred fifty-five.",
+          "korean": "아딘 자손은 육백오십오 명이에요."
+        },
+        {
+          "verse": 21,
+          "original": "The children of Ater: of Hezekiah, ninety-eight.",
+          "korean": "아델 자손 곧 히스기야 후손은 구십팔 명이에요."
+        },
+        {
+          "verse": 22,
+          "original": "The children of Hashum: three hundred twenty-eight.",
+          "korean": "하숨 자손은 삼백이십팔 명이에요."
+        },
+        {
+          "verse": 23,
+          "original": "The children of Bezai: three hundred twenty-four.",
+          "korean": "베새 자손은 삼백이십사 명이에요."
+        },
+        {
+          "verse": 24,
+          "original": "The children of Hariph: one hundred twelve.",
+          "korean": "하립 자손은 백십이 명이에요."
+        },
+        {
+          "verse": 25,
+          "original": "The children of Gibeon: ninety-five.",
+          "korean": "기브온 자손은 구십오 명이에요."
+        },
+        {
+          "verse": 26,
+          "original": "The men of Bethlehem and Netophah: one hundred eighty-eight.",
+          "korean": "베들레헴과 느도바 사람은 백팔십팔 명이에요."
+        },
+        {
+          "verse": 27,
+          "original": "The men of Anathoth: one hundred twenty-eight.",
+          "korean": "아나돗 사람은 백이십팔 명이에요."
+        },
+        {
+          "verse": 28,
+          "original": "The men of Beth Azmaveth: forty-two.",
+          "korean": "벧아스마웻 사람은 사십이 명이에요."
+        },
+        {
+          "verse": 29,
+          "original": "The men of Kiriath Jearim, Chephirah, and Beeroth: seven hundred forty-three.",
+          "korean": "기럇여아림과 그비라와 브에롯 사람은 칠백사십삼 명이에요."
+        },
+        {
+          "verse": 30,
+          "original": "The men of Ramah and Geba: six hundred twenty-one.",
+          "korean": "라마와 게바 사람은 육백이십일 명이에요."
+        },
+        {
+          "verse": 31,
+          "original": "The men of Michmas: one hundred twenty-two.",
+          "korean": "믹마스 사람은 백이십이 명이에요."
+        },
+        {
+          "verse": 32,
+          "original": "The men of Bethel and Ai: one hundred twenty-three.",
+          "korean": "벧엘과 아이 사람은 백이십삼 명이에요."
+        },
+        {
+          "verse": 33,
+          "original": "The men of the other Nebo: fifty-two.",
+          "korean": "다른 느보 사람은 오십이 명이에요."
+        },
+        {
+          "verse": 34,
+          "original": "The children of the other Elam: one thousand two hundred fifty-four.",
+          "korean": "다른 엘람 자손은 천이백오십사 명이에요."
+        },
+        {
+          "verse": 35,
+          "original": "The children of Harim: three hundred twenty.",
+          "korean": "하림 자손은 삼백이십 명이에요."
+        },
+        {
+          "verse": 36,
+          "original": "The children of Jericho: three hundred forty-five.",
+          "korean": "여리고 자손은 삼백사십오 명이에요."
+        },
+        {
+          "verse": 37,
+          "original": "The children of Lod, Hadid, and Ono: seven hundred twenty-one.",
+          "korean": "롯과 하딧과 오노 자손은 칠백이십일 명이에요."
+        },
+        {
+          "verse": 38,
+          "original": "The children of Senaah: three thousand nine hundred thirty.",
+          "korean": "스나아 자손은 삼천구백삼십 명이에요."
+        },
+        {
+          "verse": 39,
+          "original": "The priests: The children of Jedaiah, of the house of Jeshua: nine hundred seventy-three.",
+          "korean": "제사장들은 이러해요. 예수아 집안의 여다야 자손은 구백칠십삼 명이에요."
+        },
+        {
+          "verse": 40,
+          "original": "The children of Immer: one thousand fifty-two.",
+          "korean": "임멜 자손은 천오십이 명이에요."
+        },
+        {
+          "verse": 41,
+          "original": "The children of Pashhur: one thousand two hundred forty-seven.",
+          "korean": "바스훌 자손은 천이백사십칠 명이에요."
+        },
+        {
+          "verse": 42,
+          "original": "The children of Harim: one thousand seventeen.",
+          "korean": "하림 자손은 천십칠 명이에요."
+        },
+        {
+          "verse": 43,
+          "original": "The Levites: the children of Jeshua, of Kadmiel, of the children of Hodevah: seventy-four.",
+          "korean": "레위 사람들은 이러해요. 호드와 자손 중 예수아와 갓미엘 자손은 칠십사 명이에요."
+        },
+        {
+          "verse": 44,
+          "original": "The singers: the children of Asaph: one hundred forty-eight.",
+          "korean": "노래하는 사람들은 이러해요. 아삽 자손은 백사십팔 명이에요."
+        },
+        {
+          "verse": 45,
+          "original": "The gatekeepers: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai: one hundred thirty-eight.",
+          "korean": "문지기들은 이러해요. 살룸 자손, 아델 자손, 달몬 자손, 악굽 자손, 하디다 자손, 소배 자손은 모두 백삼십팔 명이에요."
+        },
+        {
+          "verse": 46,
+          "original": "The temple servants: the children of Ziha, the children of Hasupha, the children of Tabbaoth,",
+          "korean": "성전 종들은 이러해요. 시하 자손, 하수바 자손, 답바옷 자손,"
+        },
+        {
+          "verse": 47,
+          "original": "the children of Keros, the children of Sia, the children of Padon,",
+          "korean": "게로스 자손, 시아 자손, 바돈 자손,"
+        },
+        {
+          "verse": 48,
+          "original": "the children of Lebana, the children of Hagaba, the children of Salmai,",
+          "korean": "르바나 자손, 하가바 자손, 살매 자손,"
+        },
+        {
+          "verse": 49,
+          "original": "the children of Hanan, the children of Giddel, the children of Gahar,",
+          "korean": "하난 자손, 깃델 자손, 가할 자손,"
+        },
+        {
+          "verse": 50,
+          "original": "the children of Reaiah, the children of Rezin, the children of Nekoda,",
+          "korean": "르아야 자손, 르신 자손, 느고다 자손,"
+        },
+        {
+          "verse": 51,
+          "original": "the children of Gazzam, the children of Uzza, the children of Paseah.",
+          "korean": "갓삼 자손, 웃사 자손, 바세아 자손이에요."
+        },
+        {
+          "verse": 52,
+          "original": "The children of Besai, the children of Meunim, the children of Nephushesim,",
+          "korean": "베새 자손, 므우님 자손, 느부시스임 자손,"
+        },
+        {
+          "verse": 53,
+          "original": "the children of Bakbuk, the children of Hakupha, the children of Harhur,",
+          "korean": "박북 자손, 하구바 자손, 하르훌 자손,"
+        },
+        {
+          "verse": 54,
+          "original": "the children of Bazlith, the children of Mehida, the children of Harsha,",
+          "korean": "바슬릿 자손, 므히다 자손, 하르사 자손,"
+        },
+        {
+          "verse": 55,
+          "original": "the children of Barkos, the children of Sisera, the children of Temah,",
+          "korean": "바르고스 자손, 시스라 자손, 데마 자손,"
+        },
+        {
+          "verse": 56,
+          "original": "the children of Neziah, and the children of Hatipha.",
+          "korean": "느시아 자손, 하디바 자손이에요."
+        },
+        {
+          "verse": 57,
+          "original": "The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Perida,",
+          "korean": "솔로몬의 종들의 자손은 이러해요. 소대 자손, 소베렛 자손, 브리다 자손,"
+        },
+        {
+          "verse": 58,
+          "original": "the children of Jaala, the children of Darkon, the children of Giddel,",
+          "korean": "야알라 자손, 다르곤 자손, 깃델 자손,"
+        },
+        {
+          "verse": 59,
+          "original": "the children of Shephatiah, the children of Hattil, the children of Pochereth Hazzebaim, and the children of Amon.",
+          "korean": "스바댜 자손, 핫딜 자손, 보게렛하스바임 자손, 아몬 자손이에요."
+        },
+        {
+          "verse": 60,
+          "original": "All the temple servants and the children of Solomon's servants were three hundred ninety-two.",
+          "korean": "성전 종들과 솔로몬의 종들의 자손은 모두 삼백구십이 명이에요."
+        },
+        {
+          "verse": 61,
+          "original": "These were those who went up from Tel Melah, Tel Harsha, Cherub, Addon, and Immer; but they could not show their fathers' houses, nor their offspring, whether they were of Israel:",
+          "korean": "델멜라와 델하르사와 그룹과 앗돈과 임멜에서 올라온 사람들도 있었어요. 그러나 그들은 자기 조상의 집안이나 혈통이 이스라엘인지 증명하지 못했어요."
+        },
+        {
+          "verse": 62,
+          "original": "The children of Delaiah, the children of Tobiah, the children of Nekoda: six hundred forty-two.",
+          "korean": "드라야 자손, 도비야 자손, 느고다 자손은 육백사십이 명이에요."
+        },
+        {
+          "verse": 63,
+          "original": "Of the priests: the children of Hobaiah, the children of Hakkoz, the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name.",
+          "korean": "제사장 중에는 호바야 자손, 학고스 자손, 바르실래 자손이 있었어요. 바르실래는 길르앗 사람 바르실래의 딸과 결혼해서 장인의 이름으로 불렸어요."
+        },
+        {
+          "verse": 64,
+          "original": "These searched for their genealogical records, but couldn't find them. Therefore they were deemed disqualified and removed from the priesthood.",
+          "korean": "이 사람들은 자기 족보 기록을 찾았지만 찾지 못했어요. 그래서 그들은 제사장 직분에서 제외되었어요."
+        },
+        {
+          "verse": 65,
+          "original": "The governor told that they should not eat of the most holy things until a priest stood up to minister with Urim and Thummim.",
+          "korean": "총독이 그들에게 말했어요. 우림과 둠밈을 가진 제사장이 설 때까지 지극히 거룩한 음식을 먹지 말라고요."
+        },
+        {
+          "verse": 66,
+          "original": "The whole assembly together was forty-two thousand three hundred sixty,",
+          "korean": "온 회중이 다 합해서 사만이천삼백육십 명이었어요."
+        },
+        {
+          "verse": 67,
+          "original": "in addition to their male servants and their female servants, of whom there were seven thousand three hundred thirty-seven. They had two hundred forty-five singing men and singing women.",
+          "korean": "남종과 여종이 칠천삼백삼십칠 명이었고, 노래하는 남자들과 여자들이 이백사십오 명이었어요."
+        },
+        {
+          "verse": 68,
+          "original": "Their horses were seven hundred thirty-six; their mules, two hundred forty-five;",
+          "korean": "그들의 말은 칠백삼십육 마리였고, 노새는 이백사십오 마리였어요."
+        },
+        {
+          "verse": 69,
+          "original": "their camels, four hundred thirty-five; their donkeys, six thousand seven hundred twenty.",
+          "korean": "낙타는 사백삼십오 마리였고, 나귀는 육천칠백이십 마리였어요."
+        },
+        {
+          "verse": 70,
+          "original": "Some from among the heads of fathers' households gave to the work. The governor gave to the treasury one thousand darics of gold, fifty basins, and five hundred thirty priests' garments.",
+          "korean": "족장들 중 몇몇이 이 일을 위해 드렸어요. 총독은 금 천 다릭과 대접 오십 개와 제사장 옷 오백삼십 벌을 창고에 드렸어요."
+        },
+        {
+          "verse": 71,
+          "original": "Some of the heads of fathers' households gave into the treasury of the work twenty thousand darics of gold, and two thousand two hundred minas of silver.",
+          "korean": "족장들 중 몇몇은 금 이만 다릭과 은 이천이백 마네를 이 일을 위한 창고에 드렸어요."
+        },
+        {
+          "verse": 72,
+          "original": "That which the rest of the people gave was twenty thousand darics of gold, plus two thousand minas of silver, and sixty-seven priests' garments.",
+          "korean": "나머지 백성이 드린 것은 금 이만 다릭과 은 이천 마네와 제사장 옷 육십칠 벌이었어요."
+        },
+        {
+          "verse": 73,
+          "original": "So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel, lived in their cities. When the seventh month had come, the children of Israel were in their cities.",
+          "korean": "그래서 제사장들과 레위 사람들과 문지기들과 노래하는 사람들과 백성 일부와 성전 종들과 온 이스라엘이 자기 성읍에서 살았어요. 일곱째 달이 되었을 때 이스라엘 자손은 자기 성읍들에 있었어요."
+        }
+      ]
     }
   ]
 }
