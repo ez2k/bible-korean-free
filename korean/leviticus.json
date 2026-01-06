@@ -1596,6 +1596,306 @@
           "korean": "만약 어린 양을 감당할 수 없으면 산비둘기 두 마리나 어린 비둘기 두 마리를 가져가라. 하나는 번제로, 다른 하나는 속죄제로요. 제사장이 그 여자를 위해 속죄하면 그 여자가 정결해져요.'\""
         }
       ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh spoke to Moses and to Aaron, saying,",
+          "korean": "여호와께서 모세와 아론에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"When a man shall have a swelling in his body's skin, or a scab, or a bright spot, and it becomes in the skin of his body the plague of leprosy, then he shall be brought to Aaron the priest or to one of his sons, the priests.",
+          "korean": "\"어떤 사람의 피부에 부스럼이나 딱지나 밝은 점이 생겨서 피부병이 되면, 그를 제사장 아론이나 그의 아들 제사장들 중 하나에게 데려가야 해요."
+        },
+        {
+          "verse": 3,
+          "original": "The priest shall examine the plague in the skin of the body. If the hair in the plague has turned white, and the appearance of the plague is deeper than the body's skin, it is the plague of leprosy; so the priest shall examine him and pronounce him unclean.",
+          "korean": "제사장이 피부의 병을 살펴봐야 해요. 병 부위의 털이 희어지고, 병이 피부보다 깊어 보이면 피부병이에요. 그래서 제사장이 그를 살펴보고 부정하다고 선언해야 해요."
+        },
+        {
+          "verse": 4,
+          "original": "If the bright spot is white in the skin of his body, and its appearance isn't deeper than the skin, and its hair hasn't turned white, then the priest shall isolate the infected person for seven days.",
+          "korean": "피부의 밝은 점이 희지만 피부보다 깊어 보이지 않고 털도 희어지지 않았으면, 제사장이 감염된 사람을 7일 동안 격리해야 해요."
+        },
+        {
+          "verse": 5,
+          "original": "The priest shall examine him on the seventh day. Behold, if in his eyes the plague is arrested and the plague hasn't spread in the skin, then the priest shall isolate him for seven more days.",
+          "korean": "제사장이 7일째 되는 날 그를 살펴봐야 해요. 보세요, 병이 멈추고 피부에 퍼지지 않았으면, 제사장이 그를 7일 더 격리해야 해요."
+        },
+        {
+          "verse": 6,
+          "original": "The priest shall examine him again on the seventh day. Behold, if the plague has faded and the plague hasn't spread in the skin, then the priest shall pronounce him clean. It is a scab. He shall wash his clothes, and be clean.",
+          "korean": "제사장이 7일째 되는 날 다시 살펴봐야 해요. 보세요, 병이 흐려지고 피부에 퍼지지 않았으면, 제사장이 그를 정결하다고 선언해야 해요. 그것은 딱지에요. 그는 옷을 빨고 정결해져요."
+        },
+        {
+          "verse": 7,
+          "original": "But if the scab spreads on the skin after he has shown himself to the priest for his cleansing, he shall show himself to the priest again.",
+          "korean": "그러나 정결해지려고 제사장에게 보인 후에 딱지가 피부에 퍼지면, 다시 제사장에게 보여야 해요."
+        },
+        {
+          "verse": 8,
+          "original": "The priest shall examine him; and behold, if the scab has spread on the skin, then the priest shall pronounce him unclean. It is leprosy.",
+          "korean": "제사장이 그를 살펴봐야 해요. 보세요, 딱지가 피부에 퍼졌으면, 제사장이 그를 부정하다고 선언해야 해요. 그것은 피부병이에요."
+        },
+        {
+          "verse": 9,
+          "original": "\"When the plague of leprosy is in a man, then he shall be brought to the priest;",
+          "korean": "\"피부병이 어떤 사람에게 있으면, 그를 제사장에게 데려가야 해요."
+        },
+        {
+          "verse": 10,
+          "original": "and the priest shall examine him. Behold, if there is a white swelling in the skin, and it has turned the hair white, and there is raw flesh in the swelling,",
+          "korean": "제사장이 그를 살펴봐야 해요. 보세요, 피부에 흰 부스럼이 있고 털이 희어졌고 부스럼 안에 새살이 있으면,"
+        },
+        {
+          "verse": 11,
+          "original": "it is a chronic leprosy in the skin of his body, and the priest shall pronounce him unclean. He shall not isolate him, for he is already unclean.",
+          "korean": "그것은 피부에 생긴 오래된 피부병이에요. 제사장이 그를 부정하다고 선언해야 해요. 격리하지 않아도 돼요. 이미 부정하기 때문이에요."
+        },
+        {
+          "verse": 12,
+          "original": "\"If the leprosy breaks out all over the skin, and the leprosy covers all the skin of the infected person from his head even to his feet, as far as it appears to the priest,",
+          "korean": "\"만약 피부병이 온 피부에 퍼져서, 제사장이 보기에 감염된 사람의 머리부터 발끝까지 온 피부를 덮으면,"
+        },
+        {
+          "verse": 13,
+          "original": "then the priest shall examine him. Behold, if the leprosy has covered all his flesh, he shall pronounce him clean of the plague. It has all turned white: he is clean.",
+          "korean": "제사장이 그를 살펴봐야 해요. 보세요, 피부병이 온몸을 덮으면, 그를 정결하다고 선언해야 해요. 다 희어졌으면 그는 정결해요."
+        },
+        {
+          "verse": 14,
+          "original": "But whenever raw flesh appears in him, he shall be unclean.",
+          "korean": "그러나 새살이 나타나면 그는 부정해요."
+        },
+        {
+          "verse": 15,
+          "original": "The priest shall examine the raw flesh, and pronounce him unclean: the raw flesh is unclean. It is leprosy.",
+          "korean": "제사장이 새살을 살펴보고 그를 부정하다고 선언해야 해요. 새살은 부정해요. 그것은 피부병이에요."
+        },
+        {
+          "verse": 16,
+          "original": "Or if the raw flesh turns again, and is changed to white, then he shall come to the priest.",
+          "korean": "또는 새살이 다시 변해서 희어지면, 그는 제사장에게 와야 해요."
+        },
+        {
+          "verse": 17,
+          "original": "The priest shall examine him. Behold, if the plague has turned white, then the priest shall pronounce him clean of the plague. He is clean.",
+          "korean": "제사장이 그를 살펴봐야 해요. 보세요, 병이 희어졌으면, 제사장이 그를 정결하다고 선언해야 해요. 그는 정결해요."
+        },
+        {
+          "verse": 18,
+          "original": "\"When the body has a boil on its skin, and it has healed,",
+          "korean": "\"피부에 종기가 났다가 나으면,"
+        },
+        {
+          "verse": 19,
+          "original": "and in the place of the boil there is a white swelling, or a bright spot, reddish-white, then it shall be shown to the priest.",
+          "korean": "종기 자리에 흰 부스럼이나 붉으스름한 밝은 점이 생기면, 제사장에게 보여야 해요."
+        },
+        {
+          "verse": 20,
+          "original": "The priest shall examine it. Behold, if its appearance is deeper than the skin, and its hair has turned white, then the priest shall pronounce him unclean. It is the plague of leprosy. It has broken out in the boil.",
+          "korean": "제사장이 그것을 살펴봐야 해요. 보세요, 피부보다 깊어 보이고 털이 희어졌으면, 제사장이 그를 부정하다고 선언해야 해요. 그것은 피부병이에요. 종기에서 생겼어요."
+        },
+        {
+          "verse": 21,
+          "original": "But if the priest examines it, and behold, there are no white hairs in it, and it isn't deeper than the skin, but is dim, then the priest shall isolate him seven days.",
+          "korean": "그러나 제사장이 살펴보니 흰 털이 없고 피부보다 깊지 않고 흐려졌으면, 제사장이 그를 7일 동안 격리해야 해요."
+        },
+        {
+          "verse": 22,
+          "original": "If it spreads in the skin, then the priest shall pronounce him unclean. It is a plague.",
+          "korean": "피부에 퍼지면, 제사장이 그를 부정하다고 선언해야 해요. 그것은 병이에요."
+        },
+        {
+          "verse": 23,
+          "original": "But if the bright spot stays in its place, and hasn't spread, it is the scar from the boil; and the priest shall pronounce him clean.",
+          "korean": "그러나 밝은 점이 제자리에 있고 퍼지지 않았으면 종기 흉터에요. 제사장이 그를 정결하다고 선언해야 해요."
+        },
+        {
+          "verse": 24,
+          "original": "\"Or when the body has a burn from fire on its skin, and the raw flesh of the burn becomes a bright spot, reddish-white, or white,",
+          "korean": "\"또는 피부에 불에 덴 상처가 있는데, 덴 자리의 새살이 붉으스름하거나 흰 밝은 점이 되면,"
+        },
+        {
+          "verse": 25,
+          "original": "then the priest shall examine it; and behold, if the hair in the bright spot has turned white, and its appearance is deeper than the skin, it is leprosy. It has broken out in the burning, and the priest shall pronounce him unclean. It is the plague of leprosy.",
+          "korean": "제사장이 그것을 살펴봐야 해요. 보세요, 밝은 점의 털이 희어지고 피부보다 깊어 보이면 피부병이에요. 화상에서 생겼어요. 제사장이 그를 부정하다고 선언해야 해요. 그것은 피부병이에요."
+        },
+        {
+          "verse": 26,
+          "original": "But if the priest examines it, and behold, there is no white hair in the bright spot, and it isn't deeper than the skin, but has faded, then the priest shall isolate him seven days.",
+          "korean": "그러나 제사장이 살펴보니 밝은 점에 흰 털이 없고 피부보다 깊지 않고 흐려졌으면, 제사장이 그를 7일 동안 격리해야 해요."
+        },
+        {
+          "verse": 27,
+          "original": "The priest shall examine him on the seventh day. If it has spread in the skin, then the priest shall pronounce him unclean. It is the plague of leprosy.",
+          "korean": "제사장이 7일째 되는 날 그를 살펴봐야 해요. 피부에 퍼졌으면, 제사장이 그를 부정하다고 선언해야 해요. 그것은 피부병이에요."
+        },
+        {
+          "verse": 28,
+          "original": "If the bright spot stays in its place, and hasn't spread in the skin, but is faded, it is the swelling from the burn, and the priest shall pronounce him clean, for it is the scar from the burn.",
+          "korean": "밝은 점이 제자리에 있고 피부에 퍼지지 않고 흐려졌으면, 화상으로 부은 거에요. 제사장이 그를 정결하다고 선언해야 해요. 화상 흉터이기 때문이에요."
+        },
+        {
+          "verse": 29,
+          "original": "\"When a man or woman has a plague on the head or on the beard,",
+          "korean": "\"남자든 여자든 머리나 턱수염에 병이 나면,"
+        },
+        {
+          "verse": 30,
+          "original": "then the priest shall examine the plague; and behold, if its appearance is deeper than the skin, and the hair in it is yellow and thin, then the priest shall pronounce him unclean. It is an itch. It is leprosy of the head or of the beard.",
+          "korean": "제사장이 그 병을 살펴봐야 해요. 보세요, 피부보다 깊어 보이고 그 안의 털이 누렇고 가늘면, 제사장이 그를 부정하다고 선언해야 해요. 그것은 옴이에요. 머리나 턱수염의 피부병이에요."
+        },
+        {
+          "verse": 31,
+          "original": "If the priest examines the plague of itching, and behold, its appearance isn't deeper than the skin, and there is no black hair in it, then the priest shall isolate the person infected with itching seven days.",
+          "korean": "제사장이 옴을 살펴보는데 피부보다 깊어 보이지 않고 검은 털이 없으면, 제사장이 옴에 감염된 사람을 7일 동안 격리해야 해요."
+        },
+        {
+          "verse": 32,
+          "original": "On the seventh day the priest shall examine the plague; and behold, if the itch hasn't spread, and there is no yellow hair in it, and the appearance of the itch isn't deeper than the skin,",
+          "korean": "7일째 되는 날 제사장이 그 병을 살펴봐야 해요. 보세요, 옴이 퍼지지 않았고 누런 털이 없고 옴이 피부보다 깊어 보이지 않으면,"
+        },
+        {
+          "verse": 33,
+          "original": "then he shall be shaved, but he shall not shave the itch. Then the priest shall isolate the one who has the itch seven more days.",
+          "korean": "그는 면도해야 하지만 옴 부분은 면도하면 안 돼요. 제사장이 옴 있는 사람을 7일 더 격리해야 해요."
+        },
+        {
+          "verse": 34,
+          "original": "On the seventh day, the priest shall examine the itch; and behold, if the itch hasn't spread in the skin, and its appearance isn't deeper than the skin, then the priest shall pronounce him clean. He shall wash his clothes and be clean.",
+          "korean": "7일째 되는 날 제사장이 옴을 살펴봐야 해요. 보세요, 옴이 피부에 퍼지지 않았고 피부보다 깊어 보이지 않으면, 제사장이 그를 정결하다고 선언해야 해요. 그는 옷을 빨고 정결해져요."
+        },
+        {
+          "verse": 35,
+          "original": "But if the itch spreads in the skin after his cleansing,",
+          "korean": "그러나 정결해진 후에 옴이 피부에 퍼지면,"
+        },
+        {
+          "verse": 36,
+          "original": "then the priest shall examine him; and behold, if the itch has spread in the skin, the priest shall not look for the yellow hair; he is unclean.",
+          "korean": "제사장이 그를 살펴봐야 해요. 보세요, 옴이 피부에 퍼졌으면 제사장이 누런 털을 찾지 않아도 돼요. 그는 부정해요."
+        },
+        {
+          "verse": 37,
+          "original": "But if in his eyes the itch is arrested and black hair has grown in it, then the itch is healed. He is clean. The priest shall pronounce him clean.",
+          "korean": "그러나 옴이 멈추고 검은 털이 났으면 옴이 나은 거에요. 그는 정결해요. 제사장이 그를 정결하다고 선언해야 해요."
+        },
+        {
+          "verse": 38,
+          "original": "\"When a man or a woman has bright spots in the skin of the body, even white bright spots,",
+          "korean": "\"남자든 여자든 피부에 밝은 점, 흰 밝은 점이 있으면,"
+        },
+        {
+          "verse": 39,
+          "original": "then the priest shall examine them. Behold, if the bright spots on the skin of their body are a dull white, it is a harmless rash. It has broken out in the skin. He is clean.",
+          "korean": "제사장이 살펴봐야 해요. 보세요, 피부의 밝은 점이 흐린 흰색이면 해로운 발진이 아니에요. 피부에 난 거에요. 그는 정결해요."
+        },
+        {
+          "verse": 40,
+          "original": "\"If a man's hair has fallen from his head, he is bald. He is clean.",
+          "korean": "\"남자의 머리카락이 빠졌으면 대머리에요. 그는 정결해요."
+        },
+        {
+          "verse": 41,
+          "original": "If his hair has fallen off from the front part of his head, he is forehead bald. He is clean.",
+          "korean": "머리 앞부분의 머리카락이 빠졌으면 이마 대머리에요. 그는 정결해요."
+        },
+        {
+          "verse": 42,
+          "original": "But if a reddish-white plague is in the bald head or the bald forehead, it is leprosy breaking out in his bald head or his bald forehead.",
+          "korean": "그러나 대머리나 이마 대머리에 붉으스름한 병이 있으면, 대머리나 이마 대머리에서 피부병이 생긴 거에요."
+        },
+        {
+          "verse": 43,
+          "original": "Then the priest shall examine him. Behold, if the swelling of the plague is reddish-white in his bald head, or in his bald forehead, like the appearance of leprosy in the skin of the body,",
+          "korean": "제사장이 그를 살펴봐야 해요. 보세요, 대머리나 이마 대머리에 부은 병이 붉으스름해서 피부의 피부병처럼 보이면,"
+        },
+        {
+          "verse": 44,
+          "original": "he is a leprous man. He is unclean. The priest shall surely pronounce him unclean. His plague is on his head.",
+          "korean": "그는 피부병에 걸린 사람이에요. 그는 부정해요. 제사장이 반드시 그를 부정하다고 선언해야 해요. 그의 병이 머리에 있어요."
+        },
+        {
+          "verse": 45,
+          "original": "\"The leper in whom the plague is shall wear torn clothes, and the hair of his head shall hang loose. He shall cover his upper lip, and shall cry, 'Unclean! Unclean!'",
+          "korean": "\"피부병에 걸린 사람은 찢어진 옷을 입고 머리를 풀어야 해요. 윗입술을 가리고 '부정해요! 부정해요!'라고 외쳐야 해요."
+        },
+        {
+          "verse": 46,
+          "original": "All the days in which the plague is in him he shall be unclean. He is unclean. He shall dwell alone. His dwelling shall be outside of the camp.",
+          "korean": "병이 있는 모든 날 동안 그는 부정해요. 그는 부정해요. 혼자 살아야 해요. 그의 거처는 진영 밖에 있어야 해요."
+        },
+        {
+          "verse": 47,
+          "original": "\"The garment also that the plague of leprosy is in, whether it is a woolen garment, or a linen garment;",
+          "korean": "\"옷에도 곰팡이 병이 생길 수 있어요. 양털 옷이든 베 옷이든요."
+        },
+        {
+          "verse": 48,
+          "original": "whether it is in warp or woof; of linen or of wool; whether in a leather, or in anything made of leather;",
+          "korean": "날실이든 씨실이든, 베든 양털이든, 가죽이든 가죽으로 만든 무엇이든요."
+        },
+        {
+          "verse": 49,
+          "original": "if the plague is greenish or reddish in the garment, or in the leather, or in the warp, or in the woof, or in anything made of leather; it is the plague of leprosy, and shall be shown to the priest.",
+          "korean": "옷이든 가죽이든 날실이든 씨실이든 가죽으로 만든 무엇이든 병이 푸르스름하거나 붉으스름하면, 그것은 곰팡이 병이에요. 제사장에게 보여야 해요."
+        },
+        {
+          "verse": 50,
+          "original": "The priest shall examine the plague, and isolate the plague seven days.",
+          "korean": "제사장이 그 병을 살펴보고 7일 동안 격리해야 해요."
+        },
+        {
+          "verse": 51,
+          "original": "He shall examine the plague on the seventh day. If the plague has spread in the garment, either in the warp, or in the woof, or in the skin, whatever use the skin is used for, the plague is a destructive mildew. It is unclean.",
+          "korean": "7일째 되는 날 그 병을 살펴봐야 해요. 병이 옷이든 날실이든 씨실이든 가죽이든 가죽으로 만든 무엇이든 퍼졌으면, 그 병은 해로운 곰팡이에요. 그것은 부정해요."
+        },
+        {
+          "verse": 52,
+          "original": "He shall burn the garment, whether the warp or the woof, in wool or in linen, or anything of leather, in which the plague is, for it is a destructive mildew. It shall be burned in the fire.",
+          "korean": "양털이든 베든 날실이든 씨실이든 가죽으로 만든 무엇이든 병이 있는 옷을 태워야 해요. 해로운 곰팡이이기 때문이에요. 불에 태워야 해요."
+        },
+        {
+          "verse": 53,
+          "original": "\"If the priest examines it, and behold, the plague hasn't spread in the garment, either in the warp, or in the woof, or in anything of skin;",
+          "korean": "\"제사장이 살펴보는데, 병이 옷이든 날실이든 씨실이든 가죽으로 만든 무엇이든 퍼지지 않았으면,"
+        },
+        {
+          "verse": 54,
+          "original": "then the priest shall command that they wash the thing that the plague is in, and he shall isolate it seven more days.",
+          "korean": "제사장이 병이 있는 것을 빨라고 명령하고 7일 더 격리해야 해요."
+        },
+        {
+          "verse": 55,
+          "original": "Then the priest shall examine it, after the plague is washed; and behold, if the plague hasn't changed its color, and the plague hasn't spread, it is unclean; you shall burn it in the fire. It is a mildewed spot, whether the bareness is inside or outside.",
+          "korean": "빤 후에 제사장이 살펴봐야 해요. 보세요, 병의 색깔이 변하지 않고 퍼지지도 않았으면 부정해요. 불에 태워야 해요. 안쪽이든 바깥쪽이든 곰팡이 자국이에요."
+        },
+        {
+          "verse": 56,
+          "original": "If the priest looks, and behold, the plague has faded after it is washed, then he shall tear it out of the garment, or out of the skin, or out of the warp, or out of the woof;",
+          "korean": "제사장이 보는데, 빤 후에 병이 흐려졌으면, 옷이든 가죽이든 날실이든 씨실이든 그 부분을 찢어내야 해요."
+        },
+        {
+          "verse": 57,
+          "original": "and if it appears again in the garment, either in the warp, or in the woof, or in anything of skin, it is spreading. You shall burn with fire that in which the plague is.",
+          "korean": "그런데 옷이든 날실이든 씨실이든 가죽으로 만든 무엇이든 다시 나타나면 퍼지는 거에요. 병이 있는 것을 불로 태워야 해요."
+        },
+        {
+          "verse": 58,
+          "original": "The garment, either the warp, or the woof, or whatever thing of skin it is, which you shall wash, if the plague has departed from them, then it shall be washed the second time, and it will be clean.\"",
+          "korean": "옷이든 날실이든 씨실이든 가죽으로 만든 무엇이든 빨았는데 병이 떠났으면, 두 번째 빨아야 해요. 그러면 정결해져요.\""
+        },
+        {
+          "verse": 59,
+          "original": "This is the law of the plague of mildew in a garment of wool or linen, either in the warp, or the woof, or in anything of skin, to pronounce it clean, or to pronounce it unclean.",
+          "korean": "이것이 양털 옷이든 베 옷이든 날실이든 씨실이든 가죽으로 만든 무엇이든 곰팡이 병에 대한 법이에요. 정결하다고 선언하거나 부정하다고 선언하기 위한 거에요."
+        }
+      ]
     }
   ]
 }
