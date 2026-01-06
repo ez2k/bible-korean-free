@@ -576,6 +576,256 @@
           "korean": "그래서 우리는 벳브올 맞은편 골짜기에 머물렀어요."
         }
       ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Now, Israel, listen to the statutes and to the ordinances which I teach you, to do them; that you may live, and go in and possess the land which Yahweh, the God of your fathers, gives you.",
+          "korean": "이제 이스라엘아, 내가 너희에게 가르치는 규례와 법도를 듣고 행하여라. 그러면 너희가 살고, 들어가서 너희 조상들의 하나님 여호와께서 주시는 땅을 차지할 수 있을 거예요."
+        },
+        {
+          "verse": 2,
+          "original": "You shall not add to the word which I command you, neither shall you take away from it, that you may keep the commandments of Yahweh your God which I command you.",
+          "korean": "내가 너희에게 명령하는 말씀에 더하지도 말고 빼지도 마세요. 내가 너희에게 명령하는 너희 하나님 여호와의 명령을 지키려면요."
+        },
+        {
+          "verse": 3,
+          "original": "Your eyes have seen what Yahweh did because of Baal Peor; for Yahweh your God has destroyed all the men who followed Baal Peor from among you.",
+          "korean": "여러분의 눈이 바알브올로 인해 여호와께서 하신 일을 보았어요. 바알브올을 따라간 모든 사람을 너희 하나님 여호와께서 너희 가운데서 멸망시키셨어요."
+        },
+        {
+          "verse": 4,
+          "original": "But you who were faithful to Yahweh your God are all alive today.",
+          "korean": "그러나 너희 하나님 여호와께 충실했던 너희는 오늘 모두 살아 있어요."
+        },
+        {
+          "verse": 5,
+          "original": "Behold, I have taught you statutes and ordinances, even as Yahweh my God commanded me, that you should do so in the middle of the land where you go in to possess it.",
+          "korean": "보세요, 나의 하나님 여호와께서 나에게 명령하신 대로 내가 너희에게 규례와 법도를 가르쳤어요. 너희가 들어가서 차지할 땅에서 그대로 행하게요."
+        },
+        {
+          "verse": 6,
+          "original": "Keep therefore and do them; for this is your wisdom and your understanding in the sight of the peoples who shall hear all these statutes and say, \"Surely this great nation is a wise and understanding people.\"",
+          "korean": "그러므로 이것들을 지키고 행하세요. 이것이 모든 민족이 보는 앞에서 너희의 지혜와 분별이에요. 그들이 이 모든 규례를 듣고 말할 거예요. \"참으로 이 큰 민족은 지혜롭고 분별 있는 백성이다.\""
+        },
+        {
+          "verse": 7,
+          "original": "For what great nation is there that has a god so near to them as Yahweh our God is whenever we call on him?",
+          "korean": "어떤 큰 민족에게 우리 하나님 여호와처럼 우리가 부를 때마다 이렇게 가까이 계신 신이 있겠어요?"
+        },
+        {
+          "verse": 8,
+          "original": "What great nation is there that has statutes and ordinances so righteous as all this law which I set before you today?",
+          "korean": "어떤 큰 민족에게 내가 오늘 너희 앞에 내놓는 이 모든 율법처럼 이렇게 공의로운 규례와 법도가 있겠어요?"
+        },
+        {
+          "verse": 9,
+          "original": "Only be careful, and keep your soul diligently, lest you forget the things which your eyes saw, and lest they depart from your heart all the days of your life; but make them known to your children and your children's children—",
+          "korean": "다만 조심하고 네 마음을 부지런히 지키세요. 네 눈이 본 것들을 잊지 말고, 평생토록 네 마음에서 떠나지 않게 하세요. 그것들을 네 자녀들과 네 손자들에게 알려 주세요."
+        },
+        {
+          "verse": 10,
+          "original": "the day that you stood before Yahweh your God in Horeb, when Yahweh said to me, \"Assemble the people to me, and I will make them hear my words, that they may learn to fear me all the days that they live on the earth, and that they may teach their children.\"",
+          "korean": "너희가 호렙에서 너희 하나님 여호와 앞에 섰던 날, 여호와께서 나에게 말씀하셨어요. \"백성을 내 앞에 모으라. 내가 그들에게 내 말을 들려줄 것이다. 그래서 그들이 땅에 사는 날 동안 나를 두려워하는 법을 배우고, 그 자녀들에게도 가르치게 할 것이다.\""
+        },
+        {
+          "verse": 11,
+          "original": "You came near and stood under the mountain. The mountain burned with fire to the heart of the sky, with darkness, cloud, and thick darkness.",
+          "korean": "여러분이 가까이 와서 산 아래에 섰어요. 그 산은 불로 타올라 하늘 중심까지 닿았고, 어둠과 구름과 짙은 어둠이 있었어요."
+        },
+        {
+          "verse": 12,
+          "original": "Yahweh spoke to you out of the middle of the fire: you heard the voice of words, but you saw no form; you only heard a voice.",
+          "korean": "여호와께서 불 가운데서 너희에게 말씀하셨어요. 여러분은 말씀하시는 소리는 들었지만 어떤 형상도 보지 못했어요. 오직 음성만 들었어요."
+        },
+        {
+          "verse": 13,
+          "original": "He declared to you his covenant, which he commanded you to perform, even the ten commandments. He wrote them on two stone tablets.",
+          "korean": "여호와께서 너희에게 그의 언약, 곧 너희가 지켜야 할 십계명을 선포하셨어요. 그것을 두 돌판에 쓰셨어요."
+        },
+        {
+          "verse": 14,
+          "original": "Yahweh commanded me at that time to teach you statutes and ordinances, that you might do them in the land where you go over to possess it.",
+          "korean": "그때 여호와께서 나에게 명령하셔서 규례와 법도를 너희에게 가르치게 하셨어요. 너희가 건너가서 차지할 땅에서 그것을 행하게요."
+        },
+        {
+          "verse": 15,
+          "original": "Be very careful, for you saw no kind of form on the day that Yahweh spoke to you in Horeb out of the middle of the fire,",
+          "korean": "아주 조심하세요. 여호와께서 호렙에서 불 가운데서 너희에게 말씀하시던 날 너희는 아무 형상도 보지 못했어요."
+        },
+        {
+          "verse": 16,
+          "original": "lest you corrupt yourselves, and make yourself a carved image in the form of any figure, the likeness of male or female,",
+          "korean": "그러므로 너희 자신을 타락시켜서 어떤 형상으로든 우상을 만들지 마세요. 남자나 여자의 모습이든,"
+        },
+        {
+          "verse": 17,
+          "original": "the likeness of any animal that is on the earth, the likeness of any winged bird that flies in the sky,",
+          "korean": "땅 위의 어떤 짐승의 모습이든, 하늘을 나는 어떤 새의 모습이든,"
+        },
+        {
+          "verse": 18,
+          "original": "the likeness of anything that creeps on the ground, the likeness of any fish that is in the water under the earth;",
+          "korean": "땅을 기어 다니는 어떤 것의 모습이든, 땅 아래 물속에 있는 어떤 물고기의 모습이든 만들지 마세요."
+        },
+        {
+          "verse": 19,
+          "original": "and lest you lift up your eyes to the sky, and when you see the sun and the moon and the stars, even all the army of the sky, you are drawn away and worship them, and serve them, which Yahweh your God has allotted to all the peoples under the whole sky.",
+          "korean": "또 너희가 하늘을 쳐다보다가 해와 달과 별, 곧 하늘의 모든 별들을 보고 유혹되어 그것들에게 절하고 섬기지 않도록 하세요. 너희 하나님 여호와께서 그것들을 온 천하 모든 민족에게 나누어 주신 것이에요."
+        },
+        {
+          "verse": 20,
+          "original": "But Yahweh has taken you, and brought you out of the iron furnace, out of Egypt, to be to him a people of inheritance, as it is today.",
+          "korean": "그러나 여호와께서 너희를 데려다가 쇠풀무 같은 이집트에서 너희를 이끌어 내셨어요. 오늘날처럼 그의 기업의 백성이 되게 하려고요."
+        },
+        {
+          "verse": 21,
+          "original": "Furthermore Yahweh was angry with me for your sakes, and swore that I should not go over the Jordan, and that I should not go in to that good land which Yahweh your God gives you for an inheritance;",
+          "korean": "또한 여호와께서 너희 때문에 나에게 화를 내시고 내가 요단을 건너지 못하고 너희 하나님 여호와께서 너희에게 기업으로 주시는 그 좋은 땅에 들어가지 못할 것이라고 맹세하셨어요."
+        },
+        {
+          "verse": 22,
+          "original": "but I must die in this land. I must not go over the Jordan, but you shall go over and possess that good land.",
+          "korean": "그래서 나는 이 땅에서 죽어야 해요. 나는 요단을 건너지 못하지만, 여러분은 건너가서 그 좋은 땅을 차지할 거예요."
+        },
+        {
+          "verse": 23,
+          "original": "Be careful, lest you forget the covenant of Yahweh your God, which he made with you, and make yourselves a carved image in the form of anything which Yahweh your God has forbidden you.",
+          "korean": "조심하세요. 너희 하나님 여호와께서 너희와 맺으신 언약을 잊고, 너희 하나님 여호와께서 금하신 어떤 것의 형상으로 우상을 만들지 마세요."
+        },
+        {
+          "verse": 24,
+          "original": "For Yahweh your God is a devouring fire, a jealous God.",
+          "korean": "너희 하나님 여호와는 삼키는 불이시고 질투하시는 하나님이시기 때문이에요."
+        },
+        {
+          "verse": 25,
+          "original": "When you shall father children and children's children, and you shall have been long in the land, and shall corrupt yourselves, and make a carved image in the form of anything, and shall do that which is evil in Yahweh your God's sight to provoke him to anger,",
+          "korean": "너희가 자녀들과 손자들을 낳고 그 땅에 오래 살면서, 타락하여 어떤 것의 형상으로 우상을 만들고, 너희 하나님 여호와 보시기에 악한 일을 행하여 그를 화나게 한다면,"
+        },
+        {
+          "verse": 26,
+          "original": "I call heaven and earth to witness against you today, that you will soon utterly perish from off the land which you go over the Jordan to possess it. You will not prolong your days on it, but will utterly be destroyed.",
+          "korean": "오늘 내가 하늘과 땅을 증인으로 세워 너희에게 경고해요. 너희가 요단을 건너가서 차지할 땅에서 곧 완전히 멸망할 것이에요. 너희가 그 땅에서 오래 살지 못하고 완전히 멸망당할 거예요."
+        },
+        {
+          "verse": 27,
+          "original": "Yahweh will scatter you among the peoples, and you will be left few in number among the nations where Yahweh will lead you away.",
+          "korean": "여호와께서 너희를 민족들 가운데 흩으실 것이고, 여호와께서 너희를 끌어가시는 나라들 가운데서 너희는 수가 적게 남을 거예요."
+        },
+        {
+          "verse": 28,
+          "original": "There you shall serve gods, the work of men's hands, wood and stone, which neither see, nor hear, nor eat, nor smell.",
+          "korean": "거기서 너희는 사람의 손으로 만든 신들, 보지도 듣지도 먹지도 냄새 맡지도 못하는 나무와 돌을 섬기게 될 거예요."
+        },
+        {
+          "verse": 29,
+          "original": "But from there you shall seek Yahweh your God, and you shall find him when you search after him with all your heart and with all your soul.",
+          "korean": "그러나 거기서 너희가 너희 하나님 여호와를 찾으면 찾을 거예요. 마음을 다하고 뜻을 다하여 찾으면요."
+        },
+        {
+          "verse": 30,
+          "original": "When you are in oppression, and all these things have come on you, in the latter days you shall return to Yahweh your God and listen to his voice.",
+          "korean": "너희가 환난 중에 있을 때, 이 모든 일이 너희에게 닥쳤을 때, 후일에 너희가 너희 하나님 여호와께 돌아와서 그의 음성을 들을 거예요."
+        },
+        {
+          "verse": 31,
+          "original": "For Yahweh your God is a merciful God. He will not fail you nor destroy you, nor forget the covenant of your fathers which he swore to them.",
+          "korean": "너희 하나님 여호와는 자비하신 하나님이시기 때문이에요. 그가 너희를 버리지 않으시고 멸망시키지 않으시며, 너희 조상들에게 맹세하신 언약을 잊지 않으실 거예요."
+        },
+        {
+          "verse": 32,
+          "original": "For ask now of the days that are past, which were before you, since the day that God created man on the earth, and from the one end of the sky to the other, whether there has been anything as great as this thing is, or has been heard like it?",
+          "korean": "옛날에 대해 물어보세요. 너희보다 먼저, 하나님께서 땅 위에 사람을 창조하신 날부터, 하늘 이 끝에서 저 끝까지, 이처럼 큰 일이 있었던 적이 있는지, 이런 일을 들은 적이 있는지요?"
+        },
+        {
+          "verse": 33,
+          "original": "Did a people ever hear the voice of God speaking out of the middle of the fire, as you have heard, and live?",
+          "korean": "어떤 백성이 너희가 들은 것처럼 불 가운데서 말씀하시는 하나님의 음성을 듣고도 살았던 적이 있나요?"
+        },
+        {
+          "verse": 34,
+          "original": "Or has God tried to go and take a nation for himself from among another nation, by trials, by signs, by wonders, by war, by a mighty hand, by an outstretched arm, and by great terrors, according to all that Yahweh your God did for you in Egypt before your eyes?",
+          "korean": "또 어떤 신이 시험과 표적과 기사와 전쟁과 강한 손과 편 팔과 큰 두려움으로 다른 민족 가운데서 한 민족을 자기 것으로 취하려 한 적이 있나요? 너희 하나님 여호와께서 이집트에서 너희 눈앞에서 너희를 위해 하신 모든 일처럼요?"
+        },
+        {
+          "verse": 35,
+          "original": "It was shown to you so that you might know that Yahweh is God. There is no one else besides him.",
+          "korean": "그것이 너희에게 보여졌어요. 여호와가 하나님이시라는 것을 너희가 알게 하려고요. 그 외에 다른 신은 없어요."
+        },
+        {
+          "verse": 36,
+          "original": "Out of heaven he made you to hear his voice, that he might instruct you. On earth he made you to see his great fire; and you heard his words out of the middle of the fire.",
+          "korean": "하늘에서 그가 너희에게 그의 음성을 들려주셔서 너희를 가르치셨어요. 땅에서는 너희에게 그의 큰 불을 보여주셨고, 너희는 불 가운데서 그의 말씀을 들었어요."
+        },
+        {
+          "verse": 37,
+          "original": "Because he loved your fathers, therefore he chose their offspring after them, and brought you out with his presence, with his great power, out of Egypt;",
+          "korean": "그가 너희 조상들을 사랑하셨기 때문에 그 후손을 택하시고, 그의 임재로, 그의 큰 능력으로 너희를 이집트에서 이끌어 내셨어요."
+        },
+        {
+          "verse": 38,
+          "original": "to drive out nations from before you greater and mightier than you, to bring you in, to give you their land for an inheritance, as it is today.",
+          "korean": "너희보다 크고 강한 민족들을 너희 앞에서 쫓아내시고, 너희를 들어가게 하시고, 오늘날처럼 그들의 땅을 너희에게 기업으로 주시려고요."
+        },
+        {
+          "verse": 39,
+          "original": "Know therefore today, and take it to heart, that Yahweh himself is God in heaven above and on the earth beneath. There is no one else.",
+          "korean": "그러므로 오늘 알고 마음에 새기세요. 위로 하늘에서나 아래로 땅에서나 여호와가 하나님이시라는 것을요. 그 외에 다른 신은 없어요."
+        },
+        {
+          "verse": 40,
+          "original": "You shall keep his statutes and his commandments which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land which Yahweh your God gives you for all time.",
+          "korean": "오늘 내가 너희에게 명령하는 그의 규례와 명령을 지키세요. 그러면 너희와 너희 후손이 잘되고, 너희 하나님 여호와께서 주시는 땅에서 영원히 오래 살 거예요."
+        },
+        {
+          "verse": 41,
+          "original": "Then Moses set apart three cities beyond the Jordan toward the sunrise,",
+          "korean": "그때 모세는 요단 건너편 해 뜨는 쪽에 세 성을 구별했어요."
+        },
+        {
+          "verse": 42,
+          "original": "that the man slayer might flee there, who kills his neighbor unintentionally and didn't hate him in time past, and that fleeing to one of these cities he might live:",
+          "korean": "본래 미워하지 않던 이웃을 실수로 죽인 사람이 그곳으로 도망갈 수 있게요. 이 성들 중 하나로 도망가면 살 수 있어요."
+        },
+        {
+          "verse": 43,
+          "original": "Bezer in the wilderness, in the plain country, for the Reubenites; and Ramoth in Gilead for the Gadites; and Golan in Bashan for the Manassites.",
+          "korean": "르우벤 지파를 위해 평지 광야에 있는 베셀, 갓 지파를 위해 길르앗에 있는 라못, 므낫세 지파를 위해 바산에 있는 골란이에요."
+        },
+        {
+          "verse": 44,
+          "original": "This is the law which Moses set before the children of Israel.",
+          "korean": "이것이 모세가 이스라엘 자손 앞에 내놓은 율법이에요."
+        },
+        {
+          "verse": 45,
+          "original": "These are the testimonies, and the statutes, and the ordinances which Moses spoke to the children of Israel when they came out of Egypt,",
+          "korean": "이것들은 이스라엘 자손이 이집트에서 나왔을 때 모세가 그들에게 말한 증거와 규례와 법도예요."
+        },
+        {
+          "verse": 46,
+          "original": "beyond the Jordan, in the valley opposite Beth Peor, in the land of Sihon king of the Amorites, who lived at Heshbon, whom Moses and the children of Israel struck when they came out of Egypt.",
+          "korean": "요단 건너편 벳브올 맞은편 골짜기에서, 헤스본에 살던 아모리 왕 시혼의 땅에서요. 모세와 이스라엘 자손이 이집트에서 나올 때 그를 쳤어요."
+        },
+        {
+          "verse": 47,
+          "original": "They took possession of his land and the land of Og king of Bashan, the two kings of the Amorites, who were beyond the Jordan toward the sunrise;",
+          "korean": "그들은 그의 땅과 바산 왕 옥의 땅을 차지했어요. 이 두 아모리 왕은 요단 건너편 해 뜨는 쪽에 있었어요."
+        },
+        {
+          "verse": 48,
+          "original": "from Aroer, which is on the edge of the valley of the Arnon, even to Mount Sion (also called Hermon),",
+          "korean": "아르논 골짜기 가에 있는 아로엘에서부터 시온 산 곧 헤르몬까지,"
+        },
+        {
+          "verse": 49,
+          "original": "and all the Arabah beyond the Jordan eastward, even to the sea of the Arabah, under the slopes of Pisgah.",
+          "korean": "그리고 요단 건너편 동쪽 아라바 전체, 비스가 산기슭 아래 아라바 바다까지예요."
+        }
+      ]
     }
   ]
 }
