@@ -1,0 +1,27 @@
+{
+  "book": "Titus",
+  "bookKorean": "디도서",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {"verse": 1, "original": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's chosen ones, and the knowledge of the truth which is according to godliness,", "korean": "하나님의 종이요 예수 그리스도의 사도인 바울이에요. 하나님의 택하신 자들의 믿음과 경건에 맞는 진리의 지식을 위해서예요."},
+        {"verse": 2, "original": "in hope of eternal life, which God, who can't lie, promised before time began;", "korean": "영생의 소망 가운데요. 거짓말하지 않으시는 하나님께서 영원 전에 약속하셨어요."},
+        {"verse": 3, "original": "but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior;", "korean": "때가 되어 그분의 말씀을 나타내셨어요. 나는 우리 구원자 하나님의 명령을 따라 이 전파를 맡았어요."},
+        {"verse": 4, "original": "to Titus, my true child according to a common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.", "korean": "같은 믿음 안에서 나의 참 아들인 디도에게요. 아버지 하나님과 우리 구원자 주 예수 그리스도에게서 은혜와 긍휼과 평안이 있기를 바라요."},
+        {"verse": 5, "original": "I left you in Crete for this reason, that you would set in order the things that were lacking and appoint elders in every city, as I directed you,", "korean": "내가 너를 그레데에 둔 것은 이 때문이에요. 부족한 것들을 바로잡고 내가 명한 대로 각 성에 장로들을 세우라고요."},
+        {"verse": 6, "original": "if anyone is blameless, the husband of one wife, having children who believe, who are not accused of loose or unruly behavior.", "korean": "책망 받을 것이 없고 한 아내의 남편이고 믿는 자녀가 있어야 해요. 방탕하거나 불순종한다고 비난받지 않는 자녀요."},
+        {"verse": 7, "original": "For the overseer must be blameless, as God's steward, not self-pleasing, not easily angered, not given to wine, not violent, not greedy for dishonest gain;", "korean": "감독은 하나님의 청지기로서 책망 받을 것이 없어야 해요. 고집부리지 않고, 쉽게 화내지 않고, 술에 빠지지 않고, 폭력적이지 않고, 더러운 이득을 탐내지 않아야 해요."},
+        {"verse": 8, "original": "but given to hospitality, a lover of good, sober minded, fair, holy, self-controlled,", "korean": "오히려 손님 대접하기를 좋아하고, 선을 사랑하고, 분별 있고, 공정하고, 거룩하고, 절제해야 해요."},
+        {"verse": 9, "original": "holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him.", "korean": "가르침대로 미쁜 말씀을 굳게 지켜야 해요. 그래야 건전한 교훈으로 권할 수 있고 반대하는 자들을 책망할 수 있어요."},
+        {"verse": 10, "original": "For there are also many unruly men, vain talkers and deceivers, especially those of the circumcision,", "korean": "불순종하고 헛된 말을 하며 속이는 자들이 많아요. 특히 할례당 가운데요."},
+        {"verse": 11, "original": "whose mouths must be stopped: men who overthrow whole houses, teaching things which they ought not, for dishonest gain's sake.", "korean": "그들의 입을 막아야 해요. 그들이 더러운 이득을 위해 가르쳐서는 안 될 것을 가르쳐 온 집안을 무너뜨려요."},
+        {"verse": 12, "original": "One of them, a prophet of their own, said, \"Cretans are always liars, evil beasts, and idle gluttons.\"", "korean": "그들 중 한 선지자가 말했어요. '그레데 사람들은 항상 거짓말쟁이요 악한 짐승이요 게으른 먹보라.'"},
+        {"verse": 13, "original": "This testimony is true. For this cause, reprove them sharply, that they may be sound in the faith,", "korean": "이 증언이 참이에요. 그러므로 엄히 책망해요. 그래서 그들이 믿음에 온전하게 해요."},
+        {"verse": 14, "original": "not paying attention to Jewish fables and commandments of men who turn away from the truth.", "korean": "유대인의 허탄한 이야기와 진리를 버리는 사람들의 계명에 주의하지 않게요."},
+        {"verse": 15, "original": "To the pure, all things are pure; but to those who are defiled and unbelieving, nothing is pure; but both their mind and their conscience are defiled.", "korean": "깨끗한 자에게는 모든 것이 깨끗해요. 그러나 더럽고 믿지 않는 자들에게는 아무것도 깨끗하지 않아요. 그들의 마음과 양심이 더러워졌어요."},
+        {"verse": 16, "original": "They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work.", "korean": "그들은 하나님을 안다고 말하지만 행실로는 부인해요. 가증하고 순종하지 않으며 모든 선한 일에 합당하지 않아요."}
+      ]
+    }
+  ]
+}
