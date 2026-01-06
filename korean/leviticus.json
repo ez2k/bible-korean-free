@@ -1311,6 +1311,246 @@
           "korean": "모세가 그것을 듣고 좋게 여겼어요."
         }
       ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh spoke to Moses and to Aaron, saying to them,",
+          "korean": "여호와께서 모세와 아론에게 말씀하셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Speak to the children of Israel, saying, 'These are the living things which you may eat among all the animals that are on the earth.",
+          "korean": "\"이스라엘 자손에게 말해라: '이것들이 땅 위의 모든 동물 중에서 너희가 먹을 수 있는 생물이에요."
+        },
+        {
+          "verse": 3,
+          "original": "Whatever parts the hoof, and is cloven-footed, and chews the cud among the animals, that you may eat.",
+          "korean": "동물 중에서 굽이 갈라져 쪽발이 되고 새김질하는 것은 먹을 수 있어요."
+        },
+        {
+          "verse": 4,
+          "original": "\"'Nevertheless these you shall not eat of those that chew the cud, or of those who part the hoof: the camel, because it chews the cud but doesn't have a parted hoof, is unclean to you.",
+          "korean": "그러나 새김질하거나 굽이 갈라진 것 중에서 이것들은 먹지 마라: 낙타는 새김질하지만 굽이 갈라지지 않았으니 너희에게 부정해요."
+        },
+        {
+          "verse": 5,
+          "original": "The hyrax, because it chews the cud but doesn't have a parted hoof, is unclean to you.",
+          "korean": "사반은 새김질하지만 굽이 갈라지지 않았으니 너희에게 부정해요."
+        },
+        {
+          "verse": 6,
+          "original": "The hare, because it chews the cud but doesn't have a parted hoof, is unclean to you.",
+          "korean": "토끼는 새김질하지만 굽이 갈라지지 않았으니 너희에게 부정해요."
+        },
+        {
+          "verse": 7,
+          "original": "The pig, because it has a split hoof, and is cloven-footed, but doesn't chew the cud, is unclean to you.",
+          "korean": "돼지는 굽이 갈라져 쪽발이지만 새김질하지 않으니 너희에게 부정해요."
+        },
+        {
+          "verse": 8,
+          "original": "You shall not eat their meat. You shall not touch their carcasses. They are unclean to you.",
+          "korean": "그것들의 고기를 먹지 말고 그 죽은 몸을 만지지 마라. 그것들은 너희에게 부정해요."
+        },
+        {
+          "verse": 9,
+          "original": "\"'These you may eat of all that are in the waters: whatever has fins and scales in the waters, in the seas, and in the rivers, that you may eat.",
+          "korean": "물에 있는 모든 것 중에서 이것들을 먹을 수 있어요: 물속 곧 바다와 강에서 지느러미와 비늘이 있는 것은 먹을 수 있어요."
+        },
+        {
+          "verse": 10,
+          "original": "All that don't have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are an abomination to you,",
+          "korean": "바다와 강에서 지느러미와 비늘이 없는 모든 것과, 물에서 움직이는 모든 것과, 물에 있는 모든 생물은 너희에게 가증해요."
+        },
+        {
+          "verse": 11,
+          "original": "and you shall detest them. You shall not eat of their meat, and you shall detest their carcasses.",
+          "korean": "그것들을 싫어해야 해요. 그 고기를 먹지 말고 그 죽은 몸을 싫어해야 해요."
+        },
+        {
+          "verse": 12,
+          "original": "Whatever has no fins nor scales in the waters is an abomination to you.",
+          "korean": "물에서 지느러미와 비늘이 없는 것은 무엇이든지 너희에게 가증해요."
+        },
+        {
+          "verse": 13,
+          "original": "\"'You shall detest these among the birds; they shall not be eaten because they are an abomination: the eagle, the vulture, the black vulture,",
+          "korean": "새들 중에서 이것들을 싫어해야 해요. 가증하니 먹지 마라: 독수리, 솔개, 검은 솔개,"
+        },
+        {
+          "verse": 14,
+          "original": "the red kite, any kind of black kite,",
+          "korean": "붉은 솔개와 모든 종류의 검은 솔개,"
+        },
+        {
+          "verse": 15,
+          "original": "any kind of raven,",
+          "korean": "모든 종류의 까마귀,"
+        },
+        {
+          "verse": 16,
+          "original": "the horned owl, the screech owl, the gull, any kind of hawk,",
+          "korean": "타조, 올빼미, 갈매기, 모든 종류의 매,"
+        },
+        {
+          "verse": 17,
+          "original": "the little owl, the cormorant, the great owl,",
+          "korean": "작은 올빼미, 가마우지, 큰 올빼미,"
+        },
+        {
+          "verse": 18,
+          "original": "the white owl, the desert owl, the osprey,",
+          "korean": "흰 올빼미, 사막 올빼미, 물수리,"
+        },
+        {
+          "verse": 19,
+          "original": "the stork, any kind of heron, the hoopoe, and the bat.",
+          "korean": "황새, 모든 종류의 왜가리, 오디새, 박쥐에요."
+        },
+        {
+          "verse": 20,
+          "original": "\"'All flying insects that walk on all fours are an abomination to you.",
+          "korean": "네 발로 기어 다니는 모든 날개 달린 곤충은 너희에게 가증해요."
+        },
+        {
+          "verse": 21,
+          "original": "Yet you may eat these: of all winged creeping things that go on all fours, which have long, jointed legs for hopping on the earth.",
+          "korean": "그러나 네 발로 기어 다니는 날개 달린 기는 것 중에서 땅에서 뛰기 위해 긴 관절 다리가 있는 것은 먹을 수 있어요."
+        },
+        {
+          "verse": 22,
+          "original": "Even of these you may eat: any kind of locust, any kind of katydid, any kind of cricket, and any kind of grasshopper.",
+          "korean": "그중에서 이것들을 먹을 수 있어요: 모든 종류의 메뚜기, 모든 종류의 베짱이, 모든 종류의 귀뚜라미, 모든 종류의 풀무치에요."
+        },
+        {
+          "verse": 23,
+          "original": "But all winged creeping things which have four feet are an abomination to you.",
+          "korean": "그러나 네 발이 있는 모든 날개 달린 기는 것은 너희에게 가증해요."
+        },
+        {
+          "verse": 24,
+          "original": "\"'By these you will become unclean: whoever touches their carcass shall be unclean until the evening.",
+          "korean": "이것들로 인해 너희가 부정해져요: 그 죽은 몸을 만지는 사람은 저녁까지 부정해요."
+        },
+        {
+          "verse": 25,
+          "original": "Whoever carries any part of their carcass shall wash his clothes, and be unclean until the evening.",
+          "korean": "그 죽은 몸의 일부를 운반하는 사람은 옷을 빨고 저녁까지 부정해요."
+        },
+        {
+          "verse": 26,
+          "original": "\"'Every animal which has a split hoof that isn't completely divided, or doesn't chew the cud, is unclean to you. Everyone who touches them shall be unclean.",
+          "korean": "굽이 갈라졌지만 완전히 나뉘지 않거나 새김질하지 않는 모든 동물은 너희에게 부정해요. 그것들을 만지는 모든 사람이 부정해요."
+        },
+        {
+          "verse": 27,
+          "original": "Whatever goes on its paws, among all animals that go on all fours, they are unclean to you. Whoever touches their carcass shall be unclean until the evening.",
+          "korean": "네 발로 다니는 모든 동물 중에서 발바닥으로 걷는 것은 무엇이든지 너희에게 부정해요. 그 죽은 몸을 만지는 사람은 저녁까지 부정해요."
+        },
+        {
+          "verse": 28,
+          "original": "He who carries their carcass shall wash his clothes, and be unclean until the evening. They are unclean to you.",
+          "korean": "그 죽은 몸을 운반하는 사람은 옷을 빨고 저녁까지 부정해요. 그것들은 너희에게 부정해요."
+        },
+        {
+          "verse": 29,
+          "original": "\"'These are they which are unclean to you among the creeping things that creep on the earth: the weasel, the rat, any kind of great lizard,",
+          "korean": "땅에서 기어 다니는 기는 것 중에서 이것들이 너희에게 부정해요: 족제비, 쥐, 모든 종류의 큰 도마뱀,"
+        },
+        {
+          "verse": 30,
+          "original": "the gecko, and the monitor lizard, the wall lizard, the skink, and the chameleon.",
+          "korean": "도마뱀붙이, 왕도마뱀, 벽도마뱀, 도마뱀, 카멜레온이에요."
+        },
+        {
+          "verse": 31,
+          "original": "These are they which are unclean to you among all that creep. Whoever touches them when they are dead shall be unclean until the evening.",
+          "korean": "이것들이 모든 기는 것 중에서 너희에게 부정한 것들이에요. 그것들이 죽었을 때 만지는 사람은 저녁까지 부정해요."
+        },
+        {
+          "verse": 32,
+          "original": "Anything they fall on when they are dead shall be unclean; whether it is any vessel of wood, or clothing, or skin, or sack, whatever vessel it is, with which any work is done, it must be put into water, and it shall be unclean until the evening. Then it will be clean.",
+          "korean": "그것들이 죽어서 떨어지는 것은 무엇이든 부정해요. 나무 그릇이든, 옷이든, 가죽이든, 자루든, 무슨 일에 쓰는 그릇이든 물에 넣어야 하고 저녁까지 부정해요. 그 후에 정결해져요."
+        },
+        {
+          "verse": 33,
+          "original": "Every earthen vessel into which any of them falls and all that is in it shall be unclean. You shall break it.",
+          "korean": "그것들 중 하나가 떨어진 모든 질그릇과 그 안에 있는 모든 것이 부정해요. 그것을 깨뜨려야 해요."
+        },
+        {
+          "verse": 34,
+          "original": "All food which may be eaten which is soaked in water shall be unclean. All drink that may be drunk in every such vessel shall be unclean.",
+          "korean": "먹을 수 있는 음식 중에서 물에 젖은 것은 모두 부정해요. 그런 그릇에서 마실 수 있는 모든 음료도 부정해요."
+        },
+        {
+          "verse": 35,
+          "original": "Everything whereupon part of their carcass falls shall be unclean; whether oven, or range for pots, it shall be broken in pieces. They are unclean, and shall be unclean to you.",
+          "korean": "그 죽은 몸 일부가 떨어지는 모든 것은 부정해요. 화덕이든 솥단지든 깨뜨려야 해요. 그것들은 부정하고 너희에게 부정해요."
+        },
+        {
+          "verse": 36,
+          "original": "Nevertheless a spring or a cistern in which water is gathered shall be clean, but that which touches their carcass shall be unclean.",
+          "korean": "그러나 물이 모이는 샘이나 웅덩이는 정결해요. 그러나 그 죽은 몸을 만지는 것은 부정해요."
+        },
+        {
+          "verse": 37,
+          "original": "If part of their carcass falls on any sowing seed which is to be sown, it is clean.",
+          "korean": "그 죽은 몸 일부가 심을 씨앗 위에 떨어지면 그것은 정결해요."
+        },
+        {
+          "verse": 38,
+          "original": "But if water is put on the seed, and part of their carcass falls on it, it is unclean to you.",
+          "korean": "그러나 씨앗에 물을 부었는데 그 죽은 몸 일부가 그 위에 떨어지면 너희에게 부정해요."
+        },
+        {
+          "verse": 39,
+          "original": "\"'If any animal of which you may eat dies, he who touches its carcass shall be unclean until the evening.",
+          "korean": "너희가 먹을 수 있는 동물이 죽으면 그 죽은 몸을 만지는 사람은 저녁까지 부정해요."
+        },
+        {
+          "verse": 40,
+          "original": "He who eats of its carcass shall wash his clothes, and be unclean until the evening. He also who carries its carcass shall wash his clothes, and be unclean until the evening.",
+          "korean": "그 죽은 몸을 먹는 사람은 옷을 빨고 저녁까지 부정해요. 그 죽은 몸을 운반하는 사람도 옷을 빨고 저녁까지 부정해요."
+        },
+        {
+          "verse": 41,
+          "original": "\"'Every creeping thing that creeps on the earth is an abomination. It shall not be eaten.",
+          "korean": "땅에서 기어 다니는 모든 기는 것은 가증해요. 먹지 마라."
+        },
+        {
+          "verse": 42,
+          "original": "Whatever goes on its belly, and whatever goes on all fours, or whatever has many feet, even all creeping things that creep on the earth, them you shall not eat; for they are an abomination.",
+          "korean": "배로 다니는 것이든, 네 발로 다니는 것이든, 많은 발이 있는 것이든, 땅에서 기어 다니는 모든 기는 것을 먹지 마라. 그것들은 가증해요."
+        },
+        {
+          "verse": 43,
+          "original": "You shall not make yourselves abominable with any creeping thing that creeps. You shall not make yourselves unclean with them, that you should be defiled by them.",
+          "korean": "기어 다니는 기는 것으로 너희 자신을 가증하게 하지 마라. 그것들로 너희 자신을 부정하게 하여 더럽혀지지 마라."
+        },
+        {
+          "verse": 44,
+          "original": "For I am Yahweh your God. Sanctify yourselves therefore, and be holy; for I am holy. You shall not defile yourselves with any kind of creeping thing that moves on the earth.",
+          "korean": "나는 여호와 너희 하나님이에요. 그러므로 너희 자신을 거룩하게 하고 거룩해라. 나는 거룩하기 때문이에요. 땅에서 움직이는 어떤 기는 것으로도 너희 자신을 더럽히지 마라."
+        },
+        {
+          "verse": 45,
+          "original": "For I am Yahweh who brought you up out of the land of Egypt, to be your God. You shall therefore be holy, for I am holy.",
+          "korean": "나는 여호와로서 너희를 이집트 땅에서 이끌어내어 너희의 하나님이 되었어요. 그러므로 너희는 거룩해라. 나는 거룩하기 때문이에요."
+        },
+        {
+          "verse": 46,
+          "original": "\"'This is the law of the animal, and of the bird, and of every living creature that moves in the waters, and of every creature that creeps on the earth,",
+          "korean": "이것이 짐승과 새와 물에서 움직이는 모든 생물과 땅에서 기어 다니는 모든 생물에 대한 법이에요."
+        },
+        {
+          "verse": 47,
+          "original": "to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.'\"",
+          "korean": "부정한 것과 정결한 것, 먹을 수 있는 생물과 먹을 수 없는 생물을 구별하게 해요.'\""
+        }
+      ]
     }
   ]
 }
