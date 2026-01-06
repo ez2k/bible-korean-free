@@ -1,0 +1,241 @@
+{
+  "book": "Deuteronomy",
+  "bookKorean": "신명기",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "These are the words which Moses spoke to all Israel beyond the Jordan in the wilderness, in the Arabah opposite Suf, between Paran, Tophel, Laban, Hazeroth, and Dizahab.",
+          "korean": "이것은 모세가 요단 강 건너편 광야에서 이스라엘 백성 모두에게 한 말씀이에요. 그곳은 숩 맞은편 아라바 지역으로, 바란과 도벨과 라반과 하세롯과 디사합 사이에 있었어요."
+        },
+        {
+          "verse": 2,
+          "original": "It is eleven days' journey from Horeb by the way of Mount Seir to Kadesh Barnea.",
+          "korean": "호렙 산에서 세일 산 길을 따라 가데스 바네아까지는 열하루 걸리는 거리예요."
+        },
+        {
+          "verse": 3,
+          "original": "In the fortieth year, in the eleventh month, on the first day of the month, Moses spoke to the children of Israel according to all that Yahweh had given him in commandment to them,",
+          "korean": "사십 년째 되던 해 열한째 달 첫째 날에, 모세는 여호와께서 이스라엘 백성에게 명령하신 모든 말씀을 전했어요."
+        },
+        {
+          "verse": 4,
+          "original": "after he had struck Sihon the king of the Amorites who lived in Heshbon, and Og the king of Bashan who lived in Ashtaroth, at Edrei.",
+          "korean": "그때는 모세가 헤스본에 살던 아모리 왕 시혼과, 아스다롯에 살던 바산 왕 옥을 에드레이에서 무찌른 후였어요."
+        },
+        {
+          "verse": 5,
+          "original": "Beyond the Jordan, in the land of Moab, Moses began to declare this law, saying,",
+          "korean": "요단 강 건너편 모압 땅에서 모세는 이 율법을 설명하기 시작하며 말했어요."
+        },
+        {
+          "verse": 6,
+          "original": "\"Yahweh our God spoke to us in Horeb, saying, 'You have lived long enough at this mountain.",
+          "korean": "\"우리 하나님 여호와께서 호렙 산에서 우리에게 말씀하셨어요. '너희가 이 산에 머문 지 오래되었으니"
+        },
+        {
+          "verse": 7,
+          "original": "Turn, and take your journey, and go to the hill country of the Amorites and to all the places near there: in the Arabah, in the hill country, in the lowland, in the South, by the seashore, in the land of the Canaanites, and in Lebanon as far as the great river, the river Euphrates.",
+          "korean": "돌아서서 여행을 시작하여 아모리 족속의 산지와 그 주변 모든 곳으로 가거라. 아라바와 산지와 평지와 남쪽 지방과 해변과 가나안 땅과 레바논까지, 큰 강 유프라테스 강까지 가거라.'"
+        },
+        {
+          "verse": 8,
+          "original": "Behold, I have set the land before you. Go in and possess the land which Yahweh swore to your fathers—to Abraham, to Isaac, and to Jacob—to give to them and to their offspring after them.'\"",
+          "korean": "보아라, 내가 그 땅을 너희 앞에 두었다. 들어가서 여호와께서 너희 조상들, 곧 아브라함과 이삭과 야곱에게 그들과 그 자손에게 주겠다고 약속하신 그 땅을 차지하여라.'\""
+        },
+        {
+          "verse": 9,
+          "original": "I spoke to you at that time, saying, \"I am not able to bear you myself alone.",
+          "korean": "그때 나는 여러분에게 말했어요. \"나 혼자서는 여러분을 감당할 수 없어요."
+        },
+        {
+          "verse": 10,
+          "original": "Yahweh your God has multiplied you, and behold, you are today as the stars of the sky for multitude.",
+          "korean": "너희 하나님 여호와께서 너희를 많이 늘려 주셔서, 보세요, 오늘날 여러분은 하늘의 별처럼 많아졌어요."
+        },
+        {
+          "verse": 11,
+          "original": "Yahweh, the God of your fathers, make you a thousand times as many as you are and bless you, as he has promised you!",
+          "korean": "너희 조상들의 하나님 여호와께서 약속하신 대로 너희를 지금보다 천 배나 더 많게 하시고 복을 주시기를 바라요!"
+        },
+        {
+          "verse": 12,
+          "original": "How can I myself alone bear your problems, your burdens, and your strife?",
+          "korean": "어떻게 나 혼자서 여러분의 문제와 짐과 다툼을 감당할 수 있겠어요?"
+        },
+        {
+          "verse": 13,
+          "original": "Take wise men of understanding who are respected among your tribes, and I will make them heads over you.\"",
+          "korean": "각 지파에서 지혜 있고 통찰력 있고 존경받는 사람들을 뽑으세요. 그러면 내가 그들을 여러분의 지도자로 세울게요.\""
+        },
+        {
+          "verse": 14,
+          "original": "You answered me, and said, \"The thing which you have spoken is good to do.\"",
+          "korean": "여러분이 나에게 대답했어요. \"당신이 말씀하신 것은 좋은 일이에요.\""
+        },
+        {
+          "verse": 15,
+          "original": "So I took the heads of your tribes, wise and respected men, and made them heads over you, captains of thousands, captains of hundreds, captains of fifties, captains of tens, and officers, according to your tribes.",
+          "korean": "그래서 나는 각 지파에서 지혜롭고 존경받는 사람들을 뽑아서 여러분의 지도자로 세웠어요. 천부장, 백부장, 오십부장, 십부장과 관리들을 각 지파에 따라 세웠어요."
+        },
+        {
+          "verse": 16,
+          "original": "I commanded your judges at that time, saying, \"Hear cases between your brothers and judge righteously between a man and his brother, and the foreigner who is living with him.",
+          "korean": "그때 나는 여러분의 재판관들에게 명령했어요. \"형제들 사이의 문제를 잘 들어주고, 사람과 그의 형제 사이에, 또 함께 사는 외국인과 사이에 공정하게 판결하세요."
+        },
+        {
+          "verse": 17,
+          "original": "You shall not show partiality in judgment; you shall hear the small and the great alike. You shall not be afraid of the face of man, for the judgment is God's. The case that is too hard for you, you shall bring to me, and I will hear it.\"",
+          "korean": "재판할 때 편을 들지 마세요. 작은 사람이나 높은 사람이나 똑같이 들어주세요. 사람의 얼굴을 두려워하지 마세요, 재판은 하나님의 것이니까요. 너무 어려운 문제는 나에게 가져오세요, 내가 들을게요.\""
+        },
+        {
+          "verse": 18,
+          "original": "I commanded you at that time all the things which you should do.",
+          "korean": "그때 나는 여러분이 해야 할 모든 일을 명령했어요."
+        },
+        {
+          "verse": 19,
+          "original": "We traveled from Horeb and went through all that great and terrible wilderness which you saw, by the way to the hill country of the Amorites, as Yahweh our God commanded us; and we came to Kadesh Barnea.",
+          "korean": "우리는 호렙 산을 떠나, 우리 하나님 여호와께서 명령하신 대로 아모리 산지로 가는 길을 따라, 여러분이 본 그 크고 무서운 광야를 지나 가데스 바네아에 도착했어요."
+        },
+        {
+          "verse": 20,
+          "original": "I said to you, \"You have come to the hill country of the Amorites, which Yahweh our God gives to us.",
+          "korean": "나는 여러분에게 말했어요. \"여러분은 우리 하나님 여호와께서 우리에게 주시는 아모리 족속의 산지에 왔어요."
+        },
+        {
+          "verse": 21,
+          "original": "Behold, Yahweh your God has set the land before you. Go up, take possession, as Yahweh the God of your fathers has spoken to you. Don't be afraid, neither be dismayed.\"",
+          "korean": "보세요, 너희 하나님 여호와께서 그 땅을 너희 앞에 두셨어요. 올라가서 차지하세요, 너희 조상들의 하나님 여호와께서 너희에게 말씀하신 대로요. 두려워하지 말고 낙심하지 마세요.\""
+        },
+        {
+          "verse": 22,
+          "original": "You came near to me, everyone of you, and said, \"Let's send men before us, that they may search the land for us, and bring back to us word of the way by which we must go up, and the cities to which we shall come.\"",
+          "korean": "그때 여러분 모두가 나에게 와서 말했어요. \"우리보다 먼저 사람들을 보내서 그 땅을 살펴보게 하고, 우리가 올라갈 길과 우리가 갈 성들에 대해 알려오게 해요.\""
+        },
+        {
+          "verse": 23,
+          "original": "The thing pleased me well. I took twelve of your men, one man for every tribe.",
+          "korean": "그 말이 좋게 들렸어요. 그래서 나는 각 지파에서 한 사람씩 열두 사람을 뽑았어요."
+        },
+        {
+          "verse": 24,
+          "original": "They turned and went up into the hill country, and came to the valley of Eshcol, and spied it out.",
+          "korean": "그들은 돌아서서 산지로 올라가 에스골 골짜기에 이르러 그곳을 살펴보았어요."
+        },
+        {
+          "verse": 25,
+          "original": "They took some of the fruit of the land in their hands and brought it down to us, and brought us word again, and said, \"It is a good land which Yahweh our God gives to us.\"",
+          "korean": "그들은 그 땅의 과일을 손에 들고 우리에게 가져와서 보고했어요. \"우리 하나님 여호와께서 우리에게 주시는 땅은 좋은 땅이에요.\""
+        },
+        {
+          "verse": 26,
+          "original": "Yet you wouldn't go up, but rebelled against the commandment of Yahweh your God.",
+          "korean": "그런데도 여러분은 올라가려 하지 않고, 너희 하나님 여호와의 명령을 거역했어요."
+        },
+        {
+          "verse": 27,
+          "original": "You murmured in your tents, and said, \"Because Yahweh hated us, he has brought us out of the land of Egypt, to deliver us into the hand of the Amorites to destroy us.",
+          "korean": "여러분은 장막에서 불평하며 말했어요. \"여호와께서 우리를 미워하셔서 이집트 땅에서 우리를 데리고 나오셨어. 아모리 족속의 손에 넘겨서 우리를 멸망시키려고 그러시는 거야.\""
+        },
+        {
+          "verse": 28,
+          "original": "Where are we going up? Our brothers have made our heart melt, saying, 'The people are greater and taller than we. The cities are great and fortified up to the sky. Moreover we have seen the sons of the Anakim there!'\"",
+          "korean": "우리가 어디로 올라간단 말이야? 우리 형제들이 우리 마음을 녹아내리게 했어. '그 백성은 우리보다 크고 키가 커. 그 성들은 크고 성벽이 하늘까지 닿아. 게다가 거기서 아낙 자손들도 봤어!' 라고 하잖아.\""
+        },
+        {
+          "verse": 29,
+          "original": "Then I said to you, \"Don't be terrified. Don't be afraid of them.",
+          "korean": "그래서 나는 여러분에게 말했어요. \"겁먹지 마세요. 그들을 두려워하지 마세요."
+        },
+        {
+          "verse": 30,
+          "original": "Yahweh your God, who goes before you, he will fight for you, according to all that he did for you in Egypt before your eyes,",
+          "korean": "너희 앞에 가시는 너희 하나님 여호와께서 너희를 위해 싸워 주실 거예요. 여러분 눈앞에서 이집트에서 너희를 위해 하신 모든 일처럼요."
+        },
+        {
+          "verse": 31,
+          "original": "and in the wilderness where you have seen how that Yahweh your God carried you, as a man carries his son, in all the way that you went, until you came to this place.\"",
+          "korean": "그리고 광야에서도 너희 하나님 여호와께서 아버지가 아들을 안듯이 너희를 안고 가신 것을 보지 않았어요? 여러분이 이곳에 올 때까지 가는 모든 길에서요.\""
+        },
+        {
+          "verse": 32,
+          "original": "Yet in this thing you didn't believe Yahweh your God,",
+          "korean": "그런데도 이 일에 있어서 여러분은 너희 하나님 여호와를 믿지 않았어요."
+        },
+        {
+          "verse": 33,
+          "original": "who went before you on the way, to seek out a place for you to pitch your tents in: in fire by night, to show you by what way you should go, and in the cloud by day.",
+          "korean": "여호와께서는 길에서 여러분보다 앞서 가시며, 여러분이 장막을 칠 곳을 찾아주셨어요. 밤에는 불로 여러분이 갈 길을 보여주시고, 낮에는 구름으로 인도하셨어요."
+        },
+        {
+          "verse": 34,
+          "original": "Yahweh heard the voice of your words and was angry, and swore, saying,",
+          "korean": "여호와께서 여러분의 말을 들으시고 화가 나셔서 맹세하며 말씀하셨어요."
+        },
+        {
+          "verse": 35,
+          "original": "\"Surely not one of these men of this evil generation shall see the good land which I swore to give to your fathers,",
+          "korean": "\"이 악한 세대의 사람들 중 단 한 사람도 내가 너희 조상들에게 주겠다고 맹세한 그 좋은 땅을 보지 못할 것이다."
+        },
+        {
+          "verse": 36,
+          "original": "except Caleb the son of Jephunneh. He shall see it. I will give the land that he has trodden on to him and to his children, because he has wholly followed Yahweh.\"",
+          "korean": "다만 여분네의 아들 갈렙은 예외다. 그는 그것을 볼 것이다. 그가 밟은 땅을 그와 그의 자녀들에게 주겠다. 그가 온전히 여호와를 따랐기 때문이다.\""
+        },
+        {
+          "verse": 37,
+          "original": "Also Yahweh was angry with me for your sakes, saying, \"You also shall not go in there.",
+          "korean": "여호와께서 여러분 때문에 나에게도 화를 내시며 말씀하셨어요. \"너도 거기에 들어가지 못할 것이다."
+        },
+        {
+          "verse": 38,
+          "original": "Joshua the son of Nun, who stands before you, shall go in there. Encourage him, for he shall cause Israel to inherit it.",
+          "korean": "너희 앞에 서 있는 눈의 아들 여호수아가 거기에 들어갈 것이다. 그를 격려해 주어라, 그가 이스라엘 백성에게 그 땅을 상속받게 할 것이다."
+        },
+        {
+          "verse": 39,
+          "original": "Moreover your little ones, whom you said would be captured or killed, your children, who today have no knowledge of good or evil, shall go in there. I will give it to them, and they shall possess it.",
+          "korean": "그리고 너희가 사로잡히거나 죽임당할 것이라고 말한 너희 어린 자녀들, 오늘 아직 선과 악을 분별하지 못하는 너희 아이들은 거기에 들어갈 것이다. 내가 그들에게 그 땅을 줄 것이고, 그들이 그것을 차지할 것이다."
+        },
+        {
+          "verse": 40,
+          "original": "But as for you, turn, and take your journey into the wilderness by the way to the Red Sea.\"",
+          "korean": "그러나 너희는 돌아서서 홍해 길로 광야로 여행을 떠나라.\""
+        },
+        {
+          "verse": 41,
+          "original": "Then you answered and said to me, \"We have sinned against Yahweh. We will go up and fight, according to all that Yahweh our God commanded us.\" Every man of you put on his weapons of war, and presumed to go up into the hill country.",
+          "korean": "그러자 여러분이 나에게 대답했어요. \"우리가 여호와께 죄를 지었어요. 우리가 올라가서 싸울게요, 우리 하나님 여호와께서 명령하신 대로요.\" 그래서 여러분은 각자 전쟁 무기를 갖추고 산지로 올라가려 했어요."
+        },
+        {
+          "verse": 42,
+          "original": "Yahweh said to me, \"Tell them, 'Don't go up and don't fight; for I am not among you, lest you be struck before your enemies.'\"",
+          "korean": "그런데 여호와께서 나에게 말씀하셨어요. \"그들에게 말해라, '올라가지도 말고 싸우지도 마라. 내가 너희 가운데 없으니, 너희가 원수들 앞에서 패배할 것이다.'\""
+        },
+        {
+          "verse": 43,
+          "original": "So I spoke to you, and you didn't listen; but you rebelled against the commandment of Yahweh, and were presumptuous, and went up into the hill country.",
+          "korean": "그래서 나는 여러분에게 말했지만, 여러분은 듣지 않았어요. 여호와의 명령을 거역하고, 건방지게 산지로 올라갔어요."
+        },
+        {
+          "verse": 44,
+          "original": "The Amorites, who lived in that hill country, came out against you and chased you as bees do, and beat you down in Seir, even to Hormah.",
+          "korean": "그 산지에 살던 아모리 족속이 여러분을 향해 나와서 벌들처럼 여러분을 쫓아 세일에서 호르마까지 여러분을 쳤어요."
+        },
+        {
+          "verse": 45,
+          "original": "You returned and wept before Yahweh; but Yahweh didn't listen to your voice, nor turn his ear to you.",
+          "korean": "여러분은 돌아와서 여호와 앞에서 울었어요. 그러나 여호와께서는 여러분의 목소리를 듣지 않으셨고, 귀를 기울이지 않으셨어요."
+        },
+        {
+          "verse": 46,
+          "original": "So you stayed in Kadesh many days, according to the days that you remained.",
+          "korean": "그래서 여러분은 가데스에서 오랫동안 머물렀어요, 여러분이 머문 날들만큼요."
+        }
+      ]
+    }
+  ]
+}
