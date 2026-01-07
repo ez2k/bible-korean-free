@@ -1,0 +1,781 @@
+{
+  "book": "Amos",
+  "bookKorean": "아모스",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "The words of Amos, who was among the herdsmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.",
+          "korean": "드고아의 목자들 가운데 한 사람인 아모스의 말씀이에요. 유다 왕 웃시야 때와 이스라엘 왕 요아스의 아들 여로보암 때에, 지진이 나기 두 해 전에 이스라엘에 대해 본 것이에요."
+        },
+        {
+          "verse": 2,
+          "original": "He said: \"Yahweh will roar from Zion, and utter his voice from Jerusalem; and the pastures of the shepherds will mourn, and the top of Carmel will wither.\"",
+          "korean": "그가 말했어요: \"여호와께서 시온에서 사자처럼 크게 외치시고, 예루살렘에서 목소리를 내실 거야. 그러면 목자들의 풀밭이 시들고, 갈멜산 꼭대기도 마를 거야.\""
+        },
+        {
+          "verse": 3,
+          "original": "Yahweh says: \"For three transgressions of Damascus, yes, for four, I will not turn away its punishment; because they have threshed Gilead with threshing instruments of iron;",
+          "korean": "여호와께서 말씀하셨어요: \"다마스쿠스가 세 번, 네 번이나 죄를 지었기 때문에, 내가 벌을 거두지 않겠다. 그들이 철로 된 타작 기구로 길르앗을 짓밟았기 때문이야."
+        },
+        {
+          "verse": 4,
+          "original": "but I will send a fire into the house of Hazael, and it will devour the palaces of Ben Hadad.",
+          "korean": "내가 하사엘의 집에 불을 보내어, 벤하닷의 궁궐들을 태워 버리겠다."
+        },
+        {
+          "verse": 5,
+          "original": "I will break the bar of Damascus, and cut off the inhabitant from the valley of Aven, and him who holds the scepter from the house of Eden; and the people of Syria shall go into captivity to Kir,\" says Yahweh.",
+          "korean": "내가 다마스쿠스의 빗장을 부수고, 아웬 골짜기에서 사람들을 끊어 버리겠다. 에덴 집에서 왕홀을 잡은 자도 끊어 버리겠다. 시리아 백성은 기르로 포로로 잡혀갈 것이다\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 6,
+          "original": "Yahweh says: \"For three transgressions of Gaza, yes, for four, I will not turn away its punishment; because they carried away captive the whole community, to deliver them up to Edom;",
+          "korean": "여호와께서 말씀하셨어요: \"가사가 세 번, 네 번이나 죄를 지었기 때문에, 내가 벌을 거두지 않겠다. 그들이 모든 사람들을 잡아서 에돔에 넘겨주었기 때문이야."
+        },
+        {
+          "verse": 7,
+          "original": "but I will send a fire on the wall of Gaza, and it will devour its palaces.",
+          "korean": "내가 가사의 성벽에 불을 보내어, 그 궁궐들을 태워 버리겠다."
+        },
+        {
+          "verse": 8,
+          "original": "I will cut off the inhabitant from Ashdod, and him who holds the scepter from Ashkelon; and I will turn my hand against Ekron; and the remnant of the Philistines will perish,\" says the Lord Yahweh.",
+          "korean": "내가 아스돗에서 사람들을 끊어 버리고, 아스글론에서 왕홀을 잡은 자도 끊어 버리겠다. 에그론을 치는 손을 돌이키겠다. 그러면 남은 블레셋 사람들이 망할 것이다\" 주 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 9,
+          "original": "Yahweh says: \"For three transgressions of Tyre, yes, for four, I will not turn away its punishment; because they delivered up the whole community to Edom, and didn't remember the brotherly covenant;",
+          "korean": "여호와께서 말씀하셨어요: \"두로가 세 번, 네 번이나 죄를 지었기 때문에, 내가 벌을 거두지 않겠다. 그들이 모든 사람들을 에돔에 넘겨주고, 형제의 약속을 기억하지 않았기 때문이야."
+        },
+        {
+          "verse": 10,
+          "original": "but I will send a fire on the wall of Tyre, and it will devour its palaces.\"",
+          "korean": "내가 두로의 성벽에 불을 보내어, 그 궁궐들을 태워 버리겠다.\""
+        },
+        {
+          "verse": 11,
+          "original": "Yahweh says: \"For three transgressions of Edom, yes, for four, I will not turn away its punishment; because he pursued his brother with the sword, and cast off all pity, and his anger raged continually, and he kept his wrath forever;",
+          "korean": "여호와께서 말씀하셨어요: \"에돔이 세 번, 네 번이나 죄를 지었기 때문에, 내가 벌을 거두지 않겠다. 그가 칼로 형제를 쫓아가고, 모든 불쌍히 여기는 마음을 버렸기 때문이야. 그의 분노가 끝없이 타올랐고, 그의 노여움을 영원히 품었어."
+        },
+        {
+          "verse": 12,
+          "original": "but I will send a fire on Teman, and it will devour the palaces of Bozrah.\"",
+          "korean": "내가 데만에 불을 보내어, 보스라의 궁궐들을 태워 버리겠다.\""
+        },
+        {
+          "verse": 13,
+          "original": "Yahweh says: \"For three transgressions of the children of Ammon, yes, for four, I will not turn away its punishment; because they have ripped open the pregnant women of Gilead, that they may enlarge their border.",
+          "korean": "여호와께서 말씀하셨어요: \"암몬 자손이 세 번, 네 번이나 죄를 지었기 때문에, 내가 벌을 거두지 않겠다. 그들이 땅을 넓히려고 길르앗의 임신한 여자들을 해쳤기 때문이야."
+        },
+        {
+          "verse": 14,
+          "original": "But I will kindle a fire in the wall of Rabbah, and it will devour its palaces, with shouting in the day of battle, with a storm in the day of the whirlwind;",
+          "korean": "내가 랍바의 성벽에 불을 지르겠다. 그러면 그 궁궐들이 타 버릴 거야. 전쟁의 날에 함성이 있고, 폭풍의 날에 회오리바람이 불 거야."
+        },
+        {
+          "verse": 15,
+          "original": "and their king will go into captivity, he and his princes together,\" says Yahweh.",
+          "korean": "그들의 왕이 포로로 잡혀가고, 그의 신하들도 함께 잡혀갈 것이다\" 여호와께서 말씀하셨어요."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh says: \"For three transgressions of Moab, yes, for four, I will not turn away its punishment; because he burned the bones of the king of Edom into lime;",
+          "korean": "여호와께서 말씀하셨어요: \"모압이 세 번, 네 번이나 죄를 지었기 때문에, 내가 벌을 거두지 않겠다. 그가 에돔 왕의 뼈를 태워서 석회로 만들었기 때문이야."
+        },
+        {
+          "verse": 2,
+          "original": "but I will send a fire on Moab, and it will devour the palaces of Kerioth; and Moab will die with tumult, with shouting, and with the sound of the trumpet;",
+          "korean": "내가 모압에 불을 보내어, 그리욧의 궁궐들을 태워 버리겠다. 모압은 소란과 함성과 나팔 소리 가운데서 죽을 거야."
+        },
+        {
+          "verse": 3,
+          "original": "and I will cut off the judge from among them, and will kill all its princes with him,\" says Yahweh.",
+          "korean": "내가 그들 가운데서 재판관을 끊어 버리고, 그 신하들도 모두 죽이겠다\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 4,
+          "original": "Yahweh says: \"For three transgressions of Judah, yes, for four, I will not turn away its punishment; because they have rejected Yahweh's law, and have not kept his statutes, and their lies have led them astray, after which their fathers walked;",
+          "korean": "여호와께서 말씀하셨어요: \"유다가 세 번, 네 번이나 죄를 지었기 때문에, 내가 벌을 거두지 않겠다. 그들이 여호와의 율법을 버리고 그의 규정을 지키지 않았기 때문이야. 그들의 조상들이 따라간 거짓된 것들이 그들을 잘못된 길로 이끌었어."
+        },
+        {
+          "verse": 5,
+          "original": "but I will send a fire on Judah, and it will devour the palaces of Jerusalem.\"",
+          "korean": "내가 유다에 불을 보내어, 예루살렘의 궁궐들을 태워 버리겠다.\""
+        },
+        {
+          "verse": 6,
+          "original": "Yahweh says: \"For three transgressions of Israel, yes, for four, I will not turn away its punishment; because they have sold the righteous for silver, and the needy for a pair of sandals;",
+          "korean": "여호와께서 말씀하셨어요: \"이스라엘이 세 번, 네 번이나 죄를 지었기 때문에, 내가 벌을 거두지 않겠다. 그들이 의로운 사람을 은에 팔고, 가난한 사람을 신발 한 켤레에 팔았기 때문이야."
+        },
+        {
+          "verse": 7,
+          "original": "They trample on the dust of the earth on the head of the poor, and deny justice to the oppressed; and a man and his father use the same maiden, to profane my holy name;",
+          "korean": "그들이 가난한 사람의 머리를 먼지 속에 짓밟고, 억눌린 사람들에게 공정한 재판을 해주지 않아. 아버지와 아들이 같은 여자에게 가서 내 거룩한 이름을 더럽혀."
+        },
+        {
+          "verse": 8,
+          "original": "and they lay themselves down beside every altar on clothes taken in pledge; and in the house of their God they drink the wine of those who have been fined.",
+          "korean": "그들이 담보로 받은 옷 위에 모든 제단 곁에서 눕고, 벌금으로 받은 포도주를 그들의 신의 집에서 마셔."
+        },
+        {
+          "verse": 9,
+          "original": "Yet I destroyed the Amorite before them, whose height was like the height of the cedars, and he was strong as the oaks; yet I destroyed his fruit from above, and his roots from beneath.",
+          "korean": "그런데 나는 그들 앞에서 아모리 사람을 멸망시켰어. 그의 키가 백향목처럼 크고, 참나무처럼 튼튼했지만, 내가 그의 열매를 위에서, 그의 뿌리를 아래에서 없애 버렸어."
+        },
+        {
+          "verse": 10,
+          "original": "Also I brought you up out of the land of Egypt, and led you forty years in the wilderness, to possess the land of the Amorite.",
+          "korean": "또한 내가 너희를 이집트 땅에서 이끌어 내어, 사십 년 동안 광야에서 인도했어. 그래서 너희가 아모리 사람의 땅을 차지하게 했어."
+        },
+        {
+          "verse": 11,
+          "original": "I raised up some of your sons for prophets, and some of your young men for Nazirites. Isn't this true, you children of Israel?\" says Yahweh.",
+          "korean": "내가 너희 아들들 가운데서 선지자들을 일으키고, 너희 젊은이들 가운데서 나실인들을 세웠어. 이스라엘 백성들아, 이것이 사실 아니냐?\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 12,
+          "original": "\"But you gave the Nazirites wine to drink, and commanded the prophets, saying, 'Don't prophesy!'",
+          "korean": "\"그런데 너희는 나실인에게 포도주를 마시게 하고, 선지자들에게 '예언하지 마라!'라고 명령했어."
+        },
+        {
+          "verse": 13,
+          "original": "Behold, I will crush you in your place, as a cart crushes that is full of grain.",
+          "korean": "보아라, 곡식을 가득 실은 수레가 누르듯이, 내가 너희를 그 자리에서 눌러 버리겠다."
+        },
+        {
+          "verse": 14,
+          "original": "Flight will perish from the swift; and the strong won't strengthen his force; neither shall the mighty deliver himself;",
+          "korean": "빠른 자도 도망칠 수 없고, 강한 자도 힘을 쓸 수 없을 거야. 용사도 자기 목숨을 구하지 못할 거야."
+        },
+        {
+          "verse": 15,
+          "original": "neither shall he stand who handles the bow; and he who is swift of foot won't escape; neither shall he who rides the horse deliver himself;",
+          "korean": "활을 잡은 자도 버티지 못하고, 발이 빠른 자도 피하지 못할 거야. 말을 탄 자도 자기 목숨을 구하지 못할 거야."
+        },
+        {
+          "verse": 16,
+          "original": "and he who is courageous among the mighty will flee away naked on that day,\" says Yahweh.",
+          "korean": "용사들 가운데 가장 용감한 자도 그 날에 벌거벗은 채로 도망칠 것이다\" 여호와께서 말씀하셨어요."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Hear this word that Yahweh has spoken against you, children of Israel, against the whole family which I brought up out of the land of Egypt, saying:",
+          "korean": "이스라엘 백성아, 여호와께서 너희를 향해 하신 이 말씀을 들어라. 내가 이집트 땅에서 이끌어 낸 온 집안을 향해 말씀하신다."
+        },
+        {
+          "verse": 2,
+          "original": "\"I have only chosen you of all the families of the earth. Therefore I will punish you for all of your sins.\"",
+          "korean": "\"나는 땅 위의 모든 민족 가운데서 오직 너희만 택했어. 그러므로 너희의 모든 죄에 대해 벌을 주겠다.\""
+        },
+        {
+          "verse": 3,
+          "original": "Do two walk together, unless they have agreed?",
+          "korean": "두 사람이 약속하지 않고 함께 걸을 수 있겠니?"
+        },
+        {
+          "verse": 4,
+          "original": "Will a lion roar in the thicket, when he has no prey? Does a young lion cry out of his den, if he has caught nothing?",
+          "korean": "사자가 먹이 없이 숲에서 으르렁거리겠니? 젊은 사자가 아무것도 잡지 않고 굴에서 소리치겠니?"
+        },
+        {
+          "verse": 5,
+          "original": "Can a bird fall in a trap on the earth, where no snare is set for him? Does a snare spring up from the ground, when there is nothing to catch?",
+          "korean": "덫이 없는데 새가 땅에서 덫에 걸리겠니? 잡을 것이 없는데 덫이 땅에서 튀어 오르겠니?"
+        },
+        {
+          "verse": 6,
+          "original": "Does the trumpet alarm sound in a city, without the people being afraid? Does evil happen to a city, and Yahweh hasn't done it?",
+          "korean": "성읍에서 나팔이 울리는데 백성이 두려워하지 않겠니? 성읍에 재앙이 닥치는데 여호와께서 하시지 않은 일이겠니?"
+        },
+        {
+          "verse": 7,
+          "original": "Surely the Lord Yahweh will do nothing, unless he reveals his secret to his servants the prophets.",
+          "korean": "정말로, 주 여호와께서는 그의 종 선지자들에게 비밀을 알려주지 않고는 아무 일도 하지 않으셔."
+        },
+        {
+          "verse": 8,
+          "original": "The lion has roared. Who will not fear? The Lord Yahweh has spoken. Who can but prophesy?",
+          "korean": "사자가 으르렁거리는데 누가 두려워하지 않겠니? 주 여호와께서 말씀하시는데 누가 예언하지 않을 수 있겠니?"
+        },
+        {
+          "verse": 9,
+          "original": "Proclaim in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, \"Assemble yourselves on the mountains of Samaria, and see what unrest is in her, and what oppression is among them.\"",
+          "korean": "아스돗의 궁궐들과 이집트 땅의 궁궐들에 선포하여 말하라, \"사마리아 산들 위에 모여서, 그 안의 혼란과 그들 가운데 있는 억압을 보아라.\""
+        },
+        {
+          "verse": 10,
+          "original": "\"Indeed they don't know to do right,\" says Yahweh, \"Who hoard plunder and loot in their palaces.\"",
+          "korean": "\"정말로, 그들은 바른 일을 할 줄 몰라\" 여호와께서 말씀하셨어요, \"그들은 빼앗은 것과 약탈한 것을 궁궐에 쌓아 두고 있어.\""
+        },
+        {
+          "verse": 11,
+          "original": "Therefore the Lord Yahweh says: \"An adversary will overrun the land; and he will pull down your strongholds, and your fortresses will be plundered.\"",
+          "korean": "그러므로 주 여호와께서 말씀하셨어요: \"원수가 이 땅을 휩쓸 거야. 그가 너희의 요새를 무너뜨리고, 너희의 성채를 빼앗을 거야.\""
+        },
+        {
+          "verse": 12,
+          "original": "Yahweh says: \"As the shepherd rescues out of the mouth of the lion two legs, or a piece of an ear, so shall the children of Israel be rescued who sit in Samaria on the corner of a couch, and on the silken cushions of a bed.\"",
+          "korean": "여호와께서 말씀하셨어요: \"목자가 사자 입에서 다리 두 개나 귀 조각을 건져내듯이, 사마리아에서 침상 모퉁이와 비단 방석 위에 앉은 이스라엘 자손도 그렇게 건져낼 것이다.\""
+        },
+        {
+          "verse": 13,
+          "original": "\"Listen, and testify against the house of Jacob,\" says the Lord Yahweh, the God of Armies.",
+          "korean": "\"들어라, 야곱의 집을 향해 증거하라\" 만군의 하나님 주 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 14,
+          "original": "\"For in the day that I visit the transgressions of Israel on him, I will also visit the altars of Bethel; and the horns of the altar will be cut off, and fall to the ground.",
+          "korean": "\"내가 이스라엘의 죄를 벌하는 날에, 벧엘의 제단들도 심판하겠다. 제단의 뿔들이 잘려서 땅에 떨어질 거야."
+        },
+        {
+          "verse": 15,
+          "original": "I will strike the winter house with the summer house; and the houses of ivory will perish, and the great houses will have an end,\" says Yahweh.",
+          "korean": "내가 겨울 별장을 여름 별장과 함께 부수겠다. 상아로 꾸민 집들이 망하고, 큰 집들이 끝날 것이다\" 여호와께서 말씀하셨어요."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Listen to this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, who crush the needy, who tell their husbands, \"Bring us drinks!\"",
+          "korean": "바산의 암소들아, 이 말을 들어라! 사마리아 산에 있는 너희, 가난한 자를 억압하고 어려운 자를 짓밟으며, 남편에게 '우리에게 마실 것을 가져오라!'라고 말하는 너희들아!"
+        },
+        {
+          "verse": 2,
+          "original": "The Lord Yahweh has sworn by his holiness that behold, \"The days shall come on you that they will take you away with hooks, and the last of you with fish hooks.",
+          "korean": "주 여호와께서 자신의 거룩함으로 맹세하셨어요. 보아라, \"너희에게 그런 날이 올 거야. 그들이 갈고리로 너희를 끌어가고, 너희 가운데 남은 자들을 낚시 바늘로 끌어갈 거야."
+        },
+        {
+          "verse": 3,
+          "original": "You will go out at the breaks in the wall, everyone straight before her; and you will cast yourselves into Harmon,\" says Yahweh.",
+          "korean": "너희가 성벽의 틈으로 나갈 거야, 각각 자기 앞으로 곧장 나가서 하르몬으로 던져질 거야\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 4,
+          "original": "\"Go to Bethel, and sin; to Gilgal, and sin more. Bring your sacrifices every morning, your tithes every three days,",
+          "korean": "\"벧엘로 가서 죄를 지어라! 길갈로 가서 더 많은 죄를 지어라! 매일 아침 제물을 가져오고, 삼일마다 십일조를 가져와라."
+        },
+        {
+          "verse": 5,
+          "original": "offer a sacrifice of thanksgiving of that which is leavened, and proclaim free will offerings and brag about them: for this pleases you, you children of Israel,\" says the Lord Yahweh.",
+          "korean": "누룩 넣은 빵으로 감사 제물을 드리고, 자원하는 예물을 선포하며 자랑해라. 이스라엘 백성아, 너희가 이것을 좋아하기 때문이야\" 주 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 6,
+          "original": "\"I also have given you cleanness of teeth in all your cities, and lack of bread in every town; yet you haven't returned to me,\" says Yahweh.",
+          "korean": "\"내가 너희의 모든 성읍에 먹을 것이 없게 했고, 모든 마을에 빵이 부족하게 했어. 그래도 너희는 나에게 돌아오지 않았어\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 7,
+          "original": "\"I also have withheld the rain from you, when there were yet three months to the harvest; and I caused it to rain on one city, and caused it not to rain on another city. One place was rained on, and the piece where it didn't rain withered.",
+          "korean": "\"내가 또한 추수하기 석 달 전에 비를 내리지 않았어. 한 성읍에는 비를 내리고, 다른 성읍에는 비를 내리지 않았어. 한 땅에는 비가 왔는데, 비가 오지 않은 땅은 말라 버렸어."
+        },
+        {
+          "verse": 8,
+          "original": "So two or three cities staggered to one city to drink water, and were not satisfied: yet you haven't returned to me,\" says Yahweh.",
+          "korean": "그래서 두세 성읍 사람들이 물을 마시려고 한 성읍으로 비틀거리며 갔지만, 만족하지 못했어. 그래도 너희는 나에게 돌아오지 않았어\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 9,
+          "original": "\"I struck you with blight and mildew many times in your gardens and your vineyards; and the swarming locusts have devoured your fig trees and your olive trees; yet you haven't returned to me,\" says Yahweh.",
+          "korean": "\"내가 여러 번 병충해와 곰팡이로 너희의 정원과 포도원을 쳤어. 메뚜기 떼가 너희의 무화과나무와 감람나무를 먹어 치웠어. 그래도 너희는 나에게 돌아오지 않았어\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 10,
+          "original": "\"I sent plagues among you like I did Egypt. I have slain your young men with the sword, and have carried away your horses; and I filled your nostrils with the stench of your camp, yet you haven't returned to me,\" says Yahweh.",
+          "korean": "\"내가 이집트에서처럼 너희에게 전염병을 보냈어. 칼로 너희 젊은이들을 죽이고, 너희 말들을 빼앗았어. 너희 진영의 악취가 너희 코에 가득 찼지만, 그래도 너희는 나에게 돌아오지 않았어\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 11,
+          "original": "\"I have overthrown some of you, as when God overthrew Sodom and Gomorrah, and you were like a burning stick plucked out of the fire; yet you haven't returned to me,\" says Yahweh.",
+          "korean": "\"내가 하나님께서 소돔과 고모라를 뒤엎으신 것처럼 너희 가운데 일부를 뒤엎었어. 너희는 불에서 꺼낸 타다 남은 나무 조각 같았어. 그래도 너희는 나에게 돌아오지 않았어\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 12,
+          "original": "\"Therefore thus I will do to you, Israel; because I will do this to you, prepare to meet your God, Israel.",
+          "korean": "\"그러므로 이스라엘아, 내가 너에게 이렇게 하겠다. 내가 이렇게 할 것이니, 이스라엘아, 네 하나님 만날 준비를 해라."
+        },
+        {
+          "verse": 13,
+          "original": "For, behold, he who forms the mountains, and creates the wind, and declares to man what is his thought; who makes the morning darkness, and treads on the high places of the earth: Yahweh, the God of Armies, is his name.\"",
+          "korean": "보아라, 산들을 만드시고 바람을 지으시며, 사람에게 그의 생각을 알려주시는 분, 아침을 어둡게 하시고 땅의 높은 곳을 밟으시는 분, 그의 이름은 만군의 하나님 여호와이시다.\""
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Listen to this word which I take up for a lamentation over you, O house of Israel.",
+          "korean": "이스라엘 집아, 내가 너희를 위해 부르는 이 애가를 들어라."
+        },
+        {
+          "verse": 2,
+          "original": "\"The virgin of Israel has fallen; She shall rise no more. She is cast down on her land; there is no one to raise her up.\"",
+          "korean": "\"처녀 이스라엘이 쓰러졌구나. 다시 일어나지 못할 거야. 자기 땅에 내던져졌는데, 일으켜 줄 사람이 없어.\""
+        },
+        {
+          "verse": 3,
+          "original": "For the Lord Yahweh says: \"The city that went out a thousand shall have a hundred left, and that which went out one hundred shall have ten left to the house of Israel.\"",
+          "korean": "주 여호와께서 말씀하셨어요: \"천 명을 내보낸 성읍에는 백 명만 남을 거야. 백 명을 내보낸 성읍에는 이스라엘 집에 열 명만 남을 거야.\""
+        },
+        {
+          "verse": 4,
+          "original": "For Yahweh says to the house of Israel: \"Seek me, and you will live;",
+          "korean": "여호와께서 이스라엘 집에 말씀하셨어요: \"나를 찾아라, 그러면 살 거야."
+        },
+        {
+          "verse": 5,
+          "original": "but don't seek Bethel, nor enter into Gilgal, and don't pass to Beersheba: for Gilgal shall surely go into captivity, and Bethel shall come to nothing.",
+          "korean": "벧엘을 찾지 말고, 길갈에 들어가지 말고, 브엘세바로 건너가지 마라. 길갈은 반드시 포로로 잡혀가고, 벧엘은 무너질 거야."
+        },
+        {
+          "verse": 6,
+          "original": "Seek Yahweh, and you will live; lest he break out like fire in the house of Joseph, and it devour, and there be no one to quench it in Bethel.",
+          "korean": "여호와를 찾아라, 그러면 살 거야. 그렇지 않으면 불처럼 요셉의 집에 번져서 삼키는데, 벧엘에서 끌 사람이 없을 거야."
+        },
+        {
+          "verse": 7,
+          "original": "You who turn justice to wormwood, and cast down righteousness to the earth:",
+          "korean": "공의를 쑥으로 바꾸고, 의로움을 땅에 내던지는 너희들아,"
+        },
+        {
+          "verse": 8,
+          "original": "seek him who made the Pleiades and Orion, and turns the shadow of death into the morning, and makes the day dark with night; who calls for the waters of the sea, and pours them out on the surface of the earth, Yahweh is his name,",
+          "korean": "묘성과 오리온성을 만드시고, 죽음의 그늘을 아침으로 바꾸시며, 낮을 밤으로 어둡게 하시는 분을 찾아라. 바다의 물을 부르셔서 땅 위에 쏟으시는 분, 그의 이름은 여호와시다."
+        },
+        {
+          "verse": 9,
+          "original": "who brings sudden destruction on the strong, so that destruction comes on the fortress.",
+          "korean": "그분은 강한 자에게 갑자기 멸망을 가져오셔서, 요새도 파괴되게 하시는 분이야."
+        },
+        {
+          "verse": 10,
+          "original": "They hate him who reproves in the gate, and they abhor him who speaks blamelessly.",
+          "korean": "그들은 성문에서 책망하는 자를 미워하고, 진실하게 말하는 자를 싫어해."
+        },
+        {
+          "verse": 11,
+          "original": "Therefore, because you trample on the poor, and take taxes from him of wheat: You have built houses of cut stone, but you will not dwell in them. You have planted pleasant vineyards, but you shall not drink their wine.",
+          "korean": "그러므로 너희가 가난한 자를 짓밟고, 그에게서 밀을 세금으로 빼앗기 때문에, 너희가 다듬은 돌로 집을 지었지만 거기서 살지 못할 거야. 좋은 포도원을 심었지만 그 포도주를 마시지 못할 거야."
+        },
+        {
+          "verse": 12,
+          "original": "For I know how many your offenses, and how great are your sins— you who afflict the just, who take a bribe, and who turn away the needy in the courts.",
+          "korean": "나는 너희의 죄가 얼마나 많고, 얼마나 큰지 알아. 너희는 의로운 자를 괴롭히고, 뇌물을 받으며, 법정에서 가난한 자를 내쫓아."
+        },
+        {
+          "verse": 13,
+          "original": "Therefore a prudent person keeps silent in such a time, for it is an evil time.",
+          "korean": "그러므로 지혜로운 사람은 이런 때에 잠잠해. 이것은 악한 때이기 때문이야."
+        },
+        {
+          "verse": 14,
+          "original": "Seek good, and not evil, that you may live; and so Yahweh, the God of Armies, will be with you, as you say.",
+          "korean": "악을 찾지 말고 선을 찾아라, 그러면 살 거야. 그러면 너희가 말하는 대로, 만군의 하나님 여호와께서 너희와 함께하실 거야."
+        },
+        {
+          "verse": 15,
+          "original": "Hate evil, love good, and establish justice in the courts. It may be that Yahweh, the God of Armies, will be gracious to the remnant of Joseph.\"",
+          "korean": "악을 미워하고 선을 사랑하며, 법정에서 공의를 세워라. 어쩌면 만군의 하나님 여호와께서 요셉의 남은 자들에게 은혜를 베푸실 거야.\""
+        },
+        {
+          "verse": 16,
+          "original": "Therefore Yahweh, the God of Armies, the Lord, says: \"Wailing will be in all the wide ways; and they will say in all the streets, 'Alas! Alas!' and they will call the farmer to mourning, and those who are skillful in lamentation to wailing.",
+          "korean": "그러므로 만군의 하나님 여호와, 주께서 말씀하셨어요: \"모든 넓은 길에 통곡이 있을 거야. 모든 거리에서 '슬프다! 슬프다!' 할 거야. 농부들을 불러 슬퍼하게 하고, 곡하는 자들을 불러 울게 할 거야."
+        },
+        {
+          "verse": 17,
+          "original": "In all vineyards there will be wailing; for I will pass through the middle of you,\" says Yahweh.",
+          "korean": "모든 포도원에 통곡이 있을 거야. 내가 너희 가운데로 지나갈 것이기 때문이야\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 18,
+          "original": "\"Woe to you who desire the day of Yahweh! Why do you long for the day of Yahweh? It is darkness, and not light.",
+          "korean": "\"여호와의 날을 바라는 너희에게 화가 있을 거야! 왜 여호와의 날을 바라니? 그것은 빛이 아니라 어둠이야."
+        },
+        {
+          "verse": 19,
+          "original": "As if a man fled from a lion, and a bear met him; Or he went into the house and leaned his hand on the wall, and a snake bit him.",
+          "korean": "마치 사람이 사자를 피해 도망치는데 곰을 만나는 것과 같아. 또는 집에 들어가서 손을 벽에 짚는데 뱀에게 물리는 것과 같아."
+        },
+        {
+          "verse": 20,
+          "original": "Won't the day of Yahweh be darkness, and not light? Even very dark, and no brightness in it?",
+          "korean": "여호와의 날이 빛이 아니라 어둠 아니겠니? 아주 어둡고 밝은 빛이 없지 않겠니?"
+        },
+        {
+          "verse": 21,
+          "original": "I hate, I despise your feasts, and I can't stand your solemn assemblies.",
+          "korean": "나는 너희의 절기들을 미워하고 싫어해. 너희의 엄숙한 모임을 견딜 수 없어."
+        },
+        {
+          "verse": 22,
+          "original": "Yes, though you offer me your burnt offerings and meal offerings, I will not accept them; neither will I regard the peace offerings of your fat animals.",
+          "korean": "너희가 번제와 소제를 드려도 내가 받지 않겠어. 너희의 살진 짐승으로 드리는 화목제도 거들떠보지 않겠어."
+        },
+        {
+          "verse": 23,
+          "original": "Take away from me the noise of your songs! I will not listen to the music of your harps.",
+          "korean": "너희 노래 소리를 내 앞에서 치워라! 너희 수금의 음악을 듣지 않겠어."
+        },
+        {
+          "verse": 24,
+          "original": "But let justice roll on like rivers, and righteousness like a mighty stream.",
+          "korean": "다만 공의가 강물처럼 흐르게 하고, 의로움이 마르지 않는 시내처럼 흐르게 해라."
+        },
+        {
+          "verse": 25,
+          "original": "\"Did you bring to me sacrifices and offerings in the wilderness forty years, house of Israel?",
+          "korean": "\"이스라엘 집아, 너희가 사십 년 동안 광야에서 제물과 예물을 나에게 가져왔느냐?"
+        },
+        {
+          "verse": 26,
+          "original": "You also carried the tent of your king and the shrine of your images, the star of your god, which you made for yourselves.",
+          "korean": "너희는 너희가 만든 왕의 장막과 우상의 신당, 너희 신의 별을 지고 다녔어."
+        },
+        {
+          "verse": 27,
+          "original": "Therefore I will cause you to go into captivity beyond Damascus,\" says Yahweh, whose name is the God of Armies.",
+          "korean": "그러므로 내가 너희를 다마스쿠스 너머로 포로로 잡혀가게 하겠다\" 만군의 하나님이라 이름하시는 여호와께서 말씀하셨어요."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Woe to those who are at ease in Zion, and to those who are secure on the mountain of Samaria, the notable men of the chief of the nations, to whom the house of Israel come!",
+          "korean": "시온에서 편안히 지내는 자들과 사마리아 산에서 안심하는 자들에게 화가 있을 거야! 나라들의 우두머리 가운데 이름난 자들이여, 이스라엘 집이 너희에게 찾아오는구나!"
+        },
+        {
+          "verse": 2,
+          "original": "Go to Calneh, and see; and from there go to Hamath the great; then go down to Gath of the Philistines. are they better than these kingdoms? or is their border greater than your border?",
+          "korean": "갈레로 가서 보아라. 거기서 큰 하맛으로 가고, 블레셋의 가드로 내려가 보아라. 그들이 이 왕국들보다 낫더냐? 그들의 영토가 너희 영토보다 넓더냐?"
+        },
+        {
+          "verse": 3,
+          "original": "Those who put far away the evil day, and cause the seat of violence to come near;",
+          "korean": "악한 날을 멀리 미루면서, 폭력의 자리를 가까이 끌어당기는 자들아."
+        },
+        {
+          "verse": 4,
+          "original": "Who lie on beds of ivory, and stretch themselves on their couches, and eat the lambs out of the flock, and the calves out of the middle of the stall;",
+          "korean": "상아로 만든 침대에 누워, 긴 의자에서 기지개를 켜며, 양 떼에서 어린 양을 먹고, 우리에서 송아지를 먹는 자들아."
+        },
+        {
+          "verse": 5,
+          "original": "who strum on the strings of a harp; who invent for themselves instruments of music, like David;",
+          "korean": "수금 줄을 튕기며, 다윗처럼 자기를 위해 악기를 만들어 내는 자들아."
+        },
+        {
+          "verse": 6,
+          "original": "who drink wine in bowls, and anoint themselves with the best oils; but they are not grieved for the affliction of Joseph.",
+          "korean": "대접으로 포도주를 마시고, 가장 좋은 기름을 몸에 바르면서, 요셉의 고통에 대해서는 슬퍼하지 않는 자들아."
+        },
+        {
+          "verse": 7,
+          "original": "Therefore they will now go captive with the first who go captive; and the feasting and lounging will end.",
+          "korean": "그러므로 이제 그들이 첫 번째로 포로로 잡혀갈 거야. 잔치와 게으름이 끝날 거야."
+        },
+        {
+          "verse": 8,
+          "original": "\"The Lord Yahweh has sworn by himself,\" says Yahweh, the God of Armies: \"I abhor the pride of Jacob, and detest his fortresses. Therefore I will deliver up the city with all that is in it.",
+          "korean": "만군의 하나님 여호와께서 말씀하셨어요: \"주 여호와께서 자기 자신을 두고 맹세하셨다. 나는 야곱의 교만을 미워하고, 그의 요새들을 싫어한다. 그러므로 내가 그 성읍과 그 안에 있는 모든 것을 넘겨주겠다."
+        },
+        {
+          "verse": 9,
+          "original": "It will happen, if there remain ten men in one house, that they shall die.",
+          "korean": "한 집에 열 명이 남아도 그들이 죽을 거야."
+        },
+        {
+          "verse": 10,
+          "original": "\"When a man's relative carries him, even he who burns him, to bring bodies out of the house, and asks him who is in the innermost parts of the house, 'Is there yet any with you?' And he says, 'No;' then he will say, 'Hush! Indeed we must not mention Yahweh's name.'",
+          "korean": "\"친척이 시체를 치우려고 죽은 사람을 안고 집에서 나올 때, 집 안쪽에 있는 사람에게 물을 거야, '아직 누가 너와 함께 있느냐?' 그가 '아니오'라고 하면, '쉬! 우리가 여호와의 이름을 말해서는 안 돼'라고 할 거야.\""
+        },
+        {
+          "verse": 11,
+          "original": "\"For, behold, Yahweh commands, and the great house will be smashed to pieces, and the little house into bits.",
+          "korean": "\"보아라, 여호와께서 명령하시면 큰 집은 산산조각이 나고, 작은 집은 부서질 거야."
+        },
+        {
+          "verse": 12,
+          "original": "Do horses run on the rocky crags? Does one plow there with oxen? But you have turned justice into poison, and the fruit of righteousness into bitterness;",
+          "korean": "말이 바위 위에서 달리겠니? 소로 거기서 밭을 갈겠니? 그런데 너희는 공의를 독으로 바꾸고, 의의 열매를 쓴 것으로 바꿨어."
+        },
+        {
+          "verse": 13,
+          "original": "you who rejoice in a thing of nothing, who say, 'Haven't we taken for ourselves horns by our own strength?'",
+          "korean": "아무것도 아닌 것을 기뻐하고, '우리가 우리 힘으로 뿔을 얻지 않았느냐?'라고 말하는 자들아."
+        },
+        {
+          "verse": 14,
+          "original": "For, behold, I will raise up against you a nation, house of Israel,\" says Yahweh, the God of Armies; \"and they will afflict you from the entrance of Hamath to the brook of the Arabah.\"",
+          "korean": "보아라, 이스라엘 집아, 내가 한 나라를 일으켜 너희를 칠 것이다\" 만군의 하나님 여호와께서 말씀하셨어요. \"그들이 하맛 입구에서 아라바 시내까지 너희를 괴롭힐 거야.\""
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Thus the Lord Yahweh showed me: and behold, he formed locusts in the beginning of the shooting up of the latter growth; and behold, it was the latter growth after the king's harvest.",
+          "korean": "주 여호와께서 나에게 이것을 보여주셨어요. 보아라, 왕이 거둔 후에 늦은 풀이 자라기 시작할 때, 하나님께서 메뚜기를 만드셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "When they finished eating the grass of the land, then I said, \"Lord Yahweh, forgive, I beg you! How could Jacob stand? For he is small.\"",
+          "korean": "메뚜기들이 땅의 풀을 다 먹어 치우자, 내가 말했어요, \"주 여호와여, 용서해 주세요! 야곱이 어떻게 견디겠어요? 그가 너무 작아요.\""
+        },
+        {
+          "verse": 3,
+          "original": "Yahweh relented concerning this. \"It shall not be,\" says Yahweh.",
+          "korean": "여호와께서 이 일에 대해 마음을 돌이키셨어요. \"그렇게 되지 않을 것이다\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 4,
+          "original": "Thus the Lord Yahweh showed me and behold, the Lord Yahweh called for judgment by fire; and it dried up the great deep, and would have devoured the land.",
+          "korean": "주 여호와께서 나에게 이것을 보여주셨어요. 보아라, 주 여호와께서 불로 심판하시려고 부르셨어요. 그 불이 깊은 바다를 말리고 땅을 삼키려 했어요."
+        },
+        {
+          "verse": 5,
+          "original": "Then I said, \"Lord Yahweh, stop, I beg you! How could Jacob stand? For he is small.\"",
+          "korean": "그때 내가 말했어요, \"주 여호와여, 멈춰 주세요! 야곱이 어떻게 견디겠어요? 그가 너무 작아요.\""
+        },
+        {
+          "verse": 6,
+          "original": "Yahweh relented concerning this. \"This also shall not be,\" says the Lord Yahweh.",
+          "korean": "여호와께서 이 일에 대해 마음을 돌이키셨어요. \"이것도 되지 않을 것이다\" 주 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 7,
+          "original": "Thus he showed me and behold, the Lord stood beside a wall made by a plumb line, with a plumb line in his hand.",
+          "korean": "그분이 나에게 이것을 보여주셨어요. 보아라, 주님께서 다림줄로 만든 벽 옆에 서 계셨는데, 손에 다림줄을 들고 계셨어요."
+        },
+        {
+          "verse": 8,
+          "original": "Yahweh said to me, \"Amos, what do you see?\" I said, \"A plumb line.\" Then the Lord said, \"Behold, I will set a plumb line in the middle of my people Israel. I will not again pass by them any more.",
+          "korean": "여호와께서 나에게 말씀하셨어요, \"아모스야, 무엇이 보이느냐?\" 내가 말했어요, \"다림줄이요.\" 그러자 주님께서 말씀하셨어요, \"보아라, 내가 내 백성 이스라엘 가운데 다림줄을 놓겠다. 다시는 그들을 그냥 지나치지 않겠다."
+        },
+        {
+          "verse": 9,
+          "original": "The high places of Isaac will be desolate, the sanctuaries of Israel will be laid waste; and I will rise against the house of Jeroboam with the sword.\"",
+          "korean": "이삭의 산당들이 황폐해지고, 이스라엘의 성소들이 무너질 것이다. 내가 칼을 들고 여로보암의 집을 칠 것이다.\""
+        },
+        {
+          "verse": 10,
+          "original": "Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, \"Amos has conspired against you in the middle of the house of Israel. The land is not able to bear all his words.",
+          "korean": "그때 벧엘의 제사장 아마샤가 이스라엘 왕 여로보암에게 사람을 보내 말했어요, \"아모스가 이스라엘 백성 가운데서 왕을 거스려 모의했어요. 이 땅이 그의 모든 말을 견딜 수 없어요."
+        },
+        {
+          "verse": 11,
+          "original": "For Amos says, 'Jeroboam will die by the sword, and Israel shall surely be led away captive out of his land.'\"",
+          "korean": "아모스가 말하기를, '여로보암이 칼에 죽고, 이스라엘이 반드시 자기 땅에서 포로로 잡혀갈 것이다'라고 해요.\""
+        },
+        {
+          "verse": 12,
+          "original": "Amaziah also said to Amos, \"You seer, go, flee away into the land of Judah, and there eat bread, and prophesy there:",
+          "korean": "아마샤가 또 아모스에게 말했어요, \"선견자야, 가서 유다 땅으로 도망가라. 거기서 먹고 살고, 거기서 예언해라."
+        },
+        {
+          "verse": 13,
+          "original": "but don't prophesy again any more at Bethel; for it is the king's sanctuary, and it is a royal house!\"",
+          "korean": "그러나 벧엘에서는 다시 예언하지 마라. 여기는 왕의 성소이고, 왕실의 성전이기 때문이다!\""
+        },
+        {
+          "verse": 14,
+          "original": "Then Amos answered Amaziah, \"I was no prophet, neither was I a prophet's son; but I was a herdsman, and a farmer of sycamore figs;",
+          "korean": "아모스가 아마샤에게 대답했어요, \"나는 원래 선지자가 아니었고, 선지자의 아들도 아니었어요. 나는 목자였고, 뽕나무 열매를 따는 사람이었어요."
+        },
+        {
+          "verse": 15,
+          "original": "and Yahweh took me from following the flock, and Yahweh said to me, 'Go, prophesy to my people Israel.'",
+          "korean": "여호와께서 나를 양 떼 뒤에서 데려오셔서, '가서 내 백성 이스라엘에게 예언하라'고 말씀하셨어요."
+        },
+        {
+          "verse": 16,
+          "original": "Now therefore listen to Yahweh's word: 'You say, Don't prophesy against Israel, and don't preach against the house of Isaac.'",
+          "korean": "이제 여호와의 말씀을 들어라. 네가 '이스라엘에 대해 예언하지 말고, 이삭의 집에 대해 말하지 마라'라고 했지."
+        },
+        {
+          "verse": 17,
+          "original": "Therefore Yahweh says: 'Your wife shall be a prostitute in the city, and your sons and your daughters shall fall by the sword, and your land shall be divided by line; and you yourself shall die in a land that is unclean, and Israel shall surely be led away captive out of his land.'\"",
+          "korean": "그러므로 여호와께서 말씀하신다. '네 아내가 성 안에서 창녀가 될 것이고, 네 아들들과 딸들이 칼에 죽을 거야. 네 땅은 줄로 나뉘어 주어질 거야. 너는 더러운 땅에서 죽을 것이고, 이스라엘은 반드시 자기 땅에서 포로로 잡혀갈 것이다.'\""
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Thus the Lord Yahweh showed me: behold, a basket of summer fruit.",
+          "korean": "주 여호와께서 나에게 이것을 보여주셨어요. 보아라, 여름 과일 바구니였어요."
+        },
+        {
+          "verse": 2,
+          "original": "He said, \"Amos, what do you see?\" I said, \"A basket of summer fruit.\" Then Yahweh said to me, \"The end has come on my people Israel. I will not again pass by them any more.",
+          "korean": "그분이 말씀하셨어요, \"아모스야, 무엇이 보이느냐?\" 내가 말했어요, \"여름 과일 바구니요.\" 그러자 여호와께서 나에게 말씀하셨어요, \"내 백성 이스라엘에게 끝이 왔다. 다시는 그들을 그냥 지나치지 않겠다."
+        },
+        {
+          "verse": 3,
+          "original": "The songs of the temple will be wailing in that day,\" says the Lord Yahweh. \"The dead bodies will be many. In every place they will throw them out with silence.",
+          "korean": "그 날에 성전의 노래가 통곡이 될 거야\" 주 여호와께서 말씀하셨어요. \"시체가 많을 거야. 모든 곳에서 조용히 그것들을 내던질 거야."
+        },
+        {
+          "verse": 4,
+          "original": "Hear this, you who desire to swallow up the needy, and cause the poor of the land to fail,",
+          "korean": "가난한 자를 삼키려 하고, 땅의 궁핍한 자를 없애려는 자들아, 이것을 들어라."
+        },
+        {
+          "verse": 5,
+          "original": "Saying, 'When will the new moon be gone, that we may sell grain? And the Sabbath, that we may market wheat, making the ephah small, and the shekel large, and dealing falsely with balances of deceit;",
+          "korean": "'초하루가 언제 지나서 우리가 곡식을 팔 수 있을까? 안식일이 언제 지나서 밀을 내다 팔 수 있을까?'라고 말하는 자들아. 너희는 에바를 작게 하고, 세겔을 크게 하며, 거짓 저울로 속여."
+        },
+        {
+          "verse": 6,
+          "original": "that we may buy the poor for silver, and the needy for a pair of sandals, and sell the sweepings with the wheat?'",
+          "korean": "그래서 가난한 자를 은으로 사고, 궁핍한 자를 신발 한 켤레로 사며, 쭉정이를 밀과 함께 파는구나."
+        },
+        {
+          "verse": 7,
+          "original": "Yahweh has sworn by the pride of Jacob, \"Surely I will never forget any of their works.",
+          "korean": "여호와께서 야곱의 영광을 두고 맹세하셨어요, \"정말로 내가 그들의 행한 일을 절대로 잊지 않겠다."
+        },
+        {
+          "verse": 8,
+          "original": "Won't the land tremble for this, and everyone mourn who dwells in it? Yes, it will rise up wholly like the River; and it will be stirred up and sink again, like the River of Egypt.",
+          "korean": "이 때문에 땅이 떨지 않겠니? 그 안에 사는 모든 사람이 슬퍼하지 않겠니? 땅 전체가 나일강처럼 솟아올라 흔들리다가, 이집트의 나일강처럼 다시 가라앉을 거야."
+        },
+        {
+          "verse": 9,
+          "original": "It will happen in that day,\" says the Lord Yahweh, \"that I will cause the sun to go down at noon, and I will darken the earth in the clear day.",
+          "korean": "그 날에\" 주 여호와께서 말씀하셨어요, \"내가 한낮에 해를 지게 하고, 맑은 낮에 땅을 어둡게 하겠다."
+        },
+        {
+          "verse": 10,
+          "original": "I will turn your feasts into mourning, and all your songs into lamentation; and I will make you wear sackcloth on all your bodies, and baldness on every head. I will make it like the mourning for an only son, and its end like a bitter day.",
+          "korean": "내가 너희의 절기를 슬픔으로 바꾸고, 너희의 모든 노래를 애가로 바꾸겠다. 모든 몸에 굵은 베옷을 입히고, 모든 머리를 대머리로 만들겠다. 외아들을 잃은 것처럼 슬프게 하고, 그 끝은 쓰라린 날이 될 거야."
+        },
+        {
+          "verse": 11,
+          "original": "Behold, the days come,\" says the Lord Yahweh, \"that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing Yahweh's words.",
+          "korean": "보아라, 날이 올 것이다\" 주 여호와께서 말씀하셨어요, \"내가 이 땅에 기근을 보내겠다. 빵의 기근이 아니고, 물의 갈증이 아니라, 여호와의 말씀을 듣지 못하는 기근이야."
+        },
+        {
+          "verse": 12,
+          "original": "They will wander from sea to sea, and from the north even to the east; they will run back and forth to seek Yahweh's word, and will not find it.",
+          "korean": "사람들이 바다에서 바다로, 북쪽에서 동쪽으로 헤맬 거야. 여호와의 말씀을 찾으려고 여기저기 뛰어다니지만, 찾지 못할 거야."
+        },
+        {
+          "verse": 13,
+          "original": "In that day the beautiful virgins and the young men will faint for thirst.",
+          "korean": "그 날에 아름다운 처녀들과 젊은이들이 갈증으로 기절할 거야."
+        },
+        {
+          "verse": 14,
+          "original": "Those who swear by the sin of Samaria, and say, 'As your god, Dan, lives;' and, 'As the way of Beersheba lives;' they will fall, and never rise up again.\"",
+          "korean": "사마리아의 죄를 두고 맹세하며, '단아, 네 신이 살아 있는 한'이라 하고, '브엘세바의 신이 살아 있는 한'이라고 말하는 자들은 쓰러져서 다시는 일어나지 못할 것이다.\""
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "I saw the Lord standing beside the altar, and he said, \"Strike the tops of the pillars, that the thresholds may shake; and break them in pieces on the head of all of them; and I will kill the last of them with the sword: there shall not one of them flee away, and there shall not one of them escape.",
+          "korean": "나는 주님께서 제단 옆에 서 계신 것을 보았어요. 그분이 말씀하셨어요, \"기둥 꼭대기를 쳐서 문지방이 흔들리게 하고, 그것을 부수어 모든 사람의 머리 위에 떨어지게 해라. 내가 남은 자들을 칼로 죽이겠다. 그들 가운데 아무도 도망치지 못하고, 아무도 피하지 못할 거야."
+        },
+        {
+          "verse": 2,
+          "original": "Though they dig into Sheol, there my hand will take them; and though they climb up to heaven, there I will bring them down.",
+          "korean": "그들이 스올까지 파고 들어가도 내 손이 거기서 붙잡을 거야. 하늘까지 올라가도 내가 거기서 끌어내리겠다."
+        },
+        {
+          "verse": 3,
+          "original": "Though they hide themselves in the top of Carmel, I will search and take them out there; and though they be hidden from my sight in the bottom of the sea, there I will command the serpent, and it will bite them.",
+          "korean": "그들이 갈멜산 꼭대기에 숨어도 내가 찾아서 붙잡겠다. 내 눈을 피해 바다 밑에 숨어도 내가 거기서 뱀에게 명령하여 물게 하겠다."
+        },
+        {
+          "verse": 4,
+          "original": "Though they go into captivity before their enemies, there I will command the sword, and it will kill them. I will set my eyes on them for evil, and not for good.",
+          "korean": "그들이 원수들 앞에서 포로로 끌려가도 내가 거기서 칼에게 명령하여 그들을 죽이게 하겠다. 내가 그들을 선하게가 아니라 악하게 보겠다."
+        },
+        {
+          "verse": 5,
+          "original": "For the Lord, Yahweh of Armies, is he who touches the land and it melts, and all who dwell in it will mourn; and it will rise up wholly like the River, and will sink again, like the River of Egypt.",
+          "korean": "만군의 여호와 주님께서 땅을 만지시면 땅이 녹고, 그 안에 사는 모든 자가 슬퍼해요. 땅 전체가 나일강처럼 솟았다가 이집트의 나일강처럼 다시 가라앉을 거야."
+        },
+        {
+          "verse": 6,
+          "original": "It is he who builds his rooms in the heavens, and has founded his vault on the earth; he who calls for the waters of the sea, and pours them out on the surface of the earth; Yahweh is his name.",
+          "korean": "하늘에 자기 방을 세우시고, 땅 위에 궁창을 세우신 분이야. 바다의 물을 부르셔서 땅 위에 쏟으시는 분, 그의 이름은 여호와시야."
+        },
+        {
+          "verse": 7,
+          "original": "Are you not like the children of the Ethiopians to me, children of Israel?\" says Yahweh. \"Haven't I brought up Israel out of the land of Egypt, and the Philistines from Caphtor, and the Syrians from Kir?",
+          "korean": "이스라엘 백성아, 너희가 나에게 구스 자손들과 다르지 않니?\" 여호와께서 말씀하셨어요. \"내가 이스라엘을 이집트 땅에서 이끌어 내지 않았느냐? 블레셋 사람들을 갑돌에서, 시리아 사람들을 기르에서 이끌어 내지 않았느냐?"
+        },
+        {
+          "verse": 8,
+          "original": "Behold, the eyes of the Lord Yahweh are on the sinful kingdom, and I will destroy it from off the surface of the earth; except that I will not utterly destroy the house of Jacob,\" says Yahweh.",
+          "korean": "보아라, 주 여호와의 눈이 죄 짓는 나라를 보고 있다. 내가 그것을 땅 위에서 없애 버리겠다. 그러나 야곱의 집을 완전히 멸망시키지는 않겠다\" 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 9,
+          "original": "\"For, behold, I will command, and I will sift the house of Israel among all the nations, as grain is sifted in a sieve, yet not the least kernel will fall on the earth.",
+          "korean": "\"보아라, 내가 명령하여 이스라엘 집을 모든 나라 가운데서 체로 치듯이 쳐낼 거야. 그래도 한 알도 땅에 떨어지지 않을 거야."
+        },
+        {
+          "verse": 10,
+          "original": "All the sinners of my people will die by the sword, who say, 'Evil won't overtake nor meet us.'",
+          "korean": "내 백성 가운데 '재앙이 우리를 따라잡거나 만나지 않을 거야'라고 말하는 죄인들은 모두 칼에 죽을 거야."
+        },
+        {
+          "verse": 11,
+          "original": "In that day I will raise up the tent of David who is fallen, and close up its breaches, and I will raise up its ruins, and I will build it as in the days of old;",
+          "korean": "그 날에 내가 쓰러진 다윗의 장막을 세우고, 그 틈을 막겠다. 무너진 것을 일으키고, 옛날처럼 세우겠다."
+        },
+        {
+          "verse": 12,
+          "original": "that they may possess the remnant of Edom, and all the nations who are called by my name,\" says Yahweh who does this.",
+          "korean": "그래서 그들이 에돔의 남은 자들과 내 이름으로 불리는 모든 나라를 차지하게 하겠다\" 이 일을 행하시는 여호와께서 말씀하셨어요."
+        },
+        {
+          "verse": 13,
+          "original": "\"Behold, the days come,\" says Yahweh, \"that the plowman shall overtake the reaper, and the one treading grapes him who sows seed; and sweet wine will drip from the mountains, and flow from the hills.",
+          "korean": "\"보아라, 날이 올 것이다\" 여호와께서 말씀하셨어요, \"밭 가는 자가 곡식 거두는 자를 따라잡고, 포도 밟는 자가 씨 뿌리는 자를 따라잡을 거야. 산들에서 달콤한 포도주가 떨어지고, 모든 언덕에서 흘러내릴 거야."
+        },
+        {
+          "verse": 14,
+          "original": "I will bring my people Israel back from captivity, and they will rebuild the ruined cities, and inhabit them; and they will plant vineyards, and drink wine from them. They shall also make gardens, and eat their fruit.",
+          "korean": "내가 내 백성 이스라엘을 포로에서 돌아오게 하겠다. 그들이 무너진 성읍들을 다시 세우고 거기서 살 거야. 포도원을 심고 그 포도주를 마실 거야. 또한 정원을 만들고 그 열매를 먹을 거야."
+        },
+        {
+          "verse": 15,
+          "original": "I will plant them on their land, and they will no more be plucked up out of their land which I have given them,\" says Yahweh your God.",
+          "korean": "내가 그들을 그들의 땅에 심겠다. 그들이 내가 그들에게 준 땅에서 다시는 뽑히지 않을 것이다\" 너희 하나님 여호와께서 말씀하셨어요."
+        }
+      ]
+    }
+  ]
+}
