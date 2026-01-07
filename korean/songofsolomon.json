@@ -1,0 +1,631 @@
+{
+  "book": "Song of Solomon",
+  "bookKorean": "아가",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "The Song of songs, which is Solomon's.",
+          "korean": "이것은 솔로몬의 노래 중 가장 아름다운 노래예요."
+        },
+        {
+          "verse": 2,
+          "original": "Let him kiss me with the kisses of his mouth; for your love is better than wine.",
+          "korean": "그가 나에게 사랑의 인사를 해 주기를 바라요. 그의 사랑은 무엇보다 달콤해요."
+        },
+        {
+          "verse": 3,
+          "original": "Your oils have a pleasing fragrance. Your name is oil poured out, therefore the virgins love you.",
+          "korean": "그의 향기는 정말 좋아요. 그의 이름은 향기로운 기름과 같아요. 그래서 모든 사람이 그를 좋아해요."
+        },
+        {
+          "verse": 4,
+          "original": "Take me away with you. Let's hurry. The king has brought me into his rooms. We will be glad and rejoice in you. We will praise your love more than wine! They are right to love you.",
+          "korean": "저를 데려가 주세요. 어서 가요. 왕이 나를 그의 방으로 데려갔어요. 우리는 기뻐하고 즐거워할 거예요. 우리는 그의 사랑을 찬양해요! 그를 사랑하는 것은 옳은 일이에요."
+        },
+        {
+          "verse": 5,
+          "original": "I am dark, but lovely, you daughters of Jerusalem, like Kedar's tents, like Solomon's curtains.",
+          "korean": "예루살렘의 딸들아, 나는 햇볕에 그을렸지만 아름다워요. 게달의 장막같이, 솔로몬의 휘장같이 말이에요."
+        },
+        {
+          "verse": 6,
+          "original": "Don't stare at me because I am dark, because the sun has scorched me. My mother's sons were angry with me. They made me keeper of the vineyards. I haven't kept my own vineyard.",
+          "korean": "내가 그을렀다고 쳐다보지 마세요. 햇볕이 나를 태웠거든요. 오빠들이 나에게 화가 나서 포도밭을 지키게 했어요. 그래서 나는 나 자신을 돌보지 못했어요."
+        },
+        {
+          "verse": 7,
+          "original": "Tell me, you whom my soul loves, where you graze your flock, where you rest them at noon; for why should I be as one who is veiled beside the flocks of your companions?",
+          "korean": "내 마음이 사랑하는 분, 말해 주세요. 어디서 양 떼를 먹이나요? 한낮에 어디서 쉬나요? 내가 왜 당신 친구들의 양 떼 곁에서 방황해야 하나요?"
+        },
+        {
+          "verse": 8,
+          "original": "If you don't know, most beautiful among women, follow the tracks of the sheep. Graze your young goats beside the shepherds' tents.",
+          "korean": "여자들 중에 가장 아름다운 이여, 모르겠으면 양의 발자국을 따라가세요. 목자들의 장막 곁에서 어린 염소들을 먹이세요."
+        },
+        {
+          "verse": 9,
+          "original": "I have compared you, my love, to a steed in Pharaoh's chariots.",
+          "korean": "사랑하는 이여, 나는 그대를 바로의 수레를 끄는 준마에 비교해요."
+        },
+        {
+          "verse": 10,
+          "original": "Your cheeks are beautiful with earrings, your neck with strings of jewels.",
+          "korean": "귀걸이를 한 그대의 뺨이 아름다워요. 보석 목걸이를 한 그대의 목이 아름다워요."
+        },
+        {
+          "verse": 11,
+          "original": "We will make you earrings of gold, with studs of silver.",
+          "korean": "우리가 은으로 장식한 금 귀걸이를 만들어 줄게요."
+        },
+        {
+          "verse": 12,
+          "original": "While the king sat at his table, my perfume spread its fragrance.",
+          "korean": "왕이 식탁에 앉아 있을 때, 나의 향수가 향기를 퍼뜨렸어요."
+        },
+        {
+          "verse": 13,
+          "original": "My beloved is to me a sachet of myrrh, that lies between my breasts.",
+          "korean": "내 사랑하는 이는 나에게 향기로운 몰약 주머니 같아요. 내 마음속에 늘 간직하고 있어요."
+        },
+        {
+          "verse": 14,
+          "original": "My beloved is to me a cluster of henna blossoms from the vineyards of En Gedi.",
+          "korean": "내 사랑하는 이는 엔게디 포도밭의 고운 꽃송이 같아요."
+        },
+        {
+          "verse": 15,
+          "original": "Behold, you are beautiful, my love. Behold, you are beautiful. Your eyes are like doves.",
+          "korean": "보세요, 사랑하는 이여, 그대는 아름다워요. 정말 아름다워요. 그대의 눈은 비둘기 같아요."
+        },
+        {
+          "verse": 16,
+          "original": "Behold, you are beautiful, my beloved, yes, pleasant; and our couch is verdant.",
+          "korean": "보세요, 사랑하는 이여, 그대도 아름다워요. 정말 사랑스러워요. 우리가 쉬는 곳은 푸른 풀밭이에요."
+        },
+        {
+          "verse": 17,
+          "original": "The beams of our house are cedars. Our rafters are firs.",
+          "korean": "우리 집의 들보는 백향목이에요. 서까래는 전나무예요."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "I am a rose of Sharon, a lily of the valleys.",
+          "korean": "나는 샤론의 장미예요. 골짜기의 백합화예요."
+        },
+        {
+          "verse": 2,
+          "original": "As a lily among thorns, so is my love among the daughters.",
+          "korean": "가시나무 사이에 핀 백합화처럼, 내 사랑하는 이는 다른 사람들 중에서 특별해요."
+        },
+        {
+          "verse": 3,
+          "original": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, his fruit was sweet to my taste.",
+          "korean": "숲속의 나무들 중에 사과나무처럼, 내 사랑하는 이는 다른 사람들 중에서 특별해요. 나는 기쁘게 그의 그늘 아래 앉았어요. 그의 열매는 내 입에 달콤했어요."
+        },
+        {
+          "verse": 4,
+          "original": "He brought me to the banquet hall. His banner over me is love.",
+          "korean": "그가 나를 잔치 집으로 데려갔어요. 그가 나에게 펼친 깃발은 사랑이에요."
+        },
+        {
+          "verse": 5,
+          "original": "Strengthen me with raisins, refresh me with apples; for I am faint with love.",
+          "korean": "건포도로 나를 힘나게 해 주세요. 사과로 나를 상쾌하게 해 주세요. 나는 사랑에 빠져 기운이 없어요."
+        },
+        {
+          "verse": 6,
+          "original": "His left hand is under my head. His right hand embraces me.",
+          "korean": "그의 왼손이 내 머리 아래 있어요. 그의 오른손이 나를 안아 주어요."
+        },
+        {
+          "verse": 7,
+          "original": "I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up, nor awaken love, until it so desires.",
+          "korean": "예루살렘의 딸들아, 부탁해요. 들의 노루와 사슴을 두고 말하는데, 사랑이 스스로 원할 때까지 깨우지 마세요."
+        },
+        {
+          "verse": 8,
+          "original": "The voice of my beloved! Behold, he comes, leaping on the mountains, skipping on the hills.",
+          "korean": "내 사랑하는 이의 목소리가 들려요! 보세요, 그가 와요. 산 위를 뛰어오고 언덕을 껑충껑충 건너와요."
+        },
+        {
+          "verse": 9,
+          "original": "My beloved is like a roe or a young deer. Behold, he stands behind our wall! He looks in at the windows. He glances through the lattice.",
+          "korean": "내 사랑하는 이는 노루 같고 어린 사슴 같아요. 보세요, 그가 우리 담 뒤에 서 있어요! 창문으로 들여다보고, 창살 사이로 엿보고 있어요."
+        },
+        {
+          "verse": 10,
+          "original": "My beloved spoke, and said to me, \"Rise up, my love, my beautiful one, and come away.",
+          "korean": "내 사랑하는 이가 말했어요. \"일어나요, 사랑하는 이여, 아름다운 이여, 함께 가요.\""
+        },
+        {
+          "verse": 11,
+          "original": "For behold, the winter is past. The rain is over and gone.",
+          "korean": "\"보세요, 겨울이 지나갔어요. 비도 그치고 사라졌어요.\""
+        },
+        {
+          "verse": 12,
+          "original": "The flowers appear on the earth. The time of the singing has come, and the voice of the turtledove is heard in our land.",
+          "korean": "\"꽃들이 땅 위에 피어났어요. 노래할 때가 왔어요. 비둘기 소리가 우리 땅에서 들려요.\""
+        },
+        {
+          "verse": 13,
+          "original": "The fig tree ripens her green figs. The vines are in blossom. They give out their fragrance. Arise, my love, my beautiful one, and come away.\"",
+          "korean": "\"무화과나무에 열매가 익어 가요. 포도나무에 꽃이 피어 향기를 내뿜어요. 일어나요, 사랑하는 이여, 아름다운 이여, 함께 가요.\""
+        },
+        {
+          "verse": 14,
+          "original": "My dove in the clefts of the rock, in the hiding places of the mountainside, let me see your face. let me hear your voice; for your voice is sweet and your face is lovely.",
+          "korean": "\"바위틈에 숨은 나의 비둘기야, 산비탈의 은밀한 곳에 있는 이여, 네 얼굴을 보여 줘요. 네 목소리를 들려줘요. 네 목소리는 달콤하고 네 얼굴은 사랑스러워요.\""
+        },
+        {
+          "verse": 15,
+          "original": "Catch for us the foxes, the little foxes that plunder the vineyards; for our vineyards are in blossom.",
+          "korean": "우리를 위해 여우들을 잡아 주세요. 포도밭을 망치는 작은 여우들을요. 우리 포도밭에 꽃이 피었거든요."
+        },
+        {
+          "verse": 16,
+          "original": "My beloved is mine, and I am his. He browses among the lilies.",
+          "korean": "내 사랑하는 이는 내 것이고, 나는 그의 것이에요. 그는 백합화 사이에서 다녀요."
+        },
+        {
+          "verse": 17,
+          "original": "Until the day is cool, and the shadows flee away, turn, my beloved, and be like a roe or a young deer on the mountains of Bether.",
+          "korean": "날이 시원해지고 그림자가 사라질 때까지, 사랑하는 이여, 돌아와 주세요. 베데르 산 위의 노루나 어린 사슴처럼 와 주세요."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "By night on my bed, I sought him whom my soul loves. I sought him, but I didn't find him.",
+          "korean": "밤에 침대에서 나는 내 마음이 사랑하는 이를 찾았어요. 찾았지만 찾지 못했어요."
+        },
+        {
+          "verse": 2,
+          "original": "I will get up now, and go about the city; in the streets and in the squares I will seek him whom my soul loves. I sought him, but I didn't find him.",
+          "korean": "이제 일어나서 도시를 돌아다녀야겠어요. 거리와 광장에서 내 마음이 사랑하는 이를 찾겠어요. 찾았지만 찾지 못했어요."
+        },
+        {
+          "verse": 3,
+          "original": "The watchmen who go about the city found me; \"Have you seen him whom my soul loves?\"",
+          "korean": "도시를 돌아다니는 파수꾼들이 나를 만났어요. 내가 물었어요. \"내 마음이 사랑하는 이를 보셨나요?\""
+        },
+        {
+          "verse": 4,
+          "original": "I had scarcely passed from them, when I found him whom my soul loves. I held him, and would not let him go, until I had brought him into my mother's house, into the room of her who conceived me.",
+          "korean": "그들을 막 지나쳤을 때, 내 마음이 사랑하는 이를 찾았어요. 나는 그를 붙잡고 놓지 않았어요. 어머니 집으로, 나를 낳아 주신 분의 방으로 데려갈 때까지요."
+        },
+        {
+          "verse": 5,
+          "original": "I adjure you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up nor awaken love, until it so desires.",
+          "korean": "예루살렘의 딸들아, 부탁해요. 들의 노루와 사슴을 두고 말하는데, 사랑이 스스로 원할 때까지 깨우지 마세요."
+        },
+        {
+          "verse": 6,
+          "original": "Who is this who comes up from the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all spices of the merchant?",
+          "korean": "광야에서 연기 기둥처럼 올라오는 저 분은 누구예요? 몰약과 유향 향기가 나고, 상인의 모든 향료 냄새가 나요."
+        },
+        {
+          "verse": 7,
+          "original": "Behold, it is Solomon's carriage! Sixty mighty men are around it, of the mighty men of Israel.",
+          "korean": "보세요, 솔로몬의 가마예요! 이스라엘의 용사들 중 육십 명의 용사가 둘러싸고 있어요."
+        },
+        {
+          "verse": 8,
+          "original": "They all handle the sword, and are expert in war. Every man has his sword on his thigh, because of fear in the night.",
+          "korean": "그들은 모두 칼을 잘 다루고 전쟁에 능숙해요. 밤의 위험에 대비하여 모두 허리에 칼을 차고 있어요."
+        },
+        {
+          "verse": 9,
+          "original": "King Solomon made himself a carriage of the wood of Lebanon.",
+          "korean": "솔로몬 왕이 레바논 나무로 자기를 위해 가마를 만들었어요."
+        },
+        {
+          "verse": 10,
+          "original": "He made its pillars of silver, its bottom of gold, its seat of purple, the middle of it being paved with love, from the daughters of Jerusalem.",
+          "korean": "기둥은 은으로, 바닥은 금으로, 자리는 보라색 천으로 만들었어요. 안쪽은 예루살렘 딸들의 사랑으로 꾸몄어요."
+        },
+        {
+          "verse": 11,
+          "original": "Go out, you daughters of Zion, and see king Solomon, with the crown with which his mother has crowned him, in the day of his weddings, in the day of the gladness of his heart.",
+          "korean": "시온의 딸들아, 나가서 솔로몬 왕을 보세요. 그의 어머니가 씌워 주신 왕관을 쓰고 있어요. 결혼하는 날, 마음이 기뻐하는 날이에요."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Behold, you are beautiful, my love. Behold, you are beautiful. Your eyes are like doves behind your veil. Your hair is as a flock of goats, that descend from Mount Gilead.",
+          "korean": "보세요, 사랑하는 이여, 그대는 아름다워요. 정말 아름다워요. 너울 뒤의 그대 눈은 비둘기 같아요. 그대의 머리카락은 길르앗 산에서 내려오는 염소 떼 같아요."
+        },
+        {
+          "verse": 2,
+          "original": "Your teeth are like a newly shorn flock, which have come up from the washing, where every one of them has twins. None is bereaved among them.",
+          "korean": "그대의 이는 막 털을 깎고 목욕한 양 떼 같아요. 모두 쌍둥이를 낳고, 하나도 잃어버린 것이 없어요."
+        },
+        {
+          "verse": 3,
+          "original": "Your lips are like scarlet thread. Your mouth is lovely. Your temples are like a piece of a pomegranate behind your veil.",
+          "korean": "그대의 입술은 빨간 실 같아요. 그대의 입은 사랑스러워요. 너울 뒤의 그대 뺨은 석류 조각 같아요."
+        },
+        {
+          "verse": 4,
+          "original": "Your neck is like David's tower built for an armory, on which a thousand shields hang, all the shields of the mighty men.",
+          "korean": "그대의 목은 무기고로 지은 다윗의 망대 같아요. 천 개의 방패가 걸려 있는데, 모두 용사들의 방패예요."
+        },
+        {
+          "verse": 5,
+          "original": "Your two breasts are like two fawns that are twins of a roe, which feed among the lilies.",
+          "korean": "백합화 사이에서 풀을 뜯는 쌍둥이 어린 사슴처럼, 그대는 아름다워요."
+        },
+        {
+          "verse": 6,
+          "original": "Until the day is cool, and the shadows flee away, I will go to the mountain of myrrh, to the hill of frankincense.",
+          "korean": "날이 시원해지고 그림자가 사라질 때까지, 나는 몰약 산으로, 유향 언덕으로 가겠어요."
+        },
+        {
+          "verse": 7,
+          "original": "You are all beautiful, my love. There is no spot in you.",
+          "korean": "사랑하는 이여, 그대는 모두 아름다워요. 그대에게는 흠이 없어요."
+        },
+        {
+          "verse": 8,
+          "original": "Come with me from Lebanon, my bride, with me from Lebanon. Look from the top of Amana, from the top of Senir and Hermon, from the lions' dens, from the mountains of the leopards.",
+          "korean": "나의 신부여, 레바논에서 나와 함께 와요. 아마나 꼭대기에서, 스닐과 헤르몬 꼭대기에서 바라보세요. 사자 굴에서, 표범의 산에서 와요."
+        },
+        {
+          "verse": 9,
+          "original": "You have ravished my heart, my sister, my bride. You have ravished my heart with one of your eyes, with one chain of your neck.",
+          "korean": "내 신부여, 그대가 내 마음을 사로잡았어요. 그대의 눈 한 번 쳐다봄에, 목걸이 하나에 내 마음을 빼앗겼어요."
+        },
+        {
+          "verse": 10,
+          "original": "How beautiful is your love, my sister, my bride! How much better is your love than wine, the fragrance of your perfumes than all kinds of spices!",
+          "korean": "내 신부여, 그대의 사랑은 얼마나 아름다운지요! 그대의 사랑은 포도주보다 좋고, 그대의 향기는 모든 향료보다 좋아요!"
+        },
+        {
+          "verse": 11,
+          "original": "Your lips, my bride, drip like the honeycomb. Honey and milk are under your tongue. The smell of your garments is like the smell of Lebanon.",
+          "korean": "내 신부여, 그대의 입술에서는 꿀이 떨어져요. 그대의 혀 아래에는 꿀과 젖이 있어요. 그대의 옷에서는 레바논 향기가 나요."
+        },
+        {
+          "verse": 12,
+          "original": "My sister, my bride, is a locked up garden; a locked up spring, a sealed fountain.",
+          "korean": "내 신부는 닫힌 동산이에요. 잠긴 샘이요, 봉한 우물이에요."
+        },
+        {
+          "verse": 13,
+          "original": "Your shoots are an orchard of pomegranates, with precious fruits, henna with spikenard plants,",
+          "korean": "그대의 동산에서는 석류와 귀한 열매가 나요. 고운 꽃과 나드 풀도 있어요."
+        },
+        {
+          "verse": 14,
+          "original": "spikenard and saffron, calamus and cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices,",
+          "korean": "나드와 사프란, 창포와 계피, 그리고 모든 종류의 유향나무가 있어요. 몰약과 침향, 최고의 향료들이 다 있어요."
+        },
+        {
+          "verse": 15,
+          "original": "a fountain of gardens, a well of living waters, flowing streams from Lebanon.",
+          "korean": "동산의 샘이요, 생수의 우물이요, 레바논에서 흘러내리는 시내예요."
+        },
+        {
+          "verse": 16,
+          "original": "Awake, north wind, and come, you south! Blow on my garden, that its spices may flow out. Let my beloved come into his garden, and taste his precious fruits.",
+          "korean": "북풍아 일어나라! 남풍아 오라! 내 동산에 불어서 그 향기가 퍼지게 하라. 내 사랑하는 이가 자기 동산에 들어와서 귀한 열매를 먹게 하라."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "I have come into my garden, my sister, my bride. I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, friends! Drink, yes, drink abundantly, beloved.",
+          "korean": "나는 내 동산에 들어왔어요, 나의 신부여. 나는 몰약과 향료를 모았어요. 꿀과 벌집을 먹었어요. 포도주와 젖을 마셨어요. 친구들이여, 먹어요! 사랑하는 이들이여, 많이 마셔요."
+        },
+        {
+          "verse": 2,
+          "original": "I was asleep, but my heart was awake. It is the voice of my beloved who knocks: \"Open to me, my sister, my love, my dove, my undefiled; for my head is filled with dew, and my hair with the dampness of the night.\"",
+          "korean": "나는 잠들었지만 내 마음은 깨어 있었어요. 내 사랑하는 이의 목소리가 문을 두드려요. \"열어 줘요, 사랑하는 이여, 나의 비둘기여. 내 머리에 이슬이 맺히고, 밤의 습기로 젖었어요.\""
+        },
+        {
+          "verse": 3,
+          "original": "I have taken off my robe. Indeed, must I put it on? I have washed my feet. Indeed, must I soil them?",
+          "korean": "나는 옷을 벗었는데, 다시 입어야 하나요? 발을 씻었는데, 다시 더럽혀야 하나요?"
+        },
+        {
+          "verse": 4,
+          "original": "My beloved thrust his hand in through the latch opening. My heart pounded for him.",
+          "korean": "내 사랑하는 이가 문틈으로 손을 넣었어요. 내 가슴이 두근거렸어요."
+        },
+        {
+          "verse": 5,
+          "original": "I rose up to open for my beloved. My hands dripped with myrrh, my fingers with liquid myrrh, on the handles of the lock.",
+          "korean": "나는 사랑하는 이에게 문을 열어 주려고 일어났어요. 내 손에서 몰약이 떨어지고, 손가락에서 몰약 액이 자물쇠 손잡이에 흘렀어요."
+        },
+        {
+          "verse": 6,
+          "original": "I opened to my beloved; but my beloved left, and had gone away. My heart went out when he spoke. I looked for him, but I didn't find him. I called him, but he didn't answer.",
+          "korean": "내 사랑하는 이에게 문을 열었어요. 하지만 그는 떠나고 없었어요. 그가 말할 때 내 마음이 녹았어요. 찾았지만 찾지 못했어요. 불렀지만 대답이 없었어요."
+        },
+        {
+          "verse": 7,
+          "original": "The watchmen who go about the city found me. They beat me. They bruised me. The keepers of the walls took my cloak away from me.",
+          "korean": "도시를 도는 파수꾼들이 나를 만났어요. 그들이 나를 때렸어요. 나를 상하게 했어요. 성벽 지키는 자들이 내 겉옷을 빼앗았어요."
+        },
+        {
+          "verse": 8,
+          "original": "I adjure you, daughters of Jerusalem, If you find my beloved, that you tell him that I am faint with love.",
+          "korean": "예루살렘의 딸들아, 부탁해요. 내 사랑하는 이를 찾으면, 내가 사랑에 빠져 힘이 없다고 전해 주세요."
+        },
+        {
+          "verse": 9,
+          "original": "How is your beloved better than another beloved, you fairest among women? How is your beloved better than another beloved, that you do so adjure us?",
+          "korean": "여자들 중에 가장 아름다운 이여, 그대의 사랑하는 이가 다른 이보다 어떻게 더 낫나요? 왜 그렇게 우리에게 부탁하나요?"
+        },
+        {
+          "verse": 10,
+          "original": "My beloved is white and ruddy. The best among ten thousand.",
+          "korean": "내 사랑하는 이는 빛나고 건강해요. 만 명 중에 가장 뛰어나요."
+        },
+        {
+          "verse": 11,
+          "original": "His head is like the purest gold. His hair is bushy, black as a raven.",
+          "korean": "그의 머리는 순금 같아요. 그의 머리카락은 풍성하고 까마귀처럼 검어요."
+        },
+        {
+          "verse": 12,
+          "original": "His eyes are like doves beside the water brooks, washed with milk, mounted like jewels.",
+          "korean": "그의 눈은 시냇가의 비둘기 같아요. 젖으로 씻은 것처럼 맑고, 보석처럼 빛나요."
+        },
+        {
+          "verse": 13,
+          "original": "His cheeks are like a bed of spices with towers of perfumes. His lips are like lilies, dropping liquid myrrh.",
+          "korean": "그의 뺨은 향료 화단 같고, 향기로운 꽃탑 같아요. 그의 입술은 백합화 같고, 몰약 액이 떨어져요."
+        },
+        {
+          "verse": 14,
+          "original": "His hands are like rings of gold set with beryl. His body is like ivory work overlaid with sapphires.",
+          "korean": "그의 손은 녹주옥을 박은 금반지 같아요. 그의 몸은 사파이어로 꾸민 상아 공예품 같아요."
+        },
+        {
+          "verse": 15,
+          "original": "His legs are like pillars of marble set on sockets of fine gold. His appearance is like Lebanon, excellent as the cedars.",
+          "korean": "그의 다리는 순금 받침 위에 세운 대리석 기둥 같아요. 그의 모습은 레바논처럼 당당하고, 백향목처럼 훌륭해요."
+        },
+        {
+          "verse": 16,
+          "original": "His mouth is sweetness; yes, he is altogether lovely. This is my beloved, and this is my friend, daughters of Jerusalem.",
+          "korean": "그의 말은 달콤해요. 그는 모든 것이 사랑스러워요. 예루살렘의 딸들아, 이 분이 내 사랑하는 이요, 내 친구예요."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Where has your beloved gone, you fairest among women? Where has your beloved turned, that we may seek him with you?",
+          "korean": "여자들 중에 가장 아름다운 이여, 그대의 사랑하는 이가 어디로 갔나요? 어디로 갔는지 말해 주세요. 우리도 함께 찾겠어요."
+        },
+        {
+          "verse": 2,
+          "original": "My beloved has gone down to his garden, to the beds of spices, to pasture his flock in the gardens, and to gather lilies.",
+          "korean": "내 사랑하는 이는 자기 동산으로, 향료 화단으로 내려갔어요. 동산에서 양 떼를 먹이고, 백합화를 모으러요."
+        },
+        {
+          "verse": 3,
+          "original": "I am my beloved's, and my beloved is mine. He browses among the lilies.",
+          "korean": "나는 내 사랑하는 이의 것이고, 내 사랑하는 이는 내 것이에요. 그는 백합화 사이에서 다녀요."
+        },
+        {
+          "verse": 4,
+          "original": "You are beautiful, my love, as Tirzah, lovely as Jerusalem, awesome as an army with banners.",
+          "korean": "사랑하는 이여, 그대는 디르사처럼 아름답고, 예루살렘처럼 사랑스럽고, 깃발을 세운 군대처럼 위풍당당해요."
+        },
+        {
+          "verse": 5,
+          "original": "Turn away your eyes from me, for they have overcome me. Your hair is like a flock of goats, that lie along the side of Gilead.",
+          "korean": "눈을 돌려요, 그대의 눈이 나를 사로잡았어요. 그대의 머리카락은 길르앗 비탈에 누운 염소 떼 같아요."
+        },
+        {
+          "verse": 6,
+          "original": "Your teeth are like a flock of ewes, which have come up from the washing, of which every one has twins; not one is bereaved among them.",
+          "korean": "그대의 이는 목욕하고 올라온 암양 떼 같아요. 모두 쌍둥이를 낳고, 하나도 잃어버린 것이 없어요."
+        },
+        {
+          "verse": 7,
+          "original": "Your temples are like a piece of a pomegranate behind your veil.",
+          "korean": "너울 뒤의 그대 뺨은 석류 조각 같아요."
+        },
+        {
+          "verse": 8,
+          "original": "There are sixty queens, eighty concubines, and virgins without number.",
+          "korean": "왕비가 육십 명이고, 후궁이 팔십 명이고, 젊은 여인은 수없이 많아요."
+        },
+        {
+          "verse": 9,
+          "original": "My dove, my perfect one, is unique. She is her mother's only daughter. She is the favorite one of her who bore her. The daughters saw her, and called her blessed. The queens and the concubines saw her, and they praised her.",
+          "korean": "하지만 내 비둘기, 나의 완전한 이는 하나뿐이에요. 그녀는 어머니의 외동딸이요, 낳아 주신 분의 사랑을 받는 이예요. 젊은 여인들이 그녀를 보고 복되다 했어요. 왕비들과 후궁들도 그녀를 칭찬했어요."
+        },
+        {
+          "verse": 10,
+          "original": "Who is she who looks out as the morning, beautiful as the moon, clear as the sun, and awesome as an army with banners?",
+          "korean": "새벽처럼 빛나고, 달처럼 아름답고, 해처럼 맑고, 깃발을 세운 군대처럼 위풍당당한 이 여인은 누구인가요?"
+        },
+        {
+          "verse": 11,
+          "original": "I went down into the nut tree grove, to see the green plants of the valley, to see whether the vine budded, and the pomegranates were in flower.",
+          "korean": "나는 호두나무 숲으로 내려갔어요. 골짜기의 푸른 식물들을 보러요. 포도나무에 싹이 텄는지, 석류나무에 꽃이 피었는지 보러요."
+        },
+        {
+          "verse": 12,
+          "original": "Without realizing it, my desire set me with my royal people's chariots.",
+          "korean": "나도 모르게, 내 마음이 나를 왕실의 수레 곁에 데려다 놓았어요."
+        },
+        {
+          "verse": 13,
+          "original": "Return, return, Shulammite! Return, return, that we may gaze at you. Why do you desire to gaze at the Shulammite, as at the dance of Mahanaim?",
+          "korean": "돌아와요, 돌아와요, 술람미 여인이여! 돌아와요, 돌아와요, 우리가 그대를 보게 해 주세요. 왜 마하나임의 춤을 보듯 술람미 여인을 보고 싶어 하나요?"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "How beautiful are your feet in sandals, prince's daughter! Your rounded thighs are like jewels, the work of the hands of a skillful workman.",
+          "korean": "왕의 딸이여, 샌들을 신은 그대의 발이 얼마나 아름다운지요! 그대의 모습은 보석처럼, 숙련된 장인의 작품처럼 아름다워요."
+        },
+        {
+          "verse": 2,
+          "original": "Your body is like a round goblet, no mixed wine is wanting. Your waist is like a heap of wheat, set about with lilies.",
+          "korean": "그대의 몸은 좋은 음료가 가득한 둥근 잔 같아요. 그대의 허리는 백합화로 둘러싸인 밀 단 같아요."
+        },
+        {
+          "verse": 3,
+          "original": "Your two breasts are like two fawns, that are twins of a roe.",
+          "korean": "쌍둥이 어린 사슴처럼, 그대는 아름다워요."
+        },
+        {
+          "verse": 4,
+          "original": "Your neck is like an ivory tower. Your eyes are like the pools in Heshbon by the gate of Bathrabbim. Your nose is like the tower of Lebanon which looks toward Damascus.",
+          "korean": "그대의 목은 상아 망대 같아요. 그대의 눈은 밧랍빔 문 곁 헤스본 연못처럼 맑아요. 그대의 코는 다마스쿠스를 바라보는 레바논 망대 같아요."
+        },
+        {
+          "verse": 5,
+          "original": "Your head on you is like Carmel. The hair of your head like purple. The king is held captive in its tresses.",
+          "korean": "그대의 머리는 갈멜 산처럼 당당해요. 머리카락은 보라색 천 같아요. 왕이 그 머리카락에 사로잡혔어요."
+        },
+        {
+          "verse": 6,
+          "original": "How beautiful and how pleasant you are, love, for delights!",
+          "korean": "사랑하는 이여, 그대는 얼마나 아름답고 얼마나 사랑스러운지요!"
+        },
+        {
+          "verse": 7,
+          "original": "This, your stature, is like a palm tree, your breasts like its fruit.",
+          "korean": "그대의 키는 야자나무 같고, 그 열매처럼 풍성해요."
+        },
+        {
+          "verse": 8,
+          "original": "I said, \"I will climb up into the palm tree. I will take hold of its fruit.\" Let your breasts be like clusters of the vine, the smell of your breath like apples.",
+          "korean": "내가 말했어요. \"야자나무에 올라가서 그 열매를 따겠어요.\" 그대의 향기는 포도송이 같고, 그대의 숨결은 사과 향기 같아요."
+        },
+        {
+          "verse": 9,
+          "original": "Your mouth is like the best wine, that goes down smoothly for my beloved, gliding through the lips of those who are asleep.",
+          "korean": "그대의 말은 좋은 포도주 같아요. 내 사랑하는 이에게 부드럽게 흘러가고, 잠자는 자의 입술에 스며들어요."
+        },
+        {
+          "verse": 10,
+          "original": "I am my beloved's. His desire is toward me.",
+          "korean": "나는 내 사랑하는 이의 것이에요. 그의 마음이 나를 향해 있어요."
+        },
+        {
+          "verse": 11,
+          "original": "Come, my beloved! Let's go out into the field. Let's lodge in the villages.",
+          "korean": "사랑하는 이여, 가요! 들로 나가요. 마을에서 머물러요."
+        },
+        {
+          "verse": 12,
+          "original": "Let's go early up to the vineyards. Let's see whether the vine has budded, its blossom is open, and the pomegranates are in flower. There I will give you my love.",
+          "korean": "일찍 포도밭으로 가요. 포도나무에 싹이 텄는지, 꽃이 피었는지, 석류나무에 꽃이 피었는지 보아요. 거기서 내 사랑을 그대에게 드릴게요."
+        },
+        {
+          "verse": 13,
+          "original": "The mandrakes produce fragrance. At our doors are all kinds of precious fruits, new and old, which I have stored up for you, my beloved.",
+          "korean": "합환채가 향기를 내요. 우리 문 앞에는 갖가지 귀한 열매가 있어요. 새 것과 오래된 것, 사랑하는 이여, 내가 그대를 위해 저장해 두었어요."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Oh that you were like my brother, who nursed from the breasts of my mother! If I found you outside, I would kiss you; yes, and no one would despise me.",
+          "korean": "그대가 내 어머니에게서 자란 내 오빠 같았으면 좋겠어요! 밖에서 그대를 만나면 인사할 텐데, 아무도 이상하게 생각하지 않을 텐데요."
+        },
+        {
+          "verse": 2,
+          "original": "I would lead you, bringing you into the house of my mother, who would instruct me. I would have you drink spiced wine, of the juice of my pomegranate.",
+          "korean": "그대를 이끌어 어머니 집으로 데려갈 텐데요. 어머니가 나를 가르쳐 주셨지요. 향료 넣은 음료와 석류즙을 그대에게 드릴 텐데요."
+        },
+        {
+          "verse": 3,
+          "original": "His left hand would be under my head. His right hand would embrace me.",
+          "korean": "그의 왼손이 내 머리 아래 있고, 그의 오른손이 나를 안아 줄 거예요."
+        },
+        {
+          "verse": 4,
+          "original": "I adjure you, daughters of Jerusalem, that you not stir up, nor awaken love, until it so desires.",
+          "korean": "예루살렘의 딸들아, 부탁해요. 사랑이 스스로 원할 때까지 깨우지 마세요."
+        },
+        {
+          "verse": 5,
+          "original": "Who is this who comes up from the wilderness, leaning on her beloved? Under the apple tree I aroused you. There your mother conceived you. There she was in labor and bore you.",
+          "korean": "광야에서 사랑하는 이에게 기대어 올라오는 이 여인은 누구인가요? 사과나무 아래서 내가 그대를 깨웠어요. 거기서 그대 어머니가 그대를 잉태했고, 거기서 그대를 낳았어요."
+        },
+        {
+          "verse": 6,
+          "original": "Set me as a seal on your heart, as a seal on your arm; for love is strong as death. Jealousy is as cruel as Sheol. Its flashes are flashes of fire, a very flame of Yahweh.",
+          "korean": "나를 그대 마음에 도장처럼 새겨 주세요. 그대 팔에 도장처럼 새겨 주세요. 사랑은 죽음처럼 강해요. 질투는 무덤처럼 무서워요. 그 불꽃은 여호와의 불꽃이에요."
+        },
+        {
+          "verse": 7,
+          "original": "Many waters can't quench love, neither can floods drown it. If a man would give all the wealth of his house for love, he would be utterly scorned.",
+          "korean": "많은 물도 사랑을 끄지 못해요. 홍수도 사랑을 삼키지 못해요. 사람이 자기 집의 모든 재산을 주고 사랑을 사려 해도, 사람들에게 무시당할 거예요."
+        },
+        {
+          "verse": 8,
+          "original": "We have a little sister. She has no breasts. What shall we do for our sister in the day when she is to be spoken for?",
+          "korean": "우리에게 어린 여동생이 있어요. 아직 어려요. 결혼 이야기가 나올 때 여동생을 위해 무엇을 해 줄까요?"
+        },
+        {
+          "verse": 9,
+          "original": "If she is a wall, we will build on her a turret of silver. If she is a door, we will enclose her with boards of cedar.",
+          "korean": "그녀가 성벽처럼 굳건하면, 은 망대를 세워 줄 거예요. 그녀가 문처럼 열려 있으면, 백향목 널빤지로 지켜 줄 거예요."
+        },
+        {
+          "verse": 10,
+          "original": "I am a wall, and my breasts like towers, then I was in his eyes like one who found peace.",
+          "korean": "나는 성벽이에요. 나는 당당해요. 그래서 그의 눈에 평화를 가져다주는 사람이 되었어요."
+        },
+        {
+          "verse": 11,
+          "original": "Solomon had a vineyard at Baal Hamon. He leased out the vineyard to keepers. Each was to bring a thousand shekels of silver for its fruit.",
+          "korean": "솔로몬이 바알하몬에 포도밭을 가지고 있었어요. 그 포도밭을 지키는 이들에게 맡겼어요. 각자 열매 값으로 은 천 세겔을 바쳐야 했어요."
+        },
+        {
+          "verse": 12,
+          "original": "My own vineyard is before me. The thousand are for you, Solomon, two hundred for those who tend its fruit.",
+          "korean": "내 포도밭은 내 것이에요. 솔로몬, 천 세겔은 당신 것이고, 이백 세겔은 열매를 돌보는 이들의 것이에요."
+        },
+        {
+          "verse": 13,
+          "original": "You who dwell in the gardens, with friends in attendance, let me hear your voice!",
+          "korean": "동산에 사는 이여, 친구들이 듣고 있어요. 그대의 목소리를 들려주세요!"
+        },
+        {
+          "verse": 14,
+          "original": "Come away, my beloved! Be like a gazelle or a young stag on the mountains of spices!",
+          "korean": "사랑하는 이여, 어서 와요! 향료 산 위의 노루나 어린 사슴처럼 빨리 와요!"
+        }
+      ]
+    }
+  ]
+}

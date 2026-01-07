@@ -1,0 +1,1176 @@
+{
+  "book": "Ecclesiastes",
+  "bookKorean": "전도서",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "The words of the Preacher, the son of David, king in Jerusalem:",
+          "korean": "이 말씀은 전도자의 말이에요. 그는 다윗의 아들이고, 예루살렘의 왕이었어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Vanity of vanities,\" says the Preacher; \"Vanity of vanities, all is vanity.\"",
+          "korean": "전도자가 말했어요. \"헛되고 헛되며, 모든 것이 헛되구나!\""
+        },
+        {
+          "verse": 3,
+          "original": "What does man gain from all his labor in which he labors under the sun?",
+          "korean": "사람이 이 세상에서 아무리 열심히 일해도 무슨 소용이 있을까요?"
+        },
+        {
+          "verse": 4,
+          "original": "One generation goes, and another generation comes; but the earth remains forever.",
+          "korean": "한 세대가 가면 다른 세대가 오지만, 땅은 영원히 그대로 있어요."
+        },
+        {
+          "verse": 5,
+          "original": "The sun also rises, and the sun goes down, and hurries to its place where it rises.",
+          "korean": "해는 떠올랐다가 지고, 다시 떠오르는 곳으로 빨리 돌아가요."
+        },
+        {
+          "verse": 6,
+          "original": "The wind goes toward the south, and turns around to the north. It turns around continually as it goes, and the wind returns again to its courses.",
+          "korean": "바람은 남쪽으로 갔다가 북쪽으로 돌아가요. 빙빙 돌면서 다시 제자리로 돌아와요."
+        },
+        {
+          "verse": 7,
+          "original": "All the rivers run into the sea, yet the sea is not full. To the place where the rivers flow, there they flow again.",
+          "korean": "모든 강물이 바다로 흘러가지만, 바다는 가득 차지 않아요. 강물은 다시 처음 흘러나온 곳으로 돌아가요."
+        },
+        {
+          "verse": 8,
+          "original": "All things are full of weariness beyond uttering. The eye is not satisfied with seeing, nor the ear filled with hearing.",
+          "korean": "모든 것이 피곤하고 지쳐요. 눈은 아무리 봐도 만족하지 못하고, 귀는 아무리 들어도 채워지지 않아요."
+        },
+        {
+          "verse": 9,
+          "original": "That which has been is that which shall be; and that which has been done is that which shall be done: and there is no new thing under the sun.",
+          "korean": "전에 있었던 일이 앞으로도 있을 거예요. 전에 했던 일을 또 하게 될 거예요. 이 세상에는 새로운 것이 없어요."
+        },
+        {
+          "verse": 10,
+          "original": "Is there a thing of which it may be said, \"Behold, this is new?\" It has been long ago, in the ages which were before us.",
+          "korean": "\"이것 봐, 이건 새로운 거야!\"라고 말할 수 있는 게 있을까요? 아니에요, 그것은 이미 오래전에 있었던 거예요."
+        },
+        {
+          "verse": 11,
+          "original": "There is no memory of the former; neither shall there be any memory of the latter that are to come, among those that shall come after.",
+          "korean": "사람들은 옛날 일을 기억하지 못해요. 앞으로 올 세대도 지금 있는 일들을 기억하지 못할 거예요."
+        },
+        {
+          "verse": 12,
+          "original": "I, the Preacher, was king over Israel in Jerusalem.",
+          "korean": "나 전도자는 예루살렘에서 이스라엘의 왕이었어요."
+        },
+        {
+          "verse": 13,
+          "original": "I applied my heart to seek and to search out by wisdom concerning all that is done under the sky. It is a heavy burden that God has given to the sons of men to be afflicted with.",
+          "korean": "나는 이 세상에서 일어나는 모든 일을 지혜로 알아보려고 열심히 노력했어요. 하나님께서 사람들에게 이것을 주셨는데, 이것은 정말 힘든 일이에요."
+        },
+        {
+          "verse": 14,
+          "original": "I have seen all the works that are done under the sun; and behold, all is vanity and a chasing after wind.",
+          "korean": "나는 이 세상에서 하는 모든 일을 보았어요. 그런데 모든 것이 헛되고 바람을 잡으려는 것과 같았어요."
+        },
+        {
+          "verse": 15,
+          "original": "That which is crooked can't be made straight; and that which is lacking can't be counted.",
+          "korean": "구부러진 것은 곧게 펼 수 없고, 없는 것은 셀 수가 없어요."
+        },
+        {
+          "verse": 16,
+          "original": "I said to myself, \"Behold, I have obtained for myself great wisdom above all who were before me in Jerusalem. Yes, my heart has had great experience of wisdom and knowledge.\"",
+          "korean": "나는 마음속으로 생각했어요. \"나는 예루살렘에서 나보다 먼저 있었던 모든 사람보다 더 큰 지혜를 얻었어. 정말 많은 지혜와 지식을 경험했어.\""
+        },
+        {
+          "verse": 17,
+          "original": "I applied my heart to know wisdom, and to know madness and folly. I perceived that this also was a chasing after wind.",
+          "korean": "나는 지혜가 무엇인지, 또 미련함과 어리석음이 무엇인지 알려고 애썼어요. 그런데 이것도 바람을 잡으려는 것과 같았어요."
+        },
+        {
+          "verse": 18,
+          "original": "For in much wisdom is much grief; and he who increases knowledge increases sorrow.",
+          "korean": "지혜가 많으면 걱정도 많아지고, 지식이 많아지면 슬픔도 많아져요."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "I said in my heart, \"Come now, I will test you with mirth: therefore enjoy pleasure;\" and behold, this also was vanity.",
+          "korean": "나는 마음속으로 말했어요. \"자, 이제 즐거움으로 시험해 보자. 기쁨을 누려 보자.\" 그런데 이것도 헛된 것이었어요."
+        },
+        {
+          "verse": 2,
+          "original": "I said of laughter, \"It is foolishness;\" and of mirth, \"What does it accomplish?\"",
+          "korean": "나는 웃음에 대해 \"이것은 어리석은 것이야\"라고 말했어요. 기쁨에 대해서는 \"이것이 무슨 소용이 있을까?\"라고 물었어요."
+        },
+        {
+          "verse": 3,
+          "original": "I searched in my heart how to cheer my flesh with wine, my heart yet guiding me with wisdom, and how to lay hold of folly, until I might see what it was good for the sons of men that they should do under heaven all the days of their lives.",
+          "korean": "나는 지혜를 버리지 않으면서 포도주로 몸을 즐겁게 하는 방법을 찾아보았어요. 사람들이 평생 동안 무엇을 하면 좋을지 알아보려고 했어요."
+        },
+        {
+          "verse": 4,
+          "original": "I made myself great works. I built myself houses. I planted myself vineyards.",
+          "korean": "나는 큰 일들을 했어요. 집을 짓고, 포도밭을 만들었어요."
+        },
+        {
+          "verse": 5,
+          "original": "I made myself gardens and parks, and I planted trees in them of all kinds of fruit.",
+          "korean": "정원과 공원도 만들고, 거기에 온갖 종류의 과일나무를 심었어요."
+        },
+        {
+          "verse": 6,
+          "original": "I made myself pools of water, to water from it the forest where trees were grown.",
+          "korean": "나무가 자라는 숲에 물을 대려고 연못도 만들었어요."
+        },
+        {
+          "verse": 7,
+          "original": "I bought male servants and female servants, and had servants born in my house. I also had great possessions of herds and flocks, above all who were before me in Jerusalem.",
+          "korean": "남자 종과 여자 종을 샀고, 내 집에서 태어난 종들도 있었어요. 예루살렘에서 나보다 먼저 있던 누구보다도 많은 소와 양을 가졌어요."
+        },
+        {
+          "verse": 8,
+          "original": "I also gathered silver and gold for myself, and the treasure of kings and of the provinces. I got myself male and female singers, and the delights of the sons of men: musical instruments, and that of all sorts.",
+          "korean": "나는 은과 금을 모았고, 왕들과 여러 지역의 보물도 모았어요. 노래하는 사람들과 모든 종류의 악기들도 가졌어요."
+        },
+        {
+          "verse": 9,
+          "original": "So I was great, and increased more than all who were before me in Jerusalem. My wisdom also remained with me.",
+          "korean": "나는 예루살렘에서 나보다 먼저 있던 모든 사람보다 더 위대해졌어요. 그러면서도 내 지혜는 여전히 나와 함께 있었어요."
+        },
+        {
+          "verse": 10,
+          "original": "Whatever my eyes desired, I didn't keep from them. I didn't withhold my heart from any joy, for my heart rejoiced because of all my labor, and this was my portion from all my labor.",
+          "korean": "내 눈이 원하는 것은 무엇이든 가졌어요. 어떤 즐거움도 내 마음에서 막지 않았어요. 내가 한 모든 일 때문에 마음이 기뻤고, 이것이 내 수고의 보상이었어요."
+        },
+        {
+          "verse": 11,
+          "original": "Then I looked at all the works that my hands had worked, and at the labor that I had labored to do; and behold, all was vanity and a chasing after wind, and there was no profit under the sun.",
+          "korean": "그런데 내가 한 모든 일과 수고를 돌아보니, 모든 것이 헛되고 바람을 잡으려는 것과 같았어요. 이 세상에서 얻는 것이 아무것도 없었어요."
+        },
+        {
+          "verse": 12,
+          "original": "I turned myself to consider wisdom, madness, and folly; for what can the king's successor do? Just that which has been done long ago.",
+          "korean": "나는 지혜와 미련함과 어리석음에 대해 생각해 보았어요. 다음 왕이 무엇을 할 수 있을까요? 이미 오래전에 했던 것밖에 없을 거예요."
+        },
+        {
+          "verse": 13,
+          "original": "Then I saw that wisdom excels folly, as far as light excels darkness.",
+          "korean": "나는 지혜가 어리석음보다 낫다는 것을 알았어요. 빛이 어둠보다 나은 것처럼요."
+        },
+        {
+          "verse": 14,
+          "original": "The wise man's eyes are in his head, and the fool walks in darkness—and yet I perceived that one event happens to them all.",
+          "korean": "지혜로운 사람은 앞을 잘 보지만, 어리석은 사람은 어둠 속을 걸어요. 그런데 나는 지혜로운 사람이나 어리석은 사람이나 결국 같은 일을 겪는다는 것을 알았어요."
+        },
+        {
+          "verse": 15,
+          "original": "Then I said in my heart, \"As it happens to the fool, so will it happen even to me; and why was I then more wise?\" Then I said in my heart that this also is vanity.",
+          "korean": "나는 마음속으로 말했어요. \"어리석은 사람에게 일어나는 일이 나에게도 일어날 거야. 그러면 내가 왜 더 지혜로웠을까?\" 이것도 헛된 것이라고 생각했어요."
+        },
+        {
+          "verse": 16,
+          "original": "For of the wise man, even as of the fool, there is no memory forever, since in the days to come all will have been long forgotten. Indeed, the wise man must die just like the fool!",
+          "korean": "지혜로운 사람도 어리석은 사람처럼 영원히 기억되지 않아요. 앞으로 올 날에는 모든 것이 잊혀질 거예요. 지혜로운 사람도 어리석은 사람처럼 죽어야 해요!"
+        },
+        {
+          "verse": 17,
+          "original": "So I hated life, because the work that is worked under the sun was grievous to me; for all is vanity and a chasing after wind.",
+          "korean": "그래서 나는 삶이 싫어졌어요. 이 세상에서 하는 일이 나에게 괴로웠기 때문이에요. 모든 것이 헛되고 바람을 잡으려는 것 같았어요."
+        },
+        {
+          "verse": 18,
+          "original": "I hated all my labor in which I labored under the sun, because I must leave it to the man who comes after me.",
+          "korean": "나는 이 세상에서 한 모든 수고가 싫어졌어요. 내가 한 것을 다음에 올 사람에게 남겨 주어야 하기 때문이에요."
+        },
+        {
+          "verse": 19,
+          "original": "Who knows whether he will be a wise man or a fool? Yet he will have rule over all of my labor in which I have labored, and in which I have shown myself wise under the sun. This also is vanity.",
+          "korean": "그 사람이 지혜로울지 어리석을지 누가 알겠어요? 그런데 그가 내가 지혜롭게 수고한 모든 것을 가지게 될 거예요. 이것도 헛된 것이에요."
+        },
+        {
+          "verse": 20,
+          "original": "Therefore I began to cause my heart to despair concerning all the labor in which I had labored under the sun.",
+          "korean": "그래서 나는 이 세상에서 한 모든 수고에 대해 마음이 절망했어요."
+        },
+        {
+          "verse": 21,
+          "original": "For there is a man whose labor is with wisdom, with knowledge, and with skillfulness; yet he shall leave it for his portion to a man who has not labored for it. This also is vanity and a great evil.",
+          "korean": "어떤 사람이 지혜와 지식과 실력으로 열심히 일해도, 그것을 수고하지 않은 사람에게 남겨 주어야 해요. 이것도 헛되고 정말 나쁜 일이에요."
+        },
+        {
+          "verse": 22,
+          "original": "For what does a man have of all his labor and of the striving of his heart, in which he labors under the sun?",
+          "korean": "사람이 이 세상에서 열심히 일하고 마음을 다해 수고해도 무엇을 얻을까요?"
+        },
+        {
+          "verse": 23,
+          "original": "For all his days are sorrows, and his travail is grief; yes, even in the night his heart takes no rest. This also is vanity.",
+          "korean": "그의 모든 날이 슬프고 그의 수고가 고통이에요. 밤에도 마음이 쉬지 못해요. 이것도 헛된 것이에요."
+        },
+        {
+          "verse": 24,
+          "original": "There is nothing better for a man than that he should eat and drink, and make his soul enjoy good in his labor. This also I saw, that it is from the hand of God.",
+          "korean": "사람에게는 먹고 마시며, 자기가 한 일에서 기쁨을 누리는 것보다 더 좋은 것이 없어요. 나는 이것이 하나님께서 주시는 것임을 알았어요."
+        },
+        {
+          "verse": 25,
+          "original": "For who can eat, or who can have enjoyment, more than I?",
+          "korean": "나보다 더 많이 먹고 더 많이 즐길 수 있는 사람이 누가 있을까요?"
+        },
+        {
+          "verse": 26,
+          "original": "For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God. This also is vanity and a chasing after wind.",
+          "korean": "하나님께서는 자기를 기쁘게 하는 사람에게 지혜와 지식과 기쁨을 주세요. 하지만 죄인에게는 모으고 쌓는 수고를 주시는데, 결국 하나님을 기쁘게 하는 사람에게 주려는 것이에요. 이것도 헛되고 바람을 잡으려는 것과 같아요."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "For everything there is a season, and a time for every purpose under heaven:",
+          "korean": "모든 일에는 때가 있어요. 하늘 아래 모든 일에는 알맞은 시간이 있어요."
+        },
+        {
+          "verse": 2,
+          "original": "a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;",
+          "korean": "태어날 때가 있고, 죽을 때가 있어요. 심을 때가 있고, 심은 것을 뽑을 때가 있어요."
+        },
+        {
+          "verse": 3,
+          "original": "a time to kill, and a time to heal; a time to break down, and a time to build up;",
+          "korean": "죽일 때가 있고, 치료할 때가 있어요. 부술 때가 있고, 세울 때가 있어요."
+        },
+        {
+          "verse": 4,
+          "original": "a time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+          "korean": "울 때가 있고, 웃을 때가 있어요. 슬퍼할 때가 있고, 춤출 때가 있어요."
+        },
+        {
+          "verse": 5,
+          "original": "a time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
+          "korean": "돌을 던질 때가 있고, 돌을 모을 때가 있어요. 안을 때가 있고, 안지 않을 때가 있어요."
+        },
+        {
+          "verse": 6,
+          "original": "a time to seek, and a time to lose; a time to keep, and a time to cast away;",
+          "korean": "찾을 때가 있고, 잃어버릴 때가 있어요. 간직할 때가 있고, 버릴 때가 있어요."
+        },
+        {
+          "verse": 7,
+          "original": "a time to tear, and a time to sew; a time to keep silence, and a time to speak;",
+          "korean": "찢을 때가 있고, 꿰맬 때가 있어요. 잠잠할 때가 있고, 말할 때가 있어요."
+        },
+        {
+          "verse": 8,
+          "original": "a time to love, and a time to hate; a time for war, and a time for peace.",
+          "korean": "사랑할 때가 있고, 미워할 때가 있어요. 전쟁할 때가 있고, 평화로울 때가 있어요."
+        },
+        {
+          "verse": 9,
+          "original": "What profit has he who works in that in which he labors?",
+          "korean": "열심히 일하는 사람이 무엇을 얻을까요?"
+        },
+        {
+          "verse": 10,
+          "original": "I have seen the burden which God has given to the sons of men to be afflicted with.",
+          "korean": "나는 하나님께서 사람들에게 주신 힘든 일을 보았어요."
+        },
+        {
+          "verse": 11,
+          "original": "He has made everything beautiful in its time. He has also set eternity in their hearts, yet so that man can't find out the work that God has done from the beginning even to the end.",
+          "korean": "하나님께서는 모든 것을 제때에 아름답게 만드셨어요. 또한 사람들의 마음에 영원함을 두셨어요. 하지만 사람은 하나님께서 처음부터 끝까지 하시는 일을 다 알 수 없어요."
+        },
+        {
+          "verse": 12,
+          "original": "I know that there is nothing better for them than to rejoice, and to do good as long as they live.",
+          "korean": "나는 사람들이 살아 있는 동안 기뻐하고 좋은 일을 하는 것보다 더 좋은 것이 없다는 것을 알아요."
+        },
+        {
+          "verse": 13,
+          "original": "Also that every man should eat and drink, and enjoy good in all his labor, is the gift of God.",
+          "korean": "또한 사람이 먹고 마시며 자기가 한 모든 일에서 좋은 것을 누리는 것은 하나님께서 주시는 선물이에요."
+        },
+        {
+          "verse": 14,
+          "original": "I know that whatever God does, it shall be forever. Nothing can be added to it, nor anything taken from it; and God has done it, that men should fear before him.",
+          "korean": "나는 하나님께서 하시는 모든 일이 영원하다는 것을 알아요. 거기에 무엇을 더하거나 뺄 수 없어요. 하나님께서 이렇게 하신 것은 사람들이 하나님을 경외하게 하려는 것이에요."
+        },
+        {
+          "verse": 15,
+          "original": "That which is has been long ago, and that which is to be has been long ago. God seeks again that which is passed away.",
+          "korean": "지금 있는 것은 오래전부터 있었고, 앞으로 있을 것도 오래전부터 있었어요. 하나님께서는 지나간 것을 다시 찾으세요."
+        },
+        {
+          "verse": 16,
+          "original": "Moreover I saw under the sun, in the place of justice, that wickedness was there; and in the place of righteousness, that wickedness was there.",
+          "korean": "또한 나는 이 세상에서 보았어요. 공정해야 할 곳에 악이 있고, 옳은 일을 해야 할 곳에 악이 있었어요."
+        },
+        {
+          "verse": 17,
+          "original": "I said in my heart, \"God will judge the righteous and the wicked; for there is a time there for every purpose and for every work.\"",
+          "korean": "나는 마음속으로 말했어요. \"하나님께서 옳은 사람과 악한 사람을 심판하실 거야. 모든 일에는 때가 있으니까.\""
+        },
+        {
+          "verse": 18,
+          "original": "I said in my heart, \"As for the sons of men, God tests them, so that they may see that they themselves are like animals.",
+          "korean": "나는 마음속으로 말했어요. \"하나님께서 사람들을 시험하셔서, 사람들도 짐승과 다르지 않다는 것을 알게 하시는구나.\""
+        },
+        {
+          "verse": 19,
+          "original": "For that which happens to the sons of men happens to animals. Even one thing happens to them. As the one dies, so the other dies. Yes, they have all one breath; and man has no advantage over the animals; for all is vanity.",
+          "korean": "사람에게 일어나는 일이 짐승에게도 일어나요. 둘 다 같은 일을 겪어요. 하나가 죽으면 다른 것도 죽어요. 둘 다 숨을 쉬어요. 사람이 짐승보다 나은 것이 없어요. 모든 것이 헛되기 때문이에요."
+        },
+        {
+          "verse": 20,
+          "original": "All go to one place. All are from the dust, and all turn to dust again.",
+          "korean": "모두 같은 곳으로 가요. 모두 흙에서 왔고, 모두 다시 흙으로 돌아가요."
+        },
+        {
+          "verse": 21,
+          "original": "Who knows the spirit of man, whether it goes upward, and the spirit of the animal, whether it goes downward to the earth?\"",
+          "korean": "사람의 영혼이 위로 올라가고 짐승의 영혼이 땅 아래로 내려가는지 누가 알겠어요?"
+        },
+        {
+          "verse": 22,
+          "original": "Therefore I saw that there is nothing better than that a man should rejoice in his works; for that is his portion: for who can bring him to see what will be after him?",
+          "korean": "그래서 나는 사람이 자기가 한 일에서 기뻐하는 것보다 더 좋은 것이 없다는 것을 알았어요. 그것이 그의 몫이니까요. 누가 그에게 앞으로 일어날 일을 보여 줄 수 있겠어요?"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Then I returned and saw all the oppressions that are done under the sun: and behold, the tears of those who were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.",
+          "korean": "나는 다시 이 세상에서 일어나는 모든 억울한 일들을 보았어요. 억울하게 당하는 사람들이 눈물을 흘렸지만, 그들을 위로해 주는 사람이 없었어요. 힘은 괴롭히는 사람들에게 있었고, 위로해 주는 사람은 없었어요."
+        },
+        {
+          "verse": 2,
+          "original": "Therefore I praised the dead who have been long dead more than the living who are yet alive.",
+          "korean": "그래서 나는 아직 살아 있는 사람보다 이미 죽은 사람이 더 행복하다고 생각했어요."
+        },
+        {
+          "verse": 3,
+          "original": "Yes, better than them both is him who has not yet been, who has not seen the evil work that is done under the sun.",
+          "korean": "그런데 둘 다보다 더 나은 것은 아직 태어나지 않은 사람이에요. 그는 이 세상에서 일어나는 나쁜 일을 보지 않았으니까요."
+        },
+        {
+          "verse": 4,
+          "original": "Then I saw all the labor and achievement that is the envy of a man's neighbor. This also is vanity and a striving after wind.",
+          "korean": "또한 나는 모든 수고와 성공이 이웃의 시기를 불러온다는 것을 보았어요. 이것도 헛되고 바람을 잡으려는 것과 같아요."
+        },
+        {
+          "verse": 5,
+          "original": "The fool folds his hands together and ruins himself.",
+          "korean": "어리석은 사람은 손을 모으고 아무것도 하지 않아서 자신을 망쳐요."
+        },
+        {
+          "verse": 6,
+          "original": "Better is a handful, with quietness, than two handfuls with labor and chasing after wind.",
+          "korean": "수고하고 바람을 잡으려고 애쓰면서 두 손 가득 가지는 것보다, 평안하게 한 손에 조금 가지는 것이 더 나아요."
+        },
+        {
+          "verse": 7,
+          "original": "Then I returned and saw vanity under the sun.",
+          "korean": "나는 다시 이 세상에서 헛된 것을 보았어요."
+        },
+        {
+          "verse": 8,
+          "original": "There is one who is alone, and he has neither son nor brother. There is no end to all of his labor, neither are his eyes satisfied with wealth. \"For whom then, do I labor and deprive my soul of enjoyment?\" This also is vanity. Yes, it is a miserable business.",
+          "korean": "혼자인 사람이 있어요. 아들도 형제도 없어요. 그런데 그의 수고에는 끝이 없고, 그의 눈은 재물에 만족하지 못해요. \"나는 누구를 위해 일하며 나 자신의 즐거움을 빼앗기는 걸까?\" 이것도 헛되고 정말 슬픈 일이에요."
+        },
+        {
+          "verse": 9,
+          "original": "Two are better than one, because they have a good reward for their labor.",
+          "korean": "둘이 하나보다 나아요. 함께 일하면 더 좋은 결과를 얻으니까요."
+        },
+        {
+          "verse": 10,
+          "original": "For if they fall, the one will lift up his fellow; but woe to him who is alone when he falls, and doesn't have another to lift him up.",
+          "korean": "한 사람이 넘어지면 다른 사람이 일으켜 줄 수 있어요. 하지만 혼자인 사람이 넘어지면, 일으켜 줄 사람이 없어서 불쌍해요."
+        },
+        {
+          "verse": 11,
+          "original": "Again, if two lie together, then they have warmth; but how can one keep warm alone?",
+          "korean": "또한 둘이 함께 누우면 따뜻하지만, 혼자서 어떻게 따뜻할 수 있겠어요?"
+        },
+        {
+          "verse": 12,
+          "original": "If a man prevails against one who is alone, two shall withstand him; and a threefold cord is not quickly broken.",
+          "korean": "한 사람을 이길 수 있어도, 둘이면 막아낼 수 있어요. 세 겹으로 꼰 줄은 쉽게 끊어지지 않아요."
+        },
+        {
+          "verse": 13,
+          "original": "Better is a poor and wise youth than an old and foolish king who doesn't know how to receive admonition any more.",
+          "korean": "더 이상 충고를 받아들이지 않는 늙고 어리석은 왕보다, 가난하지만 지혜로운 젊은이가 더 나아요."
+        },
+        {
+          "verse": 14,
+          "original": "For out of prison he came out to be king; yes, even in his kingdom he was born poor.",
+          "korean": "그 젊은이는 감옥에서 나와서 왕이 되었어요. 그 나라에서 가난하게 태어났지만요."
+        },
+        {
+          "verse": 15,
+          "original": "I saw all the living who walk under the sun, that they were with the youth, the other, who succeeded him.",
+          "korean": "나는 이 세상에 사는 모든 사람이 그 왕의 뒤를 이은 젊은이를 따르는 것을 보았어요."
+        },
+        {
+          "verse": 16,
+          "original": "There was no end of all the people, even of all them over whom he was—yet those who come after shall not rejoice in him. Surely this also is vanity and a chasing after wind.",
+          "korean": "그 젊은이를 따르는 사람들은 끝이 없었어요. 하지만 뒤에 오는 사람들은 그를 기뻐하지 않을 거예요. 이것도 정말 헛되고 바람을 잡으려는 것과 같아요."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Guard your steps when you go to God's house; for to draw near to listen is better than to give the sacrifice of fools, for they don't know that they do evil.",
+          "korean": "하나님의 집에 갈 때는 조심하세요. 어리석은 사람처럼 제물만 드리는 것보다, 가까이 가서 말씀을 듣는 것이 더 좋아요. 어리석은 사람들은 자기가 잘못하는 것을 모르니까요."
+        },
+        {
+          "verse": 2,
+          "original": "Don't be rash with your mouth, and don't let your heart be hasty to utter anything before God; for God is in heaven, and you on earth. Therefore let your words be few.",
+          "korean": "하나님 앞에서 입으로 함부로 말하지 말고, 마음이 급해서 아무 말이나 하지 마세요. 하나님께서는 하늘에 계시고 우리는 땅에 있으니까요. 그러니 말을 적게 하세요."
+        },
+        {
+          "verse": 3,
+          "original": "For as a dream comes with a multitude of cares, so a fool's speech with a multitude of words.",
+          "korean": "걱정이 많으면 꿈을 꾸듯이, 어리석은 사람은 말이 많아요."
+        },
+        {
+          "verse": 4,
+          "original": "When you vow a vow to God, don't defer to pay it; for he has no pleasure in fools. Pay that which you vow.",
+          "korean": "하나님께 약속을 했으면 미루지 말고 지키세요. 하나님께서는 어리석은 사람을 기뻐하지 않으세요. 약속한 것을 꼭 지키세요."
+        },
+        {
+          "verse": 5,
+          "original": "It is better that you should not vow, than that you should vow and not pay.",
+          "korean": "약속을 하고 지키지 않는 것보다, 아예 약속을 하지 않는 것이 더 나아요."
+        },
+        {
+          "verse": 6,
+          "original": "Don't allow your mouth to lead you into sin. Don't protest before the messenger that this was a mistake. Why should God be angry at your voice, and destroy the work of your hands?",
+          "korean": "입 때문에 죄를 짓지 마세요. 나중에 \"실수였어요\"라고 말하지 마세요. 왜 하나님께서 여러분의 말에 화를 내시고, 여러분이 한 일을 무너뜨리게 하겠어요?"
+        },
+        {
+          "verse": 7,
+          "original": "For in the multitude of dreams there are vanities, as well as in many words; but you must fear God.",
+          "korean": "꿈이 많으면 헛된 것이 많고, 말이 많아도 그래요. 그러니 하나님을 경외해야 해요."
+        },
+        {
+          "verse": 8,
+          "original": "If you see the oppression of the poor, and the violent taking away of justice and righteousness in a district, don't marvel at the matter, for one official is eyed by a higher one, and there are officials over them.",
+          "korean": "가난한 사람들이 억울하게 당하고, 공정함과 옳은 것이 빼앗기는 것을 보더라도 놀라지 마세요. 높은 관리 위에 더 높은 관리가 있고, 그 위에 또 관리가 있으니까요."
+        },
+        {
+          "verse": 9,
+          "original": "Moreover the profit of the earth is for all. The king profits from the field.",
+          "korean": "게다가 땅에서 나는 것은 모두를 위한 것이에요. 왕도 밭에서 이익을 얻어요."
+        },
+        {
+          "verse": 10,
+          "original": "He who loves silver shall not be satisfied with silver; nor he who loves abundance, with increase: this also is vanity.",
+          "korean": "은을 사랑하는 사람은 은으로 만족하지 못하고, 재물을 사랑하는 사람은 더 많아져도 만족하지 못해요. 이것도 헛된 것이에요."
+        },
+        {
+          "verse": 11,
+          "original": "When goods increase, those who eat them are increased; and what advantage is there to its owner, except to feast on them with his eyes?",
+          "korean": "재물이 많아지면 그것을 먹는 사람도 많아져요. 그 주인에게 무슨 이익이 있을까요? 눈으로 보는 것밖에 없어요."
+        },
+        {
+          "verse": 12,
+          "original": "The sleep of a laboring man is sweet, whether he eats little or much; but the abundance of the rich will not allow him to sleep.",
+          "korean": "일하는 사람은 적게 먹든 많이 먹든 달콤하게 잠을 자요. 하지만 부자는 재물이 많아서 잠을 잘 수 없어요."
+        },
+        {
+          "verse": 13,
+          "original": "There is a grievous evil which I have seen under the sun: wealth kept by its owner to his harm.",
+          "korean": "나는 이 세상에서 아주 나쁜 일을 보았어요. 재물을 모아 두었는데, 오히려 그것이 주인에게 해가 되는 것이에요."
+        },
+        {
+          "verse": 14,
+          "original": "Those riches perish by misfortune, and if he has fathered a son, there is nothing in his hand.",
+          "korean": "그 재물이 불행한 일로 없어지면, 아들이 있어도 그에게 남겨 줄 것이 아무것도 없어요."
+        },
+        {
+          "verse": 15,
+          "original": "As he came out of his mother's womb, naked shall he go again as he came, and shall take nothing for his labor, which he may carry away in his hand.",
+          "korean": "사람은 어머니 배에서 벌거벗고 나왔듯이, 벌거벗고 다시 가요. 수고해서 번 것을 손에 들고 갈 수 없어요."
+        },
+        {
+          "verse": 16,
+          "original": "This also is a grievous evil, that in all points as he came, so shall he go. And what profit does he have who labors for the wind?",
+          "korean": "이것도 아주 슬픈 일이에요. 사람은 왔던 그대로 가요. 바람을 위해 수고한 것이 무슨 이익이 있겠어요?"
+        },
+        {
+          "verse": 17,
+          "original": "All his days he also eats in darkness, he is frustrated, and has sickness and wrath.",
+          "korean": "그의 모든 날이 어두움 속에서 먹는 것 같고, 답답하고, 아프고, 화가 나요."
+        },
+        {
+          "verse": 18,
+          "original": "Behold, that which I have seen to be good and proper is for one to eat and to drink, and to enjoy good in all his labor, in which he labors under the sun, all the days of his life which God has given him; for this is his portion.",
+          "korean": "내가 본 좋고 옳은 것은 이것이에요. 사람이 하나님께서 주신 평생 동안, 이 세상에서 수고하면서 먹고 마시고 좋은 것을 누리는 것이에요. 이것이 그의 몫이니까요."
+        },
+        {
+          "verse": 19,
+          "original": "Every man also to whom God has given riches and wealth, and has given him power to eat of it, and to take his portion, and to rejoice in his labor—this is the gift of God.",
+          "korean": "하나님께서 어떤 사람에게 재물과 부를 주시고, 그것을 누리며 자기 몫을 가지고 수고에서 기뻐할 수 있게 해 주시면, 이것은 하나님께서 주시는 선물이에요."
+        },
+        {
+          "verse": 20,
+          "original": "For he shall not often reflect on the days of his life; because God occupies him with the joy of his heart.",
+          "korean": "그런 사람은 자기 인생의 날들을 많이 걱정하지 않아요. 하나님께서 그의 마음에 기쁨을 가득 채워 주시니까요."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "There is an evil which I have seen under the sun, and it is heavy on men:",
+          "korean": "나는 이 세상에서 나쁜 일을 보았는데, 그것은 사람들에게 무거운 짐이에요."
+        },
+        {
+          "verse": 2,
+          "original": "a man to whom God gives riches, wealth, and honor, so that he lacks nothing for his soul of all that he desires, yet God gives him no power to eat of it, but an alien eats it. This is vanity, and it is an evil disease.",
+          "korean": "어떤 사람에게 하나님께서 재물과 부와 명예를 주셔서, 그가 원하는 것이 다 있어요. 그런데 하나님께서 그것을 누릴 힘은 주지 않으시고, 다른 사람이 그것을 누려요. 이것은 헛되고 아주 나쁜 병이에요."
+        },
+        {
+          "verse": 3,
+          "original": "If a man fathers a hundred children, and lives many years, so that the days of his years are many, but his soul is not filled with good, and moreover he has no burial; I say, that a stillborn child is better than he:",
+          "korean": "어떤 사람이 자녀를 백 명이나 낳고 오래 살아도, 좋은 것을 누리지 못하고 제대로 장례도 치르지 못한다면, 태어나지 못한 아이가 그보다 더 낫다고 나는 말해요."
+        },
+        {
+          "verse": 4,
+          "original": "for it comes in vanity, and departs in darkness, and its name is covered with darkness.",
+          "korean": "그 아이는 헛되이 와서 어둠 속에 가고, 이름도 어둠에 덮이지만요."
+        },
+        {
+          "verse": 5,
+          "original": "Moreover it has not seen the sun nor known it. This has rest rather than the other.",
+          "korean": "그 아이는 해도 보지 못하고 아무것도 모르지만, 그 사람보다 더 평안해요."
+        },
+        {
+          "verse": 6,
+          "original": "Yes, though he live a thousand years twice told, and yet fails to enjoy good, don't all go to one place?",
+          "korean": "그 사람이 이천 년을 살아도 좋은 것을 누리지 못한다면, 결국 모두 같은 곳으로 가지 않나요?"
+        },
+        {
+          "verse": 7,
+          "original": "All the labor of man is for his mouth, and yet the appetite is not filled.",
+          "korean": "사람의 모든 수고는 입을 위한 것인데, 그래도 욕심은 채워지지 않아요."
+        },
+        {
+          "verse": 8,
+          "original": "For what advantage has the wise more than the fool? What has the poor man, that knows how to walk before the living?",
+          "korean": "지혜로운 사람이 어리석은 사람보다 나은 것이 무엇일까요? 사람들 앞에서 어떻게 살아야 하는지 아는 가난한 사람에게 무엇이 있을까요?"
+        },
+        {
+          "verse": 9,
+          "original": "Better is the sight of the eyes than the wandering of the desire. This also is vanity and a chasing after wind.",
+          "korean": "끝없이 원하는 것보다 눈앞에 있는 것을 보는 것이 더 나아요. 이것도 헛되고 바람을 잡으려는 것과 같아요."
+        },
+        {
+          "verse": 10,
+          "original": "Whatever has been, its name was given long ago; and it is known what man is; neither can he contend with him who is mightier than he.",
+          "korean": "이미 있었던 것은 오래전에 이름이 붙여졌어요. 사람이 무엇인지도 알려져 있어요. 사람은 자기보다 강한 분과 다툴 수 없어요."
+        },
+        {
+          "verse": 11,
+          "original": "For there are many words that create vanity. What does that profit man?",
+          "korean": "말이 많으면 헛된 것도 많아져요. 그것이 사람에게 무슨 이익이 있을까요?"
+        },
+        {
+          "verse": 12,
+          "original": "For who knows what is good for man in life, all the days of his vain life which he spends like a shadow? For who can tell a man what will be after him under the sun?",
+          "korean": "누가 사람에게 무엇이 좋은지 알까요? 그림자처럼 지나가는 헛된 인생 동안요. 누가 이 세상에서 그 사람 다음에 무슨 일이 일어날지 말해 줄 수 있을까요?"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "A good name is better than fine perfume; and the day of death better than the day of one's birth.",
+          "korean": "좋은 이름은 비싼 향수보다 나아요. 죽는 날이 태어나는 날보다 나아요."
+        },
+        {
+          "verse": 2,
+          "original": "It is better to go to the house of mourning than to go to the house of feasting; for that is the end of all men, and the living should take this to heart.",
+          "korean": "잔치하는 집에 가는 것보다 슬퍼하는 집에 가는 것이 더 나아요. 그것이 모든 사람의 끝이니까요. 살아 있는 사람은 이것을 마음에 새겨야 해요."
+        },
+        {
+          "verse": 3,
+          "original": "Sorrow is better than laughter; for by the sadness of the face the heart is made good.",
+          "korean": "웃음보다 슬픔이 나아요. 얼굴이 슬플 때 마음이 좋아지니까요."
+        },
+        {
+          "verse": 4,
+          "original": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.",
+          "korean": "지혜로운 사람의 마음은 슬퍼하는 집에 있지만, 어리석은 사람의 마음은 즐기는 집에 있어요."
+        },
+        {
+          "verse": 5,
+          "original": "It is better to hear the rebuke of the wise than for a man to hear the song of fools.",
+          "korean": "어리석은 사람들의 노래를 듣는 것보다, 지혜로운 사람의 꾸지람을 듣는 것이 더 나아요."
+        },
+        {
+          "verse": 6,
+          "original": "For as the crackling of thorns under a pot, so is the laughter of the fool. This also is vanity.",
+          "korean": "어리석은 사람의 웃음은 솥 아래서 타는 가시나무 소리와 같아요. 이것도 헛된 것이에요."
+        },
+        {
+          "verse": 7,
+          "original": "Surely extortion makes the wise man foolish; and a bribe destroys the understanding.",
+          "korean": "뇌물을 받으면 지혜로운 사람도 어리석어지고, 마음이 망가져요."
+        },
+        {
+          "verse": 8,
+          "original": "Better is the end of a thing than its beginning. The patient in spirit is better than the proud in spirit.",
+          "korean": "일의 끝이 시작보다 나아요. 참을성 있는 마음이 교만한 마음보다 나아요."
+        },
+        {
+          "verse": 9,
+          "original": "Don't be hasty in your spirit to be angry, for anger rests in the bosom of fools.",
+          "korean": "쉽게 화내지 마세요. 화는 어리석은 사람의 마음속에 머물러요."
+        },
+        {
+          "verse": 10,
+          "original": "Don't say, \"Why were the former days better than these?\" For you do not ask wisely about this.",
+          "korean": "\"왜 옛날이 지금보다 나았을까?\"라고 묻지 마세요. 이것은 지혜로운 질문이 아니에요."
+        },
+        {
+          "verse": 11,
+          "original": "Wisdom is as good as an inheritance. Yes, it is more excellent for those who see the sun.",
+          "korean": "지혜는 유산처럼 좋아요. 살아 있는 사람에게 아주 좋은 것이에요."
+        },
+        {
+          "verse": 12,
+          "original": "For wisdom is a defense, even as money is a defense; but the excellency of knowledge is that wisdom preserves the life of him who has it.",
+          "korean": "지혜는 돈처럼 우리를 보호해 줘요. 하지만 지식이 더 좋은 점은, 지혜가 그것을 가진 사람의 생명을 지켜 준다는 것이에요."
+        },
+        {
+          "verse": 13,
+          "original": "Consider the work of God, for who can make that straight, which he has made crooked?",
+          "korean": "하나님께서 하시는 일을 생각해 보세요. 하나님께서 굽게 만드신 것을 누가 곧게 할 수 있겠어요?"
+        },
+        {
+          "verse": 14,
+          "original": "In the day of prosperity be joyful, and in the day of adversity consider; yes, God has made the one side by side with the other, to the end that man should not find out anything after him.",
+          "korean": "좋은 날에는 기뻐하고, 어려운 날에는 생각해 보세요. 하나님께서 둘 다 만드셨어요. 그래서 사람이 앞으로 무슨 일이 일어날지 알 수 없게 하셨어요."
+        },
+        {
+          "verse": 15,
+          "original": "All this I have seen in my days of vanity: there is a righteous man who perishes in his righteousness, and there is a wicked man who lives long in his evildoing.",
+          "korean": "나는 헛된 내 인생에서 이 모든 것을 보았어요. 옳은 사람이 옳게 살다가 죽고, 악한 사람이 악하게 살면서도 오래 사는 것을요."
+        },
+        {
+          "verse": 16,
+          "original": "Don't be overly righteous, neither make yourself overly wise. Why should you destroy yourself?",
+          "korean": "지나치게 옳은 척하지 말고, 지나치게 지혜로운 척하지 마세요. 왜 자신을 망치겠어요?"
+        },
+        {
+          "verse": 17,
+          "original": "Don't be too wicked, neither be foolish. Why should you die before your time?",
+          "korean": "너무 악하게 굴지 말고, 어리석지 마세요. 왜 때가 되기 전에 죽겠어요?"
+        },
+        {
+          "verse": 18,
+          "original": "It is good that you should take hold of this. Yes, also don't withdraw your hand from that; for he who fears God will come out of them all.",
+          "korean": "이것을 붙잡고 저것도 놓지 마세요. 하나님을 경외하는 사람은 이 모든 것에서 잘 빠져나올 거예요."
+        },
+        {
+          "verse": 19,
+          "original": "Wisdom is a strength to the wise man more than ten rulers who are in a city.",
+          "korean": "지혜는 지혜로운 사람에게 성 안에 있는 열 명의 지도자보다 더 큰 힘이 돼요."
+        },
+        {
+          "verse": 20,
+          "original": "Surely there is not a righteous man on earth who does good and doesn't sin.",
+          "korean": "이 땅에는 선한 일만 하고 죄를 짓지 않는 옳은 사람이 없어요."
+        },
+        {
+          "verse": 21,
+          "original": "Also don't take heed to all words that are spoken, lest you hear your servant curse you;",
+          "korean": "또한 사람들이 하는 모든 말에 신경 쓰지 마세요. 그러다가 종이 여러분을 욕하는 것을 듣게 될지도 몰라요."
+        },
+        {
+          "verse": 22,
+          "original": "for often your own heart knows that you yourself have likewise cursed others.",
+          "korean": "여러분도 다른 사람을 욕한 적이 있다는 것을 마음속으로 알잖아요."
+        },
+        {
+          "verse": 23,
+          "original": "All this I have proved in wisdom. I said, \"I will be wise;\" but it was far from me.",
+          "korean": "나는 이 모든 것을 지혜로 알아보았어요. \"지혜로워지겠다\"라고 말했지만, 그것은 나에게서 멀리 있었어요."
+        },
+        {
+          "verse": 24,
+          "original": "That which is, is far off and exceedingly deep. Who can find it out?",
+          "korean": "있는 것은 멀고 아주 깊어요. 누가 그것을 알아낼 수 있을까요?"
+        },
+        {
+          "verse": 25,
+          "original": "I turned around, and my heart sought to know and to search out, and to seek wisdom and the scheme of things, and to know that wickedness is stupidity, and that foolishness is madness.",
+          "korean": "나는 돌아서서 내 마음으로 지혜와 사물의 이치를 알고 찾아보려고 했어요. 그리고 악한 것이 어리석은 것이고, 어리석음이 미친 것이라는 것을 알게 되었어요."
+        },
+        {
+          "verse": 26,
+          "original": "I find more bitter than death the woman whose heart is snares and traps, whose hands are chains. Whoever pleases God shall escape from her; but the sinner will be ensnared by her.",
+          "korean": "나는 마음이 덫과 그물 같고 손이 사슬 같은 사람이 죽음보다 더 쓰다는 것을 알았어요. 하나님을 기쁘게 하는 사람은 그런 사람에게서 벗어나지만, 죄인은 붙잡히게 될 거예요."
+        },
+        {
+          "verse": 27,
+          "original": "\"Behold, I have found this,\" says the Preacher, \"to one another, to find out the scheme",
+          "korean": "전도자가 말해요. \"보세요, 내가 이것을 찾았어요. 이치를 알아내려고 하나하나 살펴보았는데,"
+        },
+        {
+          "verse": 28,
+          "original": "which my soul still seeks, but I have not found. I have found one man among a thousand, but I have not found a woman among all those.",
+          "korean": "내 마음이 아직도 찾지만 찾지 못했어요. 천 명 중에 한 남자는 찾았지만, 그 모든 사람 중에 여자는 찾지 못했어요."
+        },
+        {
+          "verse": 29,
+          "original": "Behold, I have only found this: that God made man upright; but they search for many schemes.\"",
+          "korean": "내가 찾은 것은 이것뿐이에요. 하나님께서 사람을 바르게 만드셨는데, 사람들이 많은 계략을 찾는다는 것이에요.\""
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Who is like the wise man? And who knows the interpretation of a thing? A man's wisdom makes his face shine, and the hardness of his face is changed.",
+          "korean": "지혜로운 사람 같은 사람이 누가 있을까요? 사물의 뜻을 아는 사람이 누가 있을까요? 사람의 지혜는 그의 얼굴을 밝게 하고, 굳은 얼굴을 부드럽게 바꿔 줘요."
+        },
+        {
+          "verse": 2,
+          "original": "I say, \"Keep the king's command!\" because of the oath to God.",
+          "korean": "나는 말해요. \"왕의 명령을 지키세요!\" 하나님께 한 맹세 때문이에요."
+        },
+        {
+          "verse": 3,
+          "original": "Don't be hasty to go out of his presence. Don't persist in an evil thing, for he does whatever pleases him,",
+          "korean": "왕 앞에서 급하게 나가지 말고, 나쁜 일을 고집하지 마세요. 왕은 자기가 원하는 것을 무엇이든 하니까요."
+        },
+        {
+          "verse": 4,
+          "original": "for the king's word is supreme. Who can say to him, \"What are you doing?\"",
+          "korean": "왕의 말은 가장 높아요. 누가 왕에게 \"무엇을 하고 계세요?\"라고 말할 수 있겠어요?"
+        },
+        {
+          "verse": 5,
+          "original": "Whoever keeps the commandment shall not come to harm, and his wise heart will know the time and procedure.",
+          "korean": "명령을 지키는 사람은 해를 당하지 않을 거예요. 그의 지혜로운 마음은 때와 방법을 알 거예요."
+        },
+        {
+          "verse": 6,
+          "original": "For there is a time and procedure for every purpose, although the misery of man is heavy on him.",
+          "korean": "모든 일에는 때와 방법이 있어요. 비록 사람의 고통이 무겁더라도요."
+        },
+        {
+          "verse": 7,
+          "original": "For he doesn't know that which will be; for who can tell him how it will be?",
+          "korean": "사람은 앞으로 무슨 일이 일어날지 몰라요. 누가 그에게 어떻게 될지 말해 줄 수 있겠어요?"
+        },
+        {
+          "verse": 8,
+          "original": "There is no man who has power over the spirit to contain the spirit; neither does he have power over the day of death. There is no discharge in war; neither shall wickedness deliver those who practice it.",
+          "korean": "아무도 숨을 붙잡아 둘 힘이 없고, 죽는 날을 정할 힘도 없어요. 전쟁에서 빠져나갈 수 없고, 악한 일도 악한 사람을 구해 주지 못해요."
+        },
+        {
+          "verse": 9,
+          "original": "All this I have seen, and applied my mind to every work that is done under the sun. There is a time in which one man has power over another to his hurt.",
+          "korean": "나는 이 모든 것을 보고, 이 세상에서 하는 모든 일에 마음을 기울였어요. 어떤 때에는 한 사람이 다른 사람에게 권력을 가지고 해를 끼치기도 해요."
+        },
+        {
+          "verse": 10,
+          "original": "So I saw the wicked buried. Indeed they came also from holiness. They went and were forgotten in the city where they did this. This also is vanity.",
+          "korean": "나는 악한 사람들이 묻히는 것을 보았어요. 그들은 거룩한 곳에도 갔었어요. 그런데 그들이 악한 일을 했던 그 도시에서 잊혀졌어요. 이것도 헛된 것이에요."
+        },
+        {
+          "verse": 11,
+          "original": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+          "korean": "악한 일에 대한 벌이 빨리 내려지지 않으면, 사람들의 마음은 악한 일을 하려고 해요."
+        },
+        {
+          "verse": 12,
+          "original": "Though a sinner commits crimes a hundred times, and lives long, yet surely I know that it will be better with those who fear God, who are reverent before him.",
+          "korean": "죄인이 백 번이나 죄를 짓고도 오래 살더라도, 나는 하나님을 경외하고 하나님 앞에서 공경하는 사람에게 더 좋은 일이 있을 것을 알아요."
+        },
+        {
+          "verse": 13,
+          "original": "But it shall not be well with the wicked, neither shall he lengthen days like a shadow, because he doesn't fear God.",
+          "korean": "하지만 악한 사람에게는 좋은 일이 없을 거예요. 그는 하나님을 경외하지 않으니까, 그림자처럼 오래 살지 못할 거예요."
+        },
+        {
+          "verse": 14,
+          "original": "There is a vanity which is done on the earth, that there are righteous men to whom it happens according to the work of the wicked. Again, there are wicked men to whom it happens according to the work of the righteous. I said that this also is vanity.",
+          "korean": "이 땅에서 헛된 일이 일어나요. 옳은 사람이 악한 사람이 받을 것을 받고, 악한 사람이 옳은 사람이 받을 것을 받아요. 나는 이것도 헛된 것이라고 말했어요."
+        },
+        {
+          "verse": 15,
+          "original": "Then I commended mirth, because a man has no better thing under the sun, than to eat, and to drink, and to be joyful: for that will accompany him in his labor all the days of his life which God has given him under the sun.",
+          "korean": "그래서 나는 기쁨을 칭찬했어요. 이 세상에서 사람에게 먹고 마시고 즐거워하는 것보다 더 좋은 것이 없으니까요. 하나님께서 주신 모든 날 동안, 수고하면서 그것이 함께할 거예요."
+        },
+        {
+          "verse": 16,
+          "original": "When I applied my heart to know wisdom, and to see the business that is done on the earth (even though eyes see no sleep day or night),",
+          "korean": "내가 마음을 다해 지혜를 알고 이 땅에서 하는 일을 보려고 했을 때 (밤낮으로 눈이 잠을 자지 못해도),"
+        },
+        {
+          "verse": 17,
+          "original": "then I saw all the work of God, that man can't find out the work that is done under the sun, because however much a man labors to seek it out, yet he won't find it. Yes even though a wise man thinks he can comprehend it, he won't be able to find it.",
+          "korean": "나는 하나님께서 하시는 모든 일을 보았어요. 그런데 사람은 이 세상에서 일어나는 일을 알아낼 수 없어요. 아무리 애써서 찾아도 찾을 수 없어요. 지혜로운 사람이 안다고 생각해도, 알아내지 못해요."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "For all this I laid to my heart, even to explore all this: that the righteous, and the wise, and their works, are in the hand of God; whether it is love or hatred, man doesn't know it; all is before them.",
+          "korean": "나는 이 모든 것을 마음에 두고 살펴보았어요. 옳은 사람과 지혜로운 사람과 그들이 하는 일은 모두 하나님의 손에 있어요. 사랑인지 미움인지 사람은 알 수 없어요. 모든 것이 그들 앞에 있어요."
+        },
+        {
+          "verse": 2,
+          "original": "All things come alike to all. There is one event to the righteous and to the wicked; to the good, to the clean, to the unclean, to him who sacrifices, and to him who doesn't sacrifice. As is the good, so is the sinner; he who takes an oath, as he who fears an oath.",
+          "korean": "모든 사람에게 같은 일이 일어나요. 옳은 사람에게도 악한 사람에게도, 좋은 사람에게도 깨끗한 사람에게도 더러운 사람에게도, 제물을 드리는 사람에게도 드리지 않는 사람에게도 같은 일이 일어나요. 착한 사람이나 죄인이나, 맹세하는 사람이나 맹세를 두려워하는 사람이나 똑같아요."
+        },
+        {
+          "verse": 3,
+          "original": "This is an evil in all that is done under the sun, that there is one event to all: yes also, the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.",
+          "korean": "이것은 이 세상에서 일어나는 모든 일 중에 나쁜 것이에요. 모든 사람에게 같은 일이 일어나요. 또한 사람들의 마음은 악으로 가득하고, 살아 있는 동안 미친 것이 마음에 있어요. 그 후에는 죽은 자들에게로 가요."
+        },
+        {
+          "verse": 4,
+          "original": "For to him who is joined with all the living there is hope; for a living dog is better than a dead lion.",
+          "korean": "살아 있는 사람에게는 희망이 있어요. 살아 있는 개가 죽은 사자보다 나으니까요."
+        },
+        {
+          "verse": 5,
+          "original": "For the living know that they will die, but the dead don't know anything, neither do they have any more a reward; for their memory is forgotten.",
+          "korean": "살아 있는 사람은 자기가 죽을 것을 알지만, 죽은 사람은 아무것도 몰라요. 더 이상 보상도 없어요. 그들에 대한 기억은 잊혀지니까요."
+        },
+        {
+          "verse": 6,
+          "original": "Also their love, their hatred, and their envy has perished long ago; neither do they any longer have a portion forever in anything that is done under the sun.",
+          "korean": "그들의 사랑, 미움, 시기도 오래전에 사라졌어요. 이 세상에서 일어나는 어떤 일에도 그들은 더 이상 몫이 없어요."
+        },
+        {
+          "verse": 7,
+          "original": "Go your way—eat your bread with joy, and drink your wine with a merry heart; for God has already accepted your works.",
+          "korean": "가서 기쁘게 빵을 먹고, 즐거운 마음으로 포도주를 마시세요. 하나님께서 이미 여러분이 하는 일을 기뻐하셨으니까요."
+        },
+        {
+          "verse": 8,
+          "original": "Let your garments be always white, and don't let your head lack oil.",
+          "korean": "항상 깨끗한 옷을 입고, 머리에 기름을 바르세요."
+        },
+        {
+          "verse": 9,
+          "original": "Live joyfully with the wife whom you love all the days of your life of vanity, which he has given you under the sun, all your days of vanity, for that is your portion in life, and in your labor in which you labor under the sun.",
+          "korean": "이 세상에서 하나님께서 주신 헛된 인생의 모든 날 동안, 사랑하는 아내와 함께 기쁘게 사세요. 이것이 인생에서 여러분의 몫이고, 이 세상에서 하는 수고의 보상이에요."
+        },
+        {
+          "verse": 10,
+          "original": "Whatever your hand finds to do, do it with your might; for there is no work, nor plan, nor knowledge, nor wisdom, in Sheol, where you are going.",
+          "korean": "손이 할 일을 찾으면 힘껏 하세요. 여러분이 가게 될 저승에는 일도 없고, 계획도 없고, 지식도 없고, 지혜도 없으니까요."
+        },
+        {
+          "verse": 11,
+          "original": "I returned and saw under the sun that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favor to men of skill; but time and chance happen to them all.",
+          "korean": "나는 다시 이 세상을 보았어요. 달리기에서 빠른 사람이 항상 이기는 것이 아니고, 싸움에서 강한 사람이 항상 이기는 것도 아니에요. 지혜로운 사람에게 항상 빵이 있는 것도 아니고, 똑똑한 사람에게 항상 재물이 있는 것도 아니고, 실력 있는 사람이 항상 인정받는 것도 아니에요. 때와 우연이 모든 사람에게 일어나요."
+        },
+        {
+          "verse": 12,
+          "original": "For man also doesn't know his time. As the fish that are taken in an evil net, and as the birds that are caught in the snare, even so are the sons of men snared in an evil time, when it falls suddenly on them.",
+          "korean": "사람도 자기 때를 몰라요. 그물에 잡히는 물고기처럼, 덫에 걸리는 새처럼, 사람들도 갑자기 나쁜 때가 올 때 잡히게 돼요."
+        },
+        {
+          "verse": 13,
+          "original": "I have also seen wisdom under the sun in this way, and it seemed great to me.",
+          "korean": "나는 또한 이 세상에서 이런 지혜를 보았는데, 나에게 아주 크게 느껴졌어요."
+        },
+        {
+          "verse": 14,
+          "original": "There was a little city, and few men within it; and a great king came against it, besieged it, and built great bulwarks against it.",
+          "korean": "작은 성이 있었고, 그 안에 사람이 적었어요. 큰 왕이 와서 그 성을 에워싸고 큰 공격 시설을 세웠어요."
+        },
+        {
+          "verse": 15,
+          "original": "Now a poor wise man was found in it, and he by his wisdom delivered the city; yet no man remembered that same poor man.",
+          "korean": "그 성에 가난하지만 지혜로운 사람이 있었어요. 그는 자기 지혜로 그 성을 구했어요. 그런데 아무도 그 가난한 사람을 기억하지 않았어요."
+        },
+        {
+          "verse": 16,
+          "original": "Then I said, \"Wisdom is better than strength.\" Nevertheless the poor man's wisdom is despised, and his words are not heard.",
+          "korean": "그래서 나는 말했어요. \"지혜가 힘보다 나아.\" 그런데도 가난한 사람의 지혜는 업신여김을 받고, 그의 말은 들리지 않아요."
+        },
+        {
+          "verse": 17,
+          "original": "The words of the wise heard in quiet are better than the cry of him who rules among fools.",
+          "korean": "조용히 들리는 지혜로운 사람의 말이, 어리석은 사람들 중에서 다스리는 사람의 소리보다 나아요."
+        },
+        {
+          "verse": 18,
+          "original": "Wisdom is better than weapons of war; but one sinner destroys much good.",
+          "korean": "지혜가 전쟁 무기보다 나아요. 하지만 한 사람의 죄인이 많은 좋은 것을 망쳐요."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Dead flies cause the oil of the perfumer to produce an evil odor; so does a little folly outweigh wisdom and honor.",
+          "korean": "죽은 파리가 향수에서 나쁜 냄새가 나게 해요. 이처럼 작은 어리석음이 지혜와 명예보다 더 큰 영향을 줘요."
+        },
+        {
+          "verse": 2,
+          "original": "A wise man's heart is at his right hand, but a fool's heart at his left.",
+          "korean": "지혜로운 사람의 마음은 오른쪽에 있지만, 어리석은 사람의 마음은 왼쪽에 있어요."
+        },
+        {
+          "verse": 3,
+          "original": "Yes also when the fool walks by the way, his understanding fails him, and he says to everyone that he is a fool.",
+          "korean": "어리석은 사람은 길을 걸을 때도 분별력이 없어서, 모든 사람에게 자기가 어리석다는 것을 보여 줘요."
+        },
+        {
+          "verse": 4,
+          "original": "If the spirit of the ruler rises up against you, don't leave your place; for gentleness lays great offenses to rest.",
+          "korean": "지도자가 여러분에게 화를 내면 자리를 떠나지 마세요. 온유하게 행동하면 큰 잘못도 가라앉힐 수 있어요."
+        },
+        {
+          "verse": 5,
+          "original": "There is an evil which I have seen under the sun, the sort of error which proceeds from the ruler.",
+          "korean": "나는 이 세상에서 나쁜 일을 보았는데, 그것은 지도자에게서 나오는 실수예요."
+        },
+        {
+          "verse": 6,
+          "original": "Folly is set in great dignity, and the rich sit in a low place.",
+          "korean": "어리석은 사람이 높은 자리에 앉고, 부자가 낮은 자리에 앉아요."
+        },
+        {
+          "verse": 7,
+          "original": "I have seen servants on horses, and princes walking like servants on the earth.",
+          "korean": "나는 종들이 말을 타고, 왕자들이 종처럼 땅 위를 걷는 것을 보았어요."
+        },
+        {
+          "verse": 8,
+          "original": "He who digs a pit may fall into it; and whoever breaks through a wall may be bitten by a snake.",
+          "korean": "구덩이를 파는 사람이 그 안에 빠질 수 있어요. 담을 부수는 사람이 뱀에게 물릴 수 있어요."
+        },
+        {
+          "verse": 9,
+          "original": "Whoever carves out stones may be injured by them. Whoever splits wood may be endangered by it.",
+          "korean": "돌을 깎는 사람이 그것에 다칠 수 있어요. 나무를 쪼개는 사람이 위험할 수 있어요."
+        },
+        {
+          "verse": 10,
+          "original": "If the ax is blunt, and one doesn't sharpen the edge, then he must use more strength; but skill brings success.",
+          "korean": "도끼가 무디면 더 힘을 써야 해요. 하지만 지혜를 쓰면 성공할 수 있어요."
+        },
+        {
+          "verse": 11,
+          "original": "If the snake bites before it is charmed, then is there no profit for the charmer's tongue.",
+          "korean": "뱀이 마법이 걸리기 전에 물면, 마법사의 말이 소용없어요."
+        },
+        {
+          "verse": 12,
+          "original": "The words of a wise man's mouth are gracious; but a fool is swallowed by his own lips.",
+          "korean": "지혜로운 사람의 입에서 나오는 말은 친절하지만, 어리석은 사람은 자기 입 때문에 망해요."
+        },
+        {
+          "verse": 13,
+          "original": "The beginning of the words of his mouth is foolishness; and the end of his talk is mischievous madness.",
+          "korean": "어리석은 사람의 말은 처음부터 어리석고, 끝에 가서는 나쁜 미침이 돼요."
+        },
+        {
+          "verse": 14,
+          "original": "A fool also multiplies words. Man doesn't know what will be; and that which will be after him, who can tell him?",
+          "korean": "어리석은 사람은 말도 많아요. 사람은 무슨 일이 일어날지 몰라요. 그 다음에 무슨 일이 있을지 누가 말해 줄 수 있겠어요?"
+        },
+        {
+          "verse": 15,
+          "original": "The labor of fools wearies every one of them; for he doesn't know how to go to the city.",
+          "korean": "어리석은 사람의 수고는 자기를 지치게 해요. 그는 도시에 가는 길도 몰라요."
+        },
+        {
+          "verse": 16,
+          "original": "Woe to you, land, when your king is a child, and your princes eat in the morning!",
+          "korean": "왕이 어린아이이고, 지도자들이 아침부터 잔치하는 나라는 불쌍해요!"
+        },
+        {
+          "verse": 17,
+          "original": "Happy are you, land, when your king is the son of nobles, and your princes eat in due season, for strength, and not for drunkenness!",
+          "korean": "왕이 귀한 집안 출신이고, 지도자들이 알맞은 때에 힘을 위해 먹고 술에 취하지 않는 나라는 행복해요!"
+        },
+        {
+          "verse": 18,
+          "original": "By slothfulness the roof sinks in; and through idleness of the hands the house leaks.",
+          "korean": "게으르면 지붕이 내려앉고, 손을 놀리면 집에서 물이 새요."
+        },
+        {
+          "verse": 19,
+          "original": "A feast is made for laughter, and wine makes the life glad; and money is the answer for all things.",
+          "korean": "잔치는 웃음을 위해 열고, 포도주는 삶을 즐겁게 해요. 그리고 돈은 모든 것에 대답해 줘요."
+        },
+        {
+          "verse": 20,
+          "original": "Don't curse the king, no, not in your thoughts; and don't curse the rich in your bedroom: for a bird of the sky may carry your voice, and that which has wings may tell the matter.",
+          "korean": "마음속으로도 왕을 욕하지 말고, 침실에서도 부자를 욕하지 마세요. 하늘의 새가 여러분의 소리를 전할 수 있고, 날개 달린 것이 그 일을 말할 수 있으니까요."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Cast your bread on the waters; for you shall find it after many days.",
+          "korean": "빵을 물 위에 던지세요. 여러 날이 지난 후에 그것을 찾을 거예요."
+        },
+        {
+          "verse": 2,
+          "original": "Give a portion to seven, yes, even to eight; for you don't know what evil will be on the earth.",
+          "korean": "일곱 사람에게, 아니 여덟 사람에게도 나누어 주세요. 이 땅에 무슨 나쁜 일이 일어날지 모르니까요."
+        },
+        {
+          "verse": 3,
+          "original": "If the clouds are full of rain, they empty themselves on the earth; and if a tree falls toward the south, or toward the north, in the place where the tree falls, there shall it be.",
+          "korean": "구름에 비가 가득 차면 땅 위에 쏟아져요. 나무가 남쪽이든 북쪽이든 쓰러지면, 쓰러진 곳에 그대로 있어요."
+        },
+        {
+          "verse": 4,
+          "original": "He who observes the wind won't sow; and he who regards the clouds won't reap.",
+          "korean": "바람만 살피는 사람은 씨를 뿌리지 못하고, 구름만 살피는 사람은 거두지 못해요."
+        },
+        {
+          "verse": 5,
+          "original": "As you don't know what is the way of the wind, nor how the bones grow in the womb of her who is with child; even so you don't know the work of God who does all.",
+          "korean": "바람이 어디로 가는지, 아기가 어머니 배 속에서 어떻게 자라는지 여러분은 몰라요. 이처럼 모든 것을 행하시는 하나님께서 하시는 일을 여러분은 몰라요."
+        },
+        {
+          "verse": 6,
+          "original": "In the morning sow your seed, and in the evening don't withhold your hand; for you don't know which will prosper, whether this or that, or whether they both will be equally good.",
+          "korean": "아침에 씨를 뿌리고, 저녁에도 손을 멈추지 마세요. 어느 것이 잘될지, 이것인지 저것인지, 아니면 둘 다 똑같이 좋을지 모르니까요."
+        },
+        {
+          "verse": 7,
+          "original": "Truly the light is sweet, and it is a pleasant thing for the eyes to see the sun.",
+          "korean": "정말 빛은 달콤해요. 해를 보는 것은 눈에 즐거운 일이에요."
+        },
+        {
+          "verse": 8,
+          "original": "Yes, if a man lives many years, let him rejoice in them all; but let him remember the days of darkness, for they shall be many. All that comes is vanity.",
+          "korean": "사람이 여러 해를 살면 그 모든 날을 기뻐하세요. 하지만 어두운 날들도 기억하세요. 그런 날이 많을 거예요. 오는 모든 것이 헛되니까요."
+        },
+        {
+          "verse": 9,
+          "original": "Rejoice, young man, in your youth, and let your heart cheer you in the days of your youth, and walk in the ways of your heart, and in the sight of your eyes; but know that for all these things God will bring you into judgment.",
+          "korean": "젊은이여, 젊을 때 기뻐하세요. 젊은 시절에 마음이 즐거워하게 하세요. 마음이 원하는 대로, 눈이 보는 대로 살아가세요. 하지만 이 모든 일에 대해 하나님께서 심판하실 것을 알아 두세요."
+        },
+        {
+          "verse": 10,
+          "original": "Therefore remove sorrow from your heart, and put away evil from your flesh; for youth and the dawn of life are vanity.",
+          "korean": "그러니 마음에서 근심을 없애고, 몸에서 고통을 버리세요. 젊은 시절과 인생의 아침은 헛되니까요."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Remember also your Creator in the days of your youth, before the evil days come, and the years draw near, when you will say, \"I have no pleasure in them;\"",
+          "korean": "젊을 때 여러분을 만드신 하나님을 기억하세요. 힘든 날이 오고, \"더 이상 즐거움이 없어\"라고 말하는 해가 가까워지기 전에요."
+        },
+        {
+          "verse": 2,
+          "original": "Before the sun, the light, the moon, and the stars are darkened, and the clouds return after the rain;",
+          "korean": "해와 빛과 달과 별이 어두워지고, 비 온 후에 구름이 다시 오기 전에요."
+        },
+        {
+          "verse": 3,
+          "original": "in the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those who look out of the windows are darkened,",
+          "korean": "집을 지키는 사람들이 떨고, 힘센 사람들이 구부러지고, 맷돌질하는 사람들이 적어서 그만두고, 창문으로 내다보는 사람들이 어두워질 때요."
+        },
+        {
+          "verse": 4,
+          "original": "and the doors shall be shut in the street; when the sound of the grinding is low, and one shall rise up at the voice of a bird, and all the daughters of music shall be brought low;",
+          "korean": "거리의 문들이 닫히고, 맷돌 소리가 작아지고, 새 소리에도 일어나게 되고, 노래하는 소리가 작아질 때요."
+        },
+        {
+          "verse": 5,
+          "original": "yes, they shall be afraid of heights, and terrors will be on the way; and the almond tree shall blossom, and the grasshopper shall be a burden, and desire shall fail; because man goes to his everlasting home, and the mourners go about the streets:",
+          "korean": "높은 곳을 두려워하고, 길에서 무서운 것이 있고, 살구나무가 꽃피고, 메뚜기도 짐이 되고, 욕망이 사라질 때요. 사람이 영원한 집으로 가고, 슬퍼하는 사람들이 거리를 다닐 때요."
+        },
+        {
+          "verse": 6,
+          "original": "before the silver cord is severed, or the golden bowl is broken, or the pitcher is broken at the spring, or the wheel broken at the cistern,",
+          "korean": "은 줄이 끊어지고, 금 그릇이 깨지고, 샘물 곁에서 물동이가 깨지고, 물 저장소에서 바퀴가 부서지기 전에요."
+        },
+        {
+          "verse": 7,
+          "original": "and the dust returns to the earth as it was, and the spirit returns to God who gave it.",
+          "korean": "흙은 원래 있던 땅으로 돌아가고, 영혼은 그것을 주신 하나님께 돌아가요."
+        },
+        {
+          "verse": 8,
+          "original": "\"Vanity of vanities,\" says the Preacher. \"All is vanity!\"",
+          "korean": "전도자가 말해요. \"헛되고 헛되며, 모든 것이 헛되구나!\""
+        },
+        {
+          "verse": 9,
+          "original": "Further, because the Preacher was wise, he still taught the people knowledge. Yes, he pondered, sought out, and set in order many proverbs.",
+          "korean": "전도자는 지혜로웠기 때문에 사람들에게 계속 지식을 가르쳤어요. 그는 생각하고, 찾아내고, 많은 잠언을 정리했어요."
+        },
+        {
+          "verse": 10,
+          "original": "The Preacher sought to find out acceptable words, and that which was written blamelessly, words of truth.",
+          "korean": "전도자는 좋은 말을 찾으려고 했고, 바르게 기록하려고 했어요. 진리의 말씀이에요."
+        },
+        {
+          "verse": 11,
+          "original": "The words of the wise are like goads; and like nails well fastened are words from the masters of assemblies, which are given from one shepherd.",
+          "korean": "지혜로운 사람의 말은 막대기 같고, 모임의 지도자들의 말은 잘 박힌 못 같아요. 이것들은 한 목자에게서 주어진 것이에요."
+        },
+        {
+          "verse": 12,
+          "original": "Furthermore, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.",
+          "korean": "그리고 내 아들아, 조심하세요. 책을 많이 만드는 것은 끝이 없고, 공부를 많이 하면 몸이 지쳐요."
+        },
+        {
+          "verse": 13,
+          "original": "This is the end of the matter. All has been heard. Fear God and keep his commandments; for this is the whole duty of man.",
+          "korean": "이것이 결론이에요. 모든 말을 다 들었어요. 하나님을 경외하고 그분의 계명을 지키세요. 이것이 사람의 모든 본분이에요."
+        },
+        {
+          "verse": 14,
+          "original": "For God will bring every work into judgment, with every hidden thing, whether it is good, or whether it is evil.",
+          "korean": "하나님께서 모든 일을 심판하실 거예요. 숨겨진 모든 것까지, 좋은 것이든 나쁜 것이든요."
+        }
+      ]
+    }
+  ]
+}
