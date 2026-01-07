@@ -41,7 +41,7 @@ bible-korean-free/
 
 ## 번역 진행 상황
 
-**전체 진행률: 41/66권 (62.1%)** - 2025년 1월 7일 기준
+**전체 진행률: 44/66권 (66.7%)** - 2026년 1월 7일 기준
 
 ### 신약 (New Testament) - ✅ 완료 (27/27권)
 
@@ -75,18 +75,18 @@ bible-korean-free/
 | Jude | 유다서 | 1 | ✅ 완료 |
 | Revelation | 요한계시록 | 22 | ✅ 완료 |
 
-### 구약 (Old Testament) - 🟡 진행중 (14/39권)
+### 구약 (Old Testament) - 🟡 진행중 (17/39권)
 
-#### 모세오경 (Pentateuch)
+#### 모세오경 (Pentateuch) - ✅ 완료 (5/5권)
 | 책 | 한글 | 장 | 상태 |
 |---|---|---|---|
 | Genesis | 창세기 | 50 | ✅ 완료 |
 | Exodus | 출애굽기 | 40 | ✅ 완료 |
-| Leviticus | 레위기 | 27 | 🟡 19/27장 |
+| Leviticus | 레위기 | 27 | ✅ 완료 |
 | Numbers | 민수기 | 36 | ✅ 완료 |
 | Deuteronomy | 신명기 | 34 | ✅ 완료 |
 
-#### 역사서 (Historical Books)
+#### 역사서 (Historical Books) - ✅ 완료 (12/12권)
 | 책 | 한글 | 장 | 상태 |
 |---|---|---|---|
 | Joshua | 여호수아 | 24 | ✅ 완료 |
@@ -99,10 +99,10 @@ bible-korean-free/
 | 1 Chronicles | 역대상 | 29 | ✅ 완료 |
 | 2 Chronicles | 역대하 | 36 | ✅ 완료 |
 | Ezra | 에스라 | 10 | ✅ 완료 |
-| Nehemiah | 느헤미야 | 13 | 🟡 2/13장 |
-| Esther | 에스더 | 10 | ⬜ 미시작 |
+| Nehemiah | 느헤미야 | 13 | ✅ 완료 |
+| Esther | 에스더 | 10 | ✅ 완료 |
 
-#### 시가서 (Poetry/Wisdom)
+#### 시가서 (Poetry/Wisdom) - ⬜ 미시작 (0/5권)
 | 책 | 한글 | 장 | 상태 |
 |---|---|---|---|
 | Job | 욥기 | 42 | ⬜ 미시작 |
@@ -111,7 +111,7 @@ bible-korean-free/
 | Ecclesiastes | 전도서 | 12 | ⬜ 미시작 |
 | Song of Solomon | 아가 | 8 | ⬜ 미시작 |
 
-#### 대선지서 (Major Prophets)
+#### 대선지서 (Major Prophets) - ⬜ 미시작 (0/5권)
 | 책 | 한글 | 장 | 상태 |
 |---|---|---|---|
 | Isaiah | 이사야 | 66 | ⬜ 미시작 |
@@ -120,7 +120,7 @@ bible-korean-free/
 | Ezekiel | 에스겔 | 48 | ⬜ 미시작 |
 | Daniel | 다니엘 | 12 | ⬜ 미시작 |
 
-#### 소선지서 (Minor Prophets)
+#### 소선지서 (Minor Prophets) - ⬜ 미시작 (0/12권)
 | 책 | 한글 | 장 | 상태 |
 |---|---|---|---|
 | Hosea | 호세아 | 14 | ⬜ 미시작 |
@@ -136,7 +136,7 @@ bible-korean-free/
 | Zechariah | 스가랴 | 14 | ⬜ 미시작 |
 | Malachi | 말라기 | 4 | ⬜ 미시작 |
 
-**범례**: ✅ 완료 | 🟡 진행중 | ⚠️ 수정필요 | ⬜ 미시작
+**범례**: ✅ 완료 | 🟡 진행중 | ⬜ 미시작
 
 ## 샘플 번역 (창세기 1:1-5)
 
