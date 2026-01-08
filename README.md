@@ -41,7 +41,7 @@ bible-korean-free/
 
 ## 번역 진행 상황
 
-**전체 진행률: 62/66권 (93.9%)** - 2026년 1월 7일 기준
+**전체 진행률: 66/66권 (100%) ✅ 완료!** - 2026년 1월 9일 기준
 
 ### 신약 (New Testament) - ✅ 완료 (27/27권)
 
@@ -75,7 +75,7 @@ bible-korean-free/
 | Jude | 유다서 | 1 | ✅ 완료 |
 | Revelation | 요한계시록 | 22 | ✅ 완료 |
 
-### 구약 (Old Testament) - 🟡 진행중 (35/39권)
+### 구약 (Old Testament) - ✅ 완료 (39/39권)
 
 #### 모세오경 (Pentateuch) - ✅ 완료 (5/5권)
 | 책 | 한글 | 장 | 상태 |
@@ -102,22 +102,22 @@ bible-korean-free/
 | Nehemiah | 느헤미야 | 13 | ✅ 완료 |
 | Esther | 에스더 | 10 | ✅ 완료 |
 
-#### 시가서 (Poetry/Wisdom) - 🟡 진행중 (4/5권)
+#### 시가서 (Poetry/Wisdom) - ✅ 완료 (5/5권)
 | 책 | 한글 | 장 | 상태 |
 |---|---|---|---|
 | Job | 욥기 | 42 | ✅ 완료 |
-| Psalms | 시편 | 150 | ⬜ 미시작 |
+| Psalms | 시편 | 150 | ✅ 완료 |
 | Proverbs | 잠언 | 31 | ✅ 완료 |
 | Ecclesiastes | 전도서 | 12 | ✅ 완료 |
 | Song of Solomon | 아가 | 8 | ✅ 완료 |
 
-#### 대선지서 (Major Prophets) - 🟡 진행중 (3/5권)
+#### 대선지서 (Major Prophets) - ✅ 완료 (5/5권)
 | 책 | 한글 | 장 | 상태 |
 |---|---|---|---|
 | Isaiah | 이사야 | 66 | ✅ 완료 |
-| Jeremiah | 예레미야 | 52 | ⬜ 미시작 |
+| Jeremiah | 예레미야 | 52 | ✅ 완료 |
 | Lamentations | 애가 | 5 | ✅ 완료 |
-| Ezekiel | 에스겔 | 48 | ⬜ 미시작 |
+| Ezekiel | 에스겔 | 48 | ✅ 완료 |
 | Daniel | 다니엘 | 12 | ✅ 완료 |
 
 #### 소선지서 (Minor Prophets) - ✅ 완료 (12/12권)
