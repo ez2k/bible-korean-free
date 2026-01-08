@@ -1,0 +1,2371 @@
+{
+  "book": "Ezekiel",
+  "bookKorean": "에스겔",
+  "chapters": [
+    {
+      "chapter": 33,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh's word came to me, saying,",
+          "korean": "하나님의 말씀이 저에게 왔어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Son of man, speak to the children of your people, and tell them, 'When I bring the sword on a land, and the people of the land take a man from among them, and set him for their watchman;",
+          "korean": "\"사람의 아들아, 네 백성에게 말해라. '내가 어떤 땅에 전쟁을 보낼 때, 그 땅 사람들이 한 사람을 뽑아서 파수꾼으로 세우면,"
+        },
+        {
+          "verse": 3,
+          "original": "if, when he sees the sword come on the land, he blows the trumpet, and warns the people;",
+          "korean": "그 파수꾼이 적군이 오는 것을 보고 나팔을 불어서 사람들에게 알려 주면,"
+        },
+        {
+          "verse": 4,
+          "original": "then whoever hears the sound of the trumpet, and doesn't heed the warning, if the sword comes, and takes him away, his blood will be on his own head.",
+          "korean": "나팔 소리를 듣고도 조심하지 않은 사람은 자기 잘못이야."
+        },
+        {
+          "verse": 5,
+          "original": "He heard the sound of the trumpet, and didn't take warning. His blood will be on him; whereas if he had heeded the warning, he would have delivered his soul.",
+          "korean": "나팔 소리를 듣고도 조심하지 않았으니까 그건 자기 잘못이야. 조심했으면 살 수 있었을 거야."
+        },
+        {
+          "verse": 6,
+          "original": "But if the watchman sees the sword come, and doesn't blow the trumpet, and the people aren't warned, and the sword comes, and takes any person from among them; he is taken away in his iniquity, but his blood I will require at the watchman's hand.'",
+          "korean": "하지만 파수꾼이 적군이 오는 것을 보고도 나팔을 불지 않아서 사람들이 모르고 있다가 죽으면, 그 사람들의 죽음은 파수꾼 책임이야.'"
+        },
+        {
+          "verse": 7,
+          "original": "\"So you, son of man: I have set you a watchman to the house of Israel. Therefore hear the word from my mouth, and give them warnings from me.",
+          "korean": "사람의 아들아, 내가 너를 이스라엘의 파수꾼으로 세웠어. 그러니 내 말을 듣고 사람들에게 알려 줘."
+        },
+        {
+          "verse": 8,
+          "original": "When I tell the wicked, 'O wicked man, you will surely die,' and you don't speak to warn the wicked from his way; that wicked man will die in his iniquity, but I will require his blood at your hand.",
+          "korean": "내가 나쁜 사람에게 '너는 죽을 거야'라고 말했는데, 네가 그 사람에게 알려 주지 않으면, 그 사람의 죽음은 네 책임이야."
+        },
+        {
+          "verse": 9,
+          "original": "Nevertheless, if you warn the wicked of his way to turn from it, and he doesn't turn from his way; he will die in his iniquity, but you have delivered your soul.",
+          "korean": "하지만 네가 알려 줬는데도 그 사람이 나쁜 길에서 돌이키지 않으면, 그건 그 사람 잘못이야. 넌 할 일을 한 거야."
+        },
+        {
+          "verse": 10,
+          "original": "\"You, son of man, tell the house of Israel: 'You say this, \"Our transgressions and our sins are on us, and we pine away in them. How then can we live?\"'",
+          "korean": "사람의 아들아, 이스라엘 사람들에게 말해라. 너희가 '우리 죄가 너무 무거워서 어떻게 살 수 있겠어요?'라고 말하는데,"
+        },
+        {
+          "verse": 11,
+          "original": "Tell them, '\"As I live,\" says the Lord Yahweh, \"I have no pleasure in the death of the wicked; but that the wicked turn from his way and live. Turn, turn from your evil ways! For why will you die, house of Israel?\"'",
+          "korean": "그들에게 말해라. '내가 살아 있음을 두고 말하는데, 나는 나쁜 사람이 죽는 것을 원하지 않아. 나쁜 길에서 돌이켜서 살기를 바라. 돌이켜라! 왜 죽으려고 하니, 이스라엘아?'"
+        },
+        {
+          "verse": 12,
+          "original": "\"You, son of man, tell the children of your people, 'The righteousness of the righteous will not deliver him in the day of his disobedience. And as for the wickedness of the wicked, he will not fall by it in the day that he turns from his wickedness; neither will he who is righteous be able to live by it in the day that he sins.",
+          "korean": "사람의 아들아, 네 백성에게 말해라. '착한 사람도 죄를 지으면 예전에 착하게 산 것이 소용없어. 나쁜 사람도 돌이키면 예전에 나쁘게 산 것 때문에 벌받지 않아."
+        },
+        {
+          "verse": 13,
+          "original": "When I tell the righteous that he will surely live; if he trusts in his righteousness, and commits iniquity, none of his righteous deeds will be remembered; but he will die in his iniquity that he has committed.",
+          "korean": "내가 착한 사람에게 살 거라고 말해도, 그가 자기가 착하다고 믿고 죄를 지으면, 예전에 착하게 산 것은 기억되지 않고 그 죄 때문에 죽을 거야."
+        },
+        {
+          "verse": 14,
+          "original": "Again, when I say to the wicked, \"You will surely die;\" if he turns from his sin, and does that which is lawful and right;",
+          "korean": "내가 나쁜 사람에게 죽을 거라고 말해도, 그가 죄에서 돌이켜서 옳은 일을 하면,"
+        },
+        {
+          "verse": 15,
+          "original": "if the wicked restore the pledge, give again that which he had taken by robbery, walk in the statutes of life, committing no iniquity; he will surely live. He will not die.",
+          "korean": "빌린 것을 돌려주고, 빼앗은 것을 돌려주고, 하나님의 법을 따라 살면, 그는 살 거야. 죽지 않을 거야."
+        },
+        {
+          "verse": 16,
+          "original": "None of his sins that he has committed will be remembered against him. He has done that which is lawful and right. He will surely live.",
+          "korean": "그가 지은 죄는 기억되지 않을 거야. 옳은 일을 했으니까 살 거야."
+        },
+        {
+          "verse": 17,
+          "original": "\"'Yet the children of your people say, \"The way of the Lord is not fair;\" but as for them, their way is not fair.",
+          "korean": "그런데 네 백성이 '하나님의 방법은 공평하지 않아요'라고 말해. 하지만 공평하지 않은 건 그들이야."
+        },
+        {
+          "verse": 18,
+          "original": "When the righteous turns from his righteousness, and commits iniquity, he will even die therein.",
+          "korean": "착한 사람이 착하게 사는 것을 그만두고 죄를 지으면 죽을 거야."
+        },
+        {
+          "verse": 19,
+          "original": "When the wicked turns from his wickedness, and does that which is lawful and right, he will live by it.",
+          "korean": "나쁜 사람이 나쁜 것을 그만두고 옳은 일을 하면 살 거야."
+        },
+        {
+          "verse": 20,
+          "original": "Yet you say, \"The way of the Lord is not fair.\" House of Israel, I will judge every one of you after his ways.'\"",
+          "korean": "그런데도 너희는 '하나님의 방법은 공평하지 않아요'라고 말해. 이스라엘아, 나는 각 사람이 한 대로 심판할 거야.'\""
+        },
+        {
+          "verse": 21,
+          "original": "In the twelfth year of our captivity, in the tenth month, in the fifth day of the month, one who had escaped out of Jerusalem came to me, saying, \"The city has been defeated!\"",
+          "korean": "우리가 잡혀온 지 열두 번째 해 열째 달 다섯째 날에, 예루살렘에서 도망쳐 온 사람이 저에게 와서 말했어요. \"그 성이 무너졌어요!\""
+        },
+        {
+          "verse": 22,
+          "original": "Now Yahweh's hand had been on me in the evening, before he who had escaped came; and he had opened my mouth, until he came to me in the morning; and my mouth was opened, and I was no longer mute.",
+          "korean": "그 사람이 오기 전날 저녁에 하나님의 손이 저에게 있었고, 하나님께서 제 입을 여셨어요. 그래서 저는 더 이상 말을 못 하는 상태가 아니었어요."
+        },
+        {
+          "verse": 23,
+          "original": "Yahweh's word came to me, saying,",
+          "korean": "하나님의 말씀이 저에게 왔어요."
+        },
+        {
+          "verse": 24,
+          "original": "\"Son of man, those who inhabit the waste places in the land of Israel speak, saying, 'Abraham was one, and he inherited the land; but we are many. The land is given us for inheritance.'",
+          "korean": "\"사람의 아들아, 이스라엘 땅의 폐허에 사는 사람들이 말해. '아브라함은 한 사람이었는데도 이 땅을 받았어. 우리는 많으니까 이 땅은 우리 거야.'"
+        },
+        {
+          "verse": 25,
+          "original": "Therefore tell them, 'The Lord Yahweh says: \"You eat with the blood, and lift up your eyes to your idols, and shed blood. So should you possess the land?",
+          "korean": "그러니 그들에게 말해라. '하나님께서 말씀하셨어요. \"너희는 피가 있는 고기를 먹고, 우상을 섬기고, 사람을 죽여. 그러면서 이 땅이 너희 거라고?"
+        },
+        {
+          "verse": 26,
+          "original": "You stand on your sword, you work abomination, and every one of you defiles his neighbor's wife. So should you possess the land?\"'",
+          "korean": "너희는 칼을 들고 서서 나쁜 일을 하고, 이웃의 아내와 죄를 지어. 그러면서 이 땅이 너희 거라고?\"'"
+        },
+        {
+          "verse": 27,
+          "original": "\"You shall tell them, 'The Lord Yahweh says: \"As I live, surely those who are in the waste places will fall by the sword. I will give he who is in the open field to the animals to be devoured; and those who are in the strongholds and in the caves will die of the pestilence.\"",
+          "korean": "그들에게 말해라. '하나님께서 말씀하셨어요. \"내가 살아 있음을 두고 말하는데, 폐허에 있는 자들은 칼에 죽을 것이고, 들에 있는 자들은 짐승에게 먹힐 것이고, 요새와 동굴에 있는 자들은 병으로 죽을 것이야.\""
+        },
+        {
+          "verse": 28,
+          "original": "I will make the land a desolation and an astonishment. The pride of her power will cease. The mountains of Israel will be desolate, so that no one will pass through.",
+          "korean": "나는 이 땅을 황폐하게 만들 거야. 그들이 자랑하던 힘이 끝날 것이고, 이스라엘의 산들이 황폐해져서 아무도 지나다니지 않을 거야."
+        },
+        {
+          "verse": 29,
+          "original": "Then they will know that I am Yahweh, when I have made the land a desolation and an astonishment, because of all their abominations which they have committed.\"'",
+          "korean": "내가 그들의 나쁜 행동 때문에 이 땅을 황폐하게 만들면, 그때 그들은 내가 하나님인 것을 알게 될 거야.\"'"
+        },
+        {
+          "verse": 30,
+          "original": "\"As for you, son of man, the children of your people talk about you by the walls and in the doors of the houses, and speak to one another, everyone to his brother, saying, 'Please come and hear what the word is that comes out from Yahweh.'",
+          "korean": "\"사람의 아들아, 네 백성이 담 옆에서, 집 문 앞에서 너에 대해 이야기해. 그들은 서로에게 말해. '어서 와서 하나님의 말씀을 들어 봐.'"
+        },
+        {
+          "verse": 31,
+          "original": "They come to you as the people come, and they sit before you as my people, and they hear your words, but don't do them; for with their mouth they show much love, but their heart goes after their gain.",
+          "korean": "그들은 네 앞에 내 백성처럼 앉아서 네 말을 듣지만 행하지 않아. 입으로는 사랑한다고 하지만, 마음은 자기 이익만 생각해."
+        },
+        {
+          "verse": 32,
+          "original": "Behold, you are to them as a very lovely song of one who has a pleasant voice, and can play well on an instrument; for they hear your words, but they don't do them.",
+          "korean": "보라, 너는 그들에게 목소리가 좋고 악기를 잘 연주하는 사람의 아름다운 노래 같아. 그들은 네 말을 듣지만 행하지 않아."
+        },
+        {
+          "verse": 33,
+          "original": "\"When this comes to pass—behold, it comes—then they will know that a prophet has been among them.\"",
+          "korean": "이 일이 일어날 때, 그리고 일어날 거야, 그때 그들은 예언자가 그들 가운데 있었다는 것을 알게 될 거야.\""
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh's word came to me, saying,",
+          "korean": "하나님의 말씀이 저에게 왔어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Son of man, prophesy against the shepherds of Israel. Prophesy, and tell them, even the shepherds, 'The Lord Yahweh says: \"Woe to the shepherds of Israel who feed themselves! Shouldn't the shepherds feed the sheep?",
+          "korean": "\"사람의 아들아, 이스라엘의 목자들에게 예언해라. 그들에게 말해라. '하나님께서 말씀하셨어요. \"자기만 배불리 먹는 이스라엘의 목자들에게 화가 있을 거야! 목자는 양을 먹여야 하지 않니?"
+        },
+        {
+          "verse": 3,
+          "original": "You eat the fat. You clothe yourself with the wool. You kill the fatlings, but you don't feed the sheep.",
+          "korean": "너희는 기름진 것을 먹고, 양털로 옷을 해 입고, 살찐 양을 잡아먹지만, 양들을 먹이지 않아."
+        },
+        {
+          "verse": 4,
+          "original": "You haven't strengthened the diseased. You haven't healed that which was sick. You haven't bound up that which was broken. You haven't brought back that which was driven away. You haven't sought that which was lost, but you have ruled over them with force and with rigor.",
+          "korean": "너희는 아픈 양을 돌보지 않고, 다친 양을 치료하지 않고, 잃어버린 양을 찾지 않았어. 오히려 양들을 거칠게 다스렸어."
+        },
+        {
+          "verse": 5,
+          "original": "They were scattered, because there was no shepherd. They became food to all the animals of the field, and were scattered.",
+          "korean": "목자가 없어서 양들은 흩어졌어. 들짐승의 밥이 되었어."
+        },
+        {
+          "verse": 6,
+          "original": "My sheep wandered through all the mountains, and on every high hill. Yes, my sheep were scattered on all the surface of the earth. There was no one who searched or sought.\"",
+          "korean": "내 양들이 모든 산과 높은 언덕을 헤매었어. 온 땅에 흩어졌는데 찾는 사람이 없었어.\""
+        },
+        {
+          "verse": 7,
+          "original": "\"'Therefore, you shepherds, hear Yahweh's word:",
+          "korean": "그러니 목자들아, 하나님의 말씀을 들어라."
+        },
+        {
+          "verse": 8,
+          "original": "\"As I live,\" says the Lord Yahweh, \"surely because my sheep became a prey, and my sheep became food to all the animals of the field, because there was no shepherd. My shepherds didn't search for my sheep, but the shepherds fed themselves, and didn't feed my sheep.\"",
+          "korean": "하나님께서 말씀하셨어요. \"내가 살아 있음을 두고 말하는데, 목자가 없어서 내 양들이 먹이가 되었어. 내 목자들은 양을 찾지 않고 자기만 배불렸어.\""
+        },
+        {
+          "verse": 9,
+          "original": "Therefore, you shepherds, hear Yahweh's word:",
+          "korean": "그러니 목자들아, 하나님의 말씀을 들어라."
+        },
+        {
+          "verse": 10,
+          "original": "The Lord Yahweh says: \"Behold, I am against the shepherds. I will require my sheep at their hand, and cause them to cease from feeding the sheep. The shepherds won't feed themselves any more. I will deliver my sheep from their mouth, that they may not be food for them.\"",
+          "korean": "하나님께서 말씀하셨어요. \"보라, 내가 목자들을 대적해. 내 양을 그들에게서 빼앗고, 그들이 더 이상 양을 돌보지 못하게 할 거야. 그들이 더 이상 자기만 배불리지 못할 거야. 내 양을 그들의 입에서 구해 낼 거야.\""
+        },
+        {
+          "verse": 11,
+          "original": "\"'For the Lord Yahweh says: \"Behold, I myself, even I, will search for my sheep, and will seek them out.\"",
+          "korean": "하나님께서 말씀하셨어요. \"보라, 내가 직접 내 양을 찾을 거야."
+        },
+        {
+          "verse": 12,
+          "original": "As a shepherd seeks out his flock in the day that he is among his sheep that are scattered abroad, so I will seek out my sheep. I will deliver them out of all places where they have been scattered in the cloudy and dark day.",
+          "korean": "목자가 흩어진 양 떼를 찾듯이, 나도 내 양을 찾을 거야. 어둡고 캄캄한 날에 흩어진 모든 곳에서 그들을 구해 낼 거야."
+        },
+        {
+          "verse": 13,
+          "original": "I will bring them out from the peoples, and gather them from the countries, and will bring them into their own land. I will feed them on the mountains of Israel, by the watercourses, and in all the inhabited places of the country.",
+          "korean": "나는 여러 민족 중에서 그들을 데려오고, 여러 나라에서 모아서 그들의 땅으로 데려올 거야. 이스라엘 산에서, 시냇가에서, 좋은 곳에서 그들을 먹일 거야."
+        },
+        {
+          "verse": 14,
+          "original": "I will feed them with good pasture; and their fold will be on the mountains of the height of Israel. There they will lie down in a good fold. They will feed on fat pasture on the mountains of Israel.",
+          "korean": "좋은 풀밭에서 그들을 먹일 거야. 이스라엘의 높은 산들이 그들의 우리가 될 거야. 거기서 편히 쉬고, 풍성한 풀을 먹을 거야."
+        },
+        {
+          "verse": 15,
+          "original": "I myself will be the shepherd of my sheep, and I will cause them to lie down,\" says the Lord Yahweh.",
+          "korean": "내가 직접 내 양의 목자가 되어 그들을 쉬게 할 거야.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 16,
+          "original": "\"I will seek that which was lost, and will bring back that which was driven away, and will bind up that which was broken, and will strengthen that which was sick; but I will destroy the fat and the strong. I will feed them in justice.\"'",
+          "korean": "\"잃어버린 양을 찾고, 쫓겨난 양을 데려오고, 다친 양을 치료하고, 아픈 양을 튼튼하게 할 거야. 하지만 살찌고 강한 양은 없앨 거야. 공평하게 그들을 돌볼 거야.\"'"
+        },
+        {
+          "verse": 17,
+          "original": "\"As for you, O my flock, the Lord Yahweh says: 'Behold, I judge between sheep and sheep, the rams and the male goats.",
+          "korean": "\"내 양 떼야, 하나님께서 말씀하셨어요. '보라, 내가 양과 양 사이를, 숫양과 숫염소 사이를 심판할 거야."
+        },
+        {
+          "verse": 18,
+          "original": "Does it seem a small thing to you to have fed on the good pasture, but you must tread down with your feet the residue of your pasture? And to have drunk of the clear waters, but must you foul the residue with your feet?",
+          "korean": "좋은 풀밭에서 먹는 것으로 부족해서 나머지를 발로 밟아야 하니? 맑은 물을 마시는 것으로 부족해서 나머지를 발로 더럽혀야 하니?"
+        },
+        {
+          "verse": 19,
+          "original": "As for my sheep, they eat that which you have trodden with your feet, and they drink that which you have fouled with your feet.'",
+          "korean": "내 양들은 너희가 발로 밟은 것을 먹고, 너희가 발로 더럽힌 것을 마셔야 해.'"
+        },
+        {
+          "verse": 20,
+          "original": "\"Therefore the Lord Yahweh says to them: 'Behold, I, even I, will judge between the fat sheep and the lean sheep.",
+          "korean": "그러므로 하나님께서 말씀하셨어요. '보라, 내가 살찐 양과 여윈 양 사이를 심판할 거야."
+        },
+        {
+          "verse": 21,
+          "original": "Because you thrust with side and with shoulder, and push all the diseased with your horns, until you have scattered them abroad;",
+          "korean": "너희가 옆구리와 어깨로 밀치고, 뿔로 약한 양들을 받아서 흩어지게 했기 때문에,"
+        },
+        {
+          "verse": 22,
+          "original": "therefore I will save my flock, and they will no more be a prey. I will judge between sheep and sheep.",
+          "korean": "내가 내 양 떼를 구하고, 그들이 더 이상 먹이가 되지 않게 할 거야. 양과 양 사이를 심판할 거야."
+        },
+        {
+          "verse": 23,
+          "original": "I will set up one shepherd over them, and he will feed them, even my servant David. He will feed them, and he will be their shepherd.",
+          "korean": "내가 한 목자를 그들 위에 세울 거야. 내 종 다윗이야. 그가 그들을 먹이고 그들의 목자가 될 거야."
+        },
+        {
+          "verse": 24,
+          "original": "I, Yahweh, will be their God, and my servant David prince among them. I, Yahweh, have spoken it.",
+          "korean": "나 하나님이 그들의 하나님이 되고, 내 종 다윗이 그들 가운데 왕이 될 거야. 나 하나님이 말했어."
+        },
+        {
+          "verse": 25,
+          "original": "\"'I will make with them a covenant of peace, and will cause evil animals to cease out of the land. They will dwell securely in the wilderness, and sleep in the woods.",
+          "korean": "나는 그들과 평화의 언약을 맺을 거야. 나쁜 짐승들을 땅에서 없앨 거야. 그들은 광야에서 안전하게 살고, 숲에서 잠잘 거야."
+        },
+        {
+          "verse": 26,
+          "original": "I will make them and the places around my hill a blessing. I will cause the shower to come down in its season. There will be showers of blessing.",
+          "korean": "내가 그들과 내 산 주변을 복되게 할 거야. 때에 맞춰 비를 내릴 거야. 복의 비가 될 거야."
+        },
+        {
+          "verse": 27,
+          "original": "The tree of the field will yield its fruit, and the earth will yield its increase, and they will be secure in their land. Then they will know that I am Yahweh, when I have broken the bars of their yoke, and have delivered them out of the hand of those who made slaves of them.",
+          "korean": "들의 나무가 열매를 맺고, 땅이 소출을 낼 거야. 그들은 자기 땅에서 안전하게 살 거야. 내가 그들의 멍에를 부수고, 그들을 종으로 삼은 자들의 손에서 구할 때, 그들은 내가 하나님인 것을 알게 될 거야."
+        },
+        {
+          "verse": 28,
+          "original": "They will no more be a prey to the nations, neither will the animals of the earth devour them; but they will dwell securely, and no one will make them afraid.",
+          "korean": "그들은 더 이상 다른 나라의 먹이가 되지 않을 거야. 땅의 짐승도 그들을 잡아먹지 않을 거야. 안전하게 살고, 무서워할 일이 없을 거야."
+        },
+        {
+          "verse": 29,
+          "original": "I will raise up to them a plantation for renown, and they will no more be consumed with famine in the land, and not bear the shame of the nations any more.",
+          "korean": "나는 그들에게 유명한 농장을 만들어 줄 거야. 더 이상 그 땅에서 굶주리지 않을 거고, 다른 나라에게 부끄러움을 당하지 않을 거야."
+        },
+        {
+          "verse": 30,
+          "original": "They will know that I, Yahweh, their God am with them, and that they, the house of Israel, are my people, says the Lord Yahweh.",
+          "korean": "그들은 나 하나님, 그들의 하나님이 그들과 함께 있고, 이스라엘 집이 내 백성인 것을 알게 될 거야. 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 31,
+          "original": "You my sheep, the sheep of my pasture, are men, and I am your God,' says the Lord Yahweh.\"",
+          "korean": "내 풀밭의 양인 너희는 사람이고, 나는 너희의 하나님이다.' 하나님께서 말씀하셨어요.\""
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Moreover Yahweh's word came to me, saying,",
+          "korean": "하나님의 말씀이 또 저에게 왔어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Son of man, set your face against Mount Seir, and prophesy against it,",
+          "korean": "\"사람의 아들아, 세일 산을 향해 예언해라."
+        },
+        {
+          "verse": 3,
+          "original": "and tell it, 'The Lord Yahweh says: \"Behold, I am against you, Mount Seir, and I will stretch out my hand against you. I will make you a desolation and an astonishment.",
+          "korean": "세일 산에게 말해라. '하나님께서 말씀하셨어요. \"보라, 세일 산아, 내가 너를 대적해. 내 손을 펴서 너를 황폐하게 만들 거야."
+        },
+        {
+          "verse": 4,
+          "original": "I will lay your cities waste, and you will be desolate. Then you will know that I am Yahweh.",
+          "korean": "네 성들을 폐허로 만들 거야. 그때 너는 내가 하나님인 것을 알게 될 거야."
+        },
+        {
+          "verse": 5,
+          "original": "\"'\"Because you have had a perpetual hostility, and have given over the children of Israel to the power of the sword in the time of their calamity, in the time of the iniquity of the end;",
+          "korean": "너는 이스라엘 자손을 오랫동안 미워했어. 그들이 어려울 때, 마지막 벌을 받을 때 칼에 넘겼어."
+        },
+        {
+          "verse": 6,
+          "original": "therefore, as I live,\" says the Lord Yahweh, \"I will prepare you for blood, and blood will pursue you. Since you have not hated blood, therefore blood will pursue you.",
+          "korean": "그러므로 내가 살아 있음을 두고 말하는데, 너를 피로 만들 거야. 피가 너를 쫓아올 거야. 네가 피 흘리는 것을 좋아했으니 피가 너를 쫓을 거야."
+        },
+        {
+          "verse": 7,
+          "original": "Thus I will make Mount Seir an astonishment and a desolation. I will cut off from it him who passes through and him who returns.",
+          "korean": "세일 산을 황폐하게 만들 거야. 지나가는 사람도, 돌아오는 사람도 없앨 거야."
+        },
+        {
+          "verse": 8,
+          "original": "I will fill its mountains with its slain. The slain with the sword will fall in your hills and in your valleys and in all your watercourses.",
+          "korean": "네 산들을 죽은 자들로 채울 거야. 네 언덕과 골짜기와 시냇가에 죽은 자들이 쓰러질 거야."
+        },
+        {
+          "verse": 9,
+          "original": "I will make you a perpetual desolation, and your cities will not be inhabited. Then you will know that I am Yahweh.",
+          "korean": "너를 영원히 황폐하게 만들 거야. 네 성들에 사람이 살지 않을 거야. 그때 너는 내가 하나님인 것을 알게 될 거야."
+        },
+        {
+          "verse": 10,
+          "original": "\"'\"Because you have said, 'These two nations and these two countries will be mine, and we will possess it;' whereas Yahweh was there:",
+          "korean": "네가 '이 두 나라와 두 땅이 내 것이 될 거야. 우리가 차지할 거야'라고 말했어. 하지만 하나님께서 거기 계셨어."
+        },
+        {
+          "verse": 11,
+          "original": "therefore, as I live,\" says the Lord Yahweh, \"I will do according to your anger, and according to your envy which you have shown out of your hatred against them; and I will make myself known among them when I judge you.",
+          "korean": "그러므로 내가 살아 있음을 두고 말하는데, 네가 그들을 미워해서 보여준 분노와 질투대로 내가 너에게 할 거야. 내가 너를 심판할 때 그들 가운데서 나를 알리게 될 거야."
+        },
+        {
+          "verse": 12,
+          "original": "You will know that I, Yahweh, have heard all your insults which you have spoken against the mountains of Israel, saying, 'They have been laid desolate. They have been given us to devour.'",
+          "korean": "네가 이스라엘 산들을 향해 한 모든 모욕을 나 하나님이 들었다는 것을 알게 될 거야. 네가 '그들이 황폐해졌으니 우리가 먹어 치울 거야'라고 말했어."
+        },
+        {
+          "verse": 13,
+          "original": "You have magnified yourselves against me with your mouth, and have multiplied your words against me. I have heard it.\"",
+          "korean": "네가 입으로 나를 대적하고, 나를 거스르는 말을 많이 했어. 내가 다 들었어.\""
+        },
+        {
+          "verse": 14,
+          "original": "The Lord Yahweh says: \"When the whole earth rejoices, I will make you desolate.",
+          "korean": "하나님께서 말씀하셨어요. \"온 땅이 기뻐할 때, 나는 너를 황폐하게 만들 거야."
+        },
+        {
+          "verse": 15,
+          "original": "As you rejoiced over the inheritance of the house of Israel because it was desolate, so I will do to you. You will be desolate, Mount Seir, and all Edom, even all of it. Then they will know that I am Yahweh.'\"",
+          "korean": "이스라엘 집의 땅이 황폐해졌을 때 네가 기뻐했으니, 나도 너에게 그렇게 할 거야. 세일 산과 에돔 전체가 황폐해질 거야. 그때 그들은 내가 하나님인 것을 알게 될 거야.'\""
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "You, son of man, prophesy to the mountains of Israel, and say, \"You mountains of Israel, hear Yahweh's word.",
+          "korean": "사람의 아들아, 이스라엘의 산들에게 예언해라. \"이스라엘의 산들아, 하나님의 말씀을 들어라."
+        },
+        {
+          "verse": 2,
+          "original": "The Lord Yahweh says: 'Because the enemy has said against you, \"Aha!\" and, \"The ancient high places are ours in possession!\"'",
+          "korean": "하나님께서 말씀하셨어요. '원수가 너희를 향해 \"야호! 옛날부터 있던 높은 곳들이 이제 우리 것이야!\"라고 말했기 때문에,'"
+        },
+        {
+          "verse": 3,
+          "original": "therefore prophesy, and say, 'The Lord Yahweh says: \"Because, even because they have made you desolate, and swallowed you up on every side, that you might be a possession to the residue of the nations, and you are taken up in the lips of talkers, and the evil report of the people;\"",
+          "korean": "예언해라. '하나님께서 말씀하셨어요. \"그들이 너희를 황폐하게 하고, 사방에서 삼켜서 다른 나라들의 것이 되게 했고, 사람들이 너희에 대해 나쁜 말을 했기 때문에,\""
+        },
+        {
+          "verse": 4,
+          "original": "therefore, you mountains of Israel, hear the word of the Lord Yahweh: The Lord Yahweh says to the mountains and to the hills, to the watercourses and to the valleys, to the desolate wastes and to the cities that are forsaken, which have become a prey and derision to the residue of the nations that are all around;",
+          "korean": "이스라엘의 산들아, 하나님의 말씀을 들어라. 하나님께서 산과 언덕과, 시내와 골짜기와, 황폐한 땅과 버려진 성들에게 말씀하셨어요. 그것들이 주변 나라들의 먹이와 놀림거리가 되었거든."
+        },
+        {
+          "verse": 5,
+          "original": "therefore the Lord Yahweh says: \"Surely in the fire of my jealousy I have spoken against the residue of the nations, and against all Edom, that have appointed my land to themselves for a possession with the joy of all their heart, with despite of soul, to cast it out for a prey.\"'",
+          "korean": "하나님께서 말씀하셨어요. \"내가 불같은 열심으로 다른 나라들과 에돔 전체를 대적해서 말했어. 그들이 기뻐하면서 내 땅을 자기 것으로 삼았기 때문이야.\"'"
+        },
+        {
+          "verse": 6,
+          "original": "Therefore prophesy concerning the land of Israel, and tell the mountains, the hills, the watercourses and the valleys, 'The Lord Yahweh says: \"Behold, I have spoken in my jealousy and in my wrath, because you have borne the shame of the nations.\"",
+          "korean": "이스라엘 땅에 대해 예언해라. 산과 언덕과, 시내와 골짜기에게 말해라. '하나님께서 말씀하셨어요. \"보라, 내가 열심과 분노로 말했어. 너희가 다른 나라들에게 부끄러움을 당했기 때문이야.\""
+        },
+        {
+          "verse": 7,
+          "original": "Therefore the Lord Yahweh says: \"I have sworn, 'Surely the nations that are around you will bear their shame.'",
+          "korean": "하나님께서 말씀하셨어요. \"내가 맹세해. '너희 주변의 나라들이 부끄러움을 당할 거야.'"
+        },
+        {
+          "verse": 8,
+          "original": "\"'\"But you, mountains of Israel, you shall shoot out your branches, and yield your fruit to my people Israel; for they are at hand to come.",
+          "korean": "하지만 이스라엘의 산들아, 너희는 가지를 내고 내 백성 이스라엘에게 열매를 맺을 거야. 그들이 곧 올 거거든."
+        },
+        {
+          "verse": 9,
+          "original": "For, behold, I am for you, and I will come to you, and you will be tilled and sown.",
+          "korean": "보라, 내가 너희 편이야. 너희에게 올 거야. 그러면 너희가 경작되고 씨 뿌림을 받을 거야."
+        },
+        {
+          "verse": 10,
+          "original": "I will multiply men on you, all the house of Israel, even all of it. The cities will be inhabited, and the waste places will be built.",
+          "korean": "이스라엘 집 전체인 많은 사람을 너희 위에 늘릴 거야. 성들에 사람이 살고, 폐허가 다시 세워질 거야."
+        },
+        {
+          "verse": 11,
+          "original": "I will multiply man and animal on you. They will increase and be fruitful. I will cause you to be inhabited as you were before, and you will do better than at your beginnings. Then you will know that I am Yahweh.",
+          "korean": "사람과 짐승을 너희 위에 늘릴 거야. 그들이 번성할 거야. 예전처럼 사람이 살게 하고, 처음보다 더 좋게 할 거야. 그때 너희는 내가 하나님인 것을 알게 될 거야."
+        },
+        {
+          "verse": 12,
+          "original": "Yes, I will cause men to walk on you, even my people Israel. They will possess you, and you will be their inheritance, and you will never again bereave them of their children.\"",
+          "korean": "내 백성 이스라엘이 너희 위를 걷게 할 거야. 그들이 너희를 차지하고, 너희가 그들의 유산이 될 거야. 다시는 그들에게서 자녀를 빼앗지 않을 거야.\""
+        },
+        {
+          "verse": 13,
+          "original": "\"'The Lord Yahweh says: \"Because they say to you, 'You are a devourer of men, and have been a bereaver of your nation;'",
+          "korean": "하나님께서 말씀하셨어요. \"사람들이 너에게 '너는 사람을 삼키고, 네 민족에게서 자녀를 빼앗는다'고 말하기 때문에,"
+        },
+        {
+          "verse": 14,
+          "original": "therefore you shall devour men no more, and not bereave your nation any more,\" says the Lord Yahweh.",
+          "korean": "너는 더 이상 사람을 삼키지 않을 것이고, 네 민족에게서 자녀를 빼앗지 않을 거야.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 15,
+          "original": "\"I won't let you hear the shame of the nations any more. You won't bear the reproach of the peoples any more, and you won't cause your nation to stumble any more,\" says the Lord Yahweh.'\"",
+          "korean": "\"네가 더 이상 나라들의 모욕을 듣지 않게 하고, 민족들의 비난을 받지 않게 하고, 네 민족이 넘어지지 않게 할 거야.\" 하나님께서 말씀하셨어요.'\""
+        },
+        {
+          "verse": 16,
+          "original": "Moreover Yahweh's word came to me, saying,",
+          "korean": "하나님의 말씀이 또 저에게 왔어요."
+        },
+        {
+          "verse": 17,
+          "original": "\"Son of man, when the house of Israel lived in their own land, they defiled it by their ways and by their deeds. Their way before me was as the uncleanness of a woman in her impurity.",
+          "korean": "\"사람의 아들아, 이스라엘 집이 자기 땅에 살 때, 그들의 행동으로 땅을 더럽혔어."
+        },
+        {
+          "verse": 18,
+          "original": "Therefore I poured out my wrath on them for the blood which they had poured out on the land, and because they had defiled it with their idols.",
+          "korean": "그래서 내가 그들에게 진노를 쏟아 부었어. 그들이 땅에 피를 흘리고 우상으로 땅을 더럽혔기 때문이야."
+        },
+        {
+          "verse": 19,
+          "original": "I scattered them among the nations, and they were dispersed through the countries. I judged them according to their way and according to their deeds.",
+          "korean": "나는 그들을 나라들 가운데 흩었어. 그들의 행동대로 심판했어."
+        },
+        {
+          "verse": 20,
+          "original": "When they came to the nations where they went, they profaned my holy name; in that men said of them, 'These are Yahweh's people, and have left his land.'",
+          "korean": "그들이 간 나라에서 내 거룩한 이름을 더럽혔어. 사람들이 '이들이 하나님의 백성인데 그 땅에서 쫓겨났네'라고 말했거든."
+        },
+        {
+          "verse": 21,
+          "original": "But I had respect for my holy name, which the house of Israel had profaned among the nations where they went.",
+          "korean": "하지만 나는 내 거룩한 이름을 생각했어. 이스라엘 집이 간 나라들 가운데서 더럽힌 내 이름을."
+        },
+        {
+          "verse": 22,
+          "original": "\"Therefore tell the house of Israel, 'The Lord Yahweh says: \"I don't do this for your sake, house of Israel, but for my holy name, which you have profaned among the nations where you went.",
+          "korean": "그러므로 이스라엘 집에게 말해라. '하나님께서 말씀하셨어요. \"이스라엘 집아, 내가 너희를 위해서가 아니라 내 거룩한 이름을 위해서 이렇게 해. 너희가 간 나라들 가운데서 내 이름을 더럽혔어."
+        },
+        {
+          "verse": 23,
+          "original": "I will sanctify my great name, which has been profaned among the nations, which you have profaned among them. Then the nations will know that I am Yahweh,\" says the Lord Yahweh, \"when I am proven holy in you before their eyes.",
+          "korean": "나라들 가운데서 더럽혀진 내 큰 이름을 거룩하게 할 거야. 그러면 나라들이 내가 하나님인 것을 알게 될 거야. 내가 너희를 통해 그들 앞에서 거룩함을 보여줄 때.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 24,
+          "original": "\"'\"For I will take you from among the nations and gather you out of all the countries, and will bring you into your own land.",
+          "korean": "\"내가 너희를 나라들 가운데서 데려오고, 모든 나라에서 모아서 너희 땅으로 데려올 거야."
+        },
+        {
+          "verse": 25,
+          "original": "I will sprinkle clean water on you, and you will be clean. I will cleanse you from all your filthiness, and from all your idols.",
+          "korean": "깨끗한 물을 너희에게 뿌리면 너희가 깨끗해질 거야. 모든 더러움과 우상에서 깨끗하게 할 거야."
+        },
+        {
+          "verse": 26,
+          "original": "I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh.",
+          "korean": "새 마음을 너희에게 줄 거야. 새 영을 너희 안에 넣을 거야. 돌 같은 마음을 빼고 살 같은 마음을 줄 거야."
+        },
+        {
+          "verse": 27,
+          "original": "I will put my Spirit within you, and cause you to walk in my statutes. You will keep my ordinances and do them.",
+          "korean": "내 영을 너희 안에 넣을 거야. 그러면 너희가 내 법을 따라 살고, 내 규례를 지킬 거야."
+        },
+        {
+          "verse": 28,
+          "original": "You will dwell in the land that I gave to your fathers. You will be my people, and I will be your God.",
+          "korean": "너희 조상에게 준 땅에서 살 거야. 너희는 내 백성이 되고, 나는 너희 하나님이 될 거야."
+        },
+        {
+          "verse": 29,
+          "original": "I will save you from all your uncleanness. I will call for the grain, and will multiply it, and lay no famine on you.",
+          "korean": "모든 더러움에서 너희를 구할 거야. 곡식을 불러서 풍성하게 하고, 굶주림이 없게 할 거야."
+        },
+        {
+          "verse": 30,
+          "original": "I will multiply the fruit of the tree and the increase of the field, that you may receive no more the reproach of famine among the nations.",
+          "korean": "나무 열매와 밭의 소출을 늘릴 거야. 그래서 너희가 더 이상 굶주림 때문에 나라들에게 놀림받지 않을 거야."
+        },
+        {
+          "verse": 31,
+          "original": "\"'\"Then you will remember your evil ways, and your deeds that were not good; and you will loathe yourselves in your own sight for your iniquities and for your abominations.",
+          "korean": "그때 너희는 너희의 나쁜 행동을 기억하고, 자기 죄와 나쁜 일 때문에 자신을 싫어하게 될 거야."
+        },
+        {
+          "verse": 32,
+          "original": "I don't do this for your sake,\" says the Lord Yahweh. \"Let it be known to you: be ashamed and confounded for your ways, house of Israel.\"",
+          "korean": "내가 너희를 위해서 이렇게 하는 게 아니야.\" 하나님께서 말씀하셨어요. \"알아 둬라. 이스라엘 집아, 너희 행동을 부끄러워해라.\""
+        },
+        {
+          "verse": 33,
+          "original": "\"'The Lord Yahweh says: \"In the day that I cleanse you from all your iniquities, I will cause the cities to be inhabited and the waste places will be built.",
+          "korean": "하나님께서 말씀하셨어요. \"내가 모든 죄에서 너희를 깨끗하게 하는 날, 성들에 사람이 살게 하고 폐허를 다시 세울 거야."
+        },
+        {
+          "verse": 34,
+          "original": "The land that was desolate will be tilled instead of being a desolation in the sight of all who passed by.",
+          "korean": "황폐했던 땅이 경작될 거야. 지나가는 모든 사람이 보는 앞에서."
+        },
+        {
+          "verse": 35,
+          "original": "They will say, 'This land that was desolate has become like the garden of Eden. The waste, desolate, and ruined cities are fortified and inhabited.'",
+          "korean": "그들이 말할 거야. '황폐했던 이 땅이 에덴동산처럼 되었네. 폐허가 되고 무너졌던 성들이 튼튼해지고 사람이 살게 되었네.'"
+        },
+        {
+          "verse": 36,
+          "original": "Then the nations that are left around you will know that I, Yahweh, have built the ruined places, and planted that which was desolate. I, Yahweh, have spoken it, and I will do it.\"",
+          "korean": "그러면 너희 주변에 남은 나라들이 알게 될 거야. 나 하나님이 무너진 것을 세우고, 황폐한 곳에 심었다는 것을. 나 하나님이 말했고, 내가 할 거야.\""
+        },
+        {
+          "verse": 37,
+          "original": "\"'The Lord Yahweh says: \"For this, moreover, I will be inquired of by the house of Israel, to do it for them: I will increase them with men like a flock.",
+          "korean": "하나님께서 말씀하셨어요. \"이스라엘 집이 나에게 구하면 내가 그들을 위해 이것을 할 거야. 양 떼처럼 그들의 사람을 늘릴 거야."
+        },
+        {
+          "verse": 38,
+          "original": "As the flock for sacrifice, as the flock of Jerusalem in her appointed feasts, so the waste cities will be filled with flocks of men. Then they will know that I am Yahweh.'\"",
+          "korean": "절기 때 예루살렘의 양 떼처럼, 폐허가 된 성들이 사람들로 가득 찰 거야. 그때 그들은 내가 하나님인 것을 알게 될 거야.'\""
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh's hand was on me, and he brought me out in Yahweh's Spirit, and set me down in the middle of the valley; and it was full of bones.",
+          "korean": "하나님의 손이 저에게 있었고, 하나님의 영으로 저를 데리고 나가서 골짜기 가운데 내려놓았어요. 거기에는 뼈가 가득했어요."
+        },
+        {
+          "verse": 2,
+          "original": "He caused me to pass by them all around: and behold, there were very many in the open valley; and behold, they were very dry.",
+          "korean": "하나님께서 저를 그 뼈들 주위로 지나가게 했어요. 아주 많은 뼈가 있었고, 아주 말라 있었어요."
+        },
+        {
+          "verse": 3,
+          "original": "He said to me, \"Son of man, can these bones live?\" I answered, \"Lord Yahweh, you know.\"",
+          "korean": "하나님께서 저에게 말씀하셨어요. \"사람의 아들아, 이 뼈들이 살 수 있을까?\" 제가 대답했어요. \"주 하나님, 당신만 아세요.\""
+        },
+        {
+          "verse": 4,
+          "original": "Again he said to me, \"Prophesy over these bones, and tell them, 'You dry bones, hear Yahweh's word.",
+          "korean": "하나님께서 다시 말씀하셨어요. \"이 뼈들에게 예언해라. '마른 뼈들아, 하나님의 말씀을 들어라."
+        },
+        {
+          "verse": 5,
+          "original": "The Lord Yahweh says to these bones: \"Behold, I will cause breath to enter into you, and you will live.",
+          "korean": "하나님께서 이 뼈들에게 말씀하셨어요. \"보라, 내가 숨을 너희에게 넣으면 너희가 살 거야."
+        },
+        {
+          "verse": 6,
+          "original": "I will lay sinews on you, and will bring up flesh on you, and cover you with skin, and put breath in you, and you will live. Then you will know that I am Yahweh.\"'\"",
+          "korean": "너희에게 힘줄을 붙이고, 살을 입히고, 피부로 덮고, 숨을 넣을 거야. 그러면 너희가 살 거야. 그때 너희는 내가 하나님인 것을 알게 될 거야.\"'\""
+        },
+        {
+          "verse": 7,
+          "original": "So I prophesied as I was commanded. As I prophesied, there was a noise, and behold, there was an earthquake. Then the bones came together, bone to its bone.",
+          "korean": "그래서 명령대로 예언했어요. 제가 예언할 때 소리가 나더니, 지진이 일어났어요. 그러더니 뼈들이 서로 맞춰졌어요."
+        },
+        {
+          "verse": 8,
+          "original": "I saw, and, behold, there were sinews on them, and flesh came up, and skin covered them above; but there was no breath in them.",
+          "korean": "제가 보니까 뼈들에 힘줄이 생기고, 살이 오르고, 피부가 덮였어요. 하지만 숨이 없었어요."
+        },
+        {
+          "verse": 9,
+          "original": "Then he said to me, \"Prophesy to the wind, prophesy, son of man, and tell the wind, 'The Lord Yahweh says: \"Come from the four winds, breath, and breathe on these slain, that they may live.\"'\"",
+          "korean": "그때 하나님께서 말씀하셨어요. \"바람에게 예언해라. '하나님께서 말씀하셨어요. \"사방의 바람아, 와서 이 죽은 자들에게 숨을 불어 넣어서 살게 해라.\"'\""
+        },
+        {
+          "verse": 10,
+          "original": "So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up on their feet, an exceedingly great army.",
+          "korean": "그래서 명령대로 예언했더니, 숨이 그들에게 들어가고 살아났어요. 그들이 발로 서니 아주 큰 군대가 되었어요."
+        },
+        {
+          "verse": 11,
+          "original": "Then he said to me, \"Son of man, these bones are the whole house of Israel. Behold, they say, 'Our bones are dried up, and our hope is lost. We are completely cut off.'",
+          "korean": "하나님께서 말씀하셨어요. \"사람의 아들아, 이 뼈들은 이스라엘 집 전체야. 그들이 말해. '우리 뼈가 말랐고, 희망이 없어졌어요. 완전히 끊어졌어요.'"
+        },
+        {
+          "verse": 12,
+          "original": "Therefore prophesy, and tell them, 'The Lord Yahweh says: \"Behold, I will open your graves, and cause you to come up out of your graves, my people; and I will bring you into the land of Israel.",
+          "korean": "그러므로 예언하고 그들에게 말해라. '하나님께서 말씀하셨어요. \"보라, 내가 너희 무덤을 열어서 무덤에서 나오게 할 거야, 내 백성아. 너희를 이스라엘 땅으로 데려갈 거야."
+        },
+        {
+          "verse": 13,
+          "original": "You will know that I am Yahweh, when I have opened your graves, and caused you to come up out of your graves, my people.",
+          "korean": "내가 너희 무덤을 열어서 나오게 할 때, 내 백성아, 너희는 내가 하나님인 것을 알게 될 거야."
+        },
+        {
+          "verse": 14,
+          "original": "I will put my Spirit in you, and you will live. Then I will place you in your own land; and you will know that I, Yahweh, have spoken it and performed it,\" says Yahweh.'\"",
+          "korean": "내 영을 너희 안에 넣으면 너희가 살 거야. 그러고 나서 너희를 너희 땅에 살게 할 거야. 너희는 나 하나님이 말하고 행한 것을 알게 될 거야.\" 하나님께서 말씀하셨어요.'\""
+        },
+        {
+          "verse": 15,
+          "original": "Yahweh's word came again to me, saying,",
+          "korean": "하나님의 말씀이 다시 저에게 왔어요."
+        },
+        {
+          "verse": 16,
+          "original": "\"You, son of man, take one stick, and write on it, 'For Judah, and for the children of Israel his companions.' Then take another stick, and write on it, 'For Joseph, the stick of Ephraim, and for all the house of Israel his companions.'",
+          "korean": "\"사람의 아들아, 막대기 하나를 가져다가 '유다와 그 친구 이스라엘 자손을 위해'라고 써라. 다른 막대기를 가져다가 '에브라임 막대기인 요셉과 그 친구 이스라엘 집 전체를 위해'라고 써라."
+        },
+        {
+          "verse": 17,
+          "original": "Then join them for yourself to one another into one stick, that they may become one in your hand.",
+          "korean": "그 두 막대기를 하나로 붙여서 네 손에서 하나가 되게 해라."
+        },
+        {
+          "verse": 18,
+          "original": "\"When the children of your people speak to you, saying, 'Won't you show us what you mean by these?'",
+          "korean": "네 백성의 자손이 '이게 무슨 뜻이에요?'라고 물으면,"
+        },
+        {
+          "verse": 19,
+          "original": "tell them, 'The Lord Yahweh says: \"Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his companions; and I will put them with it, with the stick of Judah, and make them one stick, and they will be one in my hand.\"",
+          "korean": "그들에게 말해라. '하나님께서 말씀하셨어요. \"보라, 내가 에브라임 손에 있는 요셉의 막대기와 그 친구 이스라엘 지파들을 유다 막대기와 합쳐서 하나로 만들 거야. 내 손에서 하나가 될 거야.\""
+        },
+        {
+          "verse": 20,
+          "original": "The sticks on which you write will be in your hand before their eyes.\"'",
+          "korean": "네가 쓴 막대기들이 그들이 보는 앞에서 네 손에 있을 거야.\"'"
+        },
+        {
+          "verse": 21,
+          "original": "Say to them, 'The Lord Yahweh says: \"Behold, I will take the children of Israel from among the nations, where they have gone, and will gather them on every side, and bring them into their own land.",
+          "korean": "그들에게 말해라. '하나님께서 말씀하셨어요. \"보라, 내가 이스라엘 자손을 그들이 간 나라들 가운데서 데려올 거야. 사방에서 모아서 그들의 땅으로 데려올 거야."
+        },
+        {
+          "verse": 22,
+          "original": "I will make them one nation in the land, on the mountains of Israel. One king will be king to them all. They will no longer be two nations. They won't be divided into two kingdoms any more at all.",
+          "korean": "이스라엘 산에서 그들을 한 나라로 만들 거야. 한 왕이 그들 모두를 다스릴 거야. 더 이상 두 나라가 아니고, 더 이상 두 왕국으로 나뉘지 않을 거야."
+        },
+        {
+          "verse": 23,
+          "original": "They won't defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions; but I will save them out of all their dwelling places, in which they have sinned, and will cleanse them. So they will be my people, and I will be their God.",
+          "korean": "더 이상 우상과 나쁜 것들로 자신을 더럽히지 않을 거야. 내가 그들을 죄 지은 모든 곳에서 구해서 깨끗하게 할 거야. 그들은 내 백성이 되고, 나는 그들의 하나님이 될 거야."
+        },
+        {
+          "verse": 24,
+          "original": "\"'\"My servant David will be king over them. They all will have one shepherd. They will also walk in my ordinances, and observe my statutes, and do them.",
+          "korean": "내 종 다윗이 그들의 왕이 될 거야. 그들 모두가 한 목자를 가질 거야. 내 규례를 따라 살고, 내 법을 지킬 거야."
+        },
+        {
+          "verse": 25,
+          "original": "They will dwell in the land that I have given to Jacob my servant, in which your fathers lived. They will dwell therein, they, and their children, and their children's children, forever. David my servant will be their prince forever.",
+          "korean": "내 종 야곱에게 준 땅에서 살 거야. 너희 조상이 살던 땅이야. 거기서 그들과 그들의 자녀와 자녀의 자녀가 영원히 살 거야. 내 종 다윗이 영원히 그들의 왕이 될 거야."
+        },
+        {
+          "verse": 26,
+          "original": "Moreover I will make a covenant of peace with them. It will be an everlasting covenant with them. I will place them, multiply them, and will set my sanctuary among them forever more.",
+          "korean": "내가 그들과 평화의 언약을 맺을 거야. 영원한 언약이야. 그들을 세우고, 번성하게 하고, 영원히 내 성소를 그들 가운데 둘 거야."
+        },
+        {
+          "verse": 27,
+          "original": "My tent also will be with them. I will be their God, and they will be my people.",
+          "korean": "내 장막도 그들과 함께 있을 거야. 나는 그들의 하나님이 되고, 그들은 내 백성이 될 거야."
+        },
+        {
+          "verse": 28,
+          "original": "The nations will know that I am Yahweh who sanctifies Israel, when my sanctuary is among them forever more.\"'\"",
+          "korean": "내 성소가 영원히 그들 가운데 있을 때, 나라들은 내가 이스라엘을 거룩하게 하는 하나님인 것을 알게 될 거야.\"'\""
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Yahweh's word came to me, saying,",
+          "korean": "하나님의 말씀이 저에게 왔어요."
+        },
+        {
+          "verse": 2,
+          "original": "\"Son of man, set your face toward Gog, of the land of Magog, the prince of Rosh, Meshech, and Tubal, and prophesy against him,",
+          "korean": "\"사람의 아들아, 마곡 땅의 곡, 로스와 메섹과 두발의 왕을 향해 예언해라."
+        },
+        {
+          "verse": 3,
+          "original": "and say, 'The Lord Yahweh says: \"Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal.\"",
+          "korean": "'하나님께서 말씀하셨어요. \"보라, 로스와 메섹과 두발의 왕 곡아, 내가 너를 대적해.\""
+        },
+        {
+          "verse": 4,
+          "original": "I will turn you around, and put hooks into your jaws, and I will bring you out, with all your army, horses and horsemen, all of them clothed in full armor, a great company with buckler and shield, all of them handling swords;",
+          "korean": "내가 너를 돌이켜서 네 턱에 갈고리를 꿰어 끌어낼 거야. 네 모든 군대와 말과 기병을, 모두 완전한 갑옷을 입고 방패와 칼을 든 큰 무리를."
+        },
+        {
+          "verse": 5,
+          "original": "Persia, Cush, and Put with them, all of them with shield and helmet;",
+          "korean": "페르시아, 구스, 붓도 그들과 함께 있을 거야. 모두 방패와 투구를 갖추고."
+        },
+        {
+          "verse": 6,
+          "original": "Gomer, and all his hordes; the house of Togarmah in the uttermost parts of the north, and all his hordes; even many peoples with you.",
+          "korean": "고멜과 그의 모든 무리, 북쪽 끝의 도갈마와 그의 모든 무리, 많은 민족이 너와 함께 있을 거야."
+        },
+        {
+          "verse": 7,
+          "original": "\"'\"Be prepared, yes, prepare yourself, you, and all your companies who are assembled to you, and be a guard to them.",
+          "korean": "준비해라. 너와 네게 모인 모든 무리가 준비해서 그들을 이끌어라."
+        },
+        {
+          "verse": 8,
+          "original": "After many days you will be visited. In the latter years you will come into the land that is brought back from the sword, that is gathered out of many peoples, on the mountains of Israel, which have been a continual waste; but it is brought out of the peoples, and they will dwell securely, all of them.",
+          "korean": "오랜 후에 네가 불려 올 거야. 마지막 때에 칼에서 회복된 땅, 많은 민족 가운데서 모인 땅, 이스라엘 산으로 올 거야. 오랫동안 황폐했지만 여러 민족에서 나와 모두 안전하게 사는 땅으로."
+        },
+        {
+          "verse": 9,
+          "original": "You will ascend. You will come like a storm. You will be like a cloud to cover the land, you, and all your hordes, and many peoples with you.\"",
+          "korean": "네가 올라올 거야. 폭풍처럼 올 거야. 구름처럼 땅을 덮을 거야. 너와 네 모든 무리와 많은 민족이.\""
+        },
+        {
+          "verse": 10,
+          "original": "\"'The Lord Yahweh says: \"It will happen in that day that things will come into your mind, and you will devise an evil plan.",
+          "korean": "하나님께서 말씀하셨어요. \"그날에 네 마음에 생각이 떠올라서 나쁜 계획을 세울 거야."
+        },
+        {
+          "verse": 11,
+          "original": "You will say, 'I will go up to the land of unwalled villages. I will go to those who are at rest, who dwell securely, all of them dwelling without walls, and having neither bars nor gates,",
+          "korean": "네가 말할 거야. '성벽 없는 마을들의 땅으로 올라가자. 편히 쉬고 안전하게 사는 자들에게 가자. 모두 성벽도 빗장도 문도 없이 사는 자들."
+        },
+        {
+          "verse": 12,
+          "original": "to take the plunder and to take prey; to turn your hand against the waste places that are inhabited, and against the people who are gathered out of the nations, who have gotten livestock and goods, who dwell in the middle of the earth.'",
+          "korean": "노략물을 빼앗고 전리품을 취하자. 다시 사람이 사는 황폐했던 곳들과, 여러 나라에서 모인 백성, 가축과 재물을 얻은 백성을 치자.'"
+        },
+        {
+          "verse": 13,
+          "original": "Sheba, and Dedan, and the merchants of Tarshish, with all the young lions of it, will ask you, 'Have you come to take the plunder? Have you assembled your company to take the prey, to carry away silver and gold, to take away livestock and goods, to take great plunder?'\"'",
+          "korean": "스바와 드단과 다시스 상인들과 그들의 지도자들이 네게 물을 거야. '노략물을 빼앗으러 왔니? 네 무리를 모은 것이 전리품을 취하고, 은과 금을 가져가고, 가축과 재물을 빼앗으러 온 거니?'\"'"
+        },
+        {
+          "verse": 14,
+          "original": "\"Therefore, son of man, prophesy, and tell Gog, 'The Lord Yahweh says: \"In that day when my people Israel dwells securely, will you not know it?",
+          "korean": "그러므로 사람의 아들아, 예언하고 곡에게 말해라. '하나님께서 말씀하셨어요. \"그날에 내 백성 이스라엘이 안전하게 살 때, 네가 알지 못하겠니?"
+        },
+        {
+          "verse": 15,
+          "original": "You will come from your place out of the uttermost parts of the north, you, and many peoples with you, all of them riding on horses, a great company and a mighty army.",
+          "korean": "북쪽 끝에서 올 거야. 너와 많은 민족이 말을 타고, 큰 무리와 강한 군대가."
+        },
+        {
+          "verse": 16,
+          "original": "You will come up against my people Israel, as a cloud to cover the land. It will happen in the latter days, that I will bring you against my land, that the nations may know me, when I am sanctified in you, Gog, before their eyes.\"",
+          "korean": "구름처럼 땅을 덮으면서 내 백성 이스라엘을 치러 올 거야. 마지막 날에 내가 너를 내 땅으로 오게 할 거야. 곡아, 내가 그들 눈앞에서 너를 통해 거룩함을 보여줄 때 나라들이 나를 알게 될 거야.\""
+        },
+        {
+          "verse": 17,
+          "original": "\"'The Lord Yahweh says: \"Are you he of whom I spoke in old time by my servants the prophets of Israel, who prophesied in those days for years that I would bring you against them?\"",
+          "korean": "하나님께서 말씀하셨어요. \"내가 옛날에 내 종 이스라엘 예언자들을 통해 말한 자가 바로 너냐? 그때 여러 해 동안 내가 너를 그들에게로 보낼 거라고 예언했어.\""
+        },
+        {
+          "verse": 18,
+          "original": "It will happen in that day, when Gog comes against the land of Israel,\" says the Lord Yahweh, \"that my wrath will come up into my nostrils.",
+          "korean": "그날에 곡이 이스라엘 땅을 칠 때, 내 분노가 솟아오를 거야.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 19,
+          "original": "For in my jealousy and in the fire of my wrath I have spoken. Surely in that day there will be a great shaking in the land of Israel;",
+          "korean": "내 열심과 불같은 분노로 말했어. 그날에 이스라엘 땅에 큰 지진이 있을 거야."
+        },
+        {
+          "verse": 20,
+          "original": "so that the fish of the sea, the birds of the sky, the animals of the field, all creeping things who creep on the earth, and all the men who are on the surface of the earth will shake at my presence. Then the mountains will be thrown down, the steep places will fall, and every wall will fall to the ground.",
+          "korean": "바다의 물고기, 하늘의 새, 들의 짐승, 땅의 모든 기어다니는 것, 땅 위의 모든 사람이 내 앞에서 떨 거야. 산이 무너지고, 절벽이 떨어지고, 모든 성벽이 무너질 거야."
+        },
+        {
+          "verse": 21,
+          "original": "I will call for a sword against him to all my mountains,\" says the Lord Yahweh. \"Every man's sword will be against his brother.",
+          "korean": "내가 내 모든 산에서 그를 칠 칼을 부를 거야.\" 하나님께서 말씀하셨어요. \"각 사람의 칼이 자기 형제를 칠 거야."
+        },
+        {
+          "verse": 22,
+          "original": "I will enter into judgment with him with pestilence and with blood. I will rain on him, and on his hordes, and on the many peoples who are with him, an overflowing shower, with great hailstones, fire, and sulfur.",
+          "korean": "전염병과 피로 그를 심판할 거야. 그와 그의 무리와 그와 함께하는 많은 민족에게 쏟아지는 비와 큰 우박과 불과 유황을 내릴 거야."
+        },
+        {
+          "verse": 23,
+          "original": "I will magnify myself, and sanctify myself, and I will make myself known in the eyes of many nations. Then they will know that I am Yahweh.\"'",
+          "korean": "내가 나를 크게 하고 거룩하게 하여 많은 나라의 눈앞에서 나를 알리겠어. 그러면 그들은 내가 하나님인 것을 알게 될 거야.\"'"
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "\"You, son of man, prophesy against Gog, and say, 'The Lord Yahweh says: \"Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal.\"",
+          "korean": "\"사람의 아들아, 곡에게 예언하고 말해라. '하나님께서 말씀하셨어요. \"보라, 로스와 메섹과 두발의 왕 곡아, 내가 너를 대적해.\""
+        },
+        {
+          "verse": 2,
+          "original": "I will turn you around, and will lead you on, and will cause you to come up from the uttermost parts of the north; and I will bring you onto the mountains of Israel.",
+          "korean": "내가 너를 돌이켜서 이끌고 북쪽 끝에서 올라오게 해서 이스라엘 산들로 데려올 거야."
+        },
+        {
+          "verse": 3,
+          "original": "I will strike your bow out of your left hand, and will cause your arrows to fall out of your right hand.",
+          "korean": "네 왼손에서 활을 치고, 오른손에서 화살을 떨어뜨릴 거야."
+        },
+        {
+          "verse": 4,
+          "original": "You will fall on the mountains of Israel, you, and all your hordes, and the peoples who are with you. I will give you to the ravenous birds of every sort, and to the animals of the field to be devoured.",
+          "korean": "너와 네 모든 무리와 너와 함께하는 민족들이 이스라엘 산에서 쓰러질 거야. 너를 온갖 맹금류와 들짐승의 먹이로 줄 거야."
+        },
+        {
+          "verse": 5,
+          "original": "You will fall on the open field; for I have spoken it,\" says the Lord Yahweh.",
+          "korean": "네가 들판에서 쓰러질 거야. 내가 말했어.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 6,
+          "original": "\"I will send a fire on Magog, and on those who dwell securely in the islands. Then they will know that I am Yahweh.",
+          "korean": "\"마곡과 섬들에 안전하게 사는 자들에게 불을 보낼 거야. 그러면 그들은 내가 하나님인 것을 알게 될 거야."
+        },
+        {
+          "verse": 7,
+          "original": "\"'\"I will make my holy name known among my people Israel. I won't allow my holy name to be profaned any more. Then the nations will know that I am Yahweh, the Holy One in Israel.",
+          "korean": "내 거룩한 이름을 내 백성 이스라엘 가운데 알리겠어. 내 거룩한 이름이 더 이상 더럽혀지지 않게 할 거야. 그러면 나라들은 내가 이스라엘의 거룩한 하나님인 것을 알게 될 거야."
+        },
+        {
+          "verse": 8,
+          "original": "Behold, it comes, and it will be done,\" says the Lord Yahweh. \"This is the day about which I have spoken.",
+          "korean": "보라, 이 일이 오고, 이루어질 거야.\" 하나님께서 말씀하셨어요. \"이것이 내가 말한 그날이야."
+        },
+        {
+          "verse": 9,
+          "original": "\"'\"Those who dwell in the cities of Israel will go out, and will make fires of the weapons and burn them, both the shields and the bucklers, the bows and the arrows, and the war clubs and the spears, and they will make fires with them for seven years;",
+          "korean": "이스라엘 성들에 사는 자들이 나가서 무기들을 불태울 거야. 방패와 큰 방패, 활과 화살, 몽둥이와 창을 칠 년 동안 불 지피는 데 쓸 거야."
+        },
+        {
+          "verse": 10,
+          "original": "so that they will take no wood out of the field, and not cut down any out of the forests; for they will make fires with the weapons. They will plunder those who plundered them, and rob those who robbed them,\" says the Lord Yahweh.",
+          "korean": "들에서 나무를 가져오거나 숲에서 베지 않아도 될 거야. 무기로 불을 지필 테니까. 자기들을 약탈한 자들을 약탈하고, 자기들을 빼앗은 자들에게서 빼앗을 거야.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 11,
+          "original": "\"'\"It will happen in that day, that I will give to Gog a place for burial in Israel, the valley of those who pass through on the east of the sea; and it will stop those who pass through. They will bury Gog and all his multitude there; and they will call it 'The valley of Hamon Gog'.",
+          "korean": "그날에 이스라엘에서 곡에게 무덤 자리를 줄 거야. 바다 동쪽 지나가는 자들의 골짜기야. 거기서 곡과 그의 모든 무리를 묻을 거야. 그래서 '하몬곡 골짜기'라고 부를 거야."
+        },
+        {
+          "verse": 12,
+          "original": "\"'\"The house of Israel will be burying them for seven months, that they may cleanse the land.",
+          "korean": "이스라엘 집이 칠 개월 동안 그들을 묻어서 땅을 깨끗하게 할 거야."
+        },
+        {
+          "verse": 13,
+          "original": "Yes, all the people of the land will bury them; and they will become famous in the day that I will be glorified,\" says the Lord Yahweh.",
+          "korean": "그 땅의 모든 백성이 그들을 묻을 거야. 내가 영광 받는 날에 그것이 유명해질 거야.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 14,
+          "original": "\"'\"They will set apart men of continual employment, who will pass through the land. Those who pass through will go with those who bury those who remain on the surface of the land, to cleanse it. After the end of seven months they will search.",
+          "korean": "그들은 땅을 지나다니며 땅 위에 남은 자들을 묻어서 깨끗하게 할 사람들을 따로 세울 거야. 칠 개월이 끝난 후에 찾을 거야."
+        },
+        {
+          "verse": 15,
+          "original": "Those who pass through the land will pass through; and when anyone sees a man's bone, then he will set up a sign by it, until the undertakers have buried it in the valley of Hamon Gog.",
+          "korean": "땅을 지나다니는 자가 사람의 뼈를 보면 그 옆에 표시를 세울 거야. 장사꾼들이 하몬곡 골짜기에 묻을 때까지."
+        },
+        {
+          "verse": 16,
+          "original": "Hamonah will also be the name of a city. Thus they will cleanse the land.\"'",
+          "korean": "하모나라는 성도 거기 있을 거야. 이렇게 땅을 깨끗하게 할 거야.\"'"
+        },
+        {
+          "verse": 17,
+          "original": "\"You, son of man, the Lord Yahweh says: 'Speak to the birds of every sort, and to every animal of the field, \"Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I sacrifice for you, even a great sacrifice on the mountains of Israel, that you may eat meat and drink blood.\"",
+          "korean": "사람의 아들아, 하나님께서 말씀하셨어요. '온갖 새와 모든 들짐승에게 말해라. \"모여서 오라. 사방에서 모여서 내가 너희를 위해 차린 제물로 오라. 이스라엘 산의 큰 제물이야. 고기를 먹고 피를 마실 거야.\""
+        },
+        {
+          "verse": 18,
+          "original": "You shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bulls, all of them fatlings of Bashan.",
+          "korean": "용사들의 살과 땅의 왕들의 피를 먹고 마실 거야. 바산의 살찐 숫양과 어린 양과 염소와 황소처럼."
+        },
+        {
+          "verse": 19,
+          "original": "You shall eat fat until you are full, and drink blood until you are drunk, of my sacrifice which I have sacrificed for you.",
+          "korean": "내가 너희를 위해 차린 제물의 기름을 배부르게 먹고, 피를 취하도록 마실 거야."
+        },
+        {
+          "verse": 20,
+          "original": "You shall be filled at my table with horses and chariots, with mighty men, and with all men of war,\" says the Lord Yahweh.'",
+          "korean": "내 상에서 말과 병거와 용사와 모든 전사로 배부를 거야.\" 하나님께서 말씀하셨어요.'"
+        },
+        {
+          "verse": 21,
+          "original": "\"I will set my glory among the nations. Then all the nations will see my judgment that I have executed, and my hand that I have laid on them.",
+          "korean": "\"내 영광을 나라들 가운데 두겠어. 모든 나라가 내가 행한 심판과 그들에게 얹은 내 손을 볼 거야."
+        },
+        {
+          "verse": 22,
+          "original": "So the house of Israel will know that I am Yahweh their God, from that day and forward.",
+          "korean": "그날부터 이스라엘 집은 내가 그들의 하나님인 것을 알게 될 거야."
+        },
+        {
+          "verse": 23,
+          "original": "The nations will know that the house of Israel went into captivity for their iniquity; because they trespassed against me, and I hid my face from them; so I gave them into the hand of their adversaries, and they all fell by the sword.",
+          "korean": "나라들은 이스라엘 집이 자기 죄 때문에 잡혀갔다는 것을 알게 될 거야. 그들이 나를 거스렸기 때문에 내가 얼굴을 숨기고 원수의 손에 넘겼고, 모두 칼에 쓰러졌어."
+        },
+        {
+          "verse": 24,
+          "original": "I did to them according to their uncleanness and according to their transgressions. I hid my face from them.",
+          "korean": "그들의 더러움과 죄에 따라 그들에게 행했어. 그들에게서 내 얼굴을 숨겼어."
+        },
+        {
+          "verse": 25,
+          "original": "\"Therefore the Lord Yahweh says: 'Now I will reverse the captivity of Jacob, and have mercy on the whole house of Israel. I will be jealous for my holy name.",
+          "korean": "그러므로 하나님께서 말씀하셨어요. '이제 야곱의 운명을 돌이키고 이스라엘 집 전체를 불쌍히 여기겠어. 내 거룩한 이름을 위해 열심을 내겠어."
+        },
+        {
+          "verse": 26,
+          "original": "They will bear their shame, and all their trespasses by which they have trespassed against me, when they dwell securely in their land, and no one will make them afraid,",
+          "korean": "그들이 자기 땅에서 안전하게 살고 두려워할 자가 없을 때, 자기 수치와 나를 거스른 모든 죄를 깨달을 거야."
+        },
+        {
+          "verse": 27,
+          "original": "when I have brought them back from the peoples, and gathered them out of their enemies' lands, and am sanctified in them in the sight of many nations.",
+          "korean": "내가 여러 민족 가운데서 그들을 데려오고, 원수들의 땅에서 모으고, 많은 나라가 보는 앞에서 그들을 통해 거룩함을 보여줄 때."
+        },
+        {
+          "verse": 28,
+          "original": "They will know that I am Yahweh their God, in that I caused them to go into captivity among the nations, and have gathered them to their own land. Then I will leave none of them captive any more.",
+          "korean": "그들은 내가 그들의 하나님인 것을 알게 될 거야. 내가 그들을 나라들 가운데 잡혀가게 했다가 자기 땅으로 모았거든. 더 이상 아무도 잡혀 있지 않게 할 거야."
+        },
+        {
+          "verse": 29,
+          "original": "I won't hide my face from them any more; for I have poured out my Spirit on the house of Israel,' says the Lord Yahweh.\"",
+          "korean": "내 영을 이스라엘 집에 부었으니 더 이상 그들에게서 내 얼굴을 숨기지 않겠어.' 하나님께서 말씀하셨어요.\""
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "In the twenty-fifth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after that the city was struck, in the same day, Yahweh's hand was on me, and he brought me there.",
+          "korean": "우리가 잡혀온 지 스물다섯 번째 해, 그해 초 열째 날, 성이 무너진 지 열네 해 되던 바로 그날, 하나님의 손이 저에게 있었고 저를 그곳으로 데려가셨어요."
+        },
+        {
+          "verse": 2,
+          "original": "In the visions of God he brought me into the land of Israel, and set me down on a very high mountain, on which was something like the frame of a city to the south.",
+          "korean": "하나님의 환상 가운데 저를 이스라엘 땅으로 데려가서 아주 높은 산에 내려놓으셨어요. 남쪽에 성 같은 것이 있었어요."
+        },
+        {
+          "verse": 3,
+          "original": "He brought me there; and, behold, there was a man, whose appearance was like the appearance of bronze, with a line of flax in his hand, and a measuring reed; and he stood in the gate.",
+          "korean": "저를 그곳으로 데려가셨는데, 보니까 청동처럼 빛나는 한 사람이 손에 삼줄과 측량 막대기를 들고 문에 서 있었어요."
+        },
+        {
+          "verse": 4,
+          "original": "The man said to me, \"Son of man, see with your eyes, and hear with your ears, and set your heart on all that I will show you; for you have been brought here so that I may show them to you. Declare all that you see to the house of Israel.\"",
+          "korean": "그 사람이 저에게 말했어요. \"사람의 아들아, 눈으로 보고, 귀로 듣고, 내가 보여주는 모든 것에 마음을 두어라. 네가 여기 온 것은 내가 보여주려고 한 거야. 네가 보는 모든 것을 이스라엘 집에게 전해라.\""
+        },
+        {
+          "verse": 5,
+          "original": "Behold, there was a wall on the outside of the house all around, and in the man's hand a measuring reed six cubits long, of a cubit and a hand width each. So he measured the thickness of the building, one reed; and the height, one reed.",
+          "korean": "보니까 성전 바깥에 벽이 둘러 있었어요. 그 사람의 손에는 긴 측량 막대기가 있었어요. 그가 건물의 두께를 재니 한 장대였고, 높이도 한 장대였어요."
+        },
+        {
+          "verse": 6,
+          "original": "Then he came to the gate which looks toward the east, and went up its steps. He measured the threshold of the gate, one reed wide; and the other threshold, one reed wide.",
+          "korean": "그가 동쪽을 향한 문으로 가서 계단을 올라갔어요. 문지방을 재니 너비가 한 장대였어요."
+        },
+        {
+          "verse": 7,
+          "original": "Every lodge was one reed long and one reed wide. Between the lodges was five cubits. The threshold of the gate by the porch of the gate toward the house was one reed.",
+          "korean": "각 방은 한 장대 길이에 한 장대 너비였어요. 방 사이는 다섯 규빗이었어요."
+        },
+        {
+          "verse": 8,
+          "original": "He measured also the porch of the gate toward the house, one reed.",
+          "korean": "성전 쪽 문의 현관을 재니 한 장대였어요."
+        },
+        {
+          "verse": 9,
+          "original": "Then he measured the porch of the gate, eight cubits; and its posts, two cubits; and the porch of the gate was toward the house.",
+          "korean": "문의 현관을 재니 여덟 규빗이었고, 기둥은 두 규빗이었어요. 문의 현관은 성전 쪽에 있었어요."
+        },
+        {
+          "verse": 10,
+          "original": "The lodges of the gate eastward were three on this side, and three on that side. The three of them were of one measure. The posts had one measure on this side and on that side.",
+          "korean": "동쪽 문의 방은 이쪽에 셋, 저쪽에 셋이 있었어요. 셋 다 크기가 같았고, 기둥도 양쪽이 같은 크기였어요."
+        },
+        {
+          "verse": 11,
+          "original": "He measured the width of the opening of the gate, ten cubits; and the length of the gate, thirteen cubits;",
+          "korean": "문 입구의 너비를 재니 열 규빗이었고, 문의 길이는 열세 규빗이었어요."
+        },
+        {
+          "verse": 12,
+          "original": "and a border before the lodges, one cubit on this side, and a border, one cubit on that side; and the lodges, six cubits on this side, and six cubits on that side.",
+          "korean": "방 앞의 경계는 이쪽이 한 규빗, 저쪽도 한 규빗이었어요. 방은 이쪽이 여섯 규빗, 저쪽도 여섯 규빗이었어요."
+        },
+        {
+          "verse": 13,
+          "original": "He measured the gate from the roof of the one lodge to the roof of the other, a width of twenty-five cubits, door against door.",
+          "korean": "한 방의 지붕에서 다른 방의 지붕까지 재니 너비가 스물다섯 규빗이었어요. 문과 문이 마주보고 있었어요."
+        },
+        {
+          "verse": 14,
+          "original": "He also made posts, sixty cubits; and the court reached to the posts, around the gate.",
+          "korean": "기둥은 육십 규빗이었고, 뜰은 문 주위의 기둥까지 이어졌어요."
+        },
+        {
+          "verse": 15,
+          "original": "From the forefront of the gate at the entrance to the forefront of the inner porch of the gate were fifty cubits.",
+          "korean": "문 입구 앞에서 안쪽 현관 앞까지 오십 규빗이었어요."
+        },
+        {
+          "verse": 16,
+          "original": "There were closed windows to the lodges, and to their posts within the gate all around, and likewise to the arches. Windows were around inward. Palm trees were on each post.",
+          "korean": "방과 기둥에 닫힌 창문이 있었고, 문 안쪽에 돌아가며 창문이 있었어요. 각 기둥에 종려나무 그림이 있었어요."
+        },
+        {
+          "verse": 17,
+          "original": "Then he brought me into the outer court. Behold, there were rooms and a pavement made for the court all around. Thirty rooms were on the pavement.",
+          "korean": "그가 저를 바깥뜰로 데려갔어요. 보니까 뜰 주위에 방들과 포장된 바닥이 있었어요. 바닥 위에 서른 개의 방이 있었어요."
+        },
+        {
+          "verse": 18,
+          "original": "The pavement was by the side of the gates, corresponding to the length of the gates, even the lower pavement.",
+          "korean": "포장된 바닥은 문 옆에 있었고, 문의 길이에 맞추어져 있었어요. 이것이 아래쪽 포장이었어요."
+        },
+        {
+          "verse": 19,
+          "original": "Then he measured the width from the forefront of the lower gate to the forefront of the inner court outside, one hundred cubits, both on the east and on the north.",
+          "korean": "아래쪽 문 앞에서 안뜰 바깥 앞까지 너비를 재니 동쪽과 북쪽 모두 백 규빗이었어요."
+        },
+        {
+          "verse": 20,
+          "original": "He measured the length and width of the gate of the outer court which faces toward the north.",
+          "korean": "북쪽을 향한 바깥뜰 문의 길이와 너비를 쟀어요."
+        },
+        {
+          "verse": 21,
+          "original": "The lodges of it were three on this side and three on that side. Its posts and its arches were the same as the measure of the first gate: its length was fifty cubits, and the width twenty-five cubits.",
+          "korean": "그 문의 방은 이쪽에 셋, 저쪽에 셋이었어요. 기둥과 아치는 첫 번째 문과 같은 크기였어요. 길이는 오십 규빗, 너비는 스물다섯 규빗이었어요."
+        },
+        {
+          "verse": 22,
+          "original": "Its windows, its arches, and its palm trees were the same as the measure of the gate which faces toward the east. They went up to it by seven steps. Its arches were before them.",
+          "korean": "창문과 아치와 종려나무 그림은 동쪽을 향한 문과 같은 크기였어요. 일곱 계단으로 올라갔고, 아치가 앞에 있었어요."
+        },
+        {
+          "verse": 23,
+          "original": "There was a gate to the inner court facing the other gate, on the north and on the east. He measured one hundred cubits from gate to gate.",
+          "korean": "북쪽과 동쪽에 안뜰로 가는 문이 다른 문을 마주보고 있었어요. 문에서 문까지 재니 백 규빗이었어요."
+        },
+        {
+          "verse": 24,
+          "original": "He led me toward the south; and behold, there was a gate toward the south. He measured its posts and its arches according to these measurements.",
+          "korean": "그가 저를 남쪽으로 이끌었어요. 보니까 남쪽을 향한 문이 있었어요. 그 기둥과 아치를 재니 같은 크기였어요."
+        },
+        {
+          "verse": 25,
+          "original": "There were windows in it and in its arches all around, like those windows: the length was fifty cubits, and the width twenty-five cubits.",
+          "korean": "문과 아치 주위에 다른 것들처럼 창문이 있었어요. 길이는 오십 규빗, 너비는 스물다섯 규빗이었어요."
+        },
+        {
+          "verse": 26,
+          "original": "There were seven steps to go up to it, and its arches were before them. It had palm trees, one on this side, and another on that side, on its posts.",
+          "korean": "일곱 계단으로 올라갔고, 아치가 앞에 있었어요. 기둥에 이쪽에 하나, 저쪽에 하나씩 종려나무 그림이 있었어요."
+        },
+        {
+          "verse": 27,
+          "original": "There was a gate to the inner court toward the south. He measured one hundred cubits from gate to gate toward the south.",
+          "korean": "남쪽으로 안뜰 문이 있었어요. 남쪽으로 문에서 문까지 재니 백 규빗이었어요."
+        },
+        {
+          "verse": 28,
+          "original": "Then he brought me to the inner court by the south gate. He measured the south gate according to these measurements;",
+          "korean": "그가 저를 남쪽 문으로 안뜰에 데려갔어요. 남쪽 문을 재니 같은 크기였어요."
+        },
+        {
+          "verse": 29,
+          "original": "with its lodges, its posts, and its arches, according to these measurements. There were windows in it and in its arches all around. It was fifty cubits long, and twenty-five cubits wide.",
+          "korean": "방과 기둥과 아치도 같은 크기였어요. 문과 아치 주위에 창문이 있었어요. 길이는 오십 규빗, 너비는 스물다섯 규빗이었어요."
+        },
+        {
+          "verse": 30,
+          "original": "There were arches all around, twenty-five cubits long, and five cubits wide.",
+          "korean": "주위에 아치가 있었는데, 길이 스물다섯 규빗, 너비 다섯 규빗이었어요."
+        },
+        {
+          "verse": 31,
+          "original": "Its arches were toward the outer court. Palm trees were on its posts. The ascent to it had eight steps.",
+          "korean": "아치는 바깥뜰을 향했어요. 기둥에 종려나무 그림이 있었고, 여덟 계단으로 올라갔어요."
+        },
+        {
+          "verse": 32,
+          "original": "He brought me into the inner court toward the east. He measured the gate according to these measurements;",
+          "korean": "그가 저를 동쪽으로 안뜰에 데려갔어요. 문을 재니 같은 크기였어요."
+        },
+        {
+          "verse": 33,
+          "original": "with its lodges, its posts, and its arches, according to these measurements. There were windows in it and in its arches all around. It was fifty cubits long, and twenty-five cubits wide.",
+          "korean": "방과 기둥과 아치도 같은 크기였어요. 문과 아치 주위에 창문이 있었어요. 길이는 오십 규빗, 너비는 스물다섯 규빗이었어요."
+        },
+        {
+          "verse": 34,
+          "original": "Its arches were toward the outer court. Palm trees were on its posts on this side and on that side. The ascent to it had eight steps.",
+          "korean": "아치는 바깥뜰을 향했어요. 기둥 양쪽에 종려나무 그림이 있었고, 여덟 계단으로 올라갔어요."
+        },
+        {
+          "verse": 35,
+          "original": "He brought me to the north gate, and he measured it according to these measurements;",
+          "korean": "그가 저를 북쪽 문으로 데려갔어요. 재니 같은 크기였어요."
+        },
+        {
+          "verse": 36,
+          "original": "its lodges, its posts, and its arches. There were windows in it all around. The length was fifty cubits and the width twenty-five cubits.",
+          "korean": "방과 기둥과 아치도요. 주위에 창문이 있었어요. 길이는 오십 규빗, 너비는 스물다섯 규빗이었어요."
+        },
+        {
+          "verse": 37,
+          "original": "Its posts were toward the outer court. Palm trees were on its posts on this side and on that side. The ascent to it had eight steps.",
+          "korean": "기둥은 바깥뜰을 향했어요. 기둥 양쪽에 종려나무 그림이 있었고, 여덟 계단으로 올라갔어요."
+        },
+        {
+          "verse": 38,
+          "original": "A room with its door was by the posts at the gates. They washed the burnt offering there.",
+          "korean": "문 기둥 옆에 문이 달린 방이 있었어요. 거기서 번제물을 씻었어요."
+        },
+        {
+          "verse": 39,
+          "original": "In the porch of the gate were two tables on this side, and two tables on that side, on which to kill the burnt offering, the sin offering, and the trespass offering.",
+          "korean": "문 현관에 이쪽에 두 상, 저쪽에 두 상이 있었어요. 그 위에서 번제와 속죄제와 속건제 제물을 잡았어요."
+        },
+        {
+          "verse": 40,
+          "original": "On the one side outside, as one goes up to the entry of the gate toward the north, were two tables; and on the other side, which belonged to the porch of the gate, were two tables.",
+          "korean": "북쪽 문 입구로 올라가는 바깥쪽에 두 상이 있었고, 문 현관 쪽에도 두 상이 있었어요."
+        },
+        {
+          "verse": 41,
+          "original": "Four tables were on this side, and four tables on that side, by the side of the gate: eight tables, on which they killed the sacrifices.",
+          "korean": "문 옆에 이쪽에 네 상, 저쪽에 네 상, 모두 여덟 상이 있었어요. 그 위에서 제물을 잡았어요."
+        },
+        {
+          "verse": 42,
+          "original": "There were four tables for the burnt offering, of cut stone, a cubit and a half long, and a cubit and a half wide, and one cubit high. They laid the instruments with which they killed the burnt offering and the sacrifice on them.",
+          "korean": "번제를 위해 다듬은 돌로 만든 네 상이 있었어요. 길이 한 규빗 반, 너비 한 규빗 반, 높이 한 규빗이었어요. 그 위에 제물을 잡는 도구를 놓았어요."
+        },
+        {
+          "verse": 43,
+          "original": "The hooks, a hand width long, were fastened within all around. The meat of the offering was on the tables.",
+          "korean": "한 손바닥 길이의 갈고리가 안에 둘러 달려 있었어요. 상 위에 제물 고기를 놓았어요."
+        },
+        {
+          "verse": 44,
+          "original": "Outside of the inner gate were rooms for the singers in the inner court, which was at the side of the north gate. They faced toward the south. One at the side of the east gate faced toward the north.",
+          "korean": "안뜰 문 바깥에 노래하는 사람들을 위한 방이 있었어요. 북쪽 문 옆에 있었고 남쪽을 향했어요. 동쪽 문 옆에 있는 것은 북쪽을 향했어요."
+        },
+        {
+          "verse": 45,
+          "original": "He said to me, \"This room, which faces toward the south, is for the priests, the keepers of the duty of the house.",
+          "korean": "그가 저에게 말했어요. \"남쪽을 향한 이 방은 성전을 돌보는 제사장들을 위한 거야."
+        },
+        {
+          "verse": 46,
+          "original": "The room which faces toward the north is for the priests, the keepers of the duty of the altar. These are the sons of Zadok, who from among the sons of Levi come near to Yahweh to minister to him.\"",
+          "korean": "북쪽을 향한 방은 제단을 돌보는 제사장들을 위한 거야. 그들은 레위 자손 중에서 하나님을 섬기러 가까이 오는 사독의 자손이야.\""
+        },
+        {
+          "verse": 47,
+          "original": "He measured the court, one hundred cubits long, and a hundred cubits wide, square. The altar was before the house.",
+          "korean": "뜰을 재니 길이 백 규빗, 너비 백 규빗으로 정사각형이었어요. 제단은 성전 앞에 있었어요."
+        },
+        {
+          "verse": 48,
+          "original": "Then he brought me to the porch of the house, and measured each post of the porch, five cubits on this side, and five cubits on that side. The width of the gate was three cubits on this side and three cubits on that side.",
+          "korean": "그가 저를 성전 현관으로 데려가서 현관 기둥을 쟀어요. 이쪽에 다섯 규빗, 저쪽에 다섯 규빗이었어요. 문의 너비는 이쪽이 세 규빗, 저쪽이 세 규빗이었어요."
+        },
+        {
+          "verse": 49,
+          "original": "The length of the porch was twenty cubits, and the width eleven cubits; even by the steps by which they went up to it. There were pillars by the posts, one on this side, and another on that side.",
+          "korean": "현관의 길이는 스무 규빗, 너비는 열한 규빗이었어요. 계단으로 올라갔어요. 기둥 옆에 이쪽에 하나, 저쪽에 하나씩 두 기둥이 있었어요."
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "He brought me to the temple, and measured the posts, six cubits wide on the one side, and six cubits wide on the other side, which was the width of the tent.",
+          "korean": "그가 저를 성전으로 데려가서 기둥을 쟀어요. 이쪽이 여섯 규빗, 저쪽이 여섯 규빗이었어요."
+        },
+        {
+          "verse": 2,
+          "original": "The width of the entrance was ten cubits; and the sides of the entrance were five cubits on the one side, and five cubits on the other side. He measured its length, forty cubits, and the width, twenty cubits.",
+          "korean": "입구의 너비는 열 규빗이었어요. 입구 양쪽은 이쪽이 다섯 규빗, 저쪽이 다섯 규빗이었어요. 길이는 마흔 규빗, 너비는 스무 규빗이었어요."
+        },
+        {
+          "verse": 3,
+          "original": "Then he went inward and measured each post of the entrance, two cubits; and the entrance, six cubits; and the width of the entrance, seven cubits.",
+          "korean": "그가 안으로 들어가서 입구 기둥을 재니 두 규빗이었어요. 입구는 여섯 규빗, 입구 너비는 일곱 규빗이었어요."
+        },
+        {
+          "verse": 4,
+          "original": "He measured its length, twenty cubits, and the width, twenty cubits, before the temple. He said to me, \"This is the most holy place.\"",
+          "korean": "성전 앞의 길이를 재니 스무 규빗, 너비도 스무 규빗이었어요. 그가 저에게 말했어요. \"이것이 지극히 거룩한 곳이야.\""
+        },
+        {
+          "verse": 5,
+          "original": "Then he measured the wall of the house, six cubits; and the width of every side room, four cubits, all around the house on every side.",
+          "korean": "성전 벽을 재니 여섯 규빗이었고, 옆방의 너비는 네 규빗으로 성전 사방에 둘러 있었어요."
+        },
+        {
+          "verse": 6,
+          "original": "The side rooms were in three stories, one over another, and thirty in order. They entered into the wall which belonged to the house for the side rooms all around, that they might be supported, and not penetrate the wall of the house.",
+          "korean": "옆방은 삼층이었고, 서른 개씩 있었어요. 옆방들이 지탱되도록 성전 벽에 연결되어 있었지만 벽을 뚫지는 않았어요."
+        },
+        {
+          "verse": 7,
+          "original": "The side rooms were wider on the higher levels, because the walls were narrower at the higher levels. Therefore the width of the house increased upward; and so one went up from the lowest level to the highest through the middle level.",
+          "korean": "위층으로 갈수록 옆방이 넓어졌어요. 벽이 위로 갈수록 좁아졌거든요. 그래서 아래층에서 중간층을 지나 위층으로 올라갔어요."
+        },
+        {
+          "verse": 8,
+          "original": "I saw also that the house had a raised base all around. The foundations of the side rooms were a full reed of six great cubits.",
+          "korean": "성전 주위에 높은 기초가 있는 것을 보았어요. 옆방의 기초는 한 장대, 곧 여섯 큰 규빗이었어요."
+        },
+        {
+          "verse": 9,
+          "original": "The thickness of the wall, which was for the side rooms, on the outside, was five cubits. That which was left was the place of the side rooms that belonged to the house.",
+          "korean": "옆방 바깥 벽의 두께는 다섯 규빗이었어요. 남은 공간은 성전에 속한 옆방 자리였어요."
+        },
+        {
+          "verse": 10,
+          "original": "Between the rooms was a width of twenty cubits around the house on every side.",
+          "korean": "방들 사이에는 성전 사방에 스무 규빗의 공간이 있었어요."
+        },
+        {
+          "verse": 11,
+          "original": "The doors of the side rooms were toward an open area that was left, one door toward the north, and another door toward the south. The width of the open area was five cubits all around.",
+          "korean": "옆방의 문은 열린 공간을 향해 있었어요. 하나는 북쪽을 향하고, 하나는 남쪽을 향했어요. 열린 공간의 너비는 사방으로 다섯 규빗이었어요."
+        },
+        {
+          "verse": 12,
+          "original": "The building that was before the separate place at the side toward the west was seventy cubits wide; and the wall of the building was five cubits thick all around, and its length ninety cubits.",
+          "korean": "서쪽 뜰 앞에 있는 건물은 너비가 칠십 규빗이었고, 건물 벽의 두께는 사방 다섯 규빗, 길이는 구십 규빗이었어요."
+        },
+        {
+          "verse": 13,
+          "original": "So he measured the house, one hundred cubits long; and the separate place, and the building, with its walls, one hundred cubits long;",
+          "korean": "그가 성전을 재니 길이가 백 규빗이었어요. 뜰과 건물과 그 벽도 길이가 백 규빗이었어요."
+        },
+        {
+          "verse": 14,
+          "original": "also the width of the face of the house, and of the separate place toward the east, one hundred cubits.",
+          "korean": "성전 앞면과 동쪽 뜰의 너비도 백 규빗이었어요."
+        },
+        {
+          "verse": 15,
+          "original": "He measured the length of the building before the separate place which was at its back, and its galleries on the one side and on the other side, one hundred cubits from the inner temple, and the porches of the court",
+          "korean": "뒤쪽 뜰 앞의 건물 길이와 양쪽 복도를 재니 백 규빗이었어요."
+        },
+        {
+          "verse": 16,
+          "original": "the thresholds, and the closed windows, and the galleries around on their three stories, opposite the threshold, with wood ceilings all around, and from the ground up to the windows, (now the windows were covered),",
+          "korean": "문지방과 닫힌 창문과 삼층의 복도가 문지방 맞은편에 있었어요. 사방에 나무 천장이 있었고, 바닥에서 창문까지 덮여 있었어요."
+        },
+        {
+          "verse": 17,
+          "original": "to the space above the door, even to the inner house, and outside, and by all the wall all around inside and outside, by measure.",
+          "korean": "문 위 공간에서 안쪽과 바깥쪽까지, 사방 벽 전체를 쟀어요."
+        },
+        {
+          "verse": 18,
+          "original": "It was made with cherubim and palm trees. A palm tree was between cherub and cherub, and every cherub had two faces;",
+          "korean": "그룹과 종려나무 그림이 있었어요. 그룹과 그룹 사이에 종려나무가 있었고, 각 그룹은 두 얼굴이 있었어요."
+        },
+        {
+          "verse": 19,
+          "original": "so that there was the face of a man toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side. It was made like this through all the house all around.",
+          "korean": "한쪽에는 사람의 얼굴이 종려나무를 향하고, 다른 쪽에는 어린 사자의 얼굴이 종려나무를 향했어요. 성전 전체에 이렇게 만들어져 있었어요."
+        },
+        {
+          "verse": 20,
+          "original": "Cherubim and palm trees were made from the ground to above the door. The wall of the temple was like this.",
+          "korean": "바닥에서 문 위까지 그룹과 종려나무가 있었어요. 성전 벽이 이렇게 되어 있었어요."
+        },
+        {
+          "verse": 21,
+          "original": "As for the temple, the door posts were squared. As for the face of the sanctuary, its appearance was as the appearance of the temple.",
+          "korean": "성전의 문설주는 네모났어요. 성소 앞의 모습은 성전의 모습과 같았어요."
+        },
+        {
+          "verse": 22,
+          "original": "The altar was of wood, three cubits high, and its length two cubits. Its corners, its length, and its walls were of wood. He said to me, \"This is the table that is before Yahweh.\"",
+          "korean": "제단은 나무로 만들어졌고, 높이가 세 규빗, 길이가 두 규빗이었어요. 모서리와 길이와 벽이 나무였어요. 그가 저에게 말했어요. \"이것이 하나님 앞에 있는 상이야.\""
+        },
+        {
+          "verse": 23,
+          "original": "The temple and the sanctuary had two doors.",
+          "korean": "성전과 성소에 두 문이 있었어요."
+        },
+        {
+          "verse": 24,
+          "original": "The doors had two leaves each, two turning leaves: two for the one door, and two leaves for the other.",
+          "korean": "문마다 두 짝이 있었어요. 한 문에 두 짝, 다른 문에도 두 짝이었어요."
+        },
+        {
+          "verse": 25,
+          "original": "There were made on them, on the doors of the temple, cherubim and palm trees, like those made on the walls. There was a threshold of wood on the face of the porch outside.",
+          "korean": "성전 문에도 벽에 있는 것처럼 그룹과 종려나무가 만들어져 있었어요. 바깥 현관 앞에 나무 문턱이 있었어요."
+        },
+        {
+          "verse": 26,
+          "original": "There were closed windows and palm trees on the one side and on the other side, on the sides of the porch. This is how the side rooms of the house and the thresholds were arranged.",
+          "korean": "현관 양쪽에 닫힌 창문과 종려나무가 있었어요. 성전의 옆방과 문턱이 이렇게 배치되어 있었어요."
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Then he brought me out into the outer court, the way toward the north. Then he brought me into the room that was opposite the separate place, and which was opposite the building toward the north.",
+          "korean": "그가 저를 바깥뜰로 데려가서 북쪽으로 갔어요. 그리고 저를 뜰 맞은편 북쪽 건물 맞은편에 있는 방으로 데려갔어요."
+        },
+        {
+          "verse": 2,
+          "original": "Before the length of one hundred cubits was the north door, and the width was fifty cubits.",
+          "korean": "북쪽 문 앞의 길이는 백 규빗이었고, 너비는 오십 규빗이었어요."
+        },
+        {
+          "verse": 3,
+          "original": "Opposite the twenty cubits which belonged to the inner court, and opposite the pavement which belonged to the outer court, was gallery against gallery in the third floor.",
+          "korean": "안뜰의 스무 규빗 맞은편과 바깥뜰 포장 맞은편에 삼층으로 복도가 마주보고 있었어요."
+        },
+        {
+          "verse": 4,
+          "original": "Before the rooms was a walk of ten cubits' width inward, a way of one cubit; and their doors were toward the north.",
+          "korean": "방 앞에 열 규빗 너비의 통로가 안쪽으로 있었고, 문은 북쪽을 향했어요."
+        },
+        {
+          "verse": 5,
+          "original": "Now the upper rooms were shorter; for the galleries took away from these, more than from the lower and the middle, in the building.",
+          "korean": "위층 방은 더 작았어요. 복도가 아래층과 중간층보다 더 많은 공간을 차지했거든요."
+        },
+        {
+          "verse": 6,
+          "original": "For they were in three stories, and they didn't have pillars as the pillars of the courts. Therefore the uppermost was set back more than the lowest and the middle from the ground.",
+          "korean": "삼층이었는데 뜰의 기둥 같은 기둥이 없었어요. 그래서 맨 위층은 아래층과 중간층보다 더 뒤로 물러나 있었어요."
+        },
+        {
+          "verse": 7,
+          "original": "The wall that was outside by the side of the rooms, toward the outer court before the rooms, its length was fifty cubits.",
+          "korean": "방 옆 바깥 벽은 바깥뜰 쪽으로 오십 규빗 길이였어요."
+        },
+        {
+          "verse": 8,
+          "original": "For the length of the rooms that were in the outer court was fifty cubits. Behold, before the temple were one hundred cubits.",
+          "korean": "바깥뜰에 있는 방들의 길이는 오십 규빗이었어요. 성전 앞은 백 규빗이었어요."
+        },
+        {
+          "verse": 9,
+          "original": "From under these rooms was the entry on the east side, as one goes into them from the outer court.",
+          "korean": "이 방들 아래에 바깥뜰에서 들어가는 동쪽 입구가 있었어요."
+        },
+        {
+          "verse": 10,
+          "original": "In the thickness of the wall of the court toward the east, before the separate place, and before the building, there were rooms.",
+          "korean": "뜰 동쪽 벽 두께 안에 뜰 앞과 건물 앞에 방들이 있었어요."
+        },
+        {
+          "verse": 11,
+          "original": "The way before them was like the appearance of the rooms which were toward the north; according to their length so was their width: and all their exits were both according to their fashions, and according to their doors.",
+          "korean": "그 앞 통로는 북쪽 방들과 모습이 같았어요. 길이와 너비가 같았고, 출구와 문 모양도 같았어요."
+        },
+        {
+          "verse": 12,
+          "original": "According to the doors of the rooms that were toward the south was a door at the head of the way, even the way directly before the wall toward the east, as one enters into them.",
+          "korean": "남쪽 방들의 문처럼 통로 머리에 문이 있었어요. 동쪽 벽 바로 앞의 통로로 들어가는 문이었어요."
+        },
+        {
+          "verse": 13,
+          "original": "Then he said to me, \"The north rooms and the south rooms, which are before the separate place, are the holy rooms, where the priests who are near to Yahweh shall eat the most holy things. There they shall lay the most holy things, with the meal offering, the sin offering, and the trespass offering; for the place is holy.",
+          "korean": "그가 저에게 말했어요. \"뜰 앞에 있는 북쪽 방과 남쪽 방은 거룩한 방이야. 하나님께 가까이 가는 제사장들이 거기서 지극히 거룩한 것을 먹어. 거기에 소제와 속죄제와 속건제를 포함한 지극히 거룩한 것을 놓아. 그곳이 거룩하거든."
+        },
+        {
+          "verse": 14,
+          "original": "When the priests enter in, then they shall not go out of the holy place into the outer court, but they shall lay their garments in which they minister there; for they are holy. Then they shall put on other garments, and shall approach that which is for the people.\"",
+          "korean": "제사장들이 들어가면 거룩한 곳에서 바깥뜰로 나가지 말아야 해. 섬기는 옷을 거기 두어야 해. 그 옷은 거룩하거든. 다른 옷을 입고 백성에게 가야 해.\""
+        },
+        {
+          "verse": 15,
+          "original": "Now when he had finished measuring the inner house, he brought me out by the way of the gate which faces toward the east, and measured it all around.",
+          "korean": "그가 안쪽 성전을 다 재고 나서 동쪽을 향한 문으로 저를 데리고 나가서 사방을 쟀어요."
+        },
+        {
+          "verse": 16,
+          "original": "He measured on the east side with the measuring reed five hundred reeds, with the measuring reed all around.",
+          "korean": "동쪽을 측량 장대로 재니 오백 장대였어요."
+        },
+        {
+          "verse": 17,
+          "original": "He measured on the north side five hundred reeds with the measuring reed all around.",
+          "korean": "북쪽을 측량 장대로 재니 오백 장대였어요."
+        },
+        {
+          "verse": 18,
+          "original": "He measured on the south side five hundred reeds with the measuring reed.",
+          "korean": "남쪽을 측량 장대로 재니 오백 장대였어요."
+        },
+        {
+          "verse": 19,
+          "original": "He turned about to the west side, and measured five hundred reeds with the measuring reed.",
+          "korean": "서쪽으로 돌아서 측량 장대로 재니 오백 장대였어요."
+        },
+        {
+          "verse": 20,
+          "original": "He measured it on the four sides. It had a wall around it, the length five hundred, and the width five hundred, to make a separation between that which was holy and that which was common.",
+          "korean": "사방을 쟀어요. 주위에 벽이 있었는데 길이가 오백, 너비가 오백으로 거룩한 곳과 일반 곳을 구분했어요."
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Afterward he brought me to the gate, even the gate that looks toward the east.",
+          "korean": "그 후에 그가 저를 동쪽을 향한 문으로 데려갔어요."
+        },
+        {
+          "verse": 2,
+          "original": "Behold, the glory of the God of Israel came from the way of the east. His voice was like the sound of many waters; and the earth was illuminated with his glory.",
+          "korean": "보세요, 이스라엘의 하나님의 영광이 동쪽에서 왔어요. 그분의 음성은 많은 물소리 같았고, 땅은 그분의 영광으로 빛났어요."
+        },
+        {
+          "verse": 3,
+          "original": "It was according to the appearance of the vision which I saw, even according to the vision that I saw when I came to destroy the city; and the visions were like the vision that I saw by the river Chebar; and I fell on my face.",
+          "korean": "이 환상은 제가 전에 본 환상과 같았어요. 그바르 강가에서 본 환상과 같았어요. 저는 얼굴을 땅에 대고 엎드렸어요."
+        },
+        {
+          "verse": 4,
+          "original": "Yahweh's glory came into the house by the way of the gate which faces toward the east.",
+          "korean": "하나님의 영광이 동쪽을 향한 문으로 성전에 들어왔어요."
+        },
+        {
+          "verse": 5,
+          "original": "The Spirit took me up, and brought me into the inner court; and behold, Yahweh's glory filled the house.",
+          "korean": "성령이 저를 들어 올려 안뜰로 데려갔어요. 보세요, 하나님의 영광이 성전을 가득 채웠어요."
+        },
+        {
+          "verse": 6,
+          "original": "I heard one speaking to me out of the house; and a man stood by me.",
+          "korean": "성전에서 누군가 저에게 말씀하시는 것을 들었어요. 한 사람이 제 옆에 서 있었어요."
+        },
+        {
+          "verse": 7,
+          "original": "He said to me, \"Son of man, this is the place of my throne, and the place of the soles of my feet, where I will dwell among the children of Israel forever. The house of Israel will no more defile my holy name, neither they, nor their kings, by their prostitution, and by the dead bodies of their kings in their high places;",
+          "korean": "그분이 저에게 말씀하셨어요. \"사람의 아들아, 여기가 내 보좌의 자리야. 내 발이 쉬는 곳이야. 여기서 이스라엘 자손 가운데 영원히 살 거야. 이스라엘 집은 더 이상 내 거룩한 이름을 더럽히지 않을 거야. 그들도, 그들의 왕도."
+        },
+        {
+          "verse": 8,
+          "original": "in their setting of their threshold by my threshold, and their door post beside my door post. There was a wall between me and them; and they have defiled my holy name by their abominations which they have committed. Therefore I have consumed them in my anger.",
+          "korean": "그들이 자기 문지방을 내 문지방 옆에, 자기 문설주를 내 문설주 옆에 두었어. 우리 사이에 벽 하나만 있었어. 그들이 나쁜 일로 내 거룩한 이름을 더럽혔어. 그래서 내가 분노로 그들을 멸했어."
+        },
+        {
+          "verse": 9,
+          "original": "Now let them put away their prostitution, and the dead bodies of their kings, far from me. Then I will dwell among them forever.",
+          "korean": "이제 그들이 나쁜 것을 나에게서 멀리하면, 내가 그들 가운데 영원히 살 거야."
+        },
+        {
+          "verse": 10,
+          "original": "\"You, son of man, show the house to the house of Israel, that they may be ashamed of their iniquities; and let them measure the pattern.",
+          "korean": "사람의 아들아, 이스라엘 집에게 이 성전을 보여 줘서 그들이 자기 죄를 부끄러워하게 해라. 그들이 그 설계를 살펴보게 해라."
+        },
+        {
+          "verse": 11,
+          "original": "If they are ashamed of all that they have done, make known to them the form of the house, and its fashion, and its exits, and its entrances, and all its forms, and all its ordinances, and all its forms, and all its laws; and write it in their sight; that they may keep the whole form of it, and all its ordinances, and do them.",
+          "korean": "그들이 자기가 한 모든 일을 부끄러워하면, 성전의 모양과 구조와 출구와 입구와 모든 규례와 법을 알려 줘라. 그들이 보는 앞에서 적어서 그 모양과 규례를 지키고 행하게 해라."
+        },
+        {
+          "verse": 12,
+          "original": "\"This is the law of the house. On the top of the mountain the whole limit around it shall be most holy. Behold, this is the law of the house.",
+          "korean": "이것이 성전의 법이야. 산꼭대기의 전체 경계는 지극히 거룩해야 해. 보라, 이것이 성전의 법이야."
+        },
+        {
+          "verse": 13,
+          "original": "\"These are the measurements of the altar by cubits (the cubit is a cubit and a hand width): the bottom shall be a cubit, and the width a cubit, and its border around its edge a span; and this shall be the base of the altar.",
+          "korean": "규빗으로 잰 제단의 치수야. 바닥은 한 규빗이고, 너비는 한 규빗이고, 가장자리 테두리는 한 뼘이야. 이것이 제단의 기초야."
+        },
+        {
+          "verse": 14,
+          "original": "From the bottom on the ground to the lower ledge shall be two cubits, and the width one cubit; and from the lesser ledge to the greater ledge shall be four cubits, and the width a cubit.",
+          "korean": "바닥에서 아래 단까지 두 규빗이고, 너비는 한 규빗이야. 작은 단에서 큰 단까지 네 규빗이고, 너비는 한 규빗이야."
+        },
+        {
+          "verse": 15,
+          "original": "The upper altar shall be four cubits; and from the altar hearth and upward there shall be four horns.",
+          "korean": "윗 제단은 네 규빗이야. 제단 화덕 위로 네 뿔이 있어."
+        },
+        {
+          "verse": 16,
+          "original": "The altar hearth shall be twelve cubits long by twelve wide, square in its four sides.",
+          "korean": "제단 화덕은 길이 열두 규빗, 너비 열두 규빗으로 정사각형이야."
+        },
+        {
+          "verse": 17,
+          "original": "The ledge shall be fourteen cubits long by fourteen wide in its four sides; and the border about it shall be half a cubit; and its bottom shall be a cubit around; and its steps shall look toward the east.\"",
+          "korean": "단은 길이 열네 규빗, 너비 열네 규빗으로 정사각형이야. 테두리는 반 규빗이고, 바닥 주위는 한 규빗이야. 계단은 동쪽을 향해야 해.\""
+        },
+        {
+          "verse": 18,
+          "original": "He said to me, \"Son of man, the Lord Yahweh says: 'These are the ordinances of the altar in the day when they make it, to offer burnt offerings on it, and to sprinkle blood on it.",
+          "korean": "그분이 저에게 말씀하셨어요. \"사람의 아들아, 하나님께서 말씀하셨어요. '이것이 제단을 만들 때의 규례야. 그 위에 번제를 드리고 피를 뿌리기 위한 거야."
+        },
+        {
+          "verse": 19,
+          "original": "You shall give to the Levitical priests who are of the offspring of Zadok, who are near to me, to minister to me,' says the Lord Yahweh, 'a young bull for a sin offering.",
+          "korean": "나를 섬기러 가까이 오는 사독의 자손인 레위 제사장들에게 속죄제로 어린 수소를 줘라.' 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 20,
+          "original": "You shall take of its blood, and put it on its four horns, and on the four corners of the ledge, and on the border all around. You shall cleanse it and make atonement for it that way.",
+          "korean": "'그 피를 가져다가 네 뿔과 단의 네 모서리와 테두리 주위에 발라라. 그렇게 해서 제단을 깨끗하게 하고 속죄해라."
+        },
+        {
+          "verse": 21,
+          "original": "You shall also take the bull of the sin offering, and it shall be burned in the appointed place of the house, outside of the sanctuary.",
+          "korean": "속죄제의 수소를 가져다가 성소 바깥 정해진 곳에서 태워라."
+        },
+        {
+          "verse": 22,
+          "original": "\"On the second day you shall offer a male goat without defect for a sin offering; and they shall cleanse the altar, as they cleansed it with the bull.",
+          "korean": "둘째 날에는 흠 없는 숫염소를 속죄제로 드려라. 수소로 깨끗하게 한 것처럼 제단을 깨끗하게 해라."
+        },
+        {
+          "verse": 23,
+          "original": "When you have finished cleansing it, you shall offer a young bull without defect, and a ram out of the flock without defect.",
+          "korean": "깨끗하게 하는 것을 마치면, 흠 없는 어린 수소와 흠 없는 숫양을 드려라."
+        },
+        {
+          "verse": 24,
+          "original": "You shall bring them near to Yahweh, and the priests shall cast salt on them, and they shall offer them up for a burnt offering to Yahweh.",
+          "korean": "그것들을 하나님 앞에 가져와라. 제사장들이 그 위에 소금을 뿌리고 하나님께 번제로 드릴 거야."
+        },
+        {
+          "verse": 25,
+          "original": "\"Seven days you shall prepare every day a goat for a sin offering. They shall also prepare a young bull, and a ram out of the flock, without defect.",
+          "korean": "칠 일 동안 매일 속죄제로 염소를 준비해라. 또 흠 없는 어린 수소와 숫양을 준비해라."
+        },
+        {
+          "verse": 26,
+          "original": "Seven days shall they make atonement for the altar and purify it. So shall they consecrate it.",
+          "korean": "칠 일 동안 제단을 속죄하고 깨끗하게 해라. 그렇게 제단을 거룩하게 해라."
+        },
+        {
+          "verse": 27,
+          "original": "When they have accomplished the days, it shall be that on the eighth day, and forward, the priests shall make your burnt offerings on the altar, and your peace offerings. Then I will accept you,' says the Lord Yahweh.\"",
+          "korean": "이 날들을 마치면, 여덟째 날부터 제사장들이 제단에서 너희의 번제와 화목제를 드릴 거야. 그러면 내가 너희를 받아들이겠어.' 하나님께서 말씀하셨어요.\""
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "Then he brought me back by the way of the outer gate of the sanctuary, which looks toward the east; and it was shut.",
+          "korean": "그가 저를 성소의 바깥 문으로 다시 데려갔어요. 동쪽을 향한 문이었는데 닫혀 있었어요."
+        },
+        {
+          "verse": 2,
+          "original": "Yahweh said to me, \"This gate shall be shut. It shall not be opened, no man shall enter in by it; for Yahweh, the God of Israel, has entered in by it. Therefore it shall be shut.",
+          "korean": "하나님께서 저에게 말씀하셨어요. \"이 문은 닫혀 있어야 해. 열리면 안 되고, 아무도 들어가면 안 돼. 이스라엘의 하나님인 내가 이 문으로 들어왔기 때문이야. 그러니 닫혀 있어야 해."
+        },
+        {
+          "verse": 3,
+          "original": "As for the prince, he shall sit in it as prince to eat bread before Yahweh. He shall enter by the way of the porch of the gate, and shall go out the same way.\"",
+          "korean": "왕만 거기 앉아서 하나님 앞에서 빵을 먹을 수 있어. 그는 문 현관으로 들어가고 같은 길로 나갈 거야.\""
+        },
+        {
+          "verse": 4,
+          "original": "Then he brought me by the way of the north gate before the house; and I looked, and behold, Yahweh's glory filled Yahweh's house; so I fell on my face.",
+          "korean": "그가 북쪽 문으로 저를 성전 앞으로 데려갔어요. 제가 보니 하나님의 영광이 성전을 가득 채웠어요. 저는 얼굴을 땅에 대고 엎드렸어요."
+        },
+        {
+          "verse": 5,
+          "original": "Yahweh said to me, \"Son of man, mark well, and see with your eyes, and hear with your ears all that I tell you concerning all the ordinances of Yahweh's house, and all its laws; and mark well the entrance of the house, with every exit of the sanctuary.",
+          "korean": "하나님께서 저에게 말씀하셨어요. \"사람의 아들아, 잘 기억해라. 눈으로 보고, 귀로 듣고, 하나님의 성전의 모든 규례와 법에 대해 내가 말하는 모든 것을 기억해라. 성전의 입구와 성소의 모든 출구를 잘 기억해라."
+        },
+        {
+          "verse": 6,
+          "original": "You shall tell the rebellious, even the house of Israel, 'The Lord Yahweh says: \"You house of Israel, let that be enough of all your abominations,\"",
+          "korean": "반역하는 이스라엘 집에게 말해라. '하나님께서 말씀하셨어요. \"이스라엘 집아, 너희의 모든 나쁜 짓은 이제 그만해야 해.\""
+        },
+        {
+          "verse": 7,
+          "original": "in that you have brought in foreigners, uncircumcised in heart and uncircumcised in flesh, to be in my sanctuary, to profane it, even my house, when you offer my bread, the fat and the blood, and they have broken my covenant, to add to all your abominations.",
+          "korean": "너희가 마음과 몸에 할례받지 않은 외국인을 내 성소에 데려와서 더럽혔어. 너희가 내 음식인 기름과 피를 드릴 때 그들이 내 언약을 깨뜨렸어. 그래서 너희의 나쁜 짓에 더해졌어."
+        },
+        {
+          "verse": 8,
+          "original": "You have not performed the duty of my holy things; but you have set performers of my duty in my sanctuary for yourselves.\"",
+          "korean": "너희는 내 거룩한 것을 돌보는 의무를 다하지 않았어. 대신 다른 사람들을 세워서 내 성소에서 너희 대신 하게 했어.\""
+        },
+        {
+          "verse": 9,
+          "original": "The Lord Yahweh says, \"No foreigner, uncircumcised in heart and uncircumcised in flesh, shall enter into my sanctuary, of any foreigners who are among the children of Israel.",
+          "korean": "하나님께서 말씀하셨어요. \"마음과 몸에 할례받지 않은 외국인은 내 성소에 들어오면 안 돼. 이스라엘 자손 가운데 있는 어떤 외국인도."
+        },
+        {
+          "verse": 10,
+          "original": "\"'\"But the Levites who went far from me, when Israel went astray, who went astray from me after their idols, they will bear their iniquity.",
+          "korean": "하지만 이스라엘이 잘못된 길로 갈 때 나에게서 멀리 떠나서 우상을 따라간 레위인들은 자기 죄를 져야 해."
+        },
+        {
+          "verse": 11,
+          "original": "Yet they shall be ministers in my sanctuary, having oversight at the gates of the house, and ministering in the house. They shall kill the burnt offering and the sacrifice for the people, and they shall stand before them to minister to them.",
+          "korean": "하지만 그들은 내 성소에서 섬길 거야. 성전 문을 지키고, 성전에서 섬길 거야. 백성을 위해 번제와 제물을 잡고, 그들 앞에 서서 섬길 거야."
+        },
+        {
+          "verse": 12,
+          "original": "Because they ministered to them before their idols, and became a stumbling block of iniquity to the house of Israel. Therefore I have lifted up my hand against them,\" says the Lord Yahweh, \"and they will bear their iniquity.",
+          "korean": "그들이 우상 앞에서 백성을 섬겨서 이스라엘 집에게 죄의 걸림돌이 되었기 때문이야. 그러므로 내가 그들을 대적해서 손을 들었어.\" 하나님께서 말씀하셨어요. \"그들이 자기 죄를 질 거야."
+        },
+        {
+          "verse": 13,
+          "original": "They shall not come near to me, to execute the office of priest to me, nor to come near to any of my holy things, to the things that are most holy; but they will bear their shame, and their abominations which they have committed.",
+          "korean": "그들은 내게 가까이 와서 제사장 직분을 수행하거나, 지극히 거룩한 것에 가까이 오면 안 돼. 자기 수치와 저지른 나쁜 짓을 질 거야."
+        },
+        {
+          "verse": 14,
+          "original": "Yet I will make them performers of the duty of the house, for all its service, and for all that will be done therein.",
+          "korean": "하지만 내가 그들에게 성전을 돌보는 의무를 맡겨서 모든 섬김과 일을 하게 할 거야."
+        },
+        {
+          "verse": 15,
+          "original": "\"'\"But the Levitical priests, the sons of Zadok, who performed the duty of my sanctuary when the children of Israel went astray from me, shall come near to me to minister to me. They shall stand before me to offer to me the fat and the blood,\" says the Lord Yahweh.",
+          "korean": "하지만 이스라엘 자손이 나에게서 떠났을 때 내 성소를 돌본 사독의 자손인 레위 제사장들은 내게 가까이 와서 섬길 거야. 그들이 내 앞에 서서 기름과 피를 드릴 거야.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 16,
+          "original": "\"They shall enter into my sanctuary, and they shall come near to my table, to minister to me, and they shall keep my instruction.",
+          "korean": "\"그들이 내 성소에 들어와서 내 상에 가까이 와서 나를 섬기고, 내 명령을 지킬 거야."
+        },
+        {
+          "verse": 17,
+          "original": "\"'\"It will be that, when they enter in at the gates of the inner court, they shall be clothed with linen garments. No wool shall come on them while they minister in the gates of the inner court, and within.",
+          "korean": "안뜰 문으로 들어갈 때 모시옷을 입어야 해. 안뜰 문과 안에서 섬길 때 양털을 입으면 안 돼."
+        },
+        {
+          "verse": 18,
+          "original": "They shall have linen turbans on their heads, and shall have linen trousers on their waists. They shall not clothe themselves with anything that makes them sweat.",
+          "korean": "머리에 모시 수건을 쓰고, 허리에 모시 바지를 입어야 해. 땀나게 하는 것을 입으면 안 돼."
+        },
+        {
+          "verse": 19,
+          "original": "When they go out into the outer court, even into the outer court to the people, they shall put off their garments in which they minister, and lay them in the holy rooms. They shall put on other garments, that they not sanctify the people with their garments.",
+          "korean": "바깥뜰로, 백성에게 나갈 때는 섬기던 옷을 벗어서 거룩한 방에 두어야 해. 다른 옷을 입어서 옷으로 백성을 거룩하게 하는 일이 없게 해야 해."
+        },
+        {
+          "verse": 20,
+          "original": "\"'\"They shall not shave their heads, or allow their locks to grow long. They shall only cut off the hair of their heads.",
+          "korean": "그들은 머리를 밀거나 머리카락을 길게 기르면 안 돼. 머리카락을 적당히 깎아야 해."
+        },
+        {
+          "verse": 21,
+          "original": "None of the priests shall drink wine when they enter into the inner court.",
+          "korean": "제사장은 안뜰에 들어갈 때 포도주를 마시면 안 돼."
+        },
+        {
+          "verse": 22,
+          "original": "They shall not take for their wives a widow, or her who is put away; but they shall take virgins of the offspring of the house of Israel, or a widow who is the widow of a priest.",
+          "korean": "그들은 과부나 이혼한 여자와 결혼하면 안 돼. 이스라엘 집의 처녀나 제사장의 과부와 결혼해야 해."
+        },
+        {
+          "verse": 23,
+          "original": "They shall teach my people the difference between the holy and the common, and cause them to discern between the unclean and the clean.",
+          "korean": "그들은 내 백성에게 거룩한 것과 일반 것의 차이를, 부정한 것과 깨끗한 것의 차이를 가르쳐야 해."
+        },
+        {
+          "verse": 24,
+          "original": "\"'\"In a controversy they shall stand to judge. They shall judge it according to my ordinances. They shall keep my laws and my statutes in all my appointed feasts. They shall make my Sabbaths holy.",
+          "korean": "다툼이 있으면 그들이 서서 심판해야 해. 내 규례에 따라 심판해야 해. 모든 절기에 내 법과 규례를 지켜야 해. 내 안식일을 거룩하게 해야 해."
+        },
+        {
+          "verse": 25,
+          "original": "\"'\"They shall go in to no dead person to defile themselves; but for father, or for mother, or for son, or for daughter, for brother, or for sister who has had no husband, they may defile themselves.",
+          "korean": "그들은 죽은 사람에게 가서 자신을 더럽히면 안 돼. 하지만 아버지나 어머니나 아들이나 딸이나 형제나 결혼하지 않은 자매를 위해서는 자신을 더럽힐 수 있어."
+        },
+        {
+          "verse": 26,
+          "original": "After he is cleansed, they shall reckon to him seven days.",
+          "korean": "깨끗해진 후에 칠 일을 세어야 해."
+        },
+        {
+          "verse": 27,
+          "original": "In the day that he goes into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his sin offering,\" says the Lord Yahweh.",
+          "korean": "성소 안뜰로 들어가서 성소에서 섬기는 날에 속죄제를 드려야 해.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 28,
+          "original": "\"'They shall have an inheritance. I am their inheritance; and you shall give them no possession in Israel. I am their possession.",
+          "korean": "\"'그들에게 유산이 있어. 내가 그들의 유산이야. 이스라엘에서 그들에게 소유를 주지 마라. 내가 그들의 소유야."
+        },
+        {
+          "verse": 29,
+          "original": "They shall eat the meal offering, and the sin offering, and the trespass offering; and every devoted thing in Israel shall be theirs.",
+          "korean": "그들이 소제와 속죄제와 속건제를 먹을 거야. 이스라엘에서 바쳐진 모든 것이 그들 거야."
+        },
+        {
+          "verse": 30,
+          "original": "The first of all the first fruits of every thing, and every offering of everything, of all your offerings, shall be for the priest. You shall also give to the priests the first of your dough, to cause a blessing to rest on your house.",
+          "korean": "모든 것의 처음 익은 열매 중 첫것과 모든 예물이 제사장의 것이야. 반죽의 첫것도 제사장에게 주어서 네 집에 복이 내리게 해라."
+        },
+        {
+          "verse": 31,
+          "original": "The priests shall not eat of anything that dies of itself, or is torn, whether it is bird or animal.",
+          "korean": "제사장은 저절로 죽거나 찢긴 새나 짐승은 먹으면 안 돼."
+        }
+      ]
+    },
+    {
+      "chapter": 45,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "\"'\"Moreover, when you divide by lot the land for inheritance, you shall offer an offering to Yahweh, a holy portion of the land. The length shall be the length of twenty-five thousand reeds, and the width shall be ten thousand. It shall be holy in all its border all around.",
+          "korean": "\"'땅을 제비 뽑아 유산으로 나눌 때, 하나님께 드리는 거룩한 땅을 따로 떼어 놓아라. 길이는 이만오천 장대, 너비는 만 장대야. 그 경계 안은 전부 거룩해."
+        },
+        {
+          "verse": 2,
+          "original": "Of this there shall be a five hundred by five hundred square for the holy place; and fifty cubits for its pasture lands all around.",
+          "korean": "이 중에서 오백 곱하기 오백 정사각형이 거룩한 곳을 위한 거고, 주위에 오십 규빗은 목초지야."
+        },
+        {
+          "verse": 3,
+          "original": "Of this measure you shall measure a length of twenty-five thousand, and a width of ten thousand. In it shall be the sanctuary, which is most holy.",
+          "korean": "이 크기에서 길이 이만오천, 너비 만을 재라. 그 안에 지극히 거룩한 성소가 있을 거야."
+        },
+        {
+          "verse": 4,
+          "original": "It is a holy portion of the land; it shall be for the priests, the ministers of the sanctuary, who come near to minister to Yahweh. It shall be a place for their houses and a holy place for the sanctuary.",
+          "korean": "이것은 땅의 거룩한 부분이야. 하나님을 섬기러 가까이 오는 성소의 제사장들을 위한 거야. 그들의 집을 위한 곳이고 성소를 위한 거룩한 곳이야."
+        },
+        {
+          "verse": 5,
+          "original": "Twenty-five thousand in length, and ten thousand in width, shall be for the Levites, the ministers of the house, as a possession for themselves, for twenty rooms.",
+          "korean": "길이 이만오천, 너비 만은 성전을 섬기는 레위인들을 위한 거야. 그들의 소유로서 스무 개의 방을 위한 거야."
+        },
+        {
+          "verse": 6,
+          "original": "\"'\"You shall appoint the possession of the city five thousand wide, and twenty-five thousand long, side by side with the offering of the holy portion: it shall be for the whole house of Israel.",
+          "korean": "성의 소유로 너비 오천, 길이 이만오천을 정해라. 거룩한 땅 옆에 있을 거야. 이스라엘 집 전체를 위한 거야."
+        },
+        {
+          "verse": 7,
+          "original": "\"'\"What is for the prince shall be on the one side and on the other side of the holy offering and of the possession of the city, in front of the holy offering and in front of the possession of the city, on the west side westward, and on the east side eastward; and in length answerable to one of the portions, from the west border to the east border.",
+          "korean": "왕의 것은 거룩한 땅과 성의 소유 양쪽에 있을 거야. 서쪽으로 서쪽 경계까지, 동쪽으로 동쪽 경계까지야."
+        },
+        {
+          "verse": 8,
+          "original": "In the land it shall be to him for a possession in Israel. My princes shall no more oppress my people; but they shall give the land to the house of Israel according to their tribes.\"",
+          "korean": "이 땅이 이스라엘에서 그의 소유가 될 거야. 내 왕들은 더 이상 내 백성을 괴롭히지 않을 거야. 지파에 따라 이스라엘 집에게 땅을 줄 거야.\""
+        },
+        {
+          "verse": 9,
+          "original": "\"'The Lord Yahweh says: \"Let it suffice you, princes of Israel: remove violence and plunder, and execute justice and righteousness; dispossessing my people,\" says the Lord Yahweh.",
+          "korean": "하나님께서 말씀하셨어요. \"이스라엘의 왕들아, 이제 그만해. 폭력과 약탈을 없애고, 공정과 정의를 행해라. 내 백성에게서 빼앗는 것을 그만해라.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 10,
+          "original": "\"You shall have just balances, a just ephah, and a just bath.",
+          "korean": "\"정확한 저울과 정확한 에바와 정확한 밧을 사용해라."
+        },
+        {
+          "verse": 11,
+          "original": "The ephah and the bath shall be of one measure, that the bath may contain one tenth of a homer, and the ephah one tenth of a homer. Its measure shall be the same as the homer.",
+          "korean": "에바와 밧은 같은 양이어야 해. 밧은 호멜의 십분의 일이고, 에바도 호멜의 십분의 일이야."
+        },
+        {
+          "verse": 12,
+          "original": "The shekel shall be twenty gerahs. Twenty shekels plus twenty-five shekels plus fifteen shekels shall be your mina.",
+          "korean": "세겔은 스무 게라야. 스무 세겔 더하기 스물다섯 세겔 더하기 열다섯 세겔이 너희의 미나야."
+        },
+        {
+          "verse": 13,
+          "original": "\"'\"This is the offering that you shall offer: the sixth part of an ephah from a homer of wheat; and you shall give the sixth part of an ephah from a homer of barley;",
+          "korean": "이것이 너희가 드릴 예물이야. 밀 한 호멜에서 에바의 육분의 일, 보리 한 호멜에서 에바의 육분의 일을 드려라."
+        },
+        {
+          "verse": 14,
+          "original": "and the set portion of oil, of the bath of oil, one tenth of a bath out of the cor, which is ten baths, even a homer; (for ten baths are a homer;)",
+          "korean": "기름은 정해진 양으로 코르에서 밧의 십분의 일을 드려라. 코르는 열 밧이고, 한 호멜이야."
+        },
+        {
+          "verse": 15,
+          "original": "and one lamb of the flock, out of two hundred, from the well-watered pastures of Israel—for a meal offering, and for a burnt offering, and for peace offerings, to make atonement for them,\" says the Lord Yahweh.",
+          "korean": "이스라엘의 좋은 목초지에서 양 이백 마리 중 한 마리를 드려라. 소제와 번제와 화목제를 위해, 속죄하기 위해서야.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 16,
+          "original": "\"All the people of the land shall give to this offering for the prince in Israel.",
+          "korean": "\"그 땅의 모든 백성이 이 예물을 이스라엘의 왕에게 드릴 거야."
+        },
+        {
+          "verse": 17,
+          "original": "It shall be the prince's part to give the burnt offerings, the meal offerings, and the drink offerings, in the feasts, and on the new moons, and on the Sabbaths, in all the appointed feasts of the house of Israel. He shall prepare the sin offering, the meal offering, the burnt offering, and the peace offerings, to make atonement for the house of Israel.\"",
+          "korean": "왕은 절기와 초하루와 안식일, 이스라엘 집의 모든 정해진 절기에 번제와 소제와 전제를 드릴 거야. 그가 이스라엘 집을 위해 속죄하려고 속죄제와 소제와 번제와 화목제를 준비할 거야.\""
+        },
+        {
+          "verse": 18,
+          "original": "\"'The Lord Yahweh says: \"In the first month, in the first day of the month, you shall take a young bull without defect; and you shall cleanse the sanctuary.",
+          "korean": "하나님께서 말씀하셨어요. \"첫째 달 첫째 날에 흠 없는 어린 수소를 가져다가 성소를 깨끗하게 해라."
+        },
+        {
+          "verse": 19,
+          "original": "The priest shall take of the blood of the sin offering, and put it on the door posts of the house, and on the four corners of the ledge of the altar, and on the posts of the gate of the inner court.",
+          "korean": "제사장이 속죄제의 피를 가져다가 성전 문설주와 제단 단의 네 모서리와 안뜰 문 기둥에 발라야 해."
+        },
+        {
+          "verse": 20,
+          "original": "So you shall do on the seventh day of the month for everyone who errs, and for him who is simple. So you shall make atonement for the house.",
+          "korean": "그 달 일곱째 날에도 실수한 사람과 어리석은 사람을 위해 그렇게 해라. 그렇게 성전을 위해 속죄해라."
+        },
+        {
+          "verse": 21,
+          "original": "\"'\"In the first month, in the fourteenth day of the month, you shall have the Passover, a feast of seven days; unleavened bread shall be eaten.",
+          "korean": "첫째 달 열넷째 날에 유월절을 지켜라. 칠 일 동안의 절기야. 누룩 없는 빵을 먹어야 해."
+        },
+        {
+          "verse": 22,
+          "original": "On that day the prince shall prepare for himself and for all the people of the land a bull for a sin offering.",
+          "korean": "그날 왕이 자신과 그 땅의 모든 백성을 위해 속죄제로 수소를 준비해야 해."
+        },
+        {
+          "verse": 23,
+          "original": "The seven days of the feast he shall prepare a burnt offering to Yahweh, seven bulls and seven rams without defect daily the seven days; and a male goat daily for a sin offering.",
+          "korean": "절기 칠 일 동안 하나님께 번제를 준비해야 해. 매일 흠 없는 수소 일곱과 숫양 일곱, 그리고 매일 속죄제로 숫염소 한 마리야."
+        },
+        {
+          "verse": 24,
+          "original": "He shall prepare a meal offering, an ephah for a bull, and an ephah for a ram, and a hin of oil to an ephah.",
+          "korean": "소제로 수소마다 한 에바, 숫양마다 한 에바, 그리고 에바마다 한 힌의 기름을 준비해야 해."
+        },
+        {
+          "verse": 25,
+          "original": "\"'\"In the seventh month, in the fifteenth day of the month, in the feast, he shall do like that for seven days; according to the sin offering, according to the burnt offering, and according to the meal offering, and according to the oil.\"",
+          "korean": "일곱째 달 열다섯째 날 절기에도 칠 일 동안 그렇게 해야 해. 속죄제와 번제와 소제와 기름을 똑같이 해야 해.\""
+        }
+      ]
+    },
+    {
+      "chapter": 46,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "\"'The Lord Yahweh says: \"The gate of the inner court that looks toward the east shall be shut the six working days; but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened.",
+          "korean": "하나님께서 말씀하셨어요. \"동쪽을 향한 안뜰 문은 일하는 엿새 동안 닫혀 있어야 해. 하지만 안식일과 초하루에는 열어야 해."
+        },
+        {
+          "verse": 2,
+          "original": "The prince shall enter by the way of the porch of the gate outside, and shall stand by the post of the gate; and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate. Then he shall go out; but the gate shall not be shut until the evening.",
+          "korean": "왕은 바깥 문 현관으로 들어와서 문 기둥 옆에 서야 해. 제사장들이 그의 번제와 화목제를 준비할 거야. 그가 문지방에서 예배하고 나갈 거야. 하지만 문은 저녁까지 닫지 마라."
+        },
+        {
+          "verse": 3,
+          "original": "The people of the land shall worship at the door of that gate before Yahweh on the Sabbaths and on the new moons.",
+          "korean": "그 땅의 백성은 안식일과 초하루에 그 문 입구에서 하나님 앞에 예배해야 해."
+        },
+        {
+          "verse": 4,
+          "original": "The burnt offering that the prince shall offer to Yahweh shall be on the Sabbath day six lambs without defect and a ram without defect;",
+          "korean": "왕이 안식일에 하나님께 드리는 번제는 흠 없는 어린 양 여섯과 흠 없는 숫양 한 마리야."
+        },
+        {
+          "verse": 5,
+          "original": "and the meal offering shall be an ephah for the ram, and the meal offering for the lambs as he is able to give, and a hin of oil to an ephah.",
+          "korean": "소제는 숫양에 한 에바, 어린 양에는 줄 수 있는 대로, 그리고 에바마다 한 힌의 기름이야."
+        },
+        {
+          "verse": 6,
+          "original": "On the day of the new moon it shall be a young bull without defect, and six lambs, and a ram. They shall be without defect.",
+          "korean": "초하루에는 흠 없는 어린 수소 한 마리와 어린 양 여섯과 숫양 한 마리야. 모두 흠이 없어야 해."
+        },
+        {
+          "verse": 7,
+          "original": "He shall prepare a meal offering, an ephah for the bull, and an ephah for the ram, and for the lambs according as he is able, and a hin of oil to an ephah.",
+          "korean": "소제로 수소에 한 에바, 숫양에 한 에바, 어린 양에는 줄 수 있는 대로, 그리고 에바마다 한 힌의 기름을 준비해야 해."
+        },
+        {
+          "verse": 8,
+          "original": "When the prince enters, he shall go in by the way of the porch of the gate, and he shall go out by its way.",
+          "korean": "왕이 들어올 때 문 현관으로 들어와서 같은 길로 나가야 해."
+        },
+        {
+          "verse": 9,
+          "original": "\"'\"But when the people of the land come before Yahweh in the appointed feasts, he who enters by the way of the north gate to worship shall go out by the way of the south gate; and he who enters by the way of the south gate shall go out by the way of the north gate. He shall not return by the way of the gate by which he came in, but shall go out straight before him.",
+          "korean": "하지만 절기에 백성이 하나님 앞에 올 때, 북쪽 문으로 예배하러 들어온 사람은 남쪽 문으로 나가야 해. 남쪽 문으로 들어온 사람은 북쪽 문으로 나가야 해. 들어온 문으로 돌아가지 말고 앞으로 나가야 해."
+        },
+        {
+          "verse": 10,
+          "original": "The prince shall go in with them when they go in. When they go out, he shall go out.",
+          "korean": "왕은 그들이 들어갈 때 함께 들어가고, 그들이 나갈 때 나가야 해."
+        },
+        {
+          "verse": 11,
+          "original": "\"'\"In the feasts and in the solemnities the meal offering shall be an ephah for a bull, and an ephah for a ram, and for the lambs as he is able to give, and a hin of oil to an ephah.",
+          "korean": "절기와 성회에 소제는 수소에 한 에바, 숫양에 한 에바, 어린 양에는 줄 수 있는 대로, 그리고 에바마다 한 힌의 기름이야."
+        },
+        {
+          "verse": 12,
+          "original": "When the prince prepares a free will offering, a burnt offering or peace offerings as a free will offering to Yahweh, one shall open for him the gate that looks toward the east; and he shall prepare his burnt offering and his peace offerings, as he does on the Sabbath day. Then he shall go out; and after his going out one shall shut the gate.",
+          "korean": "왕이 하나님께 자원 예물로 번제나 화목제를 드리려고 하면, 동쪽을 향한 문을 열어 줘야 해. 그가 안식일처럼 번제와 화목제를 준비해야 해. 그리고 나가면 문을 닫아야 해."
+        },
+        {
+          "verse": 13,
+          "original": "\"'\"You shall prepare a lamb a year old without defect for a burnt offering to Yahweh daily. Morning by morning you shall prepare it.",
+          "korean": "매일 하나님께 번제로 흠 없는 일 년 된 어린 양을 준비해야 해. 아침마다 준비해야 해."
+        },
+        {
+          "verse": 14,
+          "original": "You shall prepare a meal offering with it morning by morning, the sixth part of an ephah, and the third part of a hin of oil, to moisten the fine flour; a meal offering to Yahweh continually by a perpetual ordinance.",
+          "korean": "아침마다 소제를 함께 준비해야 해. 에바의 육분의 일과 고운 가루를 적실 기름 한 힌의 삼분의 일이야. 영원한 규례로 하나님께 계속 드리는 소제야."
+        },
+        {
+          "verse": 15,
+          "original": "Thus they shall prepare the lamb, the meal offering, and the oil, morning by morning, for a continual burnt offering.\"",
+          "korean": "이렇게 아침마다 어린 양과 소제와 기름을 계속되는 번제로 준비해야 해.\""
+        },
+        {
+          "verse": 16,
+          "original": "\"'The Lord Yahweh says: \"If the prince gives a gift to any of his sons, it is his inheritance. It shall belong to his sons. It is their possession by inheritance.",
+          "korean": "하나님께서 말씀하셨어요. \"왕이 아들들 중 누구에게 선물을 주면, 그것은 그의 유산이야. 아들들의 것이야. 유산으로 그들의 소유야."
+        },
+        {
+          "verse": 17,
+          "original": "But if he gives of his inheritance a gift to one of his servants, it shall be his to the year of liberty; then it shall return to the prince; but as for his inheritance, it shall be for his sons.",
+          "korean": "하지만 종 중 하나에게 유산에서 선물을 주면, 희년까지 그의 것이야. 그다음에는 왕에게 돌아와야 해. 유산은 아들들의 것이야."
+        },
+        {
+          "verse": 18,
+          "original": "Moreover the prince shall not take of the people's inheritance, to thrust them out of their possession. He shall give inheritance to his sons out of his own possession, that my people not each be scattered from his possession.\"'\"",
+          "korean": "왕은 백성의 유산을 빼앗아서 그들을 소유에서 내쫓으면 안 돼. 자기 소유에서 아들들에게 유산을 주어야 해. 내 백성이 각자 소유에서 흩어지지 않게 해야 해.\"'\""
+        },
+        {
+          "verse": 19,
+          "original": "Then he brought me through the entry, which was at the side of the gate, into the holy rooms for the priests, which looked toward the north. Behold, there was a place on the back part westward.",
+          "korean": "그가 문 옆에 있는 입구로 저를 데려가서 북쪽을 향한 제사장들의 거룩한 방으로 갔어요. 보니까 서쪽 뒤쪽에 한 장소가 있었어요."
+        },
+        {
+          "verse": 20,
+          "original": "He said to me, \"This is the place where the priests shall boil the trespass offering and the sin offering, and where they shall bake the meal offering; that they not bring them out into the outer court, to sanctify the people.\"",
+          "korean": "그가 저에게 말했어요. \"이것은 제사장들이 속건제와 속죄제를 삶고 소제를 굽는 곳이야. 바깥뜰로 가져가서 백성을 거룩하게 하는 일이 없게 하려고.\""
+        },
+        {
+          "verse": 21,
+          "original": "Then he brought me out into the outer court, and caused me to pass by the four corners of the court; and behold, in every corner of the court there was a court.",
+          "korean": "그가 저를 바깥뜰로 데려가서 뜰의 네 모서리를 지나가게 했어요. 보니까 뜰의 각 모서리에 뜰이 있었어요."
+        },
+        {
+          "verse": 22,
+          "original": "In the four corners of the court there were courts enclosed, forty cubits long and thirty wide. These four in the corners were the same size.",
+          "korean": "뜰의 네 모서리에 둘러막힌 뜰이 있었어요. 길이 마흔 규빗, 너비 서른 규빗이었어요. 네 모서리의 것들은 같은 크기였어요."
+        },
+        {
+          "verse": 23,
+          "original": "There was a wall around in them, around the four, and boiling places were made under the walls all around.",
+          "korean": "네 뜰 주위에 벽이 있었고, 벽 아래 주위에 음식 삶는 곳이 있었어요."
+        },
+        {
+          "verse": 24,
+          "original": "Then he said to me, \"These are the boiling houses, where the ministers of the house shall boil the sacrifice of the people.\"",
+          "korean": "그가 저에게 말했어요. \"이것은 성전을 섬기는 사람들이 백성의 제물을 삶는 곳이야.\""
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "He brought me back to the door of the house; and behold, waters flowed out from under the threshold of the house eastward, for the front of the house faced toward the east. The waters came down from underneath, from the right side of the house, on the south of the altar.",
+          "korean": "그가 저를 성전 문으로 다시 데려갔어요. 보세요, 물이 성전 문지방 아래에서 동쪽으로 흘러나왔어요. 성전 앞면이 동쪽을 향했거든요. 물이 성전 오른쪽 아래에서, 제단 남쪽에서 나왔어요."
+        },
+        {
+          "verse": 2,
+          "original": "Then he brought me out by the way of the gate northward, and led me around by the way outside to the outer gate, by the way of the gate that looks toward the east. Behold, waters ran out on the right side.",
+          "korean": "그가 북쪽 문으로 저를 데리고 나가서 바깥길로 돌아서 동쪽을 향한 바깥 문으로 갔어요. 보세요, 물이 오른쪽에서 흘러나오고 있었어요."
+        },
+        {
+          "verse": 3,
+          "original": "When the man went out eastward with the line in his hand, he measured one thousand cubits, and he caused me to pass through the waters, waters that were to the ankles.",
+          "korean": "그 사람이 손에 줄을 들고 동쪽으로 가서 천 규빗을 쟀어요. 그리고 저를 물 속으로 지나가게 했는데, 물이 발목까지 왔어요."
+        },
+        {
+          "verse": 4,
+          "original": "Again he measured one thousand, and caused me to pass through the waters, waters that were to the knees. Again he measured one thousand, and caused me to pass through waters that were to the waist.",
+          "korean": "다시 천 규빗을 재고 물 속으로 지나가게 했는데, 물이 무릎까지 왔어요. 다시 천 규빗을 재고 지나가게 했는데, 물이 허리까지 왔어요."
+        },
+        {
+          "verse": 5,
+          "original": "Afterward he measured one thousand; and it was a river that I could not pass through; for the waters had risen, waters to swim in, a river that could not be walked through.",
+          "korean": "그 후에 천 규빗을 더 쟀는데, 건널 수 없는 강이 되었어요. 물이 올라서 헤엄쳐야 할 정도였고, 걸어서 건널 수 없는 강이었어요."
+        },
+        {
+          "verse": 6,
+          "original": "He said to me, \"Son of man, have you seen?\" Then he brought me, and caused me to return to the bank of the river.",
+          "korean": "그가 저에게 말했어요. \"사람의 아들아, 보았니?\" 그러고 나서 저를 데려다가 강둑으로 돌아오게 했어요."
+        },
+        {
+          "verse": 7,
+          "original": "Now when I had returned, behold, on the bank of the river were very many trees on the one side and on the other.",
+          "korean": "돌아와서 보니, 강둑 양쪽에 아주 많은 나무가 있었어요."
+        },
+        {
+          "verse": 8,
+          "original": "Then he said to me, \"These waters flow out toward the eastern region, and will go down into the Arabah. Then they will go toward the sea; and flow into the sea which will be made to flow out; and the waters will be healed.",
+          "korean": "그가 저에게 말했어요. \"이 물은 동쪽 지역으로 흘러서 아라바로 내려가. 그러고 나서 바다로 가. 바다로 흘러 들어가면 그 물이 깨끗해질 거야."
+        },
+        {
+          "verse": 9,
+          "original": "It will happen, that every living creature which swarms, in every place where the rivers come, will live. Then there will be a very great multitude of fish; for these waters have come there, and the waters of the sea will be healed, and everything will live wherever the river comes.",
+          "korean": "이 강이 가는 곳마다 움직이는 모든 생물이 살 거야. 아주 많은 물고기가 있을 거야. 이 물이 거기에 가면 바닷물이 깨끗해지고, 강이 가는 곳마다 모든 것이 살 거야."
+        },
+        {
+          "verse": 10,
+          "original": "It will happen, that fishermen will stand by it. From En Gedi even to En Eglaim will be a place for the spreading of nets. Their fish will be after their kinds, as the fish of the great sea, exceedingly many.",
+          "korean": "어부들이 거기 설 거야. 엔게디에서 에네글라임까지 그물을 펴는 곳이 될 거야. 큰 바다의 물고기처럼 여러 종류의 물고기가 아주 많을 거야."
+        },
+        {
+          "verse": 11,
+          "original": "But the miry places of it, and its marshes, will not be healed. They will be given up to salt.",
+          "korean": "하지만 늪지대와 진흙탕은 깨끗해지지 않을 거야. 소금을 위해 남겨 둘 거야."
+        },
+        {
+          "verse": 12,
+          "original": "By the river on its bank, on this side and on that side, will grow every tree for food, whose leaf won't wither, neither will its fruit fail. It will produce new fruit every month, because its waters issue out of the sanctuary. Its fruit will be for food, and its leaf for healing.\"",
+          "korean": "강 양쪽 둑에 모든 먹을 나무가 자랄 거야. 잎이 시들지 않고, 열매가 떨어지지 않을 거야. 매달 새 열매를 맺을 거야. 그 물이 성소에서 나오기 때문이야. 열매는 먹을 것이 되고, 잎은 치료하는 데 쓸 거야.\""
+        },
+        {
+          "verse": 13,
+          "original": "The Lord Yahweh says: \"This shall be the border, by which you shall divide the land for inheritance according to the twelve tribes of Israel. Joseph shall have two portions.",
+          "korean": "하나님께서 말씀하셨어요. \"이것이 경계야. 이 경계에 따라 열두 지파에게 유산으로 땅을 나눠라. 요셉은 두 몫을 받을 거야."
+        },
+        {
+          "verse": 14,
+          "original": "You shall inherit it, one as well as another; for I swore to give it to your fathers. This land will fall to you for inheritance.",
+          "korean": "너희가 똑같이 유산으로 받을 거야. 내가 너희 조상에게 주겠다고 맹세했거든. 이 땅이 너희 유산이 될 거야."
+        },
+        {
+          "verse": 15,
+          "original": "\"This shall be the border of the land: \"On the north side, from the great sea, by the way of Hethlon, to the entrance of Zedad;",
+          "korean": "이것이 땅의 경계야. 북쪽은 큰 바다에서 헤들론 길을 따라 스닷 입구까지야."
+        },
+        {
+          "verse": 16,
+          "original": "Hamath, Berothah, Sibraim, which is between the border of Damascus and the border of Hamath; Hazer Hatticon, which is by the border of Hauran.",
+          "korean": "하맛, 브로다, 시브라임은 다마스쿠스 경계와 하맛 경계 사이에 있어. 하살핫디곤은 하우란 경계 옆에 있어."
+        },
+        {
+          "verse": 17,
+          "original": "The border from the sea, shall be Hazar Enon at the border of Damascus; and on the north northward is the border of Hamath. This is the north side.",
+          "korean": "바다에서 경계는 다마스쿠스 경계에 있는 하살에논이야. 북쪽으로는 하맛 경계야. 이것이 북쪽이야."
+        },
+        {
+          "verse": 18,
+          "original": "\"The east side, between Hauran and Damascus and Gilead, and the land of Israel, shall be the Jordan; from the north border to the east sea you shall measure. This is the east side.",
+          "korean": "동쪽은 하우란과 다마스쿠스와 길르앗과 이스라엘 땅 사이에서 요단강이야. 북쪽 경계에서 동쪽 바다까지 재라. 이것이 동쪽이야."
+        },
+        {
+          "verse": 19,
+          "original": "\"The south side southward shall be from Tamar as far as the waters of Meriboth Kadesh, to the brook, to the great sea. This is the south side southward.",
+          "korean": "남쪽은 다말에서 므리바가데스 물까지, 시내를 따라 큰 바다까지야. 이것이 남쪽이야."
+        },
+        {
+          "verse": 20,
+          "original": "\"The west side shall be the great sea, from the south border as far as opposite the entrance of Hamath. This is the west side.",
+          "korean": "서쪽은 큰 바다야. 남쪽 경계에서 하맛 입구 맞은편까지야. 이것이 서쪽이야."
+        },
+        {
+          "verse": 21,
+          "original": "\"So you shall divide this land to yourselves according to the tribes of Israel.",
+          "korean": "이 땅을 이스라엘 지파에 따라 나눠라."
+        },
+        {
+          "verse": 22,
+          "original": "It will happen, that you shall divide it by lot for an inheritance to you and to the aliens who live among you, who will father children among you. Then they shall be to you as the native-born among the children of Israel. They shall have inheritance with you among the tribes of Israel.",
+          "korean": "제비 뽑아서 너희와 너희 가운데 사는 외국인들에게 유산으로 나눠라. 너희 가운데서 아이를 낳은 외국인들이야. 그들은 이스라엘 자손 중 본토 태생처럼 여겨질 거야. 이스라엘 지파들 가운데서 너희와 함께 유산을 받을 거야."
+        },
+        {
+          "verse": 23,
+          "original": "It shall happen, that in whatever tribe the stranger lives, there you shall give him his inheritance,\" says the Lord Yahweh.",
+          "korean": "외국인이 사는 지파에서 그에게 유산을 주어라.\" 하나님께서 말씀하셨어요."
+        }
+      ]
+    },
+    {
+      "chapter": 48,
+      "verses": [
+        {
+          "verse": 1,
+          "original": "\"Now these are the names of the tribes: From the north end, beside the way of Hethlon to the entrance of Hamath, Hazar Enan at the border of Damascus, northward beside Hamath (and they shall have their sides east and west), Dan, one portion.",
+          "korean": "\"이제 지파들의 이름이야. 북쪽 끝에서 헤들론 길을 따라 하맛 입구까지, 다마스쿠스 경계에 있는 하살에난까지, 북쪽으로 하맛 옆까지 (동쪽과 서쪽이 그들의 영역이야), 단이 한 몫이야."
+        },
+        {
+          "verse": 2,
+          "original": "\"By the border of Dan, from the east side to the west side, Asher, one portion.",
+          "korean": "단의 경계 옆에, 동쪽에서 서쪽까지, 아셀이 한 몫이야."
+        },
+        {
+          "verse": 3,
+          "original": "\"By the border of Asher, from the east side even to the west side, Naphtali, one portion.",
+          "korean": "아셀의 경계 옆에, 동쪽에서 서쪽까지, 납달리가 한 몫이야."
+        },
+        {
+          "verse": 4,
+          "original": "\"By the border of Naphtali, from the east side to the west side, Manasseh, one portion.",
+          "korean": "납달리의 경계 옆에, 동쪽에서 서쪽까지, 므낫세가 한 몫이야."
+        },
+        {
+          "verse": 5,
+          "original": "\"By the border of Manasseh, from the east side to the west side, Ephraim, one portion.",
+          "korean": "므낫세의 경계 옆에, 동쪽에서 서쪽까지, 에브라임이 한 몫이야."
+        },
+        {
+          "verse": 6,
+          "original": "\"By the border of Ephraim, from the east side even to the west side, Reuben, one portion.",
+          "korean": "에브라임의 경계 옆에, 동쪽에서 서쪽까지, 르우벤이 한 몫이야."
+        },
+        {
+          "verse": 7,
+          "original": "\"By the border of Reuben, from the east side to the west side, Judah, one portion.",
+          "korean": "르우벤의 경계 옆에, 동쪽에서 서쪽까지, 유다가 한 몫이야."
+        },
+        {
+          "verse": 8,
+          "original": "\"By the border of Judah, from the east side to the west side, shall be the offering which you shall offer, twenty-five thousand reeds in width, and in length as one of the portions, from the east side to the west side: and the sanctuary shall be in the middle of it.",
+          "korean": "유다의 경계 옆에, 동쪽에서 서쪽까지, 너희가 바칠 예물이 있을 거야. 너비가 이만오천 장대이고, 길이는 다른 몫들과 같아. 동쪽에서 서쪽까지야. 성소가 그 가운데 있을 거야."
+        },
+        {
+          "verse": 9,
+          "original": "\"The offering that you shall offer to Yahweh shall be twenty-five thousand reeds in length, and ten thousand in width.",
+          "korean": "하나님께 바칠 예물은 길이 이만오천 장대, 너비 만 장대야."
+        },
+        {
+          "verse": 10,
+          "original": "For these, even for the priests, shall be the holy offering: toward the north twenty-five thousand in length, and toward the west ten thousand in width, and toward the east ten thousand in width, and toward the south twenty-five thousand in length: and the sanctuary of Yahweh shall be in the middle of it.",
+          "korean": "제사장들을 위한 거룩한 예물이야. 북쪽으로 길이 이만오천, 서쪽으로 너비 만, 동쪽으로 너비 만, 남쪽으로 길이 이만오천이야. 하나님의 성소가 그 가운데 있을 거야."
+        },
+        {
+          "verse": 11,
+          "original": "It shall be for the priests who are sanctified of the sons of Zadok, who have kept my instruction, who didn't go astray when the children of Israel went astray, as the Levites went astray.",
+          "korean": "이것은 사독의 자손 중에서 거룩하게 된 제사장들을 위한 거야. 이스라엘 자손이 잘못된 길로 갈 때 레위인들처럼 잘못된 길로 가지 않고 내 명령을 지킨 자들이야."
+        },
+        {
+          "verse": 12,
+          "original": "It shall be to them an offering from the offering of the land, a most holy thing, by the border of the Levites.",
+          "korean": "땅의 예물에서 그들에게 드리는 예물이야. 지극히 거룩한 것으로 레위인 경계 옆에 있을 거야."
+        },
+        {
+          "verse": 13,
+          "original": "\"Answerable to the border of the priests, the Levites shall have twenty-five thousand in length, and ten thousand in width. All the length shall be twenty-five thousand, and the width ten thousand.",
+          "korean": "제사장들의 경계와 나란히 레위인들은 길이 이만오천, 너비 만을 받을 거야. 전체 길이가 이만오천이고 너비가 만이야."
+        },
+        {
+          "verse": 14,
+          "original": "They shall sell none of it, nor exchange it, nor shall the first fruits of the land be alienated; for it is holy to Yahweh.",
+          "korean": "그것을 팔거나 바꾸면 안 돼. 땅의 처음 익은 것을 양도해도 안 돼. 하나님께 거룩하거든."
+        },
+        {
+          "verse": 15,
+          "original": "\"The five thousand that are left in the width, in front of the twenty-five thousand, shall be for common use, for the city, for dwelling and for pasture lands; and the city shall be in the middle of it.",
+          "korean": "이만오천 앞에 너비로 남은 오천은 일반 용도로, 성을 위해, 집과 목초지를 위해 쓸 거야. 성이 그 가운데 있을 거야."
+        },
+        {
+          "verse": 16,
+          "original": "These shall be its measurements: the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred.",
+          "korean": "이것이 그 치수야. 북쪽이 사천오백, 남쪽이 사천오백, 동쪽이 사천오백, 서쪽이 사천오백이야."
+        },
+        {
+          "verse": 17,
+          "original": "The city shall have pasture lands: toward the north two hundred fifty, and toward the south two hundred fifty, and toward the east two hundred fifty, and toward the west two hundred fifty.",
+          "korean": "성에 목초지가 있을 거야. 북쪽으로 이백오십, 남쪽으로 이백오십, 동쪽으로 이백오십, 서쪽으로 이백오십이야."
+        },
+        {
+          "verse": 18,
+          "original": "The remainder in the length, alongside the holy offering, shall be ten thousand eastward, and ten thousand westward; and it shall be alongside the holy offering. Its increase shall be for food to those who labor in the city.",
+          "korean": "거룩한 예물과 나란히 남은 길이는 동쪽으로 만, 서쪽으로 만이야. 거룩한 예물 옆에 있을 거야. 그 소출은 성에서 일하는 사람들의 음식이 될 거야."
+        },
+        {
+          "verse": 19,
+          "original": "Those who labor in the city, out of all the tribes of Israel, shall cultivate it.",
+          "korean": "이스라엘의 모든 지파에서 성에서 일하는 사람들이 그것을 경작할 거야."
+        },
+        {
+          "verse": 20,
+          "original": "All the offering shall be a square of twenty-five thousand by twenty-five thousand. You shall offer it as a holy offering, with the possession of the city.",
+          "korean": "전체 예물은 이만오천 곱하기 이만오천의 정사각형이야. 성의 소유와 함께 거룩한 예물로 바쳐라."
+        },
+        {
+          "verse": 21,
+          "original": "\"The remainder shall be for the prince, on the one side and on the other of the holy offering and of the possession of the city; in front of the twenty-five thousand of the offering toward the east border, and westward in front of the twenty-five thousand toward the west border, alongside the portions, it shall be for the prince. The holy offering and the sanctuary of the house shall be in the middle of it.",
+          "korean": "남은 것은 왕을 위한 거야. 거룩한 예물과 성의 소유 양쪽에 있을 거야. 예물의 이만오천 앞에서 동쪽 경계까지, 서쪽 경계 앞에 서쪽으로 이만오천까지, 다른 몫들과 나란히 왕을 위한 거야. 거룩한 예물과 성전 성소가 그 가운데 있을 거야."
+        },
+        {
+          "verse": 22,
+          "original": "Moreover from the possession of the Levites, and from the possession of the city, being in the middle of that which is the prince's, between the border of Judah and the border of Benjamin, shall be for the prince.",
+          "korean": "레위인의 소유와 성의 소유에서, 왕의 것 가운데 있는 것, 유다 경계와 베냐민 경계 사이에 있는 것이 왕을 위한 거야."
+        },
+        {
+          "verse": 23,
+          "original": "\"As for the rest of the tribes: from the east side to the west side, Benjamin, one portion.",
+          "korean": "나머지 지파들이야. 동쪽에서 서쪽까지, 베냐민이 한 몫이야."
+        },
+        {
+          "verse": 24,
+          "original": "\"By the border of Benjamin, from the east side to the west side, Simeon, one portion.",
+          "korean": "베냐민의 경계 옆에, 동쪽에서 서쪽까지, 시므온이 한 몫이야."
+        },
+        {
+          "verse": 25,
+          "original": "\"By the border of Simeon, from the east side to the west side, Issachar, one portion.",
+          "korean": "시므온의 경계 옆에, 동쪽에서 서쪽까지, 잇사갈이 한 몫이야."
+        },
+        {
+          "verse": 26,
+          "original": "\"By the border of Issachar, from the east side to the west side, Zebulun, one portion.",
+          "korean": "잇사갈의 경계 옆에, 동쪽에서 서쪽까지, 스불론이 한 몫이야."
+        },
+        {
+          "verse": 27,
+          "original": "\"By the border of Zebulun, from the east side to the west side, Gad, one portion.",
+          "korean": "스불론의 경계 옆에, 동쪽에서 서쪽까지, 갓이 한 몫이야."
+        },
+        {
+          "verse": 28,
+          "original": "\"By the border of Gad, at the south side southward, the border shall be even from Tamar to the waters of Meribath Kadesh, to the brook, to the great sea.",
+          "korean": "갓의 경계 옆에, 남쪽으로, 경계는 다말에서 므리바가데스 물까지, 시내를 따라 큰 바다까지야."
+        },
+        {
+          "verse": 29,
+          "original": "\"This is the land which you shall divide by lot to the tribes of Israel for inheritance, and these are their several portions, says the Lord Yahweh.",
+          "korean": "이것이 이스라엘 지파들에게 유산으로 제비 뽑아 나눌 땅이야. 이것이 그들 각각의 몫이야.\" 하나님께서 말씀하셨어요."
+        },
+        {
+          "verse": 30,
+          "original": "\"These are the exits of the city: On the north side four thousand and five hundred reeds by measure;",
+          "korean": "\"이것이 성의 출구야. 북쪽이 사천오백 장대야."
+        },
+        {
+          "verse": 31,
+          "original": "and the gates of the city shall be named after the tribes of Israel, three gates northward: the gate of Reuben, one; the gate of Judah, one; the gate of Levi, one.",
+          "korean": "성의 문은 이스라엘 지파들의 이름을 따라 지을 거야. 북쪽으로 세 문이야. 르우벤 문 하나, 유다 문 하나, 레위 문 하나."
+        },
+        {
+          "verse": 32,
+          "original": "\"At the east side four thousand and five hundred reeds, and three gates: even the gate of Joseph, one; the gate of Benjamin, one; the gate of Dan, one.",
+          "korean": "동쪽이 사천오백 장대이고, 세 문이야. 요셉 문 하나, 베냐민 문 하나, 단 문 하나."
+        },
+        {
+          "verse": 33,
+          "original": "\"At the south side four thousand and five hundred reeds by measure, and three gates: the gate of Simeon, one; the gate of Issachar, one; the gate of Zebulun, one.",
+          "korean": "남쪽이 사천오백 장대이고, 세 문이야. 시므온 문 하나, 잇사갈 문 하나, 스불론 문 하나."
+        },
+        {
+          "verse": 34,
+          "original": "\"At the west side four thousand and five hundred reeds, with their three gates: the gate of Gad, one; the gate of Asher, one; the gate of Naphtali, one.",
+          "korean": "서쪽이 사천오백 장대이고, 세 문이야. 갓 문 하나, 아셀 문 하나, 납달리 문 하나."
+        },
+        {
+          "verse": 35,
+          "original": "\"It shall be eighteen thousand reeds around: and the name of the city from that day shall be, 'Yahweh is there.'\"",
+          "korean": "둘레가 만팔천 장대야. 그날부터 성의 이름은 '하나님이 거기 계시다'가 될 거야.\""
+        }
+      ]
+    }
+  ]
+}
