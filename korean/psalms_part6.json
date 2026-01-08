@@ -1,0 +1,416 @@
+{
+  "book": "Psalms",
+  "bookKorean": "시편",
+  "chapters": [
+    {
+      "chapter": 126,
+      "verses": [
+        {"verse": 1, "original": "When Yahweh brought back those who returned to Zion, we were like those who dream.", "korean": "하나님께서 시온으로 돌아온 사람들을 이끌어 주셨을 때, 우리는 꿈을 꾸는 것 같았어요."},
+        {"verse": 2, "original": "Then our mouth was filled with laughter, and our tongue with singing. Then they said among the nations, \"Yahweh has done great things for them.\"", "korean": "그때 우리 입에는 웃음이 가득했고, 우리 혀는 노래했어요. 다른 나라 사람들이 말했어요. \"하나님께서 그들에게 큰 일을 해 주셨구나!\""},
+        {"verse": 3, "original": "Yahweh has done great things for us, and we are glad.", "korean": "하나님께서 우리에게 큰 일을 해 주셨어요. 우리는 정말 기뻐요!"},
+        {"verse": 4, "original": "Restore our fortunes again, Yahweh, like the streams in the Negev.", "korean": "하나님, 네겝 사막에 물이 다시 흐르는 것처럼, 우리를 다시 행복하게 해 주세요."},
+        {"verse": 5, "original": "Those who sow in tears will reap in joy.", "korean": "눈물을 흘리며 씨를 뿌리는 사람은 기쁨으로 거두게 될 거예요."},
+        {"verse": 6, "original": "He who goes out weeping, carrying seed for sowing, will certainly come again with joy, carrying his sheaves.", "korean": "씨앗을 가지고 울면서 나가는 사람은, 곡식 단을 들고 기뻐하며 돌아올 거예요."}
+      ]
+    },
+    {
+      "chapter": 127,
+      "verses": [
+        {"verse": 1, "original": "Unless Yahweh builds the house, they who build it labor in vain. Unless Yahweh watches over the city, the watchman guards it in vain.", "korean": "하나님께서 집을 세우지 않으시면, 짓는 사람들이 헛되이 수고하는 거예요. 하나님께서 성을 지키지 않으시면, 파수꾼이 헛되이 지키는 거예요."},
+        {"verse": 2, "original": "It is vain for you to rise up early, to stay up late, eating the bread of toil, for he gives sleep to his loved ones.", "korean": "일찍 일어나고 늦게까지 애써 일하는 것은 헛된 거예요. 하나님께서는 사랑하는 사람들에게 편안한 잠을 주시기 때문이에요."},
+        {"verse": 3, "original": "Behold, children are a heritage of Yahweh. The fruit of the womb is his reward.", "korean": "보세요, 자녀는 하나님께서 주신 선물이에요. 아이들은 하나님의 상이에요."},
+        {"verse": 4, "original": "As arrows in the hand of a mighty man, so are the children of youth.", "korean": "젊을 때 낳은 자녀들은 힘센 사람의 손에 든 화살과 같아요."},
+        {"verse": 5, "original": "Happy is the man who has his quiver full of them. They won't be disappointed when they speak with their enemies in the gate.", "korean": "화살통에 자녀가 가득한 사람은 행복해요. 성문에서 원수와 말할 때 부끄럽지 않을 거예요."}
+      ]
+    },
+    {
+      "chapter": 128,
+      "verses": [
+        {"verse": 1, "original": "Blessed is everyone who fears Yahweh, who walks in his ways.", "korean": "하나님을 공경하고 그분의 길을 따라가는 사람은 모두 복을 받아요."},
+        {"verse": 2, "original": "For you will eat the labor of your hands. You will be happy, and it will be well with you.", "korean": "네가 수고한 것을 먹게 될 거예요. 행복하고 잘 살게 될 거예요."},
+        {"verse": 3, "original": "Your wife will be as a fruitful vine in the innermost parts of your house, your children like olive plants around your table.", "korean": "네 아내는 집 안에서 열매 맺는 포도나무 같을 거예요. 네 자녀들은 식탁 둘레에 올리브 나무 같을 거예요."},
+        {"verse": 4, "original": "Behold, thus is the man blessed who fears Yahweh.", "korean": "보세요, 하나님을 공경하는 사람은 이렇게 복을 받아요."},
+        {"verse": 5, "original": "May Yahweh bless you out of Zion, and may you see the good of Jerusalem all the days of your life.", "korean": "하나님께서 시온에서 너에게 복 주시기를 바라요. 네가 사는 동안 예루살렘의 번영을 보기를 바라요."},
+        {"verse": 6, "original": "Yes, may you see your children's children. Peace be upon Israel.", "korean": "네 손자 손녀들도 보게 되기를 바라요. 이스라엘에 평화가 있기를 바라요!"}
+      ]
+    },
+    {
+      "chapter": 129,
+      "verses": [
+        {"verse": 1, "original": "Many times they have afflicted me from my youth up. Let Israel now say,", "korean": "어릴 때부터 사람들이 나를 많이 괴롭혔어요. 이스라엘이 이제 말하게 해 주세요."},
+        {"verse": 2, "original": "many times they have afflicted me from my youth up, yet they have not prevailed against me.", "korean": "어릴 때부터 사람들이 나를 많이 괴롭혔지만, 그들은 나를 이기지 못했어요."},
+        {"verse": 3, "original": "The plowers plowed on my back. They made their furrows long.", "korean": "밭 가는 사람들이 내 등을 갈았어요. 그들이 긴 고랑을 만들었어요."},
+        {"verse": 4, "original": "Yahweh is righteous. He has cut apart the cords of the wicked.", "korean": "하나님은 의로우세요. 악한 자들의 줄을 끊으셨어요."},
+        {"verse": 5, "original": "Let them be disappointed and turned backward, all those who hate Zion.", "korean": "시온을 미워하는 모든 사람이 부끄러워하며 물러나게 해 주세요."},
+        {"verse": 6, "original": "Let them be as the grass on the housetops, which withers before it grows up,", "korean": "그들이 지붕 위의 풀처럼 되게 해 주세요. 그 풀은 자라기도 전에 말라 버려요."},
+        {"verse": 7, "original": "with which the reaper doesn't fill his hand, nor he who binds sheaves, his bosom.", "korean": "거두는 사람이 손에 쥐지도 못하고, 단을 묶는 사람이 품에 안지도 못해요."},
+        {"verse": 8, "original": "Neither do those who go by say, \"The blessing of Yahweh be on you. We bless you in Yahweh's name.\"", "korean": "지나가는 사람들도 이렇게 말하지 않아요. \"하나님의 복이 너희에게 있기를! 하나님의 이름으로 복을 빌어요.\""}
+      ]
+    },
+    {
+      "chapter": 130,
+      "verses": [
+        {"verse": 1, "original": "Out of the depths I have cried to you, Yahweh.", "korean": "하나님, 깊은 곳에서 내가 하나님을 불렀어요."},
+        {"verse": 2, "original": "Lord, hear my voice. Let your ears be attentive to the voice of my petitions.", "korean": "주님, 내 목소리를 들어 주세요. 내가 간절히 부르는 소리에 귀를 기울여 주세요."},
+        {"verse": 3, "original": "If you, Yah, kept a record of sins, Lord, who could stand?", "korean": "하나님, 만약 하나님께서 죄를 기억하신다면, 주님 앞에 누가 설 수 있겠어요?"},
+        {"verse": 4, "original": "But there is forgiveness with you, therefore you are feared.", "korean": "하지만 하나님께는 용서가 있으시기에, 사람들이 하나님을 공경해요."},
+        {"verse": 5, "original": "I wait for Yahweh. My soul waits. I hope in his word.", "korean": "나는 하나님을 기다려요. 내 영혼이 기다려요. 나는 하나님의 말씀을 바라요."},
+        {"verse": 6, "original": "My soul longs for the Lord more than watchmen long for the morning, more than watchmen for the morning.", "korean": "파수꾼이 아침을 기다리는 것보다 더, 내 영혼은 주님을 사모해요."},
+        {"verse": 7, "original": "Israel, hope in Yahweh, for there is loving kindness with Yahweh. Abundant redemption is with him.", "korean": "이스라엘아, 하나님을 바라라. 하나님께는 한결같은 사랑이 있어요. 넘치는 구원이 그분께 있어요."},
+        {"verse": 8, "original": "He will redeem Israel from all their sins.", "korean": "하나님께서 이스라엘을 모든 죄에서 구해 주실 거예요."}
+      ]
+    },
+    {
+      "chapter": 131,
+      "verses": [
+        {"verse": 1, "original": "Yahweh, my heart isn't arrogant, nor my eyes lofty; nor do I concern myself with great matters, or things too wonderful for me.", "korean": "하나님, 내 마음이 교만하지 않아요. 내 눈이 높지 않아요. 나는 너무 큰 일이나 나에게 어려운 일에 신경 쓰지 않아요."},
+        {"verse": 2, "original": "Surely I have stilled and quieted my soul, like a weaned child with his mother, like a weaned child is my soul within me.", "korean": "정말 내 영혼을 고요하게 했어요. 엄마 품에 안긴 젖 뗀 아기처럼, 내 영혼이 그렇게 평안해요."},
+        {"verse": 3, "original": "Israel, hope in Yahweh, from this time forward and forever more.", "korean": "이스라엘아, 이제부터 영원히 하나님을 바라라."}
+      ]
+    },
+    {
+      "chapter": 132,
+      "verses": [
+        {"verse": 1, "original": "Yahweh, remember David and all his affliction,", "korean": "하나님, 다윗과 그의 모든 고생을 기억해 주세요."},
+        {"verse": 2, "original": "how he swore to Yahweh, and vowed to the Mighty One of Jacob:", "korean": "다윗이 하나님께 맹세하고 야곱의 전능하신 분께 서원했어요."},
+        {"verse": 3, "original": "\"Surely I will not come into the structure of my house, nor go up into my bed;", "korean": "\"내가 집에 들어가지도, 내 침대에 올라가지도 않을 거예요."},
+        {"verse": 4, "original": "I will not give sleep to my eyes, or slumber to my eyelids;", "korean": "내 눈에 잠을 주지도, 내 눈꺼풀에 졸음을 주지도 않을 거예요."},
+        {"verse": 5, "original": "until I find out a place for Yahweh, a dwelling for the Mighty One of Jacob.\"", "korean": "하나님을 위한 곳을, 야곱의 전능하신 분이 계실 집을 찾을 때까지요.\""},
+        {"verse": 6, "original": "Behold, we heard of it in Ephrathah. We found it in the field of Jaar:", "korean": "보세요, 우리가 에브라다에서 그것을 들었어요. 야아르 들판에서 찾았어요."},
+        {"verse": 7, "original": "\"We will go into his dwelling place. We will worship at his footstool.\"", "korean": "\"우리가 하나님의 집으로 들어가요. 발받침 앞에서 예배해요.\""},
+        {"verse": 8, "original": "Arise, Yahweh, into your resting place, you, and the ark of your strength.", "korean": "하나님, 쉬실 곳으로 일어나 오세요. 하나님과 하나님의 능력의 궤가 함께요."},
+        {"verse": 9, "original": "Let your priests be clothed with righteousness. Let your saints shout for joy!\"", "korean": "제사장들이 의로움을 옷처럼 입게 해 주세요. 성도들이 기쁨으로 외치게 해 주세요!\""},
+        {"verse": 10, "original": "For your servant David's sake, don't turn away the face of your anointed one.", "korean": "종 다윗을 생각하셔서, 기름 부음 받은 자를 물리치지 마세요."},
+        {"verse": 11, "original": "Yahweh has sworn to David in truth. He will not turn from it: \"I will set the fruit of your body on your throne.", "korean": "하나님께서 다윗에게 진실로 맹세하셨어요. 변치 않으실 거예요. \"내가 네 자손을 네 왕위에 앉히겠다."},
+        {"verse": 12, "original": "If your children will keep my covenant, my testimony that I will teach them, their children also will sit on your throne forever more.\"", "korean": "네 자녀들이 내 언약과 내가 가르치는 법도를 지키면, 그들의 자녀들도 영원히 네 왕위에 앉을 것이다.\""},
+        {"verse": 13, "original": "For Yahweh has chosen Zion. He has desired it for his habitation.", "korean": "하나님께서 시온을 택하셨어요. 하나님께서 그곳에 계시기를 원하셨어요."},
+        {"verse": 14, "original": "\"This is my resting place forever. I will live here, for I have desired it.", "korean": "\"이곳이 영원히 내가 쉴 곳이다. 내가 여기 살겠다. 내가 원했기 때문이다."},
+        {"verse": 15, "original": "I will abundantly bless her provision. I will satisfy her poor with bread.", "korean": "내가 이곳에 먹을 것을 풍성히 복 주겠다. 가난한 사람들을 빵으로 배불리겠다."},
+        {"verse": 16, "original": "I will also clothe her priests with salvation. Her saints will shout aloud for joy.", "korean": "내가 제사장들에게 구원을 옷처럼 입히겠다. 성도들이 크게 기뻐 외칠 것이다."},
+        {"verse": 17, "original": "I will make the horn of David to bud there. I have ordained a lamp for my anointed.", "korean": "내가 거기서 다윗의 힘을 돋아나게 하겠다. 내가 기름 부은 자를 위해 등불을 준비했다."},
+        {"verse": 18, "original": "I will clothe his enemies with shame, but on himself, his crown will shine.\"", "korean": "내가 그의 원수들에게 수치를 옷처럼 입히겠다. 하지만 그에게는 면류관이 빛날 것이다.\""}
+      ]
+    },
+    {
+      "chapter": 133,
+      "verses": [
+        {"verse": 1, "original": "See how good and how pleasant it is for brothers to live together in unity!", "korean": "형제들이 함께 화목하게 사는 것이 얼마나 좋고 아름다운지 보세요!"},
+        {"verse": 2, "original": "It is like the precious oil on the head, that ran down on the beard, even Aaron's beard, that came down on the edge of his robes,", "korean": "그것은 머리에 부은 귀한 기름 같아요. 그 기름이 아론의 수염으로 흘러내리고, 옷깃까지 흘러내렸어요."},
+        {"verse": 3, "original": "like the dew of Hermon, that comes down on the hills of Zion; for there Yahweh gives the blessing, even life forever more.", "korean": "그것은 헤르몬 산의 이슬 같아요. 시온 산에 내리는 이슬 같아요. 그곳에서 하나님께서 복을 주시기 때문이에요. 영원한 생명을요!"}
+      ]
+    },
+    {
+      "chapter": 134,
+      "verses": [
+        {"verse": 1, "original": "Look! Praise Yahweh, all you servants of Yahweh, who stand by night in Yahweh's house!", "korean": "보세요! 하나님의 집에서 밤에 서 있는 하나님의 종들아, 모두 하나님을 찬양해요!"},
+        {"verse": 2, "original": "Lift up your hands in the sanctuary. Praise Yahweh!", "korean": "성소에서 손을 들어요. 하나님을 찬양해요!"},
+        {"verse": 3, "original": "May Yahweh bless you from Zion, even he who made heaven and earth.", "korean": "하늘과 땅을 만드신 하나님께서 시온에서 너에게 복 주시기를 바라요."}
+      ]
+    },
+    {
+      "chapter": 135,
+      "verses": [
+        {"verse": 1, "original": "Praise Yah! Praise Yahweh's name! Praise him, you servants of Yahweh,", "korean": "할렐루야! 하나님의 이름을 찬양해요! 하나님의 종들아, 그분을 찬양해요!"},
+        {"verse": 2, "original": "you who stand in Yahweh's house, in the courts of our God's house.", "korean": "하나님의 집에 서 있는 사람들, 우리 하나님 집의 뜰에 있는 사람들아!"},
+        {"verse": 3, "original": "Praise Yah, for Yahweh is good. Sing praises to his name, for that is pleasant.", "korean": "할렐루야, 하나님은 선하시기 때문이에요. 그분의 이름을 찬양해요. 그것은 아름다워요."},
+        {"verse": 4, "original": "For Yah has chosen Jacob for himself, Israel for his own possession.", "korean": "하나님께서 야곱을 자기 것으로 택하셨어요. 이스라엘을 자기 소유로 택하셨어요."},
+        {"verse": 5, "original": "For I know that Yahweh is great, that our Lord is above all gods.", "korean": "나는 알아요, 하나님은 위대하시다는 것을요. 우리 주님은 모든 신들보다 높으세요."},
+        {"verse": 6, "original": "Whatever Yahweh pleased, that he has done, in heaven and in earth, in the seas and in all deeps.", "korean": "하나님은 원하시는 것은 무엇이든지 하세요. 하늘과 땅에서, 바다와 깊은 곳에서요."},
+        {"verse": 7, "original": "He causes the clouds to rise from the ends of the earth. He makes lightnings with the rain. He brings the wind out of his treasuries.", "korean": "하나님께서 땅 끝에서 구름이 올라오게 하세요. 비와 함께 번개를 만드세요. 창고에서 바람을 불러내세요."},
+        {"verse": 8, "original": "He struck the firstborn of Egypt, both of man and animal.", "korean": "하나님께서 이집트의 처음 난 것을 치셨어요. 사람과 동물 모두요."},
+        {"verse": 9, "original": "He sent signs and wonders into the middle of you, Egypt, on Pharaoh, and on all his servants.", "korean": "이집트야, 하나님께서 네 가운데 표적과 기적을 보내셨어요. 바로와 그의 모든 신하들에게요."},
+        {"verse": 10, "original": "He struck many nations, and killed mighty kings,", "korean": "하나님께서 많은 나라를 치시고, 강한 왕들을 죽이셨어요."},
+        {"verse": 11, "original": "Sihon king of the Amorites, Og king of Bashan, and all the kingdoms of Canaan,", "korean": "아모리 사람의 왕 시혼, 바산 왕 옥, 그리고 가나안의 모든 나라를요."},
+        {"verse": 12, "original": "and gave their land for a heritage, a heritage to Israel, his people.", "korean": "그리고 그 땅을 유산으로 주셨어요. 하나님의 백성 이스라엘에게 유산으로요."},
+        {"verse": 13, "original": "Your name, Yahweh, endures forever; your renown, Yahweh, throughout all generations.", "korean": "하나님, 하나님의 이름은 영원해요. 하나님, 하나님의 명성은 모든 세대에 걸쳐 있어요."},
+        {"verse": 14, "original": "For Yahweh will judge his people and have compassion on his servants.", "korean": "하나님께서 자기 백성을 판단하시고, 종들을 불쌍히 여기실 거예요."},
+        {"verse": 15, "original": "The idols of the nations are silver and gold, the work of men's hands.", "korean": "나라들의 우상은 은과 금이에요. 사람의 손으로 만든 것이에요."},
+        {"verse": 16, "original": "They have mouths, but they can't speak. They have eyes, but they can't see.", "korean": "입이 있어도 말하지 못해요. 눈이 있어도 보지 못해요."},
+        {"verse": 17, "original": "They have ears, but they can't hear, neither is there any breath in their mouths.", "korean": "귀가 있어도 듣지 못해요. 입에 숨도 없어요."},
+        {"verse": 18, "original": "Those who make them will be like them, yes, everyone who trusts in them.", "korean": "우상을 만드는 사람들이 그것처럼 될 거예요. 그것을 믿는 모든 사람도요."},
+        {"verse": 19, "original": "House of Israel, praise Yahweh! House of Aaron, praise Yahweh!", "korean": "이스라엘 집안아, 하나님을 찬양해요! 아론의 집안아, 하나님을 찬양해요!"},
+        {"verse": 20, "original": "House of Levi, praise Yahweh! You who fear Yahweh, praise Yahweh!", "korean": "레위 집안아, 하나님을 찬양해요! 하나님을 공경하는 사람들아, 하나님을 찬양해요!"},
+        {"verse": 21, "original": "Blessed be Yahweh from Zion, who dwells at Jerusalem. Praise Yah!", "korean": "예루살렘에 계시는 하나님께서 시온에서 찬양받으시길! 할렐루야!"}
+      ]
+    },
+    {
+      "chapter": 136,
+      "verses": [
+        {"verse": 1, "original": "Give thanks to Yahweh, for he is good; for his loving kindness endures forever.", "korean": "하나님께 감사해요. 그분은 선하시기 때문이에요. 그분의 사랑은 영원해요."},
+        {"verse": 2, "original": "Give thanks to the God of gods; for his loving kindness endures forever.", "korean": "신들의 하나님께 감사해요. 그분의 사랑은 영원해요."},
+        {"verse": 3, "original": "Give thanks to the Lord of lords; for his loving kindness endures forever:", "korean": "주들의 주님께 감사해요. 그분의 사랑은 영원해요."},
+        {"verse": 4, "original": "to him who alone does great wonders; for his loving kindness endures forever:", "korean": "홀로 큰 기적을 행하시는 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 5, "original": "to him who by understanding made the heavens; for his loving kindness endures forever:", "korean": "지혜로 하늘을 만드신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 6, "original": "to him who spread out the earth above the waters; for his loving kindness endures forever:", "korean": "물 위에 땅을 펼치신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 7, "original": "to him who made the great lights; for his loving kindness endures forever:", "korean": "큰 빛들을 만드신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 8, "original": "the sun to rule by day; for his loving kindness endures forever;", "korean": "낮을 다스리는 해를요. 그분의 사랑은 영원해요."},
+        {"verse": 9, "original": "the moon and stars to rule by night; for his loving kindness endures forever:", "korean": "밤을 다스리는 달과 별들을요. 그분의 사랑은 영원해요."},
+        {"verse": 10, "original": "to him who struck down the Egyptian firstborn; for his loving kindness endures forever;", "korean": "이집트의 처음 난 것을 치신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 11, "original": "and brought out Israel from among them; for his loving kindness endures forever;", "korean": "이스라엘을 그들 가운데서 이끌어 내신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 12, "original": "with a strong hand, and with an outstretched arm; for his loving kindness endures forever:", "korean": "강한 손과 펼친 팔로요. 그분의 사랑은 영원해요."},
+        {"verse": 13, "original": "to him who divided the Red Sea apart; for his loving kindness endures forever;", "korean": "홍해를 나누신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 14, "original": "and made Israel to pass through the middle of it; for his loving kindness endures forever;", "korean": "이스라엘을 그 가운데로 건너게 하신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 15, "original": "but overthrew Pharaoh and his army in the Red Sea; for his loving kindness endures forever:", "korean": "바로와 그의 군대를 홍해에 빠뜨리신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 16, "original": "to him who led his people through the wilderness; for his loving kindness endures forever:", "korean": "자기 백성을 광야로 인도하신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 17, "original": "to him who struck great kings; for his loving kindness endures forever;", "korean": "큰 왕들을 치신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 18, "original": "and killed mighty kings; for his loving kindness endures forever:", "korean": "강한 왕들을 죽이신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 19, "original": "Sihon king of the Amorites; for his loving kindness endures forever;", "korean": "아모리 사람의 왕 시혼을요. 그분의 사랑은 영원해요."},
+        {"verse": 20, "original": "Og king of Bashan; for his loving kindness endures forever;", "korean": "바산 왕 옥을요. 그분의 사랑은 영원해요."},
+        {"verse": 21, "original": "and gave their land as an inheritance; for his loving kindness endures forever;", "korean": "그 땅을 유산으로 주신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 22, "original": "even a heritage to Israel his servant; for his loving kindness endures forever:", "korean": "종 이스라엘에게 유산으로요. 그분의 사랑은 영원해요."},
+        {"verse": 23, "original": "who remembered us in our low estate; for his loving kindness endures forever;", "korean": "우리가 낮은 상태에 있을 때 기억해 주신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 24, "original": "and has delivered us from our adversaries; for his loving kindness endures forever:", "korean": "우리를 원수들에게서 건져 주신 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 25, "original": "who gives food to every creature; for his loving kindness endures forever.", "korean": "모든 생물에게 먹을 것을 주시는 분께요. 그분의 사랑은 영원해요."},
+        {"verse": 26, "original": "Oh give thanks to the God of heaven; for his loving kindness endures forever.", "korean": "하늘의 하나님께 감사해요. 그분의 사랑은 영원해요!"}
+      ]
+    },
+    {
+      "chapter": 137,
+      "verses": [
+        {"verse": 1, "original": "By the rivers of Babylon, there we sat down. Yes, we wept, when we remembered Zion.", "korean": "바벨론 강가에서 우리가 앉았어요. 시온을 기억하며 울었어요."},
+        {"verse": 2, "original": "On the willows in that land, we hung up our harps.", "korean": "그 땅의 버드나무에 우리 수금을 걸어 두었어요."},
+        {"verse": 3, "original": "For there, those who led us captive asked us for songs. Those who tormented us demanded songs of joy: \"Sing us one of the songs of Zion!\"", "korean": "우리를 사로잡아 간 사람들이 노래를 부르라고 했어요. 우리를 괴롭히는 자들이 기쁜 노래를 요구했어요. \"시온의 노래를 불러 봐!\""},
+        {"verse": 4, "original": "How can we sing Yahweh's song in a foreign land?", "korean": "낯선 땅에서 어떻게 하나님의 노래를 부를 수 있겠어요?"},
+        {"verse": 5, "original": "If I forget you, Jerusalem, let my right hand forget its skill.", "korean": "예루살렘아, 내가 너를 잊으면, 내 오른손이 굳어 버리게 해요."},
+        {"verse": 6, "original": "Let my tongue stick to the roof of my mouth if I don't remember you, if I don't prefer Jerusalem above my chief joy.", "korean": "내가 너를 기억하지 않으면, 예루살렘을 가장 큰 기쁨보다 더 귀하게 여기지 않으면, 내 혀가 입천장에 붙어 버리게 해요."},
+        {"verse": 7, "original": "Remember, Yahweh, against the children of Edom in the day of Jerusalem, who said, \"Raze it! Raze it even to its foundation!\"", "korean": "하나님, 예루살렘이 무너지던 날 에돔 자손들을 기억해 주세요. 그들이 말했어요. \"허물어라! 기초까지 허물어 버려라!\""},
+        {"verse": 8, "original": "Daughter of Babylon, doomed to destruction, he will be happy who repays you, as you have done to us.", "korean": "멸망할 바벨론아, 네가 우리에게 한 대로 네게 갚는 사람은 복이 있을 거예요."},
+        {"verse": 9, "original": "Happy shall he be, who takes and dashes your little ones against the rock.", "korean": "네 어린 아이들을 바위에 메어치는 자는 복이 있을 거예요."}
+      ]
+    },
+    {
+      "chapter": 138,
+      "verses": [
+        {"verse": 1, "original": "I will give you thanks with my whole heart. Before the gods, I will sing praises to you.", "korean": "내가 온 마음으로 하나님께 감사할 거예요. 모든 신 앞에서 하나님을 찬양할 거예요."},
+        {"verse": 2, "original": "I will bow down toward your holy temple, and give thanks to your Name for your loving kindness and for your truth; for you have exalted your Name and your Word above all.", "korean": "하나님의 거룩한 성전을 향해 절할 거예요. 하나님의 사랑과 진실 때문에 하나님의 이름을 감사할 거예요. 하나님께서 하나님의 이름과 말씀을 모든 것 위에 높이셨어요."},
+        {"verse": 3, "original": "In the day that I called, you answered me. You encouraged me with strength in my soul.", "korean": "내가 부르던 날에 하나님께서 응답해 주셨어요. 내 영혼에 힘을 주셨어요."},
+        {"verse": 4, "original": "All the kings of the earth will give you thanks, Yahweh, for they have heard the words of your mouth.", "korean": "하나님, 땅의 모든 왕들이 하나님께 감사할 거예요. 그들이 하나님의 말씀을 들었기 때문이에요."},
+        {"verse": 5, "original": "Yes, they will sing of the ways of Yahweh, for Yahweh's glory is great!", "korean": "그들이 하나님의 길을 노래할 거예요. 하나님의 영광이 크시기 때문이에요!"},
+        {"verse": 6, "original": "For though Yahweh is high, yet he looks after the lowly; but he knows the proud from afar.", "korean": "하나님은 높으시지만, 낮은 자를 돌보세요. 하지만 교만한 자는 멀리서 아세요."},
+        {"verse": 7, "original": "Though I walk in the middle of trouble, you will revive me. You will stretch out your hand against the wrath of my enemies. Your right hand will save me.", "korean": "내가 어려움 가운데 걸어도, 하나님께서 나를 살리실 거예요. 원수들의 분노에 손을 펴실 거예요. 하나님의 오른손이 나를 구해 주실 거예요."},
+        {"verse": 8, "original": "Yahweh will fulfill that which concerns me. Your loving kindness, Yahweh, endures forever. Don't forsake the works of your own hands.", "korean": "하나님께서 나에 관한 일을 이루실 거예요. 하나님, 하나님의 사랑은 영원해요. 손으로 만드신 것을 버리지 마세요."}
+      ]
+    },
+    {
+      "chapter": 139,
+      "verses": [
+        {"verse": 1, "original": "Yahweh, you have searched me, and you know me.", "korean": "하나님, 하나님께서 나를 살피시고 나를 아세요."},
+        {"verse": 2, "original": "You know my sitting down and my rising up. You perceive my thoughts from afar.", "korean": "하나님께서 내가 앉는 것과 일어나는 것을 아세요. 멀리서도 내 생각을 아세요."},
+        {"verse": 3, "original": "You search out my path and my lying down, and are acquainted with all my ways.", "korean": "하나님께서 내가 가는 길과 눕는 것을 살피세요. 내 모든 길을 잘 아세요."},
+        {"verse": 4, "original": "For there is not a word on my tongue, but, behold, Yahweh, you know it altogether.", "korean": "내 혀에 말이 있기도 전에, 하나님, 하나님께서 다 아세요."},
+        {"verse": 5, "original": "You hem me in behind and before. You laid your hand on me.", "korean": "하나님께서 뒤에서 앞에서 나를 둘러싸세요. 하나님의 손을 내 위에 두셨어요."},
+        {"verse": 6, "original": "This knowledge is beyond me. It's lofty. I can't attain it.", "korean": "이런 지식은 너무 놀라워요. 너무 높아서 내가 이를 수 없어요."},
+        {"verse": 7, "original": "Where could I go from your Spirit? Or where could I flee from your presence?", "korean": "하나님의 영 앞에서 어디로 갈 수 있을까요? 하나님 앞에서 어디로 피할 수 있을까요?"},
+        {"verse": 8, "original": "If I ascend up into heaven, you are there. If I make my bed in Sheol, behold, you are there!", "korean": "내가 하늘로 올라가도, 하나님께서 거기 계세요. 내가 스올에 자리를 펴도, 보세요, 거기에도 계세요!"},
+        {"verse": 9, "original": "If I take the wings of the dawn, and settle in the uttermost parts of the sea,", "korean": "내가 새벽 날개를 타고, 바다 끝에 가서 살아도,"},
+        {"verse": 10, "original": "even there your hand will lead me, and your right hand will hold me.", "korean": "거기서도 하나님의 손이 나를 인도하시고, 오른손이 나를 붙잡으실 거예요."},
+        {"verse": 11, "original": "If I say, \"Surely the darkness will overwhelm me. The light around me will be night,\"", "korean": "내가 말해도, \"어둠이 나를 덮겠지. 내 주위의 빛이 밤이 되겠지.\""},
+        {"verse": 12, "original": "even the darkness doesn't hide from you, but the night shines as the day. The darkness is like light to you.", "korean": "어둠도 하나님께 숨지 못해요. 밤도 낮처럼 밝아요. 어둠이 하나님께는 빛과 같아요."},
+        {"verse": 13, "original": "For you formed my inmost being. You knit me together in my mother's womb.", "korean": "하나님께서 내 속 깊은 곳을 만드셨어요. 엄마 배 속에서 나를 짜셨어요."},
+        {"verse": 14, "original": "I will give thanks to you, for I am fearfully and wonderfully made. Your works are wonderful. My soul knows that very well.", "korean": "내가 하나님께 감사해요. 내가 놀랍고 신기하게 만들어졌기 때문이에요. 하나님의 작품은 놀라워요. 내 영혼이 그것을 잘 알아요."},
+        {"verse": 15, "original": "My frame wasn't hidden from you, when I was made in secret, woven together in the depths of the earth.", "korean": "내가 비밀한 곳에서 만들어질 때, 내 뼈가 하나님께 숨겨지지 않았어요. 땅 깊은 곳에서 짜여질 때도요."},
+        {"verse": 16, "original": "Your eyes saw my body. In your book they were all written, the days that were ordained for me, when as yet there were none of them.", "korean": "하나님의 눈이 내 몸을 보셨어요. 내 날들이 하나도 되기 전에, 다 하나님의 책에 기록되었어요."},
+        {"verse": 17, "original": "How precious to me are your thoughts, God! How vast is their sum!", "korean": "하나님, 하나님의 생각이 내게 얼마나 귀한지요! 얼마나 많은지요!"},
+        {"verse": 18, "original": "If I would count them, they are more in number than the sand. When I wake up, I am still with you.", "korean": "내가 세려 해도, 모래보다 많아요. 내가 깨어나도 여전히 하나님과 함께 있어요."},
+        {"verse": 19, "original": "If only you, God, would kill the wicked. Get away from me, you bloodthirsty men!", "korean": "하나님, 악한 자들을 죽여 주세요. 피를 좋아하는 사람들아, 나에게서 떠나가!"},
+        {"verse": 20, "original": "For they speak against you wickedly. Your enemies take your name in vain.", "korean": "그들이 하나님을 거스려 악하게 말해요. 하나님의 원수들이 하나님의 이름을 헛되이 불러요."},
+        {"verse": 21, "original": "Yahweh, don't I hate those who hate you? Am I not grieved with those who rise up against you?", "korean": "하나님, 하나님을 미워하는 자들을 내가 미워하지 않겠어요? 하나님께 대항하는 자들을 내가 싫어하지 않겠어요?"},
+        {"verse": 22, "original": "I hate them with perfect hatred. They have become my enemies.", "korean": "나는 그들을 완전히 미워해요. 그들이 내 원수가 되었어요."},
+        {"verse": 23, "original": "Search me, God, and know my heart. Try me, and know my thoughts.", "korean": "하나님, 나를 살피시고 내 마음을 아세요. 나를 시험하시고 내 생각을 아세요."},
+        {"verse": 24, "original": "See if there is any wicked way in me, and lead me in the everlasting way.", "korean": "내게 나쁜 길이 있는지 보시고, 영원한 길로 나를 인도해 주세요."}
+      ]
+    },
+    {
+      "chapter": 140,
+      "verses": [
+        {"verse": 1, "original": "Deliver me, Yahweh, from the evil man. Preserve me from the violent man:", "korean": "하나님, 악한 사람에게서 나를 건져 주세요. 폭력적인 사람에게서 나를 지켜 주세요."},
+        {"verse": 2, "original": "those who devise mischief in their hearts. They continually gather themselves together for war.", "korean": "그들은 마음으로 나쁜 것을 꾸며요. 늘 싸우려고 모여요."},
+        {"verse": 3, "original": "They have sharpened their tongues like a serpent. Viper's poison is under their lips.", "korean": "그들은 혀를 뱀처럼 날카롭게 했어요. 독사의 독이 그들의 입술 아래 있어요."},
+        {"verse": 4, "original": "Yahweh, keep me from the hands of the wicked. Preserve me from the violent men who have determined to trip my feet.", "korean": "하나님, 악한 자들의 손에서 나를 지켜 주세요. 내 발을 넘어뜨리려는 폭력적인 사람들에게서 나를 보호해 주세요."},
+        {"verse": 5, "original": "The proud have hidden a snare for me, they have spread the cords of a net by the path. They have set traps for me.", "korean": "교만한 자들이 나를 위해 덫을 숨겼어요. 길가에 그물 줄을 펴 놓았어요. 나를 위해 함정을 놓았어요."},
+        {"verse": 6, "original": "I said to Yahweh, \"You are my God.\" Listen to the cry of my petitions, Yahweh.", "korean": "내가 하나님께 말했어요. \"하나님은 나의 하나님이세요.\" 하나님, 내가 간절히 부르는 소리를 들어 주세요."},
+        {"verse": 7, "original": "Yahweh, the Lord, the strength of my salvation, you have covered my head in the day of battle.", "korean": "하나님, 주님, 나를 구원하시는 힘이여, 싸우는 날에 내 머리를 가려 주셨어요."},
+        {"verse": 8, "original": "Yahweh, don't grant the desires of the wicked. Don't let their evil plans succeed, or they will become proud.", "korean": "하나님, 악한 자들이 원하는 것을 주지 마세요. 그들의 나쁜 계획이 성공하지 못하게 해 주세요. 그러면 그들이 교만해질 거예요."},
+        {"verse": 9, "original": "As for the head of those who surround me, let the mischief of their own lips cover them.", "korean": "나를 둘러싼 자들의 머리에, 그들 자신의 입술의 악이 덮이게 해 주세요."},
+        {"verse": 10, "original": "Let burning coals fall on them. Let them be thrown into the fire, into miry pits, from where they never rise.", "korean": "뜨거운 숯이 그들 위에 떨어지게 해 주세요. 그들이 불 속에, 깊은 구덩이에 던져져서 다시 일어나지 못하게 해 주세요."},
+        {"verse": 11, "original": "An evil speaker won't be established in the earth. Evil will hunt the violent man to overthrow him.", "korean": "나쁜 말을 하는 사람은 땅에 설 수 없어요. 악이 폭력적인 사람을 쫓아가 쓰러뜨릴 거예요."},
+        {"verse": 12, "original": "I know that Yahweh will maintain the cause of the afflicted, and justice for the needy.", "korean": "나는 알아요, 하나님께서 고통받는 자의 일을 맡아 주시고, 가난한 자에게 공의를 베푸실 거예요."},
+        {"verse": 13, "original": "Surely the righteous will give thanks to your name. The upright will dwell in your presence.", "korean": "의로운 자가 분명히 하나님의 이름에 감사할 거예요. 바른 사람이 하나님 앞에 살 거예요."}
+      ]
+    },
+    {
+      "chapter": 141,
+      "verses": [
+        {"verse": 1, "original": "Yahweh, I have called on you. Come to me quickly! Listen to my voice when I call to you.", "korean": "하나님, 내가 하나님을 불렀어요. 빨리 내게 오세요! 내가 부를 때 내 목소리를 들어 주세요."},
+        {"verse": 2, "original": "Let my prayer be set before you like incense; the lifting up of my hands like the evening sacrifice.", "korean": "내 기도가 향처럼 하나님 앞에 오르게 해 주세요. 내 손을 드는 것이 저녁 제사처럼 되게 해 주세요."},
+        {"verse": 3, "original": "Set a watch, Yahweh, before my mouth. Keep the door of my lips.", "korean": "하나님, 내 입 앞에 파수꾼을 세워 주세요. 내 입술의 문을 지켜 주세요."},
+        {"verse": 4, "original": "Don't incline my heart to any evil thing, to practice deeds of wickedness with men who work iniquity. Don't let me eat of their delicacies.", "korean": "내 마음이 나쁜 것에 기울지 않게 해 주세요. 악을 행하는 사람들과 나쁜 일을 하지 않게 해 주세요. 그들의 맛있는 음식을 먹지 않게 해 주세요."},
+        {"verse": 5, "original": "Let the righteous strike me, it is kindness; let him reprove me, it is like oil on the head; don't let my head refuse it; Yet my prayer is always against evil deeds.", "korean": "의로운 사람이 나를 치는 것은 친절이에요. 그가 나를 꾸짖는 것은 머리에 기름 같아요. 내 머리가 그것을 거부하지 않게 해 주세요. 내 기도는 항상 악한 행동에 반대해요."},
+        {"verse": 6, "original": "Their judges are thrown down by the sides of the rock. They will hear my words, for they are well spoken.", "korean": "그들의 재판관들이 바위 옆에 던져져요. 그들이 내 말을 들을 거예요, 내 말이 바르기 때문이에요."},
+        {"verse": 7, "original": "\"As when one plows and breaks up the earth, our bones are scattered at the mouth of Sheol.\"", "korean": "\"밭을 갈아 흙을 부수는 것처럼, 우리 뼈가 무덤 입구에 흩어졌어요.\""},
+        {"verse": 8, "original": "For my eyes are on you, Yahweh, the Lord. In you, I take refuge. Don't leave my soul destitute.", "korean": "내 눈이 하나님, 주님을 바라봐요. 하나님 안에서 피해요. 내 영혼을 버려두지 마세요."},
+        {"verse": 9, "original": "Keep me from the snare which they have laid for me, from the traps of the workers of iniquity.", "korean": "그들이 나를 위해 놓은 덫에서 지켜 주세요. 악을 행하는 자들의 함정에서 지켜 주세요."},
+        {"verse": 10, "original": "Let the wicked fall together into their own nets while I pass by.", "korean": "내가 지나갈 때, 악한 자들이 자기 그물에 함께 빠지게 해 주세요."}
+      ]
+    },
+    {
+      "chapter": 142,
+      "verses": [
+        {"verse": 1, "original": "I cry with my voice to Yahweh. With my voice, I ask Yahweh for mercy.", "korean": "내가 목소리로 하나님께 외쳐요. 목소리로 하나님께 자비를 구해요."},
+        {"verse": 2, "original": "I pour out my complaint before him. I tell him my troubles.", "korean": "내가 하나님 앞에 내 하소연을 쏟아 놓아요. 내 어려움을 하나님께 말해요."},
+        {"verse": 3, "original": "When my spirit was overwhelmed within me, you knew my route. On the path in which I walk, they have hidden a snare for me.", "korean": "내 영이 지칠 때, 하나님께서 내 길을 아셨어요. 내가 걷는 길에 그들이 덫을 숨겨 놓았어요."},
+        {"verse": 4, "original": "Look on my right, and see; for there is no one who is concerned for me. Refuge has fled from me. No one cares for my soul.", "korean": "오른쪽을 보세요. 나를 걱정해 주는 사람이 없어요. 피난처가 내게서 도망쳤어요. 내 영혼을 돌봐 주는 사람이 없어요."},
+        {"verse": 5, "original": "I cried to you, Yahweh. I said, \"You are my refuge, my portion in the land of the living.\"", "korean": "하나님, 내가 하나님께 외쳤어요. \"하나님은 내 피난처예요. 살아 있는 자들의 땅에서 내 몫이에요.\""},
+        {"verse": 6, "original": "Listen to my cry, for I am in desperate need. Deliver me from my persecutors, for they are too strong for me.", "korean": "내 부르짖음을 들어 주세요. 나는 정말 급해요. 나를 쫓는 자들에게서 건져 주세요. 그들이 나보다 너무 강해요."},
+        {"verse": 7, "original": "Bring my soul out of prison, that I may give thanks to your name. The righteous will surround me, for you will be good to me.", "korean": "내 영혼을 감옥에서 꺼내 주세요. 그러면 하나님의 이름에 감사할 수 있어요. 의로운 사람들이 나를 둘러쌀 거예요. 하나님께서 나에게 좋게 해 주실 거예요."}
+      ]
+    },
+    {
+      "chapter": 143,
+      "verses": [
+        {"verse": 1, "original": "Hear my prayer, Yahweh. Listen to my petitions. In your faithfulness and righteousness, relieve me.", "korean": "하나님, 내 기도를 들어 주세요. 내 간청을 들어 주세요. 하나님의 신실함과 의로움으로 나를 도와주세요."},
+        {"verse": 2, "original": "Don't enter into judgment with your servant, for in your sight no man living is righteous.", "korean": "하나님의 종을 심판하러 들어오지 마세요. 하나님 앞에서 사는 사람 중에 의로운 자가 없어요."},
+        {"verse": 3, "original": "For the enemy pursues my soul. He has struck my life down to the ground. He has made me live in dark places, as those who have been long dead.", "korean": "원수가 내 영혼을 쫓아요. 내 생명을 땅에 쳤어요. 오래전에 죽은 사람들처럼 어두운 곳에 살게 했어요."},
+        {"verse": 4, "original": "Therefore my spirit is overwhelmed within me. My heart within me is desolate.", "korean": "그래서 내 영이 지쳐요. 내 마음이 황폐해요."},
+        {"verse": 5, "original": "I remember the days of old. I meditate on all your doings. I contemplate the work of your hands.", "korean": "나는 옛날을 기억해요. 하나님께서 하신 모든 일을 묵상해요. 하나님의 손이 하신 일을 생각해요."},
+        {"verse": 6, "original": "I spread out my hands to you. My soul thirsts for you, like a parched land.", "korean": "내가 손을 하나님께 펴요. 내 영혼이 마른 땅처럼 하나님을 목마르게 찾아요."},
+        {"verse": 7, "original": "Hurry to answer me, Yahweh. My spirit fails. Don't hide your face from me, so that I don't become like those who go down into the pit.", "korean": "하나님, 빨리 내게 응답해 주세요. 내 영이 약해져요. 하나님의 얼굴을 숨기지 마세요. 그러면 내가 무덤에 내려가는 자들처럼 되지 않을 거예요."},
+        {"verse": 8, "original": "Cause me to hear your loving kindness in the morning, for I trust in you. Cause me to know the way in which I should walk, for I lift up my soul to you.", "korean": "아침에 하나님의 사랑을 듣게 해 주세요. 내가 하나님을 믿어요. 내가 걸어야 할 길을 알게 해 주세요. 내 영혼을 하나님께 올려요."},
+        {"verse": 9, "original": "Deliver me, Yahweh, from my enemies. I flee to you to hide me.", "korean": "하나님, 원수들에게서 나를 건져 주세요. 내가 하나님께 피해요, 나를 숨겨 주세요."},
+        {"verse": 10, "original": "Teach me to do your will, for you are my God. Your Spirit is good. Lead me in the land of uprightness.", "korean": "하나님의 뜻을 행하도록 가르쳐 주세요. 하나님은 나의 하나님이세요. 하나님의 영은 선하세요. 평탄한 땅으로 나를 인도해 주세요."},
+        {"verse": 11, "original": "Revive me, Yahweh, for your name's sake. In your righteousness, bring my soul out of trouble.", "korean": "하나님, 하나님의 이름을 위해 나를 살려 주세요. 하나님의 의로움으로 내 영혼을 어려움에서 꺼내 주세요."},
+        {"verse": 12, "original": "In your loving kindness, cut off my enemies, and destroy all those who afflict my soul, For I am your servant.", "korean": "하나님의 사랑으로 내 원수들을 끊어 주세요. 내 영혼을 괴롭히는 자들을 모두 멸하세요. 나는 하나님의 종이에요."}
+      ]
+    },
+    {
+      "chapter": 144,
+      "verses": [
+        {"verse": 1, "original": "Blessed be Yahweh, my rock, who teaches my hands to war, and my fingers to battle:", "korean": "내 반석이신 하나님을 찬양해요. 하나님께서 내 손에게 싸움을, 내 손가락에게 전쟁을 가르쳐 주세요."},
+        {"verse": 2, "original": "my loving kindness, my fortress, my high tower, my deliverer, my shield, and he in whom I take refuge, who subdues my people under me.", "korean": "하나님은 나의 사랑, 나의 요새, 나의 높은 망대, 나를 건지시는 분, 나의 방패예요. 내가 피하는 분이시고, 내 백성을 내 아래 복종시키시는 분이에요."},
+        {"verse": 3, "original": "Yahweh, what is man, that you care for him? Or the son of man, that you think of him?", "korean": "하나님, 사람이 무엇이기에 돌보시나요? 사람의 아들이 무엇이기에 생각하시나요?"},
+        {"verse": 4, "original": "Man is like a breath. His days are like a shadow that passes away.", "korean": "사람은 숨결 같아요. 그의 날들은 지나가는 그림자 같아요."},
+        {"verse": 5, "original": "Part your heavens, Yahweh, and come down. Touch the mountains, and they will smoke.", "korean": "하나님, 하늘을 가르고 내려오세요. 산들을 만지시면 연기가 날 거예요."},
+        {"verse": 6, "original": "Throw out lightning, and scatter them. Send out your arrows, and rout them.", "korean": "번개를 던져 그들을 흩으세요. 화살을 보내 그들을 쫓으세요."},
+        {"verse": 7, "original": "Stretch out your hand from above, rescue me, and deliver me out of great waters, out of the hands of foreigners,", "korean": "위에서 손을 펴세요. 나를 구하세요. 큰 물에서, 낯선 사람들의 손에서 나를 건져 주세요."},
+        {"verse": 8, "original": "whose mouths speak deceit, whose right hand is a right hand of falsehood.", "korean": "그들의 입은 거짓을 말해요. 그들의 오른손은 거짓의 오른손이에요."},
+        {"verse": 9, "original": "I will sing a new song to you, God. On a ten-stringed lyre, I will sing praises to you.", "korean": "하나님, 내가 새 노래를 부를 거예요. 열 줄 수금으로 찬양을 부를 거예요."},
+        {"verse": 10, "original": "You are he who gives salvation to kings, who rescues David, his servant, from the deadly sword.", "korean": "하나님은 왕들에게 구원을 주시는 분이에요. 종 다윗을 죽이는 칼에서 건지시는 분이에요."},
+        {"verse": 11, "original": "Rescue me, and deliver me out of the hands of foreigners, whose mouths speak deceit, whose right hand is a right hand of falsehood.", "korean": "나를 구하세요. 낯선 사람들의 손에서 건져 주세요. 그들의 입은 거짓을 말하고, 오른손은 거짓의 오른손이에요."},
+        {"verse": 12, "original": "Then our sons will be like well-nurtured plants, our daughters like pillars carved to adorn a palace.", "korean": "그러면 우리 아들들이 잘 자란 나무 같을 거예요. 우리 딸들이 궁전을 꾸미는 아름다운 기둥 같을 거예요."},
+        {"verse": 13, "original": "Our barns are full, filled with all kinds of provision. Our sheep produce thousands and ten thousands in our fields.", "korean": "우리 곳간이 온갖 곡식으로 가득 찰 거예요. 우리 양들이 들에서 천 마리, 만 마리씩 낳을 거예요."},
+        {"verse": 14, "original": "Our oxen will pull heavy loads. There is no breaking in, and no going away, and no outcry in our streets.", "korean": "우리 소들이 무거운 짐을 끌 거예요. 침략도 없고, 도망갈 일도 없고, 우리 거리에 비명도 없을 거예요."},
+        {"verse": 15, "original": "Happy are the people who are in such a situation. Happy are the people whose God is Yahweh.", "korean": "이런 상황에 있는 백성은 행복해요. 하나님을 자기 하나님으로 둔 백성은 행복해요!"}
+      ]
+    },
+    {
+      "chapter": 145,
+      "verses": [
+        {"verse": 1, "original": "I will exalt you, my God, the King. I will praise your name forever and ever.", "korean": "내 하나님, 왕이시여, 내가 하나님을 높일 거예요. 영원히 하나님의 이름을 찬양할 거예요."},
+        {"verse": 2, "original": "Every day I will praise you. I will extol your name forever and ever.", "korean": "매일 하나님을 찬양할 거예요. 영원히 하나님의 이름을 높일 거예요."},
+        {"verse": 3, "original": "Great is Yahweh, and greatly to be praised! His greatness is unsearchable.", "korean": "하나님은 크시고, 크게 찬양받을 분이에요! 하나님의 위대하심은 측량할 수 없어요."},
+        {"verse": 4, "original": "One generation will commend your works to another, and will declare your mighty acts.", "korean": "한 세대가 다음 세대에게 하나님의 일을 칭찬할 거예요. 하나님의 능력 있는 일을 선포할 거예요."},
+        {"verse": 5, "original": "I will meditate on the glorious majesty of your honor, on your wondrous works.", "korean": "나는 하나님의 영광스러운 위엄과 놀라운 일들을 묵상할 거예요."},
+        {"verse": 6, "original": "Men will speak of the might of your awesome acts. I will declare your greatness.", "korean": "사람들이 하나님의 놀라운 일의 능력을 말할 거예요. 나는 하나님의 위대하심을 선포할 거예요."},
+        {"verse": 7, "original": "They will utter the memory of your great goodness, and will sing of your righteousness.", "korean": "그들이 하나님의 크신 선하심을 기억하며 말할 거예요. 하나님의 의로우심을 노래할 거예요."},
+        {"verse": 8, "original": "Yahweh is gracious, merciful, slow to anger, and of great loving kindness.", "korean": "하나님은 은혜로우시고, 자비로우시고, 노하기를 더디 하시고, 사랑이 크세요."},
+        {"verse": 9, "original": "Yahweh is good to all. His tender mercies are over all his works.", "korean": "하나님은 모든 것에 선하세요. 하나님의 부드러운 긍휼이 만드신 모든 것 위에 있어요."},
+        {"verse": 10, "original": "All your works will give thanks to you, Yahweh. Your saints will extol you.", "korean": "하나님, 만드신 모든 것이 하나님께 감사할 거예요. 성도들이 하나님을 높일 거예요."},
+        {"verse": 11, "original": "They will speak of the glory of your kingdom, and talk about your power,", "korean": "그들이 하나님 나라의 영광을 말하고, 하나님의 능력에 대해 이야기할 거예요."},
+        {"verse": 12, "original": "to make known to the sons of men his mighty acts, the glory of the majesty of his kingdom.", "korean": "사람들에게 하나님의 능력 있는 일과 하나님 나라의 영광스러운 위엄을 알리기 위해서예요."},
+        {"verse": 13, "original": "Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations. Yahweh is faithful in all his words, and loving in all his deeds.", "korean": "하나님의 나라는 영원한 나라예요. 하나님의 다스림은 모든 세대에 걸쳐 있어요. 하나님은 모든 말씀에 신실하시고, 모든 행동에 사랑이 있으세요."},
+        {"verse": 14, "original": "Yahweh upholds all who fall, and raises up all those who are bowed down.", "korean": "하나님께서 넘어지는 모든 사람을 붙들어 주시고, 굽은 모든 사람을 일으켜 세우세요."},
+        {"verse": 15, "original": "The eyes of all wait for you. You give them their food in due season.", "korean": "모든 것의 눈이 하나님을 바라보며 기다려요. 하나님께서 때에 맞추어 그들에게 먹을 것을 주세요."},
+        {"verse": 16, "original": "You open your hand, and satisfy the desire of every living thing.", "korean": "하나님께서 손을 펴시면, 모든 생물의 소원을 만족시켜 주세요."},
+        {"verse": 17, "original": "Yahweh is righteous in all his ways, and gracious in all his works.", "korean": "하나님은 모든 길에 의로우시고, 모든 일에 은혜로우세요."},
+        {"verse": 18, "original": "Yahweh is near to all those who call on him, to all who call on him in truth.", "korean": "하나님은 자기를 부르는 모든 사람, 진실하게 부르는 모든 사람에게 가까이 계세요."},
+        {"verse": 19, "original": "He will fulfill the desire of those who fear him. He also will hear their cry, and will save them.", "korean": "하나님을 공경하는 사람들의 소원을 이루어 주실 거예요. 그들의 부르짖음을 들으시고 구해 주실 거예요."},
+        {"verse": 20, "original": "Yahweh preserves all those who love him, but he will destroy all the wicked.", "korean": "하나님께서 자기를 사랑하는 모든 사람을 지키시지만, 악한 자들은 모두 멸하실 거예요."},
+        {"verse": 21, "original": "My mouth will speak the praise of Yahweh. Let all flesh bless his holy name forever and ever.", "korean": "내 입이 하나님을 찬양할 거예요. 모든 생명이 영원히 하나님의 거룩한 이름을 찬양하기를 바라요!"}
+      ]
+    },
+    {
+      "chapter": 146,
+      "verses": [
+        {"verse": 1, "original": "Praise Yah! Praise Yahweh, my soul.", "korean": "할렐루야! 내 영혼아, 하나님을 찬양해!"},
+        {"verse": 2, "original": "While I live, I will praise Yahweh. I will sing praises to my God as long as I exist.", "korean": "살아 있는 동안 하나님을 찬양할 거예요. 살아 있는 한 나의 하나님께 찬양을 부를 거예요."},
+        {"verse": 3, "original": "Don't put your trust in princes, in a son of man in whom there is no help.", "korean": "왕이나 지도자를 믿지 마세요. 도움을 줄 수 없는 사람을 믿지 마세요."},
+        {"verse": 4, "original": "His spirit departs, and he returns to the earth. In that very day, his thoughts perish.", "korean": "그의 숨이 떠나면 흙으로 돌아가요. 그날에 그의 계획도 사라져요."},
+        {"verse": 5, "original": "Happy is he who has the God of Jacob for his help, whose hope is in Yahweh, his God:", "korean": "야곱의 하나님을 도움으로 삼는 사람은 행복해요. 자기 하나님 여호와를 바라는 사람은 행복해요."},
+        {"verse": 6, "original": "who made heaven and earth, the sea, and all that is in them; who keeps truth forever;", "korean": "하나님께서 하늘과 땅과 바다와 그 안에 있는 모든 것을 만드셨어요. 영원히 진실을 지키세요."},
+        {"verse": 7, "original": "who executes justice for the oppressed; who gives food to the hungry. Yahweh frees the prisoners.", "korean": "억압받는 자들에게 공의를 베푸시고, 배고픈 자들에게 음식을 주세요. 하나님께서 갇힌 사람들을 풀어 주세요."},
+        {"verse": 8, "original": "Yahweh opens the eyes of the blind. Yahweh raises up those who are bowed down. Yahweh loves the righteous.", "korean": "하나님께서 눈먼 사람의 눈을 뜨게 해 주세요. 하나님께서 굽은 사람을 일으켜 세우세요. 하나님께서 의로운 사람을 사랑하세요."},
+        {"verse": 9, "original": "Yahweh preserves the foreigners. He upholds the fatherless and widow, but he turns the way of the wicked upside down.", "korean": "하나님께서 나그네를 지켜 주세요. 고아와 과부를 붙들어 주세요. 하지만 악한 자들의 길은 뒤엎으세요."},
+        {"verse": 10, "original": "Yahweh will reign forever; your God, O Zion, to all generations. Praise Yah!", "korean": "하나님께서 영원히 다스리실 거예요. 시온아, 네 하나님께서 모든 세대에요. 할렐루야!"}
+      ]
+    },
+    {
+      "chapter": 147,
+      "verses": [
+        {"verse": 1, "original": "Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise him.", "korean": "할렐루야! 우리 하나님을 찬양하는 것은 좋아요. 하나님을 찬양하는 것은 기쁘고 마땅해요."},
+        {"verse": 2, "original": "Yahweh builds up Jerusalem. He gathers together the outcasts of Israel.", "korean": "하나님께서 예루살렘을 세우세요. 흩어진 이스라엘 사람들을 모으세요."},
+        {"verse": 3, "original": "He heals the broken in heart, and binds up their wounds.", "korean": "하나님께서 마음이 상한 사람들을 고치세요. 그들의 상처를 싸매 주세요."},
+        {"verse": 4, "original": "He counts the number of the stars. He calls them all by their names.", "korean": "하나님께서 별의 수를 세세요. 별들을 모두 이름으로 부르세요."},
+        {"verse": 5, "original": "Great is our Lord, and mighty in power. His understanding is infinite.", "korean": "우리 주님은 크시고, 능력이 강하세요. 하나님의 지혜는 끝이 없어요."},
+        {"verse": 6, "original": "Yahweh upholds the humble. He brings the wicked down to the ground.", "korean": "하나님께서 겸손한 자를 붙들어 주세요. 악한 자들은 땅에 넘어뜨리세요."},
+        {"verse": 7, "original": "Sing to Yahweh with thanksgiving. Sing praises on the harp to our God,", "korean": "감사함으로 하나님께 노래해요. 수금으로 우리 하나님께 찬양해요."},
+        {"verse": 8, "original": "who covers the sky with clouds, who prepares rain for the earth, who makes grass grow on the mountains.", "korean": "하나님께서 구름으로 하늘을 덮으세요. 땅을 위해 비를 준비하세요. 산에 풀이 자라게 하세요."},
+        {"verse": 9, "original": "He provides food for the livestock, and for the young ravens when they call.", "korean": "하나님께서 가축에게 먹이를 주시고, 우는 어린 까마귀에게도 먹이를 주세요."},
+        {"verse": 10, "original": "He doesn't delight in the strength of the horse. He takes no pleasure in the legs of a man.", "korean": "하나님께서는 말의 힘을 기뻐하지 않으세요. 사람의 다리를 기뻐하지 않으세요."},
+        {"verse": 11, "original": "Yahweh takes pleasure in those who fear him, in those who hope in his loving kindness.", "korean": "하나님께서는 자기를 공경하는 사람들, 하나님의 사랑을 바라는 사람들을 기뻐하세요."},
+        {"verse": 12, "original": "Praise Yahweh, Jerusalem! Praise your God, Zion!", "korean": "예루살렘아, 하나님을 찬양해! 시온아, 네 하나님을 찬양해!"},
+        {"verse": 13, "original": "For he has strengthened the bars of your gates. He has blessed your children within you.", "korean": "하나님께서 네 문의 빗장을 튼튼하게 하셨어요. 네 가운데 있는 자녀들에게 복을 주셨어요."},
+        {"verse": 14, "original": "He makes peace in your borders. He fills you with the finest of the wheat.", "korean": "하나님께서 네 지경에 평화를 주세요. 가장 좋은 밀로 너를 배부르게 하세요."},
+        {"verse": 15, "original": "He sends out his commandment to the earth. His word runs very swiftly.", "korean": "하나님께서 땅에 명령을 보내세요. 하나님의 말씀이 아주 빨리 달려요."},
+        {"verse": 16, "original": "He gives snow like wool, and scatters frost like ashes.", "korean": "하나님께서 양털처럼 눈을 주시고, 재처럼 서리를 뿌리세요."},
+        {"verse": 17, "original": "He hurls down his hail like pebbles. Who can stand before his cold?", "korean": "하나님께서 조약돌처럼 우박을 던지세요. 누가 하나님의 추위를 견딜 수 있을까요?"},
+        {"verse": 18, "original": "He sends out his word, and melts them. He causes his wind to blow, and the waters flow.", "korean": "하나님께서 말씀을 보내시면 녹아요. 바람을 불게 하시면 물이 흘러요."},
+        {"verse": 19, "original": "He shows his word to Jacob, his statutes and his ordinances to Israel.", "korean": "하나님께서 야곱에게 말씀을 보여 주시고, 이스라엘에게 법과 규례를 주셨어요."},
+        {"verse": 20, "original": "He has not done this for just any nation. They don't know his ordinances. Praise Yah!", "korean": "하나님께서 다른 나라에는 이렇게 하지 않으셨어요. 그들은 하나님의 규례를 몰라요. 할렐루야!"}
+      ]
+    },
+    {
+      "chapter": 148,
+      "verses": [
+        {"verse": 1, "original": "Praise Yah! Praise Yahweh from the heavens! Praise him in the heights!", "korean": "할렐루야! 하늘에서 하나님을 찬양해요! 높은 곳에서 찬양해요!"},
+        {"verse": 2, "original": "Praise him, all his angels! Praise him, all his army!", "korean": "모든 천사들아, 하나님을 찬양해요! 모든 하늘의 군대야, 찬양해요!"},
+        {"verse": 3, "original": "Praise him, sun and moon! Praise him, all you shining stars!", "korean": "해와 달아, 하나님을 찬양해요! 빛나는 모든 별들아, 찬양해요!"},
+        {"verse": 4, "original": "Praise him, you heavens of heavens, you waters that are above the heavens.", "korean": "하늘 위의 하늘아, 찬양해요! 하늘 위의 물들아, 찬양해요!"},
+        {"verse": 5, "original": "Let them praise Yahweh's name, for he commanded, and they were created.", "korean": "그것들이 하나님의 이름을 찬양하게 해요. 하나님께서 명령하셨고, 그것들이 창조되었어요."},
+        {"verse": 6, "original": "He has also established them forever and ever. He has made a decree which will not pass away.", "korean": "하나님께서 그것들을 영원히 세우셨어요. 변하지 않는 법을 정하셨어요."},
+        {"verse": 7, "original": "Praise Yahweh from the earth, you great sea creatures, and all depths;", "korean": "땅에서 하나님을 찬양해요! 큰 바다 생물들과 모든 깊은 곳이여!"},
+        {"verse": 8, "original": "lightning and hail, snow and clouds; stormy wind, fulfilling his word;", "korean": "번개와 우박, 눈과 구름, 하나님의 말씀을 이루는 폭풍이여!"},
+        {"verse": 9, "original": "mountains and all hills; fruit trees and all cedars;", "korean": "산들과 모든 언덕이여! 과일 나무와 모든 백향목이여!"},
+        {"verse": 10, "original": "wild animals and all livestock; small creatures and flying birds;", "korean": "들짐승과 모든 가축이여! 작은 생물과 날개 달린 새들이여!"},
+        {"verse": 11, "original": "kings of the earth and all peoples; princes and all judges of the earth;", "korean": "땅의 왕들과 모든 백성이여! 지도자들과 땅의 모든 재판관이여!"},
+        {"verse": 12, "original": "both young men and maidens; old men and children:", "korean": "젊은이와 처녀들이여! 노인과 어린이들이여!"},
+        {"verse": 13, "original": "let them praise Yahweh's name, for his name alone is exalted. His glory is above the earth and the heavens.", "korean": "그들이 하나님의 이름을 찬양하게 해요. 하나님의 이름만 높으세요. 하나님의 영광이 땅과 하늘 위에 있어요."},
+        {"verse": 14, "original": "He has lifted up the horn of his people, the praise of all his saints, even of the children of Israel, a people near to him. Praise Yah!", "korean": "하나님께서 자기 백성의 힘을 높이셨어요. 모든 성도의 찬양을요. 이스라엘 자손, 하나님과 가까운 백성이에요. 할렐루야!"}
+      ]
+    },
+    {
+      "chapter": 149,
+      "verses": [
+        {"verse": 1, "original": "Praise Yahweh! Sing to Yahweh a new song, his praise in the assembly of the saints.", "korean": "할렐루야! 하나님께 새 노래를 불러요. 성도들의 모임에서 찬양해요."},
+        {"verse": 2, "original": "Let Israel rejoice in him who made them. Let the children of Zion be joyful in their King.", "korean": "이스라엘은 자기를 만드신 분 안에서 기뻐해요. 시온의 자녀들은 자기 왕 안에서 즐거워해요."},
+        {"verse": 3, "original": "Let them praise his name in the dance! Let them sing praises to him with tambourine and harp!", "korean": "춤추며 하나님의 이름을 찬양해요! 탬버린과 수금으로 찬양해요!"},
+        {"verse": 4, "original": "For Yahweh takes pleasure in his people. He crowns the humble with salvation.", "korean": "하나님께서 자기 백성을 기뻐하시기 때문이에요. 겸손한 자에게 구원의 면류관을 씌워 주세요."},
+        {"verse": 5, "original": "Let the saints rejoice in honor. Let them sing for joy on their beds.", "korean": "성도들이 영광 중에 기뻐해요. 침대에서 기쁨으로 노래해요."},
+        {"verse": 6, "original": "May the high praises of God be in their mouths, and a two-edged sword in their hand,", "korean": "그들의 입에는 하나님을 높이 찬양하는 노래가, 손에는 양날 칼이 있어요."},
+        {"verse": 7, "original": "to execute vengeance on the nations, and punishments on the peoples;", "korean": "나라들에게 복수하고, 민족들에게 벌을 내리기 위해서예요."},
+        {"verse": 8, "original": "to bind their kings with chains, and their nobles with fetters of iron;", "korean": "그들의 왕들을 사슬로 묶고, 귀족들을 쇠고랑으로 묶기 위해서예요."},
+        {"verse": 9, "original": "to execute on them the written judgment. All his saints have this honor. Praise Yah!", "korean": "기록된 대로 심판을 행하기 위해서예요. 모든 성도에게 이 영광이 있어요. 할렐루야!"}
+      ]
+    },
+    {
+      "chapter": 150,
+      "verses": [
+        {"verse": 1, "original": "Praise Yah! Praise God in his sanctuary! Praise him in his heavens for his acts of power!", "korean": "할렐루야! 하나님의 성소에서 하나님을 찬양해요! 능력의 일 때문에 하늘에서 찬양해요!"},
+        {"verse": 2, "original": "Praise him for his mighty acts! Praise him according to his excellent greatness!", "korean": "하나님의 능력 있는 일 때문에 찬양해요! 하나님의 크신 위대하심에 따라 찬양해요!"},
+        {"verse": 3, "original": "Praise him with the sounding of the trumpet! Praise him with harp and lyre!", "korean": "나팔 소리로 찬양해요! 수금과 비파로 찬양해요!"},
+        {"verse": 4, "original": "Praise him with tambourine and dancing! Praise him with stringed instruments and flute!", "korean": "탬버린과 춤으로 찬양해요! 현악기와 피리로 찬양해요!"},
+        {"verse": 5, "original": "Praise him with loud cymbals! Praise him with resounding cymbals!", "korean": "큰 소리 나는 심벌즈로 찬양해요! 울려 퍼지는 심벌즈로 찬양해요!"},
+        {"verse": 6, "original": "Let everything that has breath praise Yah! Praise Yah!", "korean": "숨 쉬는 모든 것이 하나님을 찬양해요! 할렐루야!"}
+      ]
+    }
+  ]
+}
