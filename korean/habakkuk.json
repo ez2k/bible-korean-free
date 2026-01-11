@@ -5,72 +5,296 @@
     {
       "chapter": 1,
       "verses": [
-        {"verse": 1, "original": "The revelation which Habakkuk the prophet saw.", "korean": "이것은 하박국 선지자가 하나님께 받은 말씀이에요."},
-        {"verse": 2, "original": "Yahweh, how long will I cry, and you will not hear? I cry out to you \"Violence!\" and will you not save?", "korean": "하나님, 제가 얼마나 오래 부르짖어야 하나요? 하나님께서는 왜 들어주지 않으시나요? 저는 \"폭력이 있어요!\" 하고 외치는데, 하나님께서는 왜 구해 주지 않으시나요?"},
-        {"verse": 3, "original": "Why do you show me iniquity, and look at perversity? For destruction and violence are before me. There is strife, and contention rises up.", "korean": "왜 제게 나쁜 일들을 보여주시나요? 왜 악한 것들을 보게 하시나요? 제 앞에는 파괴와 폭력이 있어요. 다툼과 싸움이 일어나고 있어요."},
-        {"verse": 4, "original": "Therefore the law is paralyzed, and justice never prevails; for the wicked surround the righteous; therefore justice comes out perverted.", "korean": "그래서 율법이 힘을 잃었고, 정의가 이기지 못해요. 나쁜 사람들이 좋은 사람들을 둘러싸고 있어서, 정의가 뒤집어졌어요."},
-        {"verse": 5, "original": "\"Look among the nations, watch, and wonder marvelously; for I am working a work in your days, which you will not believe though it is told you.", "korean": "하나님께서 말씀하셨어요. \"너희는 세상 여러 나라들을 보고 놀라라. 내가 너희 시대에 놀라운 일을 할 것이다. 너희에게 말해 주어도 믿지 못할 것이다."},
-        {"verse": 6, "original": "For, behold, I raise up the Chaldeans, that bitter and hasty nation, that march through the width of the earth, to possess dwelling places that are not theirs.", "korean": "내가 바빌론 사람들을 일으킬 것이다. 그들은 사납고 성급한 민족이다. 그들은 온 땅을 가로질러 행진하며, 자기 것이 아닌 땅을 차지할 것이다."},
-        {"verse": 7, "original": "They are feared and dreaded. Their judgment and their dignity proceed from themselves.", "korean": "그들은 무섭고 두려운 민족이다. 그들은 스스로 자기가 옳다고 생각하며 뽐내는구나."},
-        {"verse": 8, "original": "Their horses also are swifter than leopards, and are more fierce than the evening wolves. Their horsemen press proudly on. Yes, their horsemen come from afar. They fly as an eagle that hurries to devour.", "korean": "그들의 말은 표범보다 빠르고, 저녁 늑대보다 사나워요. 그들의 기병들은 당당하게 달려와요. 멀리서 와서 먹이를 잡으려는 독수리처럼 날아와요."},
-        {"verse": 9, "original": "All of them come for violence. Their hordes face the desert. He gathers prisoners like sand.", "korean": "그들은 모두 폭력을 휘두르려고 와요. 그 무리들이 앞으로 전진하며, 모래알처럼 많은 사람들을 포로로 잡아요."},
-        {"verse": 10, "original": "Yes, he scoffs at kings, and princes are a derision to him. He laughs at every stronghold, for he builds up an earthen ramp, and takes it.", "korean": "그들은 왕들을 비웃고, 지도자들을 조롱해요. 어떤 튼튼한 성이든 비웃으면서, 흙으로 언덕을 쌓아 올려 그 성을 점령해요."},
-        {"verse": 11, "original": "Then he sweeps by like the wind, and goes on. He is indeed guilty, whose strength is his god.\"", "korean": "그러고는 바람처럼 휙 지나가 버려요. 자기 힘을 신으로 삼는 그들은 정말 죄가 있어요.\""},
-        {"verse": 12, "original": "Aren't you from everlasting, Yahweh my God, my Holy One? We will not die. Yahweh, you have appointed him for judgment. You, Rock, have established him to punish.", "korean": "하나님, 주님은 영원 전부터 계신 분이 아니신가요? 저의 거룩하신 하나님! 우리는 죽지 않을 거예요. 하나님, 주님께서는 그들을 심판의 도구로 세우셨어요. 반석이신 하나님, 주님께서는 그들을 벌 주는 자로 정하셨어요."},
-        {"verse": 13, "original": "You who have purer eyes than to see evil, and who cannot look on perversity, why do you tolerate those who deal treacherously, and keep silent when the wicked swallows up the man who is more righteous than he,", "korean": "하나님의 눈은 너무 깨끗해서 악을 볼 수 없고, 나쁜 것을 참지 못하시잖아요. 그런데 왜 배신하는 자들을 그냥 두시나요? 왜 악한 자가 자기보다 더 좋은 사람을 삼킬 때 잠잠히 계시나요?"},
-        {"verse": 14, "original": "and make men like the fish of the sea, like the creeping things, that have no ruler over them?", "korean": "왜 사람들을 바다의 물고기처럼, 지배자 없이 기어다니는 벌레처럼 만드시나요?"},
-        {"verse": 15, "original": "He takes up all of them with the hook. He catches them in his net, and gathers them in his dragnet. Therefore he rejoices and is glad.", "korean": "그 악한 자는 낚싯바늘로 사람들을 낚아요. 그물로 잡고, 투망으로 모아요. 그래서 그는 기뻐하고 즐거워해요."},
-        {"verse": 16, "original": "Therefore he sacrifices to his net, and burns incense to his dragnet, because by them his life is luxurious, and his food is good.", "korean": "그래서 그는 자기 그물에게 제사를 드리고, 투망에게 향을 피워요. 왜냐하면 그것들 덕분에 호화롭게 살고, 좋은 음식을 먹기 때문이에요."},
-        {"verse": 17, "original": "Will he therefore continually empty his net, and kill the nations without mercy?", "korean": "그러면 그가 계속해서 그물을 비우고, 자비 없이 여러 나라를 죽여도 되나요?"}
+        {
+          "verse": 1,
+          "original": "The revelation which Habakkuk the prophet saw.",
+          "korean": "이것은 하박국 선지자가 하나님께 받은 말씀이에요."
+        },
+        {
+          "verse": 2,
+          "original": "Yahweh, how long will I cry, and you will not hear? I cry out to you \"Violence!\" and will you not save?",
+          "korean": "하나님, 제가 얼마나 오래 부르짖어야 하나요? 하나님께서는 왜 들어주지 않으시나요? 저는 \"폭력이 있어요!\" 하고 외치는데, 하나님께서는 왜 구해 주지 않으시나요?"
+        },
+        {
+          "verse": 3,
+          "original": "Why do you show me iniquity, and look at perversity? For destruction and violence are before me. There is strife, and contention rises up.",
+          "korean": "왜 제게 나쁜 일들을 보여주시나요? 왜 악한 것들을 보게 하시나요? 제 앞에는 파괴와 폭력이 있어요. 다툼과 싸움이 일어나고 있어요."
+        },
+        {
+          "verse": 4,
+          "original": "Therefore the law is paralyzed, and justice never prevails; for the wicked surround the righteous; therefore justice comes out perverted.",
+          "korean": "그래서 율법이 힘을 잃었고, 정의가 이기지 못해요. 나쁜 사람들이 좋은 사람들을 둘러싸고 있어서, 정의가 뒤집어졌어요."
+        },
+        {
+          "verse": 5,
+          "original": "\"Look among the nations, watch, and wonder marvelously; for I am working a work in your days, which you will not believe though it is told you.",
+          "korean": "하나님께서 말씀하셨어요. \"너희는 세상 여러 나라들을 보고 놀라라. 내가 너희 시대에 놀라운 일을 할 것이다. 너희에게 말해 주어도 믿지 못할 것이다."
+        },
+        {
+          "verse": 6,
+          "original": "For, behold, I raise up the Chaldeans, that bitter and hasty nation, that march through the width of the earth, to possess dwelling places that are not theirs.",
+          "korean": "내가 바빌론 사람들을 일으킬 것이다. 그들은 사납고 성급한 민족이다. 그들은 온 땅을 가로질러 행진하며, 자기 것이 아닌 땅을 차지할 것이다."
+        },
+        {
+          "verse": 7,
+          "original": "They are feared and dreaded. Their judgment and their dignity proceed from themselves.",
+          "korean": "그들은 무섭고 두려운 민족이다. 그들은 스스로 자기가 옳다고 생각하며 뽐내는구나."
+        },
+        {
+          "verse": 8,
+          "original": "Their horses also are swifter than leopards, and are more fierce than the evening wolves. Their horsemen press proudly on. Yes, their horsemen come from afar. They fly as an eagle that hurries to devour.",
+          "korean": "그들의 말은 표범보다 빠르고, 저녁 늑대보다 사나워요. 그들의 기병들은 당당하게 달려와요. 멀리서 와서 먹이를 잡으려는 독수리처럼 날아와요."
+        },
+        {
+          "verse": 9,
+          "original": "All of them come for violence. Their hordes face the desert. He gathers prisoners like sand.",
+          "korean": "그들은 모두 폭력을 휘두르려고 와요. 그 무리들이 앞으로 전진하며, 모래알처럼 많은 사람들을 포로로 잡아요."
+        },
+        {
+          "verse": 10,
+          "original": "Yes, he scoffs at kings, and princes are a derision to him. He laughs at every stronghold, for he builds up an earthen ramp, and takes it.",
+          "korean": "그들은 왕들을 비웃고, 지도자들을 조롱해요. 어떤 튼튼한 성이든 비웃으면서, 흙으로 언덕을 쌓아 올려 그 성을 점령해요."
+        },
+        {
+          "verse": 11,
+          "original": "Then he sweeps by like the wind, and goes on. He is indeed guilty, whose strength is his god.\"",
+          "korean": "그러고는 바람처럼 휙 지나가 버려요. 자기 힘을 신으로 삼는 그들은 정말 죄가 있어요.\""
+        },
+        {
+          "verse": 12,
+          "original": "Aren't you from everlasting, Yahweh my God, my Holy One? We will not die. Yahweh, you have appointed him for judgment. You, Rock, have established him to punish.",
+          "korean": "하나님, 주님은 영원 전부터 계신 분이 아니신가요? 저의 거룩하신 하나님! 우리는 죽지 않을 거예요. 하나님, 주님께서는 그들을 심판의 도구로 세우셨어요. 반석이신 하나님, 주님께서는 그들을 벌 주는 자로 정하셨어요."
+        },
+        {
+          "verse": 13,
+          "original": "You who have purer eyes than to see evil, and who cannot look on perversity, why do you tolerate those who deal treacherously, and keep silent when the wicked swallows up the man who is more righteous than he,",
+          "korean": "하나님의 눈은 너무 깨끗해서 악을 볼 수 없고, 나쁜 것을 참지 못하시잖아요. 그런데 왜 배신하는 자들을 그냥 두시나요? 왜 악한 자가 자기보다 더 좋은 사람을 삼킬 때 잠잠히 계시나요?"
+        },
+        {
+          "verse": 14,
+          "original": "and make men like the fish of the sea, like the creeping things, that have no ruler over them?",
+          "korean": "왜 사람들을 바다의 물고기처럼, 지배자 없이 기어다니는 벌레처럼 만드시나요?"
+        },
+        {
+          "verse": 15,
+          "original": "He takes up all of them with the hook. He catches them in his net, and gathers them in his dragnet. Therefore he rejoices and is glad.",
+          "korean": "그 악한 자는 낚싯바늘로 사람들을 낚아요. 그물로 잡고, 투망으로 모아요. 그래서 그는 기뻐하고 즐거워해요."
+        },
+        {
+          "verse": 16,
+          "original": "Therefore he sacrifices to his net, and burns incense to his dragnet, because by them his life is luxurious, and his food is good.",
+          "korean": "그래서 그는 자기 그물에게 제사를 드리고, 투망에게 향을 피워요. 왜냐하면 그것들 덕분에 호화롭게 살고, 좋은 음식을 먹기 때문이에요."
+        },
+        {
+          "verse": 17,
+          "original": "Will he therefore continually empty his net, and kill the nations without mercy?",
+          "korean": "그러면 그가 계속해서 그물을 비우고, 자비 없이 여러 나라를 죽여도 되나요?"
+        }
       ]
     },
     {
       "chapter": 2,
       "verses": [
-        {"verse": 1, "original": "I will stand at my watch, and set myself on the ramparts, and will look out to see what he will say to me, and what I will answer concerning my complaint.", "korean": "저는 파수꾼처럼 망대에 서서 기다릴 거예요. 하나님께서 제게 무슨 말씀을 하실지, 제 질문에 어떻게 대답하실지 지켜볼 거예요."},
-        {"verse": 2, "original": "Yahweh answered me, \"Write the vision, and make it plain on tablets, that he who runs may read it.", "korean": "하나님께서 제게 대답하셨어요. \"이 환상을 기록하여라. 판에 분명하게 써서, 달려가면서도 읽을 수 있게 하여라."},
-        {"verse": 3, "original": "For the vision is yet for the appointed time, and it hurries toward the end, and won't prove false. Though it takes time, wait for it; because it will surely come. It won't delay.", "korean": "이 환상은 정해진 때에 이루어질 것이다. 끝을 향해 서두르고 있으니, 거짓이 되지 않을 것이다. 시간이 걸리더라도 기다려라. 반드시 이루어질 것이고, 늦어지지 않을 것이다."},
-        {"verse": 4, "original": "Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.", "korean": "보아라, 교만한 자의 마음은 바르지 않다. 하지만 의로운 사람은 믿음으로 살 것이다."},
-        {"verse": 5, "original": "Yes, moreover, wine is treacherous. An arrogant man who doesn't stay at home, who enlarges his desire as Sheol, and he is like death, and can't be satisfied, but gathers to himself all nations, and heaps to himself all peoples.", "korean": "또한 술은 사람을 속인다. 교만한 자는 집에 머물지 않고, 그의 욕심은 무덤처럼 크다. 그는 죽음과 같아서 만족하지 못하고, 모든 나라와 민족을 자기에게 끌어모은다."},
-        {"verse": 6, "original": "Won't all these take up a parable against him, and a taunting proverb against him, and say, 'Woe to him who increases that which is not his, and who enriches himself by extortion! How long?'", "korean": "그래서 모든 사람들이 그를 비웃으며 이렇게 말할 것이다. '자기 것이 아닌 것을 모으고, 빼앗아서 부자가 된 자에게 화가 있을 것이다! 얼마나 오래 그럴 것이냐?'"},
-        {"verse": 7, "original": "Won't your debtors rise up suddenly, and wake up those who make you tremble, and you will be their victim?", "korean": "네게 빚진 자들이 갑자기 일어나지 않겠느냐? 너를 두렵게 할 자들이 깨어나지 않겠느냐? 그러면 네가 그들의 희생자가 될 것이다."},
-        {"verse": 8, "original": "Because you have plundered many nations, all the remnant of the peoples will plunder you, because of men's blood, and for the violence done to the land, to the city and to all who dwell in it.", "korean": "네가 많은 나라들을 약탈했으니, 남은 모든 민족이 너를 약탈할 것이다. 네가 사람들의 피를 흘렸고, 땅과 성읍과 거기 사는 모든 사람에게 폭력을 행했기 때문이다."},
-        {"verse": 9, "original": "Woe to him who gets an evil gain for his house, that he may set his nest on high, that he may be delivered from the hand of evil!", "korean": "나쁜 방법으로 재물을 모아 자기 집을 세우고, 높은 곳에 둥지를 틀어 재앙을 피하려는 자에게 화가 있을 것이다!"},
-        {"verse": 10, "original": "You have devised shame to your house, by cutting off many peoples, and have sinned against your soul.", "korean": "너는 많은 민족을 없애서 네 집에 수치를 가져왔고, 네 영혼에 죄를 지었다."},
-        {"verse": 11, "original": "For the stone will cry out of the wall, and the beam out of the woodwork will answer it.", "korean": "벽에서 돌이 외칠 것이고, 서까래도 대답할 것이다."},
-        {"verse": 12, "original": "Woe to him who builds a town with blood, and establishes a city by iniquity!", "korean": "피를 흘려 성읍을 세우고, 악한 일로 도시를 건설하는 자에게 화가 있을 것이다!"},
-        {"verse": 13, "original": "Behold, isn't it of Yahweh of Armies that the peoples labor for the fire, and the nations weary themselves for vanity?", "korean": "보라, 만군의 하나님께서 정하신 대로 민족들이 수고한 것이 불에 타 버릴 것이고, 나라들이 헛되이 애쓴 것이 사라질 것이다."},
-        {"verse": 14, "original": "For the earth will be filled with the knowledge of Yahweh's glory, as the waters cover the sea.", "korean": "물이 바다를 덮는 것처럼, 하나님의 영광을 아는 지식이 온 땅에 가득 찰 것이다."},
-        {"verse": 15, "original": "\"Woe to him who gives his neighbor drink, pouring your inflaming wine until they are drunk, so that you may gaze at their naked bodies!", "korean": "\"이웃에게 술을 먹여 취하게 해서, 그들의 벗은 몸을 보려는 자에게 화가 있을 것이다!"},
-        {"verse": 16, "original": "You are filled with shame, and not glory. You will also drink, and be exposed! The cup of Yahweh's right hand will come around to you, and disgrace will cover your glory.", "korean": "너는 영광이 아니라 수치로 가득 찰 것이다. 너도 마시고 부끄러움을 당할 것이다! 하나님 오른손의 잔이 네게로 돌아올 것이고, 네 영광을 수치가 덮을 것이다."},
-        {"verse": 17, "original": "For the violence done to Lebanon will overwhelm you, and the destruction of the animals, which made them afraid; because of men's blood, and for the violence done to the land, to every city and to those who dwell in them.", "korean": "네가 레바논에서 저지른 폭력이 너를 압도할 것이다. 네가 동물들을 죽여 두렵게 한 일, 사람들의 피를 흘린 일, 땅과 성읍과 거기 사는 모든 사람에게 행한 폭력 때문이다."},
-        {"verse": 18, "original": "\"What value does the engraved image have, that its maker has engraved it; the molten image, even the teacher of lies, that he who fashions its form trusts in it, to make mute idols?", "korean": "\"사람이 새긴 우상이 무슨 소용이 있느냐? 부어 만든 거짓된 것을 왜 만드느냐? 만든 사람이 말 못하는 우상을 어떻게 믿을 수 있느냐?"},
-        {"verse": 19, "original": "Woe to him who says to the wood, 'Awake!' or to the mute stone, 'Arise!' Shall this teach? Behold, it is overlaid with gold and silver, and there is no breath at all within it.", "korean": "나무에게 '깨어나라!' 하고, 말 못하는 돌에게 '일어나라!' 하는 자에게 화가 있을 것이다! 이것이 무엇을 가르칠 수 있겠느냐? 금과 은으로 덮여 있지만, 그 안에는 생명의 숨이 전혀 없다."},
-        {"verse": 20, "original": "But Yahweh is in his holy temple. Let all the earth be silent before him!\"", "korean": "하지만 하나님께서는 거룩한 성전에 계신다. 온 땅이여, 하나님 앞에서 잠잠하라!\""}
+        {
+          "verse": 1,
+          "original": "I will stand at my watch, and set myself on the ramparts, and will look out to see what he will say to me, and what I will answer concerning my complaint.",
+          "korean": "저는 파수꾼처럼 망대에 서서 기다릴 거예요. 하나님께서 제게 무슨 말씀을 하실지, 제 질문에 어떻게 대답하실지 지켜볼 거예요."
+        },
+        {
+          "verse": 2,
+          "original": "Yahweh answered me, \"Write the vision, and make it plain on tablets, that he who runs may read it.",
+          "korean": "하나님께서 제게 대답하셨어요. \"이 환상을 기록하여라. 판에 분명하게 써서, 달려가면서도 읽을 수 있게 하여라."
+        },
+        {
+          "verse": 3,
+          "original": "For the vision is yet for the appointed time, and it hurries toward the end, and won't prove false. Though it takes time, wait for it; because it will surely come. It won't delay.",
+          "korean": "이 환상은 정해진 때에 이루어질 것이다. 끝을 향해 서두르고 있으니, 거짓이 되지 않을 것이다. 시간이 걸리더라도 기다려라. 반드시 이루어질 것이고, 늦어지지 않을 것이다."
+        },
+        {
+          "verse": 4,
+          "original": "Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.",
+          "korean": "보아라, 교만한 자의 마음은 바르지 않다. 하지만 올바른 사람은 믿음으로 살 것이다."
+        },
+        {
+          "verse": 5,
+          "original": "Yes, moreover, wine is treacherous. An arrogant man who doesn't stay at home, who enlarges his desire as Sheol, and he is like death, and can't be satisfied, but gathers to himself all nations, and heaps to himself all peoples.",
+          "korean": "또한 술은 사람을 속인다. 교만한 자는 집에 머물지 않고, 그의 욕심은 무덤처럼 크다. 그는 죽음과 같아서 만족하지 못하고, 모든 나라와 민족을 자기에게 끌어모은다."
+        },
+        {
+          "verse": 6,
+          "original": "Won't all these take up a parable against him, and a taunting proverb against him, and say, 'Woe to him who increases that which is not his, and who enriches himself by extortion! How long?'",
+          "korean": "그래서 모든 사람들이 그를 비웃으며 이렇게 말할 것이다. '자기 것이 아닌 것을 모으고, 빼앗아서 부자가 된 자에게 화가 있을 것이다! 얼마나 오래 그럴 것이냐?'"
+        },
+        {
+          "verse": 7,
+          "original": "Won't your debtors rise up suddenly, and wake up those who make you tremble, and you will be their victim?",
+          "korean": "네게 빚진 자들이 갑자기 일어나지 않겠느냐? 너를 두렵게 할 자들이 깨어나지 않겠느냐? 그러면 네가 그들의 희생자가 될 것이다."
+        },
+        {
+          "verse": 8,
+          "original": "Because you have plundered many nations, all the remnant of the peoples will plunder you, because of men's blood, and for the violence done to the land, to the city and to all who dwell in it.",
+          "korean": "네가 많은 나라들을 약탈했으니, 남은 모든 민족이 너를 약탈할 것이다. 네가 사람들의 피를 흘렸고, 땅과 성읍과 거기 사는 모든 사람에게 폭력을 행했기 때문이다."
+        },
+        {
+          "verse": 9,
+          "original": "Woe to him who gets an evil gain for his house, that he may set his nest on high, that he may be delivered from the hand of evil!",
+          "korean": "나쁜 방법으로 재물을 모아 자기 집을 세우고, 높은 곳에 둥지를 틀어 재앙을 피하려는 자에게 화가 있을 것이다!"
+        },
+        {
+          "verse": 10,
+          "original": "You have devised shame to your house, by cutting off many peoples, and have sinned against your soul.",
+          "korean": "너는 많은 민족을 없애서 네 집에 수치를 가져왔고, 네 영혼에 죄를 지었다."
+        },
+        {
+          "verse": 11,
+          "original": "For the stone will cry out of the wall, and the beam out of the woodwork will answer it.",
+          "korean": "벽에서 돌이 외칠 것이고, 서까래도 대답할 것이다."
+        },
+        {
+          "verse": 12,
+          "original": "Woe to him who builds a town with blood, and establishes a city by iniquity!",
+          "korean": "피를 흘려 성읍을 세우고, 악한 일로 도시를 건설하는 자에게 화가 있을 것이다!"
+        },
+        {
+          "verse": 13,
+          "original": "Behold, isn't it of Yahweh of Armies that the peoples labor for the fire, and the nations weary themselves for vanity?",
+          "korean": "보라, 만군의 하나님께서 정하신 대로 민족들이 수고한 것이 불에 타 버릴 것이고, 나라들이 헛되이 애쓴 것이 사라질 것이다."
+        },
+        {
+          "verse": 14,
+          "original": "For the earth will be filled with the knowledge of Yahweh's glory, as the waters cover the sea.",
+          "korean": "물이 바다를 덮는 것처럼, 하나님의 영광을 아는 지식이 온 땅에 가득 찰 것이다."
+        },
+        {
+          "verse": 15,
+          "original": "\"Woe to him who gives his neighbor drink, pouring your inflaming wine until they are drunk, so that you may gaze at their naked bodies!",
+          "korean": "\"이웃에게 술을 먹여 취하게 해서, 그들의 벗은 몸을 보려는 자에게 화가 있을 것이다!"
+        },
+        {
+          "verse": 16,
+          "original": "You are filled with shame, and not glory. You will also drink, and be exposed! The cup of Yahweh's right hand will come around to you, and disgrace will cover your glory.",
+          "korean": "너는 영광이 아니라 수치로 가득 찰 것이다. 너도 마시고 부끄러움을 당할 것이다! 하나님 오른손의 잔이 네게로 돌아올 것이고, 네 영광을 수치가 덮을 것이다."
+        },
+        {
+          "verse": 17,
+          "original": "For the violence done to Lebanon will overwhelm you, and the destruction of the animals, which made them afraid; because of men's blood, and for the violence done to the land, to every city and to those who dwell in them.",
+          "korean": "네가 레바논에서 저지른 폭력이 너를 압도할 것이다. 네가 동물들을 죽여 두렵게 한 일, 사람들의 피를 흘린 일, 땅과 성읍과 거기 사는 모든 사람에게 행한 폭력 때문이다."
+        },
+        {
+          "verse": 18,
+          "original": "\"What value does the engraved image have, that its maker has engraved it; the molten image, even the teacher of lies, that he who fashions its form trusts in it, to make mute idols?",
+          "korean": "\"사람이 새긴 우상이 무슨 소용이 있느냐? 부어 만든 거짓된 것을 왜 만드느냐? 만든 사람이 말 못하는 우상을 어떻게 믿을 수 있느냐?"
+        },
+        {
+          "verse": 19,
+          "original": "Woe to him who says to the wood, 'Awake!' or to the mute stone, 'Arise!' Shall this teach? Behold, it is overlaid with gold and silver, and there is no breath at all within it.",
+          "korean": "나무에게 '깨어나라!' 하고, 말 못하는 돌에게 '일어나라!' 하는 자에게 화가 있을 것이다! 이것이 무엇을 가르칠 수 있겠느냐? 금과 은으로 덮여 있지만, 그 안에는 생명의 숨이 전혀 없다."
+        },
+        {
+          "verse": 20,
+          "original": "But Yahweh is in his holy temple. Let all the earth be silent before him!\"",
+          "korean": "하지만 하나님께서는 거룩한 성전에 계신다. 온 땅이여, 하나님 앞에서 잠잠하라!\""
+        }
       ]
     },
     {
       "chapter": 3,
       "verses": [
-        {"verse": 1, "original": "A prayer of Habakkuk, the prophet, set to victorious music.", "korean": "이것은 하박국 선지자의 기도예요. 승리의 노래에 맞추어 불러요."},
-        {"verse": 2, "original": "Yahweh, I have heard of your fame. I stand in awe of your deeds, Yahweh. Renew your work in the middle of the years. In the middle of the years make it known. In wrath, you remember mercy.", "korean": "하나님, 저는 주님의 명성을 들었어요. 하나님, 주님께서 하신 일들이 정말 놀라워요. 이 시대에 다시 그 일을 행해 주세요. 이 시대에 알려 주세요. 화가 나실 때에도 자비를 기억해 주세요."},
-        {"verse": 3, "original": "God came from Teman, the Holy One from Mount Paran. His glory covered the heavens, and his praise filled the earth.", "korean": "하나님께서 데만에서 오셨어요. 거룩하신 분이 바란 산에서 오셨어요. 하나님의 영광이 하늘을 덮었고, 하나님을 찬양하는 소리가 온 땅에 가득했어요."},
-        {"verse": 4, "original": "His splendor is like the sunrise. Rays shine from his hand, where his power is hidden.", "korean": "하나님의 빛나심은 해가 뜨는 것 같았어요. 하나님의 손에서 빛줄기가 뻗어 나왔고, 거기에 하나님의 능력이 숨겨져 있었어요."},
-        {"verse": 5, "original": "Plague went before him, and pestilence followed his feet.", "korean": "재앙이 하나님 앞에 먼저 갔고, 전염병이 하나님의 발자취를 따랐어요."},
-        {"verse": 6, "original": "He stood, and shook the earth. He looked, and made the nations tremble. The ancient mountains were crumbled. The age-old hills collapsed. His ways are eternal.", "korean": "하나님께서 서시니 땅이 흔들렸어요. 하나님께서 바라보시니 여러 나라가 떨었어요. 오래된 산들이 무너졌고, 아주 오래된 언덕들이 주저앉았어요. 하나님의 길은 영원해요."},
-        {"verse": 7, "original": "I saw the tents of Cushan in affliction. The dwellings of the land of Midian trembled.", "korean": "저는 구산의 장막들이 고통당하는 것을 보았어요. 미디안 땅의 거처들이 떨고 있었어요."},
-        {"verse": 8, "original": "Was Yahweh displeased with the rivers? Was your anger against the rivers, or your wrath against the sea, that you rode on your horses, on your chariots of salvation?", "korean": "하나님, 주님께서 강들에게 화가 나셨나요? 강들을 향해 분노하셨나요? 바다를 향해 진노하셨나요? 그래서 주님의 말을 타시고, 구원의 병거를 모셨나요?"},
-        {"verse": 9, "original": "You uncovered your bow. You called for your sworn arrows. You split the earth with rivers.", "korean": "주님께서 활을 드셨어요. 약속하신 화살을 부르셨어요. 주님께서 땅을 가르시니 강물이 흘렀어요."},
-        {"verse": 10, "original": "The mountains saw you, and were afraid. The storm of waters passed by. The deep roared and lifted up its hands on high.", "korean": "산들이 주님을 보고 두려워했어요. 물의 폭풍이 지나갔어요. 깊은 바다가 소리치며 물결을 높이 들어 올렸어요."},
-        {"verse": 11, "original": "The sun and moon stood still in the sky, at the light of your arrows as they went, at the shining of your glittering spear.", "korean": "해와 달이 하늘에서 멈추었어요. 주님의 화살이 번쩍이며 날아가고, 반짝이는 창이 빛나니 그렇게 되었어요."},
-        {"verse": 12, "original": "You marched through the land in wrath. You threshed the nations in anger.", "korean": "주님께서 진노하시며 땅을 밟고 지나가셨어요. 분노하시며 여러 나라를 심판하셨어요."},
-        {"verse": 13, "original": "You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the land of wickedness. You stripped them head to foot.", "korean": "주님께서는 주님의 백성을 구하시려고 나가셨어요. 기름 부음 받은 자를 구하시려고 나가셨어요. 악한 나라의 우두머리를 치시고, 그들을 머리부터 발끝까지 벌거벗겼어요."},
-        {"verse": 14, "original": "You pierced the heads of his warriors with their own spears. They came as a whirlwind to scatter me, gloating as if to devour the wretched in secret.", "korean": "주님께서 적군 장수들의 머리를 그들 자신의 창으로 찔렀어요. 그들은 저를 흩으려고 회오리바람처럼 왔어요. 불쌍한 사람들을 몰래 삼키려고 좋아했어요."},
-        {"verse": 15, "original": "You trampled the sea with your horses, churning mighty waters.", "korean": "주님께서 말을 타고 바다를 밟으시니, 큰 물결이 세차게 출렁였어요."},
-        {"verse": 16, "original": "I heard, and my body trembled. My lips quivered at the voice. Rottenness enters into my bones, and I tremble in my place, because I must wait quietly for the day of trouble, for the coming up of the people who invade us.", "korean": "저는 이것을 듣고 온몸이 떨렸어요. 그 소리에 입술이 떨렸어요. 뼛속까지 힘이 빠지고, 서 있는 자리에서 떨고 있어요. 왜냐하면 환난의 날을, 우리를 침략할 민족이 올라오는 것을 조용히 기다려야 하기 때문이에요."},
-        {"verse": 17, "original": "For though the fig tree doesn't flourish, nor fruit be in the vines; the labor of the olive fails, the fields yield no food; the flocks are cut off from the fold, and there is no herd in the stalls:", "korean": "비록 무화과나무가 꽃을 피우지 않고, 포도나무에 열매가 없더라도요. 비록 감람나무에 열매가 맺히지 않고, 밭에서 먹을 것이 나지 않더라도요. 비록 우리에서 양 떼가 사라지고, 외양간에 소가 없더라도요."},
-        {"verse": 18, "original": "yet I will rejoice in Yahweh. I will be joyful in the God of my salvation!", "korean": "그래도 저는 하나님 안에서 기뻐할 거예요. 저를 구원하시는 하나님 안에서 즐거워할 거예요!"},
-        {"verse": 19, "original": "Yahweh, the Lord, is my strength. He makes my feet like deer's feet, and enables me to go in high places. For the music director, on my stringed instruments.", "korean": "주 하나님은 저의 힘이에요. 하나님께서 제 발을 사슴의 발처럼 만들어 주시고, 높은 곳을 걷게 해 주세요. (음악 지휘자에게 주는 말: 현악기에 맞추어 연주하세요.)"}
+        {
+          "verse": 1,
+          "original": "A prayer of Habakkuk, the prophet, set to victorious music.",
+          "korean": "이것은 하박국 선지자의 기도예요. 승리의 노래에 맞추어 불러요."
+        },
+        {
+          "verse": 2,
+          "original": "Yahweh, I have heard of your fame. I stand in awe of your deeds, Yahweh. Renew your work in the middle of the years. In the middle of the years make it known. In wrath, you remember mercy.",
+          "korean": "하나님, 저는 주님의 명성을 들었어요. 하나님, 주님께서 하신 일들이 정말 놀라워요. 이 시대에 다시 그 일을 행해 주세요. 이 시대에 알려 주세요. 화가 나실 때에도 자비를 기억해 주세요."
+        },
+        {
+          "verse": 3,
+          "original": "God came from Teman, the Holy One from Mount Paran. His glory covered the heavens, and his praise filled the earth.",
+          "korean": "하나님께서 데만에서 오셨어요. 거룩하신 분이 바란 산에서 오셨어요. 하나님의 영광이 하늘을 덮었고, 하나님을 찬양하는 소리가 온 땅에 가득했어요."
+        },
+        {
+          "verse": 4,
+          "original": "His splendor is like the sunrise. Rays shine from his hand, where his power is hidden.",
+          "korean": "하나님의 빛나심은 해가 뜨는 것 같았어요. 하나님의 손에서 빛줄기가 뻗어 나왔고, 거기에 하나님의 능력이 숨겨져 있었어요."
+        },
+        {
+          "verse": 5,
+          "original": "Plague went before him, and pestilence followed his feet.",
+          "korean": "재앙이 하나님 앞에 먼저 갔고, 전염병이 하나님의 발자취를 따랐어요."
+        },
+        {
+          "verse": 6,
+          "original": "He stood, and shook the earth. He looked, and made the nations tremble. The ancient mountains were crumbled. The age-old hills collapsed. His ways are eternal.",
+          "korean": "하나님께서 서시니 땅이 흔들렸어요. 하나님께서 바라보시니 여러 나라가 떨었어요. 오래된 산들이 무너졌고, 아주 오래된 언덕들이 주저앉았어요. 하나님의 길은 영원해요."
+        },
+        {
+          "verse": 7,
+          "original": "I saw the tents of Cushan in affliction. The dwellings of the land of Midian trembled.",
+          "korean": "저는 구산의 장막들이 고통당하는 것을 보았어요. 미디안 땅의 거처들이 떨고 있었어요."
+        },
+        {
+          "verse": 8,
+          "original": "Was Yahweh displeased with the rivers? Was your anger against the rivers, or your wrath against the sea, that you rode on your horses, on your chariots of salvation?",
+          "korean": "하나님, 주님께서 강들에게 화가 나셨나요? 강들을 향해 분노하셨나요? 바다를 향해 진노하셨나요? 그래서 주님의 말을 타시고, 구원의 병거를 모셨나요?"
+        },
+        {
+          "verse": 9,
+          "original": "You uncovered your bow. You called for your sworn arrows. You split the earth with rivers.",
+          "korean": "주님께서 활을 드셨어요. 약속하신 화살을 부르셨어요. 주님께서 땅을 가르시니 강물이 흘렀어요."
+        },
+        {
+          "verse": 10,
+          "original": "The mountains saw you, and were afraid. The storm of waters passed by. The deep roared and lifted up its hands on high.",
+          "korean": "산들이 주님을 보고 두려워했어요. 물의 폭풍이 지나갔어요. 깊은 바다가 소리치며 물결을 높이 들어 올렸어요."
+        },
+        {
+          "verse": 11,
+          "original": "The sun and moon stood still in the sky, at the light of your arrows as they went, at the shining of your glittering spear.",
+          "korean": "해와 달이 하늘에서 멈추었어요. 주님의 화살이 번쩍이며 날아가고, 반짝이는 창이 빛나니 그렇게 되었어요."
+        },
+        {
+          "verse": 12,
+          "original": "You marched through the land in wrath. You threshed the nations in anger.",
+          "korean": "주님께서 진노하시며 땅을 밟고 지나가셨어요. 분노하시며 여러 나라를 심판하셨어요."
+        },
+        {
+          "verse": 13,
+          "original": "You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the land of wickedness. You stripped them head to foot.",
+          "korean": "주님께서는 주님의 백성을 구하시려고 나가셨어요. 기름 부음 받은 자를 구하시려고 나가셨어요. 악한 나라의 우두머리를 치시고, 그들을 머리부터 발끝까지 벌거벗겼어요."
+        },
+        {
+          "verse": 14,
+          "original": "You pierced the heads of his warriors with their own spears. They came as a whirlwind to scatter me, gloating as if to devour the wretched in secret.",
+          "korean": "주님께서 적군 장수들의 머리를 그들 자신의 창으로 찔렀어요. 그들은 저를 흩으려고 회오리바람처럼 왔어요. 불쌍한 사람들을 몰래 삼키려고 좋아했어요."
+        },
+        {
+          "verse": 15,
+          "original": "You trampled the sea with your horses, churning mighty waters.",
+          "korean": "주님께서 말을 타고 바다를 밟으시니, 큰 물결이 세차게 출렁였어요."
+        },
+        {
+          "verse": 16,
+          "original": "I heard, and my body trembled. My lips quivered at the voice. Rottenness enters into my bones, and I tremble in my place, because I must wait quietly for the day of trouble, for the coming up of the people who invade us.",
+          "korean": "저는 이것을 듣고 온몸이 떨렸어요. 그 소리에 입술이 떨렸어요. 뼛속까지 힘이 빠지고, 서 있는 자리에서 떨고 있어요. 왜냐하면 환난의 날을, 우리를 침략할 민족이 올라오는 것을 조용히 기다려야 하기 때문이에요."
+        },
+        {
+          "verse": 17,
+          "original": "For though the fig tree doesn't flourish, nor fruit be in the vines; the labor of the olive fails, the fields yield no food; the flocks are cut off from the fold, and there is no herd in the stalls:",
+          "korean": "비록 무화과나무가 꽃을 피우지 않고, 포도나무에 열매가 없더라도요. 비록 감람나무에 열매가 맺히지 않고, 밭에서 먹을 것이 나지 않더라도요. 비록 우리에서 양 떼가 사라지고, 외양간에 소가 없더라도요."
+        },
+        {
+          "verse": 18,
+          "original": "yet I will rejoice in Yahweh. I will be joyful in the God of my salvation!",
+          "korean": "그래도 저는 하나님 안에서 기뻐할 거예요. 저를 구원하시는 하나님 안에서 즐거워할 거예요!"
+        },
+        {
+          "verse": 19,
+          "original": "Yahweh, the Lord, is my strength. He makes my feet like deer's feet, and enables me to go in high places. For the music director, on my stringed instruments.",
+          "korean": "주 하나님은 저의 힘이에요. 하나님께서 제 발을 사슴의 발처럼 만들어 주시고, 높은 곳을 걷게 해 주세요. (음악 지휘자에게 주는 말: 현악기에 맞추어 연주하세요.)"
+        }
       ]
     }
   ]

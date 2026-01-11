@@ -5,442 +5,1886 @@
     {
       "chapter": 1,
       "verses": [
-        {"verse": 1, "korean": "삼십 년째 되던 해, 사 월 오 일이었어요. 저는 그발 강가에서 포로로 잡혀 온 사람들과 함께 있었어요. 그때 하늘이 열리고 저는 하나님의 환상을 보았어요."},
-        {"verse": 2, "korean": "여호야긴 왕이 포로로 잡혀간 지 오 년째 되던 해, 그 달 오 일이었어요."},
-        {"verse": 3, "korean": "바벨론 땅 그발 강가에서 여호와께서 제사장 부시의 아들 에스겔에게 말씀하셨어요. 여호와의 손이 그에게 임했어요."},
-        {"verse": 4, "korean": "제가 보니 북쪽에서 폭풍이 불어왔어요. 큰 구름이 있었는데 번개가 번쩍이고 구름 주위가 빛났어요. 구름 가운데서 불타는 금속처럼 빛나는 것이 보였어요."},
-        {"verse": 5, "korean": "그 가운데서 네 생물의 모습이 나타났어요. 그들은 사람처럼 생겼어요."},
-        {"verse": 6, "korean": "각각 얼굴이 넷이고 날개도 넷이었어요."},
-        {"verse": 7, "korean": "그들의 다리는 곧았어요. 발바닥은 송아지 발굽처럼 생겼고 닦은 놋처럼 반짝였어요."},
-        {"verse": 8, "korean": "날개 아래 사방에 사람의 손이 있었어요. 네 생물 모두 얼굴과 날개가 있었어요."},
-        {"verse": 9, "korean": "날개는 서로 붙어 있었어요. 그들은 움직일 때 돌지 않고 앞으로 똑바로 갔어요."},
-        {"verse": 10, "korean": "그들의 얼굴 모습은 이랬어요. 앞은 사람 얼굴, 오른쪽은 사자 얼굴, 왼쪽은 소 얼굴, 뒤는 독수리 얼굴이었어요."},
-        {"verse": 11, "korean": "그들의 얼굴은 그러했어요. 날개는 위로 펼쳐져서 둘은 서로 닿았고, 다른 둘은 몸을 덮었어요."},
-        {"verse": 12, "korean": "그들은 각각 앞으로 똑바로 갔어요. 영이 가려는 곳으로 갔고 움직일 때 돌지 않았어요."},
-        {"verse": 13, "korean": "생물들의 모습은 타는 숯불 같았고 횃불 같았어요. 불이 생물들 사이에서 오르내렸어요. 불은 밝았고 불에서 번개가 나왔어요."},
-        {"verse": 14, "korean": "생물들은 번개처럼 빠르게 왔다 갔다 했어요."},
-        {"verse": 15, "korean": "생물들을 보니 각 생물 옆에 바퀴가 하나씩 있었어요."},
-        {"verse": 16, "korean": "바퀴들의 모양은 녹주석처럼 빛났어요. 넷이 다 같은 모양이었어요. 바퀴 안에 바퀴가 있는 것 같았어요."},
-        {"verse": 17, "korean": "바퀴들은 사방으로 움직였어요. 움직일 때 방향을 바꾸지 않았어요."},
-        {"verse": 18, "korean": "바퀴의 테는 높고 무서웠어요. 네 바퀴 테에는 온통 눈이 가득했어요."},
-        {"verse": 19, "korean": "생물들이 움직이면 바퀴도 함께 움직였어요. 생물들이 땅에서 올라가면 바퀴도 올라갔어요."},
-        {"verse": 20, "korean": "영이 가려는 곳이면 어디든지 갔어요. 바퀴도 함께 올라갔어요. 생물의 영이 바퀴 안에 있었기 때문이에요."},
-        {"verse": 21, "korean": "생물들이 가면 바퀴도 갔어요. 생물들이 서면 바퀴도 섰어요. 생물들이 땅에서 올라가면 바퀴도 함께 올라갔어요. 생물의 영이 바퀴 안에 있었기 때문이에요."},
-        {"verse": 22, "korean": "생물들의 머리 위에는 궁창 같은 것이 있었어요. 놀라운 수정처럼 빛났고 그들의 머리 위로 펼쳐져 있었어요."},
-        {"verse": 23, "korean": "궁창 아래에서 날개가 곧게 펼쳐져 서로 닿았어요. 각각 두 날개로 몸을 덮었어요."},
-        {"verse": 24, "korean": "그들이 움직일 때 날개 소리를 들었어요. 큰 물소리 같았고 전능하신 하나님의 음성 같았어요. 군대의 소리처럼 시끄러웠어요. 그들이 서면 날개를 내렸어요."},
-        {"verse": 25, "korean": "그들이 서서 날개를 내릴 때 머리 위 궁창에서 소리가 들렸어요."},
-        {"verse": 26, "korean": "머리 위 궁창 위에 보석처럼 보이는 보좌가 있었어요. 보좌 위에는 사람 같은 모습이 있었어요."},
-        {"verse": 27, "korean": "허리 위는 불타는 금속처럼 빛났어요. 허리 아래도 불처럼 빛났어요. 그 주위에 빛이 있었어요."},
-        {"verse": 28, "korean": "그 빛은 비 오는 날 구름 속 무지개 같았어요. 이것이 여호와의 영광의 모습이었어요. 제가 그것을 보고 땅에 엎드렸어요. 그때 말씀하시는 소리를 들었어요."}
+        {
+          "verse": 1,
+          "original": "Now in the thirtieth year, in the fourth month, in the fifth of the month, as I was among the captives by the river Chebar, the heavens were opened, and I saw visions of God.",
+          "korean": "삼십 년째 되던 해, 사 월 오 일이었어요. 저는 그발 강가에서 포로로 잡혀 온 사람들과 함께 있었어요. 그때 하늘이 열리고 저는 하나님의 환상을 보았어요."
+        },
+        {
+          "verse": 2,
+          "original": "In the fifth of the month, which was the fifth year of king Jehoiachin’s captivity,",
+          "korean": "여호야긴 왕이 포로로 잡혀간 지 오 년째 되던 해, 그 달 오 일이었어요."
+        },
+        {
+          "verse": 3,
+          "original": "Yahweh’s word came to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and Yahweh’s hand was there on him.",
+          "korean": "바벨론 땅 그발 강가에서 하나님께서 제사장 부시의 아들 에스겔에게 말씀하셨어요. 하나님의 손이 그에게 임했어요."
+        },
+        {
+          "verse": 4,
+          "original": "I looked, and behold, a stormy wind came out of the north: a great cloud, with flashing lightning, and a brightness around it, and out of the middle of it as it were glowing metal, out of the middle of the fire.",
+          "korean": "제가 보니 북쪽에서 폭풍이 불어왔어요. 큰 구름이 있었는데 번개가 번쩍이고 구름 주위가 빛났어요. 구름 가운데서 불타는 금속처럼 빛나는 것이 보였어요."
+        },
+        {
+          "verse": 5,
+          "original": "Out of its center came the likeness of four living creatures. This was their appearance: They had the likeness of a man.",
+          "korean": "그 가운데서 네 생물의 모습이 나타났어요. 그들은 사람처럼 생겼어요."
+        },
+        {
+          "verse": 6,
+          "original": "Everyone had four faces, and each one of them had four wings.",
+          "korean": "각각 얼굴이 넷이고 날개도 넷이었어요."
+        },
+        {
+          "verse": 7,
+          "original": "Their feet were straight feet. The sole of their feet was like the sole of a calf’s foot; and they sparkled like burnished brass.",
+          "korean": "그들의 다리는 곧았어요. 발바닥은 송아지 발굽처럼 생겼고 닦은 놋처럼 반짝였어요."
+        },
+        {
+          "verse": 8,
+          "original": "They had the hands of a man under their wings on their four sides. The four of them had their faces and their wings like this:",
+          "korean": "날개 아래 사방에 사람의 손이 있었어요. 네 생물 모두 얼굴과 날개가 있었어요."
+        },
+        {
+          "verse": 9,
+          "original": "Their wings were joined to one another. They didn’t turn when they went. Each one went straight forward.",
+          "korean": "날개는 서로 붙어 있었어요. 그들은 움직일 때 돌지 않고 앞으로 똑바로 갔어요."
+        },
+        {
+          "verse": 10,
+          "original": "As for the likeness of their faces, they had the face of a man. The four of them had the face of a lion on the right side. The four of them had the face of an ox on the left side. The four of them also had the face of an eagle.",
+          "korean": "그들의 얼굴 모습은 이랬어요. 앞은 사람 얼굴, 오른쪽은 사자 얼굴, 왼쪽은 소 얼굴, 뒤는 독수리 얼굴이었어요."
+        },
+        {
+          "verse": 11,
+          "original": "Such were their faces. Their wings were spread out above. Two wings of each one touched another, and two covered their bodies.",
+          "korean": "그들의 얼굴은 그러했어요. 날개는 위로 펼쳐져서 둘은 서로 닿았고, 다른 둘은 몸을 덮었어요."
+        },
+        {
+          "verse": 12,
+          "original": "Each one went straight forward: where the spirit was to go, they went. They didn’t turn when they went.",
+          "korean": "그들은 각각 앞으로 똑바로 갔어요. 영이 가려는 곳으로 갔고 움직일 때 돌지 않았어요."
+        },
+        {
+          "verse": 13,
+          "original": "As for the likeness of the living creatures, their appearance was like burning coals of fire, like the appearance of torches. The fire went up and down among the living creatures. The fire was bright, and lightning went out of the fire.",
+          "korean": "생물들의 모습은 타는 숯불 같았고 횃불 같았어요. 불이 생물들 사이에서 오르내렸어요. 불은 밝았고 불에서 번개가 나왔어요."
+        },
+        {
+          "verse": 14,
+          "original": "The living creatures ran and returned as the appearance of a flash of lightning.",
+          "korean": "생물들은 번개처럼 빠르게 왔다 갔다 했어요."
+        },
+        {
+          "verse": 15,
+          "original": "Now as I saw the living creatures, behold, there was one wheel on the earth beside the living creatures, for each of the four faces of it.",
+          "korean": "생물들을 보니 각 생물 옆에 바퀴가 하나씩 있었어요."
+        },
+        {
+          "verse": 16,
+          "original": "The appearance of the wheels and their work was like a beryl. The four of them had one likeness. Their appearance and their work was as it were a wheel within a wheel.",
+          "korean": "바퀴들의 모양은 녹주석처럼 빛났어요. 넷이 다 같은 모양이었어요. 바퀴 안에 바퀴가 있는 것 같았어요."
+        },
+        {
+          "verse": 17,
+          "original": "When they went, they went in their four directions. They didn’t turn when they went.",
+          "korean": "바퀴들은 사방으로 움직였어요. 움직일 때 방향을 바꾸지 않았어요."
+        },
+        {
+          "verse": 18,
+          "original": "As for their rims, they were high and dreadful; and the four of them had their rims full of eyes all around.",
+          "korean": "바퀴의 테는 높고 무서웠어요. 네 바퀴 테에는 온통 눈이 가득했어요."
+        },
+        {
+          "verse": 19,
+          "original": "When the living creatures went, the wheels went beside them. Then the living creatures were lifted up from the earth, the wheels were lifted up.",
+          "korean": "생물들이 움직이면 바퀴도 함께 움직였어요. 생물들이 땅에서 올라가면 바퀴도 올라갔어요."
+        },
+        {
+          "verse": 20,
+          "original": "Wherever the spirit was to go, they went. The spirit was to go there. The wheels were lifted up beside them; for the spirit of the living creature was in the wheels.",
+          "korean": "영이 가려는 곳이면 어디든지 갔어요. 바퀴도 함께 올라갔어요. 생물의 영이 바퀴 안에 있었기 때문이에요."
+        },
+        {
+          "verse": 21,
+          "original": "When those went, these went. When those stood, these stood. When those were lifted up from the earth, the wheels were lifted up beside them; for the spirit of the living creature was in the wheels.",
+          "korean": "생물들이 가면 바퀴도 갔어요. 생물들이 서면 바퀴도 섰어요. 생물들이 땅에서 올라가면 바퀴도 함께 올라갔어요. 생물의 영이 바퀴 안에 있었기 때문이에요."
+        },
+        {
+          "verse": 22,
+          "original": "Over the head of the living creature there was the likeness of an expanse, like an awesome crystal to look at, stretched out over their heads above.",
+          "korean": "생물들의 머리 위에는 궁창 같은 것이 있었어요. 놀라운 수정처럼 빛났고 그들의 머리 위로 펼쳐져 있었어요."
+        },
+        {
+          "verse": 23,
+          "original": "Under the expanse, their wings were straight, one toward the other. Each one had two which covered on this side, and each one had two which covered their bodies on that side.",
+          "korean": "궁창 아래에서 날개가 곧게 펼쳐져 서로 닿았어요. 각각 두 날개로 몸을 덮었어요."
+        },
+        {
+          "verse": 24,
+          "original": "When they went, I heard the noise of their wings like the noise of great waters, like the voice of the Almighty, a noise of tumult like the noise of an army. When they stood, they let down their wings.",
+          "korean": "그들이 움직일 때 날개 소리를 들었어요. 큰 물소리 같았고 전능하신 하나님의 음성 같았어요. 군대의 소리처럼 시끄러웠어요. 그들이 서면 날개를 내렸어요."
+        },
+        {
+          "verse": 25,
+          "original": "There was a voice above the expanse that was over their heads. When they stood, they let down their wings.",
+          "korean": "그들이 서서 날개를 내릴 때 머리 위 궁창에서 소리가 들렸어요."
+        },
+        {
+          "verse": 26,
+          "original": "Above the expanse that was over their heads was the likeness of a throne, as the appearance of a sapphire stone. On the likeness of the throne was a likeness as the appearance of a man on it above.",
+          "korean": "머리 위 궁창 위에 보석처럼 보이는 보좌가 있었어요. 보좌 위에는 사람 같은 모습이 있었어요."
+        },
+        {
+          "verse": 27,
+          "original": "I saw as it were glowing metal, as the appearance of fire within it all around, from the appearance of his waist and upward; and from the appearance of his waist and downward I saw as it were the appearance of fire, and there was brightness around him.",
+          "korean": "허리 위는 불타는 금속처럼 빛났어요. 허리 아래도 불처럼 빛났어요. 그 주위에 빛이 있었어요."
+        },
+        {
+          "verse": 28,
+          "original": "As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around.\nThis was the appearance of the likeness of Yahweh’s glory. When I saw it, I fell on my face, and I heard a voice of one that spoke.",
+          "korean": "그 빛은 비 오는 날 구름 속 무지개 같았어요. 이것이 하나님의 영광의 모습이었어요. 제가 그것을 보고 땅에 엎드렸어요. 그때 말씀하시는 소리를 들었어요."
+        }
       ]
     },
     {
       "chapter": 2,
       "verses": [
-        {"verse": 1, "korean": "그분이 제게 말씀하셨어요. \"사람아, 일어서라. 내가 너에게 말하겠다.\""},
-        {"verse": 2, "korean": "그분이 말씀하실 때 영이 제 안에 들어와서 저를 일으켜 세웠어요. 그리고 말씀하시는 분의 소리를 들었어요."},
-        {"verse": 3, "korean": "그분이 말씀하셨어요. \"사람아, 내가 너를 이스라엘 백성에게 보낸다. 그들은 나를 거역한 백성이다. 그들과 그들의 조상들이 오늘까지 나를 거역했다.\""},
-        {"verse": 4, "korean": "\"그들은 뻔뻔하고 고집이 센 사람들이다. 내가 너를 그들에게 보낸다. 너는 그들에게 '주 여호와께서 이렇게 말씀하신다'고 전하여라.\""},
-        {"verse": 5, "korean": "\"그들이 듣든지 듣지 않든지 그들은 예언자가 자기들 가운데 있었다는 것을 알게 될 것이다. 그들은 반역하는 집안이니까.\""},
-        {"verse": 6, "korean": "\"사람아, 그들을 두려워하지 마라. 그들의 말도 두려워하지 마라. 비록 가시덤불과 찔레가 네 곁에 있고 전갈들 사이에 살더라도 말이다. 그들이 반역하는 집안이라도 그들의 말을 두려워하지 마라.\""},
-        {"verse": 7, "korean": "\"그들이 듣든지 듣지 않든지 내 말을 그들에게 전하여라. 그들은 정말 반역하는 자들이니까.\""},
-        {"verse": 8, "korean": "\"그런데 사람아, 내가 하는 말을 들어라. 저 반역하는 집처럼 되지 마라. 입을 벌리고 내가 주는 것을 먹어라.\""},
-        {"verse": 9, "korean": "제가 보니 손이 저를 향해 펼쳐져 있었어요. 그 손에 두루마리가 있었어요."},
-        {"verse": 10, "korean": "그분이 그것을 제 앞에 펼치셨어요. 안팎에 글이 써 있었는데 슬픔과 탄식과 재앙에 대한 것이었어요."}
+        {
+          "verse": 1,
+          "original": "He said to me, “Son of man, stand on your feet, and I will speak with you.”",
+          "korean": "그분이 제게 말씀하셨어요. \"사람아, 일어서라. 내가 너에게 말하겠다.\""
+        },
+        {
+          "verse": 2,
+          "original": "The Spirit entered into me when he spoke to me, and set me on my feet; and I heard him who spoke to me.",
+          "korean": "그분이 말씀하실 때 영이 제 안에 들어와서 저를 일으켜 세웠어요. 그리고 말씀하시는 분의 소리를 들었어요."
+        },
+        {
+          "verse": 3,
+          "original": "He said to me, “Son of man, I send you to the children of Israel, to a nation of rebels who have rebelled against me. They and their fathers have transgressed against me even to this very day.",
+          "korean": "그분이 말씀하셨어요. \"사람아, 내가 너를 이스라엘 백성에게 보낸다. 그들은 나를 거역한 백성이다. 그들과 그들의 조상들이 오늘까지 나를 거역했다.\""
+        },
+        {
+          "verse": 4,
+          "original": "The children are impudent and stiff-hearted. I am sending you to them, and you shall tell them, ‘Thus says the Lord Yahweh.’",
+          "korean": "\"그들은 뻔뻔하고 고집이 센 사람들이다. 내가 너를 그들에게 보낸다. 너는 그들에게 '주 하나님께서 이렇게 말씀하신다'고 전하여라.\""
+        },
+        {
+          "verse": 5,
+          "original": "They, whether they will hear, or whether they will refuse, for they are a rebellious house, yet they will know that there has been a prophet among them.",
+          "korean": "\"그들이 듣든지 듣지 않든지 그들은 예언자가 자기들 가운데 있었다는 것을 알게 될 것이다. 그들은 반역하는 집안이니까.\""
+        },
+        {
+          "verse": 6,
+          "original": "You, son of man, don’t be afraid of them, neither be afraid of their words, though briers and thorns are with you, and you do dwell among scorpions. Don’t be afraid of their words, nor be dismayed at their looks, though they are a rebellious house.",
+          "korean": "\"사람아, 그들을 두려워하지 마라. 그들의 말도 두려워하지 마라. 비록 가시덤불과 찔레가 네 곁에 있고 전갈들 사이에 살더라도 말이다. 그들이 반역하는 집안이라도 그들의 말을 두려워하지 마라.\""
+        },
+        {
+          "verse": 7,
+          "original": "You shall speak my words to them, whether they will hear, or whether they will refuse; for they are most rebellious.",
+          "korean": "\"그들이 듣든지 듣지 않든지 내 말을 그들에게 전하여라. 그들은 정말 반역하는 자들이니까.\""
+        },
+        {
+          "verse": 8,
+          "original": "But you, son of man, hear what I tell you. Don’t be rebellious like that rebellious house. Open your mouth, and eat that which I give you.”",
+          "korean": "\"그런데 사람아, 내가 하는 말을 들어라. 저 반역하는 집처럼 되지 마라. 입을 벌리고 내가 주는 것을 먹어라.\""
+        },
+        {
+          "verse": 9,
+          "original": "When I looked, behold, a hand was stretched out to me; and, behold, a scroll of a book was in it.",
+          "korean": "제가 보니 손이 저를 향해 펼쳐져 있었어요. 그 손에 두루마리가 있었어요."
+        },
+        {
+          "verse": 10,
+          "original": "He spread it before me. It was written within and without; and lamentations, mourning, and woe were written in it.",
+          "korean": "그분이 그것을 제 앞에 펼치셨어요. 안팎에 글이 써 있었는데 슬픔과 탄식과 재앙에 대한 것이었어요."
+        }
       ]
     },
     {
       "chapter": 3,
       "verses": [
-        {"verse": 1, "korean": "그분이 말씀하셨어요. \"사람아, 네가 받은 것을 먹어라. 이 두루마리를 먹고 가서 이스라엘 집에 말하여라.\""},
-        {"verse": 2, "korean": "그래서 저는 입을 벌렸어요. 그분이 두루마리를 먹게 해 주셨어요."},
-        {"verse": 3, "korean": "그분이 말씀하셨어요. \"사람아, 내가 주는 이 두루마리로 배를 채우고 배부르게 먹어라.\" 저는 그것을 먹었는데 입에서 꿀처럼 달았어요."},
-        {"verse": 4, "korean": "그분이 말씀하셨어요. \"사람아, 이스라엘 집에 가서 내 말을 전하여라.\""},
-        {"verse": 5, "korean": "\"너를 말이 이상하고 언어가 어려운 백성에게 보내는 것이 아니다. 이스라엘 집에 보내는 것이다.\""},
-        {"verse": 6, "korean": "\"말을 알아들을 수 없는 많은 민족들에게 보내는 것이 아니다. 만약 내가 그들에게 보냈다면 그들은 네 말을 들었을 것이다.\""},
-        {"verse": 7, "korean": "\"그러나 이스라엘 집은 네 말을 듣지 않을 것이다. 그들이 내 말을 듣지 않기 때문이다. 이스라엘 집 전체가 고집이 세고 마음이 완악하다.\""},
-        {"verse": 8, "korean": "\"보아라, 내가 네 얼굴을 그들의 얼굴처럼 굳세게 만들었다. 네 이마를 그들의 이마처럼 굳세게 만들었다.\""},
-        {"verse": 9, "korean": "\"네 이마를 부싯돌보다 단단한 금강석처럼 만들었다. 그들이 반역하는 집이라도 두려워하지 마라.\""},
-        {"verse": 10, "korean": "또 그분이 말씀하셨어요. \"사람아, 내가 너에게 하는 말을 다 마음에 새기고 귀로 들어라.\""},
-        {"verse": 11, "korean": "\"포로로 잡혀 온 네 동족에게 가서 말하여라. 그들이 듣든지 듣지 않든지 '주 여호와께서 이렇게 말씀하신다'고 전하여라.\""},
-        {"verse": 12, "korean": "그때 영이 저를 들어올렸어요. 뒤에서 큰 우르릉 소리가 들렸어요. \"여호와의 영광이 그 처소에서 찬양을 받으실지어다!\""},
-        {"verse": 13, "korean": "생물들의 날개가 서로 닿는 소리도 들렸어요. 그 옆의 바퀴 소리도 들렸어요. 큰 우르릉 소리였어요."},
-        {"verse": 14, "korean": "영이 저를 들어올려 데려갔어요. 저는 마음이 쓰라리고 영이 격분했어요. 여호와의 손이 저를 강하게 붙들었어요."},
-        {"verse": 15, "korean": "저는 그발 강가 델아빕에 사는 포로들에게 갔어요. 그들 사이에서 칠 일 동안 넋을 잃고 앉아 있었어요."},
-        {"verse": 16, "korean": "칠 일이 지났을 때 여호와의 말씀이 제게 임했어요."},
-        {"verse": 17, "korean": "\"사람아, 내가 너를 이스라엘 집의 파수꾼으로 세웠다. 그러니 내 입에서 나오는 말을 듣고 나를 대신해서 그들에게 경고하여라.\""},
-        {"verse": 18, "korean": "\"내가 악한 사람에게 '너는 반드시 죽을 것이다'라고 말할 때, 네가 그에게 경고하지 않고 악한 길에서 돌이키라고 말하지 않으면 그 악한 사람은 자기 죄 때문에 죽을 것이다. 그러나 그의 피 값을 네게 묻겠다.\""},
-        {"verse": 19, "korean": "\"그러나 네가 악한 사람에게 경고했는데도 그가 악함과 악한 길에서 돌이키지 않으면 그는 자기 죄 때문에 죽을 것이다. 그러나 너는 네 생명을 구한 것이다.\""},
-        {"verse": 20, "korean": "\"또 의로운 사람이 의로움을 버리고 죄를 지을 때, 내가 걸림돌을 그 앞에 두면 그가 죽을 것이다. 네가 그에게 경고하지 않았기 때문에 그는 자기 죄 때문에 죽을 것이다. 그의 피 값을 네게 묻겠다.\""},
-        {"verse": 21, "korean": "\"그러나 네가 의로운 사람에게 죄 짓지 말라고 경고하여 그가 죄를 짓지 않으면 그는 반드시 살 것이다. 경고를 받았기 때문이다. 그리고 너는 네 생명을 구한 것이다.\""},
-        {"verse": 22, "korean": "여호와의 손이 제게 임했어요. 그분이 말씀하셨어요. \"일어나 평원으로 나가라. 거기서 내가 너에게 말하겠다.\""},
-        {"verse": 23, "korean": "저는 일어나서 평원으로 나갔어요. 그발 강가에서 보았던 것처럼 여호와의 영광이 거기 서 있었어요. 저는 땅에 엎드렸어요."},
-        {"verse": 24, "korean": "그때 영이 제 안에 들어와서 저를 일으켜 세웠어요. 그분이 말씀하셨어요. \"가서 네 집에 들어가 문을 닫아라.\""},
-        {"verse": 25, "korean": "\"사람아, 사람들이 너를 밧줄로 묶어서 밖에 나가지 못하게 할 것이다.\""},
-        {"verse": 26, "korean": "\"내가 네 혀를 입천장에 붙게 해서 벙어리가 되게 하겠다. 그래서 그들을 꾸짖지 못할 것이다. 그들은 반역하는 집이니까.\""},
-        {"verse": 27, "korean": "\"그러나 내가 너에게 말할 때 네 입을 열어 주겠다. 너는 그들에게 '주 여호와께서 이렇게 말씀하신다'고 전하여라. 듣는 자는 듣고 듣지 않는 자는 듣지 않을 것이다. 그들은 반역하는 집이니까.\""}
+        {
+          "verse": 1,
+          "original": "He said to me, “Son of man, eat what you find. Eat this scroll, and go, speak to the house of Israel.”",
+          "korean": "그분이 말씀하셨어요. \"사람아, 네가 받은 것을 먹어라. 이 두루마리를 먹고 가서 이스라엘 집에 말하여라.\""
+        },
+        {
+          "verse": 2,
+          "original": "So I opened my mouth, and he caused me to eat the scroll.",
+          "korean": "그래서 저는 입을 벌렸어요. 그분이 두루마리를 먹게 해 주셨어요."
+        },
+        {
+          "verse": 3,
+          "original": "He said to me, “Son of man, cause your belly to eat, and fill your bowels with this scroll that I give you.”\nThen I ate it; and it was as sweet as honey in my mouth.",
+          "korean": "그분이 말씀하셨어요. \"사람아, 내가 주는 이 두루마리로 배를 채우고 배부르게 먹어라.\" 저는 그것을 먹었는데 입에서 꿀처럼 달았어요."
+        },
+        {
+          "verse": 4,
+          "original": "He said to me, “Son of man, go to the house of Israel, and speak my words to them.",
+          "korean": "그분이 말씀하셨어요. \"사람아, 이스라엘 집에 가서 내 말을 전하여라.\""
+        },
+        {
+          "verse": 5,
+          "original": "For you are not sent to a people of a strange speech and of a hard language, but to the house of Israel;",
+          "korean": "\"너를 말이 이상하고 언어가 어려운 백성에게 보내는 것이 아니다. 이스라엘 집에 보내는 것이다.\""
+        },
+        {
+          "verse": 6,
+          "original": "not to many peoples of a strange speech and of a hard language, whose words you can’t understand. Surely, if I sent you to them, they would listen to you.",
+          "korean": "\"말을 알아들을 수 없는 많은 민족들에게 보내는 것이 아니다. 만약 내가 그들에게 보냈다면 그들은 네 말을 들었을 것이다.\""
+        },
+        {
+          "verse": 7,
+          "original": "But the house of Israel will not listen to you, for they will not listen to me; for all the house of Israel are obstinate and hard-hearted.",
+          "korean": "\"그러나 이스라엘 집은 네 말을 듣지 않을 것이다. 그들이 내 말을 듣지 않기 때문이다. 이스라엘 집 전체가 고집이 세고 마음이 완악하다.\""
+        },
+        {
+          "verse": 8,
+          "original": "Behold, I have made your face hard against their faces, and your forehead hard against their foreheads.",
+          "korean": "\"보아라, 내가 네 얼굴을 그들의 얼굴처럼 굳세게 만들었다. 네 이마를 그들의 이마처럼 굳세게 만들었다.\""
+        },
+        {
+          "verse": 9,
+          "original": "I have made your forehead as a diamond, harder than flint. Don’t be afraid of them, neither be dismayed at their looks, though they are a rebellious house.”",
+          "korean": "\"네 이마를 부싯돌보다 단단한 금강석처럼 만들었다. 그들이 반역하는 집이라도 두려워하지 마라.\""
+        },
+        {
+          "verse": 10,
+          "original": "Moreover he said to me, “Son of man, receive in your heart and hear with your ears all my words that I speak to you.",
+          "korean": "또 그분이 말씀하셨어요. \"사람아, 내가 너에게 하는 말을 다 마음에 새기고 귀로 들어라.\""
+        },
+        {
+          "verse": 11,
+          "original": "Go to them of the captivity, to the children of your people, and speak to them, and tell them, ‘Thus says the Lord Yahweh;’ whether they will hear, or whether they will refuse.",
+          "korean": "\"포로로 잡혀 온 네 동족에게 가서 말하여라. 그들이 듣든지 듣지 않든지 '주 하나님께서 이렇게 말씀하신다'고 전하여라.\""
+        },
+        {
+          "verse": 12,
+          "original": "Then the Spirit lifted me up, and I heard behind me the voice of a great rushing, saying, “Blessed be Yahweh’s glory from his place.”",
+          "korean": "그때 영이 저를 들어올렸어요. 뒤에서 큰 우르릉 소리가 들렸어요. \"하나님의 영광이 그 처소에서 찬양을 받으실지어다!\""
+        },
+        {
+          "verse": 13,
+          "original": "I heard the noise of the wings of the living creatures as they touched one another, and the noise of the wheels beside them, even the noise of a great rushing.",
+          "korean": "생물들의 날개가 서로 닿는 소리도 들렸어요. 그 옆의 바퀴 소리도 들렸어요. 큰 우르릉 소리였어요."
+        },
+        {
+          "verse": 14,
+          "original": "So the Spirit lifted me up, and took me away; and I went in bitterness, in the heat of my spirit; and Yahweh’s hand was strong on me.",
+          "korean": "영이 저를 들어올려 데려갔어요. 저는 마음이 쓰라리고 영이 격분했어요. 하나님의 손이 저를 강하게 붙들었어요."
+        },
+        {
+          "verse": 15,
+          "original": "Then I came to them of the captivity at Tel Aviv, that lived by the river Chebar, and to where they lived; and I sat there overwhelmed among them seven days.",
+          "korean": "저는 그발 강가 델아빕에 사는 포로들에게 갔어요. 그들 사이에서 칠 일 동안 넋을 잃고 앉아 있었어요."
+        },
+        {
+          "verse": 16,
+          "original": "At the end of seven days, Yahweh’s word came to me, saying,",
+          "korean": "칠 일이 지났을 때 하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 17,
+          "original": "“Son of man, I have made you a watchman to the house of Israel. Therefore hear the word from my mouth, and warn them from me.",
+          "korean": "\"사람아, 내가 너를 이스라엘 집의 파수꾼으로 세웠다. 그러니 내 입에서 나오는 말을 듣고 나를 대신해서 그들에게 경고하여라.\""
+        },
+        {
+          "verse": 18,
+          "original": "When I tell the wicked, ‘You will surely die;’ and you give him no warning, nor speak to warn the wicked from his wicked way, to save his life; the same wicked man will die in his iniquity; but I will require his blood at your hand.",
+          "korean": "\"내가 악한 사람에게 '너는 반드시 죽을 것이다'라고 말할 때, 네가 그에게 경고하지 않고 악한 길에서 돌이키라고 말하지 않으면 그 악한 사람은 자기 죄 때문에 죽을 것이다. 그러나 그의 피 값을 네게 묻겠다.\""
+        },
+        {
+          "verse": 19,
+          "original": "Yet if you warn the wicked, and he doesn’t turn from his wickedness, nor from his wicked way, he will die in his iniquity; but you have delivered your soul.”",
+          "korean": "\"그러나 네가 악한 사람에게 경고했는데도 그가 악함과 악한 길에서 돌이키지 않으면 그는 자기 죄 때문에 죽을 것이다. 그러나 너는 네 생명을 구한 것이다.\""
+        },
+        {
+          "verse": 20,
+          "original": "“Again, when a righteous man turns from his righteousness, and commits iniquity, and I lay a stumbling block before him, he will die. Because you have not given him warning, he will die in his sin, and his righteous deeds which he has done will not be remembered; but I will require his blood at your hand.",
+          "korean": "\"또 올바른 사람이 의로움을 버리고 죄를 지을 때, 내가 걸림돌을 그 앞에 두면 그가 죽을 것이다. 네가 그에게 경고하지 않았기 때문에 그는 자기 죄 때문에 죽을 것이다. 그의 피 값을 네게 묻겠다.\""
+        },
+        {
+          "verse": 21,
+          "original": "Nevertheless if you warn the righteous man, that the righteous not sin, and he does not sin, he will surely live, because he took warning; and you have delivered your soul.”",
+          "korean": "\"그러나 네가 올바른 사람에게 죄 짓지 말라고 경고하여 그가 죄를 짓지 않으면 그는 반드시 살 것이다. 경고를 받았기 때문이다. 그리고 너는 네 생명을 구한 것이다.\""
+        },
+        {
+          "verse": 22,
+          "original": "Yahweh’s hand was there on me; and he said to me, “Arise, go out into the plain, and I will talk with you there.”",
+          "korean": "하나님의 손이 제게 임했어요. 그분이 말씀하셨어요. \"일어나 평원으로 나가라. 거기서 내가 너에게 말하겠다.\""
+        },
+        {
+          "verse": 23,
+          "original": "Then I arose, and went out into the plain, and behold, Yahweh’s glory stood there, like the glory which I saw by the river Chebar. Then I fell on my face.",
+          "korean": "저는 일어나서 평원으로 나갔어요. 그발 강가에서 보았던 것처럼 하나님의 영광이 거기 서 있었어요. 저는 땅에 엎드렸어요."
+        },
+        {
+          "verse": 24,
+          "original": "Then the Spirit entered into me, and set me on my feet. He spoke with me, and said to me, “Go, shut yourself inside your house.",
+          "korean": "그때 영이 제 안에 들어와서 저를 일으켜 세웠어요. 그분이 말씀하셨어요. \"가서 네 집에 들어가 문을 닫아라.\""
+        },
+        {
+          "verse": 25,
+          "original": "But you, son of man, behold, they will put ropes on you, and will bind you with them, and you will not go out among them.",
+          "korean": "\"사람아, 사람들이 너를 밧줄로 묶어서 밖에 나가지 못하게 할 것이다.\""
+        },
+        {
+          "verse": 26,
+          "original": "I will make your tongue stick to the roof of your mouth, that you will be mute, and will not be able to correct them; for they are a rebellious house.",
+          "korean": "\"내가 네 혀를 입천장에 붙게 해서 벙어리가 되게 하겠다. 그래서 그들을 꾸짖지 못할 것이다. 그들은 반역하는 집이니까.\""
+        },
+        {
+          "verse": 27,
+          "original": "But when I speak with you, I will open your mouth, and you shall tell them, ‘Thus says the Lord Yahweh.’ He who hears, let him hear; and he who refuses, let him refuse; for they are a rebellious house.”",
+          "korean": "\"그러나 내가 너에게 말할 때 네 입을 열어 주겠다. 너는 그들에게 '주 하나님께서 이렇게 말씀하신다'고 전하여라. 듣는 자는 듣고 듣지 않는 자는 듣지 않을 것이다. 그들은 반역하는 집이니까.\""
+        }
       ]
     },
     {
       "chapter": 4,
       "verses": [
-        {"verse": 1, "korean": "\"사람아, 벽돌을 가져다가 네 앞에 놓고 그 위에 예루살렘 성을 그려라.\""},
-        {"verse": 2, "korean": "\"그 성을 포위하고 진을 쌓고 언덕을 만들어라. 또 군대를 배치하고 성벽을 부수는 기계들을 사방에 설치해라.\""},
-        {"verse": 3, "korean": "\"철판을 가져다가 너와 성 사이에 철벽처럼 세워라. 그리고 그 성을 향해 얼굴을 돌려라. 성이 포위당하고 네가 포위하는 것이다. 이것이 이스라엘 집에 대한 표징이 될 것이다.\""},
-        {"verse": 4, "korean": "\"그리고 너는 왼쪽으로 누워라. 이스라엘 집의 죄를 네 위에 지는 것이다. 네가 누워 있는 날 수만큼 그들의 죄를 지게 될 것이다.\""},
-        {"verse": 5, "korean": "\"내가 그들의 죄의 연수를 날수로 정했다. 삼백구십 일 동안 이스라엘 집의 죄를 져야 한다.\""},
-        {"verse": 6, "korean": "\"이것을 마치면 오른쪽으로 누워서 유다 집의 죄를 져야 한다. 일 년에 하루씩 사십 일을 정했다.\""},
-        {"verse": 7, "korean": "\"너는 포위당한 예루살렘을 향해 얼굴을 돌리고 팔을 걷어붙이고 예언하여라.\""},
-        {"verse": 8, "korean": "\"보아라, 내가 너를 밧줄로 묶어서 포위가 끝날 때까지 몸을 돌리지 못하게 하겠다.\""},
-        {"verse": 9, "korean": "\"밀, 보리, 콩, 팥, 조, 귀리를 가져다가 한 그릇에 담아서 빵을 만들어라. 네가 누워 있는 삼백구십 일 동안 그것을 먹어라.\""},
-        {"verse": 10, "korean": "\"먹을 음식은 무게로 재어서 하루에 약 230그램씩 먹어라.\""},
-        {"verse": 11, "korean": "\"물도 양을 재어서 하루에 약 600밀리리터씩 마셔라.\""},
-        {"verse": 12, "korean": "\"보리떡처럼 구워 먹어라. 그들이 보는 앞에서 사람의 대변 위에서 구워라.\""},
-        {"verse": 13, "korean": "여호와께서 말씀하셨어요. \"이스라엘 백성이 내가 그들을 쫓아내는 나라들에서 이처럼 부정한 음식을 먹을 것이다.\""},
-        {"verse": 14, "korean": "저는 말했어요. \"아, 주 여호와여! 제 영혼이 더러워진 적이 없습니다. 어릴 때부터 지금까지 저절로 죽은 것이나 짐승에게 찢긴 것을 먹은 적이 없습니다. 부정한 고기가 제 입에 들어온 적이 없습니다!\""},
-        {"verse": 15, "korean": "그분이 말씀하셨어요. \"좋다, 사람의 대변 대신 소똥을 쓰도록 허락하겠다. 그 위에서 빵을 구워라.\""},
-        {"verse": 16, "korean": "또 그분이 말씀하셨어요. \"사람아, 내가 예루살렘에서 양식을 끊을 것이다. 그들이 걱정하면서 무게를 재어 빵을 먹고 두려워하면서 물을 재어 마실 것이다.\""},
-        {"verse": 17, "korean": "\"빵과 물이 부족해서 서로 쳐다보며 두려워할 것이다. 그리고 자기들의 죄 때문에 쇠약해질 것이다.\""}
+        {
+          "verse": 1,
+          "original": "“You also, son of man, take a tile, and lay it before yourself, and portray on it a city, even Jerusalem.",
+          "korean": "\"사람아, 벽돌을 가져다가 네 앞에 놓고 그 위에 예루살렘 성을 그려라.\""
+        },
+        {
+          "verse": 2,
+          "original": "Lay siege against it, build forts against it, and cast up a mound against it. Also set camps against it and plant battering rams against it all around.",
+          "korean": "\"그 성을 포위하고 진을 쌓고 언덕을 만들어라. 또 군대를 배치하고 성벽을 부수는 기계들을 사방에 설치해라.\""
+        },
+        {
+          "verse": 3,
+          "original": "Take for yourself an iron pan, and set it for a wall of iron between you and the city. Then set your face toward it. It will be besieged, and you shall lay siege against it. This shall be a sign to the house of Israel.",
+          "korean": "\"철판을 가져다가 너와 성 사이에 철벽처럼 세워라. 그리고 그 성을 향해 얼굴을 돌려라. 성이 포위당하고 네가 포위하는 것이다. 이것이 이스라엘 집에 대한 표징이 될 것이다.\""
+        },
+        {
+          "verse": 4,
+          "original": "“Moreover lie on your left side, and lay the iniquity of the house of Israel on it. According to the number of the days that you shall lie on it, you shall bear their iniquity.",
+          "korean": "\"그리고 너는 왼쪽으로 누워라. 이스라엘 집의 죄를 네 위에 지는 것이다. 네가 누워 있는 날 수만큼 그들의 죄를 지게 될 것이다.\""
+        },
+        {
+          "verse": 5,
+          "original": "For I have appointed the years of their iniquity to be to you a number of days, even three hundred ninety days. So you shall bear the iniquity of the house of Israel.",
+          "korean": "\"내가 그들의 죄의 연수를 날수로 정했다. 삼백구십 일 동안 이스라엘 집의 죄를 져야 한다.\""
+        },
+        {
+          "verse": 6,
+          "original": "“Again, when you have accomplished these, you shall lie on your right side, and shall bear the iniquity of the house of Judah. I have appointed forty days, each day for a year, to you.",
+          "korean": "\"이것을 마치면 오른쪽으로 누워서 유다 집의 죄를 져야 한다. 일 년에 하루씩 사십 일을 정했다.\""
+        },
+        {
+          "verse": 7,
+          "original": "You shall set your face toward the siege of Jerusalem, with your arm uncovered; and you shall prophesy against it.",
+          "korean": "\"너는 포위당한 예루살렘을 향해 얼굴을 돌리고 팔을 걷어붙이고 예언하여라.\""
+        },
+        {
+          "verse": 8,
+          "original": "Behold, I put ropes on you, and you shall not turn yourself from one side to the other, until you have accomplished the days of your siege.",
+          "korean": "\"보아라, 내가 너를 밧줄로 묶어서 포위가 끝날 때까지 몸을 돌리지 못하게 하겠다.\""
+        },
+        {
+          "verse": 9,
+          "original": "“Take for yourself also wheat, barley, beans, lentils, millet, and spelt, and put them in one vessel. Make bread of it. According to the number of the days that you will lie on your side, even three hundred ninety days, you shall eat of it.",
+          "korean": "\"밀, 보리, 콩, 팥, 조, 귀리를 가져다가 한 그릇에 담아서 빵을 만들어라. 네가 누워 있는 삼백구십 일 동안 그것을 먹어라.\""
+        },
+        {
+          "verse": 10,
+          "original": "Your food which you shall eat shall be by weight, twenty shekels a day. From time to time you shall eat it.",
+          "korean": "\"먹을 음식은 무게로 재어서 하루에 약 230그램씩 먹어라.\""
+        },
+        {
+          "verse": 11,
+          "original": "You shall drink water by measure, the sixth part of a hin. From time to time you shall drink.",
+          "korean": "\"물도 양을 재어서 하루에 약 600밀리리터씩 마셔라.\""
+        },
+        {
+          "verse": 12,
+          "original": "You shall eat it as barley cakes, and you shall bake it in their sight with dung that comes out of man.”",
+          "korean": "\"보리떡처럼 구워 먹어라. 그들이 보는 앞에서 사람의 대변 위에서 구워라.\""
+        },
+        {
+          "verse": 13,
+          "original": "Yahweh said, “Even thus will the children of Israel eat their bread unclean, among the nations where I will drive them.”",
+          "korean": "하나님께서 말씀하셨어요. \"이스라엘 백성이 내가 그들을 쫓아내는 나라들에서 이처럼 부정한 음식을 먹을 것이다.\""
+        },
+        {
+          "verse": 14,
+          "original": "Then I said, “Ah Lord Yahweh! Behold, my soul has not been polluted; for from my youth up even until now I have not eaten of that which dies of itself, or is torn of animals. No abominable meat has come into my mouth!”",
+          "korean": "저는 말했어요. \"아, 주 하나님여! 제 영혼이 더러워진 적이 없습니다. 어릴 때부터 지금까지 저절로 죽은 것이나 짐승에게 찢긴 것을 먹은 적이 없습니다. 부정한 고기가 제 입에 들어온 적이 없습니다!\""
+        },
+        {
+          "verse": 15,
+          "original": "Then he said to me, “Behold, I have given you cow’s dung for man’s dung, and you shall prepare your bread on it.”",
+          "korean": "그분이 말씀하셨어요. \"좋다, 사람의 대변 대신 소똥을 쓰도록 허락하겠다. 그 위에서 빵을 구워라.\""
+        },
+        {
+          "verse": 16,
+          "original": "Moreover he said to me, “Son of man, behold, I will break the staff of bread in Jerusalem. They will eat bread by weight, and with fearfulness. They will drink water by measure, and in dismay;",
+          "korean": "또 그분이 말씀하셨어요. \"사람아, 내가 예루살렘에서 양식을 끊을 것이다. 그들이 걱정하면서 무게를 재어 빵을 먹고 두려워하면서 물을 재어 마실 것이다.\""
+        },
+        {
+          "verse": 17,
+          "original": "that they may lack bread and water, be dismayed one with another, and pine away in their iniquity.",
+          "korean": "\"빵과 물이 부족해서 서로 쳐다보며 두려워할 것이다. 그리고 자기들의 죄 때문에 쇠약해질 것이다.\""
+        }
       ]
     },
     {
       "chapter": 5,
       "verses": [
-        {"verse": 1, "korean": "\"사람아, 날카로운 칼을 가져다가 이발사의 면도칼처럼 써서 네 머리와 수염을 밀어라. 그리고 저울을 가져다가 머리카락을 나누어라.\""},
-        {"verse": 2, "korean": "\"삼분의 일은 포위가 끝날 때 성 안에서 불로 태워라. 삼분의 일은 성 주위에서 칼로 쳐라. 삼분의 일은 바람에 날려라. 내가 그들 뒤에 칼을 빼어들 것이다.\""},
-        {"verse": 3, "korean": "\"그 중에서 조금을 가져다가 네 옷자락에 싸라.\""},
-        {"verse": 4, "korean": "\"다시 그 중에서 조금을 가져다가 불에 던져 태워라. 거기서 불이 나와서 온 이스라엘 집에 퍼질 것이다.\""},
-        {"verse": 5, "korean": "\"주 여호와께서 이렇게 말씀하신다. '이것이 예루살렘이다. 내가 그 성을 나라들 가운데에 두고 그 주위에 나라들을 둘렀다.\""},
-        {"verse": 6, "korean": "\"그런데 예루살렘이 주위의 나라들보다 더 악하게 내 법을 거역했다. 내 규례를 거부하고 따르지 않았다.'\""},
-        {"verse": 7, "korean": "\"그러므로 주 여호와께서 이렇게 말씀하신다. '너희가 주위의 나라들보다 더 반역하고 내 규례를 따르지 않고 내 법을 지키지 않았다.\""},
-        {"verse": 8, "korean": "\"그러므로 주 여호와께서 말씀하신다. 나도 너를 대적하여 나라들이 보는 앞에서 심판을 집행하겠다.\""},
-        {"verse": 9, "korean": "\"네 모든 가증한 일 때문에 내가 전에 하지 않았고 앞으로도 하지 않을 일을 너에게 하겠다.\""},
-        {"verse": 10, "korean": "\"그래서 너희 가운데 아버지가 아들을 먹고 아들이 아버지를 먹을 것이다. 내가 심판을 집행하고 남은 자들을 사방으로 흩을 것이다.'\""},
-        {"verse": 11, "korean": "\"주 여호와께서 말씀하신다. '내가 살아 있는 한, 네가 모든 가증한 우상들로 내 성소를 더럽혔으니 나도 너를 줄이겠다. 내 눈이 아끼지 않고 긍휼을 베풀지 않겠다.\""},
-        {"verse": 12, "korean": "\"너의 삼분의 일은 성 안에서 전염병과 기근으로 죽을 것이다. 삼분의 일은 성 밖에서 칼에 쓰러질 것이다. 삼분의 일은 사방으로 흩고 그 뒤에 칼을 빼어들 것이다.'\""},
-        {"verse": 13, "korean": "\"이렇게 내 분노를 다 쏟아내겠다. 그들 위에 내 노여움을 풀고 위로를 받겠다. 내가 그들 위에 분노를 다 쏟을 때 그들이 나 여호와가 열심을 품고 말한 것을 알게 될 것이다.\""},
-        {"verse": 14, "korean": "\"내가 너를 황폐하게 만들어서 주위 나라들에게 수치가 되게 하겠다. 지나가는 모든 사람이 볼 것이다.\""},
-        {"verse": 15, "korean": "\"내가 분노하여 심판을 집행할 때 너는 주위 나라들에게 수치와 조롱거리가 될 것이다. 나 여호와가 말했다.\""},
-        {"verse": 16, "korean": "\"내가 멸망시키는 기근의 화살을 보낼 때 너에게 기근이 더욱 심해져서 양식이 끊어질 것이다.\""},
-        {"verse": 17, "korean": "\"기근과 사나운 짐승을 보내어 자녀를 잃게 하겠다. 전염병과 피가 지나갈 것이다. 칼도 가져오겠다. 나 여호와가 말했다.'\""}
+        {
+          "verse": 1,
+          "original": "“You, son of man, take a sharp sword. You shall take it as a barber’s razor to yourself, and shall cause it to pass over your head and over your beard. Then take balances to weigh and divide the hair.",
+          "korean": "\"사람아, 날카로운 칼을 가져다가 이발사의 면도칼처럼 써서 네 머리와 수염을 밀어라. 그리고 저울을 가져다가 머리카락을 나누어라.\""
+        },
+        {
+          "verse": 2,
+          "original": "A third part you shall burn in the fire in the middle of the city, when the days of the siege are fulfilled. You shall take a third part, and strike with the sword around it. A third part you shall scatter to the wind, and I will draw out a sword after them.",
+          "korean": "\"삼분의 일은 포위가 끝날 때 성 안에서 불로 태워라. 삼분의 일은 성 주위에서 칼로 쳐라. 삼분의 일은 바람에 날려라. 내가 그들 뒤에 칼을 빼어들 것이다.\""
+        },
+        {
+          "verse": 3,
+          "original": "You shall take of it a few in number, and bind them in the folds of your robe.",
+          "korean": "\"그 중에서 조금을 가져다가 네 옷자락에 싸라.\""
+        },
+        {
+          "verse": 4,
+          "original": "Of these again you shall take, and cast them into the middle of the fire, and burn them in the fire. From it a fire will come out into all the house of Israel.",
+          "korean": "\"다시 그 중에서 조금을 가져다가 불에 던져 태워라. 거기서 불이 나와서 온 이스라엘 집에 퍼질 것이다.\""
+        },
+        {
+          "verse": 5,
+          "original": "“Thus says the Lord Yahweh: ‘This is Jerusalem. I have set her in the middle of the nations, and countries are around her.",
+          "korean": "\"주 하나님께서 이렇게 말씀하신다. '이것이 예루살렘이다. 내가 그 성을 나라들 가운데에 두고 그 주위에 나라들을 둘렀다.\""
+        },
+        {
+          "verse": 6,
+          "original": "She has rebelled against my ordinances in doing wickedness more than the nations, and against my statutes more than the countries that are around her; for they have rejected my ordinances, and as for my statutes, they have not walked in them.’",
+          "korean": "\"그런데 예루살렘이 주위의 나라들보다 더 악하게 내 법을 거역했다. 내 규례를 거부하고 따르지 않았다.'\""
+        },
+        {
+          "verse": 7,
+          "original": "“Therefore thus says the Lord Yahweh: ‘Because you are more turbulent than the nations that are around you, and have not walked in my statutes, neither have kept my ordinances, neither have followed the ordinances of the nations that are around you;",
+          "korean": "\"그러므로 주 하나님께서 이렇게 말씀하신다. '너희가 주위의 나라들보다 더 반역하고 내 규례를 따르지 않고 내 법을 지키지 않았다.\""
+        },
+        {
+          "verse": 8,
+          "original": "therefore thus says the Lord Yahweh: ‘Behold, I, even I, am against you; and I will execute judgments among you in the sight of the nations.",
+          "korean": "\"그러므로 주 하나님께서 말씀하신다. 나도 너를 대적하여 나라들이 보는 앞에서 심판을 집행하겠다.\""
+        },
+        {
+          "verse": 9,
+          "original": "I will do in you that which I have not done, and which I will not do anything like it any more, because of all your abominations.",
+          "korean": "\"네 모든 가증한 일 때문에 내가 전에 하지 않았고 앞으로도 하지 않을 일을 너에게 하겠다.\""
+        },
+        {
+          "verse": 10,
+          "original": "Therefore the fathers will eat the sons within you, and the sons will eat their fathers. I will execute judgments on you; and I will scatter the whole remnant of you to all the winds.",
+          "korean": "\"그래서 너희 가운데 아버지가 아들을 먹고 아들이 아버지를 먹을 것이다. 내가 심판을 집행하고 남은 자들을 사방으로 흩을 것이다.'\""
+        },
+        {
+          "verse": 11,
+          "original": "Therefore as I live,’ says the Lord Yahweh, ‘surely, because you have defiled my sanctuary with all your detestable things, and with all your abominations, therefore I will also diminish you. My eye won’t spare, and I will have no pity.",
+          "korean": "\"주 하나님께서 말씀하신다. '내가 살아 있는 한, 네가 모든 가증한 우상들로 내 성소를 더럽혔으니 나도 너를 줄이겠다. 내 눈이 아끼지 않고 긍휼을 베풀지 않겠다.\""
+        },
+        {
+          "verse": 12,
+          "original": "A third part of you will die with the pestilence, and they will be consumed with famine within you. A third part will fall by the sword around you. A third part I will scatter to all the winds, and will draw out a sword after them.",
+          "korean": "\"너의 삼분의 일은 성 안에서 전염병과 기근으로 죽을 것이다. 삼분의 일은 성 밖에서 칼에 쓰러질 것이다. 삼분의 일은 사방으로 흩고 그 뒤에 칼을 빼어들 것이다.'\""
+        },
+        {
+          "verse": 13,
+          "original": "“‘Thus my anger will be accomplished, and I will cause my wrath toward them to rest, and I will be comforted. They will know that I, Yahweh, have spoken in my zeal, when I have accomplished my wrath on them.",
+          "korean": "\"이렇게 내 분노를 다 쏟아내겠다. 그들 위에 내 노여움을 풀고 위로를 받겠다. 내가 그들 위에 분노를 다 쏟을 때 그들이 나 하나님가 열심을 품고 말한 것을 알게 될 것이다.\""
+        },
+        {
+          "verse": 14,
+          "original": "“‘Moreover I will make you a desolation and a reproach among the nations that are around you, in the sight of all that pass by.",
+          "korean": "\"내가 너를 황폐하게 만들어서 주위 나라들에게 수치가 되게 하겠다. 지나가는 모든 사람이 볼 것이다.\""
+        },
+        {
+          "verse": 15,
+          "original": "So it will be a reproach and a taunt, an instruction and an astonishment, to the nations that are around you, when I execute judgments on you in anger and in wrath, and in wrathful rebukes—I, Yahweh, have spoken it—",
+          "korean": "\"내가 분노하여 심판을 집행할 때 너는 주위 나라들에게 수치와 조롱거리가 될 것이다. 나 하나님가 말했다.\""
+        },
+        {
+          "verse": 16,
+          "original": "when I send on them the evil arrows of famine that are for destruction, which I will send to destroy you. I will increase the famine on you, and will break your staff of bread.",
+          "korean": "\"내가 멸망시키는 기근의 화살을 보낼 때 너에게 기근이 더욱 심해져서 양식이 끊어질 것이다.\""
+        },
+        {
+          "verse": 17,
+          "original": "I will send on you famine and evil animals, and they will bereave you. Pestilence and blood will pass through you. I will bring the sword on you. I, Yahweh, have spoken it.’”",
+          "korean": "\"기근과 사나운 짐승을 보내어 자녀를 잃게 하겠다. 전염병과 피가 지나갈 것이다. 칼도 가져오겠다. 나 하나님가 말했다.'\""
+        }
       ]
     },
     {
       "chapter": 6,
       "verses": [
-        {"verse": 1, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 2, "korean": "\"사람아, 이스라엘 산들을 향해 얼굴을 돌리고 예언하여라.\""},
-        {"verse": 3, "korean": "\"말하여라. '이스라엘 산들아, 주 여호와의 말씀을 들어라! 주 여호와께서 산과 언덕과 골짜기에게 말씀하신다. 내가 너희 위에 칼을 가져와서 너희의 산당들을 파괴하겠다.\""},
-        {"verse": 4, "korean": "\"너희 제단들이 황폐해지고 향단들이 부서질 것이다. 너희 우상들 앞에 죽은 자들을 쓰러뜨리겠다.\""},
-        {"verse": 5, "korean": "\"이스라엘 백성의 시체를 그들의 우상들 앞에 두고 너희 뼈를 제단 주위에 흩겠다.\""},
-        {"verse": 6, "korean": "\"너희가 사는 모든 곳에서 성들이 황폐해지고 산당들이 버려질 것이다. 제단들이 황폐하고 버려지고 우상들이 부서지며 향단들이 잘려 나가고 너희가 만든 것들이 없어질 것이다.\""},
-        {"verse": 7, "korean": "\"죽은 자들이 너희 가운데 쓰러질 것이다. 그러면 너희가 내가 여호와인 줄 알게 될 것이다.'\""},
-        {"verse": 8, "korean": "\"그러나 내가 남은 자들을 남겨두겠다. 칼을 피해 나라들 가운데서 살아남는 자들이 있을 것이다.\""},
-        {"verse": 9, "korean": "\"살아남은 자들이 포로로 간 나라들에서 나를 기억할 것이다. 나는 그들의 음란한 마음에 상심했다. 그들의 눈이 우상들을 따라갔기 때문이다. 그들은 자기들이 한 모든 가증한 일 때문에 자기 자신을 혐오하게 될 것이다.\""},
-        {"verse": 10, "korean": "\"그들이 내가 여호와인 줄 알게 될 것이다. 내가 이 재앙을 내리겠다고 헛되이 말한 것이 아니라는 것을 알게 될 것이다.'\""},
-        {"verse": 11, "korean": "\"주 여호와께서 말씀하신다. '손으로 치고 발을 구르며 말하여라. 이스라엘 집의 모든 악한 가증한 일 때문에 아, 슬프다! 그들이 칼과 기근과 전염병으로 쓰러질 것이다.\""},
-        {"verse": 12, "korean": "\"멀리 있는 자는 전염병으로 죽고, 가까이 있는 자는 칼에 쓰러지고, 남아서 포위당한 자는 기근으로 죽을 것이다. 이렇게 내 분노를 다 쏟겠다.\""},
-        {"verse": 13, "korean": "\"죽은 자들이 우상들 주위, 제단 주변, 모든 높은 언덕과 산꼭대기, 모든 푸른 나무 아래, 모든 무성한 상수리나무 아래에 있을 것이다. 그곳은 그들이 모든 우상에게 향기로운 제물을 드리던 곳이다. 그러면 너희가 내가 여호와인 줄 알게 될 것이다.\""},
-        {"verse": 14, "korean": "\"내가 손을 펴서 광야에서 디블라까지 그들이 사는 모든 곳을 황폐하게 만들겠다. 그러면 그들이 내가 여호와인 줄 알게 될 것이다.'\""}
+        {
+          "verse": 1,
+          "original": "Yahweh’s word came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 2,
+          "original": "“Son of man, set your face toward the mountains of Israel, and prophesy to them,",
+          "korean": "\"사람아, 이스라엘 산들을 향해 얼굴을 돌리고 예언하여라.\""
+        },
+        {
+          "verse": 3,
+          "original": "and say, ‘You mountains of Israel, hear the word of the Lord Yahweh! Thus says the Lord Yahweh to the mountains and to the hills, to the watercourses and to the valleys: “Behold, I, even I, will bring a sword on you, and I will destroy your high places.",
+          "korean": "\"말하여라. '이스라엘 산들아, 주 하나님의 말씀을 들어라! 주 하나님께서 산과 언덕과 골짜기에게 말씀하신다. 내가 너희 위에 칼을 가져와서 너희의 산당들을 파괴하겠다.\""
+        },
+        {
+          "verse": 4,
+          "original": "Your altars will become desolate, and your incense altars will be broken. I will cast down your slain men before your idols.",
+          "korean": "\"너희 제단들이 황폐해지고 향단들이 부서질 것이다. 너희 우상들 앞에 죽은 자들을 쓰러뜨리겠다.\""
+        },
+        {
+          "verse": 5,
+          "original": "I will lay the dead bodies of the children of Israel before their idols. I will scatter your bones around your altars.",
+          "korean": "\"이스라엘 백성의 시체를 그들의 우상들 앞에 두고 너희 뼈를 제단 주위에 흩겠다.\""
+        },
+        {
+          "verse": 6,
+          "original": "In all your dwelling places, the cities will be laid waste and the high places will be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your incense altars may be cut down, and your works may be abolished.",
+          "korean": "\"너희가 사는 모든 곳에서 성들이 황폐해지고 산당들이 버려질 것이다. 제단들이 황폐하고 버려지고 우상들이 부서지며 향단들이 잘려 나가고 너희가 만든 것들이 없어질 것이다.\""
+        },
+        {
+          "verse": 7,
+          "original": "The slain will fall among you, and you will know that I am Yahweh.",
+          "korean": "\"죽은 자들이 너희 가운데 쓰러질 것이다. 그러면 너희가 내가 하나님인 줄 알게 될 것이다.'\""
+        },
+        {
+          "verse": 8,
+          "original": "“‘“Yet I will leave a remnant, in that you will have some that escape the sword among the nations, when you are scattered through the countries.",
+          "korean": "\"그러나 내가 남은 자들을 남겨두겠다. 칼을 피해 나라들 가운데서 살아남는 자들이 있을 것이다.\""
+        },
+        {
+          "verse": 9,
+          "original": "Those of you that escape will remember me among the nations where they are carried captive, how I have been broken with their lewd heart, which has departed from me, and with their eyes, which play the prostitute after their idols. Then they will loathe themselves in their own sight for the evils which they have committed in all their abominations.",
+          "korean": "\"살아남은 자들이 포로로 간 나라들에서 나를 기억할 것이다. 나는 그들의 음란한 마음에 상심했다. 그들의 눈이 우상들을 따라갔기 때문이다. 그들은 자기들이 한 모든 가증한 일 때문에 자기 자신을 혐오하게 될 것이다.\""
+        },
+        {
+          "verse": 10,
+          "original": "They will know that I am Yahweh. I have not said in vain that I would do this evil to them.”’",
+          "korean": "\"그들이 내가 하나님인 줄 알게 될 것이다. 내가 이 재앙을 내리겠다고 헛되이 말한 것이 아니라는 것을 알게 될 것이다.'\""
+        },
+        {
+          "verse": 11,
+          "original": "“Thus says the Lord Yahweh: ‘Strike with your hand, and stamp with your foot, and say, “Alas!” Because of all the evil abominations of the house of Israel; for they will fall by the sword, by the famine, and by the pestilence.",
+          "korean": "\"주 하나님께서 말씀하신다. '손으로 치고 발을 구르며 말하여라. 이스라엘 집의 모든 악한 가증한 일 때문에 아, 슬프다! 그들이 칼과 기근과 전염병으로 쓰러질 것이다.\""
+        },
+        {
+          "verse": 12,
+          "original": "He who is far off will die of the pestilence. He who is near will fall by the sword. He who remains and is besieged will die by the famine. Thus I will accomplish my wrath on them.",
+          "korean": "\"멀리 있는 자는 전염병으로 죽고, 가까이 있는 자는 칼에 쓰러지고, 남아서 포위당한 자는 기근으로 죽을 것이다. 이렇게 내 분노를 다 쏟겠다.\""
+        },
+        {
+          "verse": 13,
+          "original": "You will know that I am Yahweh, when their slain men are among their idols around their altars, on every high hill, on all the tops of the mountains, under every green tree, and under every thick oak, the places where they offered pleasant aroma to all their idols.",
+          "korean": "\"죽은 자들이 우상들 주위, 제단 주변, 모든 높은 언덕과 산꼭대기, 모든 푸른 나무 아래, 모든 무성한 상수리나무 아래에 있을 것이다. 그곳은 그들이 모든 우상에게 향기로운 제물을 드리던 곳이다. 그러면 너희가 내가 하나님인 줄 알게 될 것이다.\""
+        },
+        {
+          "verse": 14,
+          "original": "I will stretch out my hand on them, and make the land desolate and waste, from the wilderness toward Diblah, throughout all their habitations. Then they will know that I am Yahweh.’”",
+          "korean": "\"내가 손을 펴서 광야에서 디블라까지 그들이 사는 모든 곳을 황폐하게 만들겠다. 그러면 그들이 내가 하나님인 줄 알게 될 것이다.'\""
+        }
       ]
     },
     {
       "chapter": 7,
       "verses": [
-        {"verse": 1, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 2, "korean": "\"사람아, 주 여호와께서 이스라엘 땅에 이렇게 말씀하신다. '끝이다! 끝이 이 땅 사방에 왔다.\""},
-        {"verse": 3, "korean": "\"이제 끝이 네게 왔다. 내가 내 분노를 네게 보내어 네 행실대로 심판하겠다. 네 모든 가증한 일을 네게 돌려주겠다.\""},
-        {"verse": 4, "korean": "\"내 눈이 아끼지 않고 긍휼을 베풀지 않겠다. 네 행실대로 갚고 네 가증한 일이 너희 가운데 드러날 것이다. 그러면 너희가 내가 여호와인 줄 알게 될 것이다.'\""},
-        {"verse": 5, "korean": "\"주 여호와께서 말씀하신다. '재앙이다! 유례없는 재앙이 온다!\""},
-        {"verse": 6, "korean": "\"끝이 왔다. 끝이 왔다! 그것이 너를 향해 깨어났다. 보아라, 그것이 온다.\""},
-        {"verse": 7, "korean": "\"이 땅에 사는 자야, 네 운명이 왔다! 때가 왔다. 그 날이 가깝다. 산에서 기뻐 외치는 소리가 아니라 소란의 날이다.\""},
-        {"verse": 8, "korean": "\"곧 내 분노를 네게 쏟고 노여움을 네게 다 부으겠다. 네 행실대로 심판하고 네 모든 가증한 일을 네게 돌려주겠다.\""},
-        {"verse": 9, "korean": "\"내 눈이 아끼지 않고 긍휼을 베풀지 않겠다. 네 행실대로 갚겠다. 네 가증한 일이 너희 가운데 드러날 것이다. 그러면 너희가 치시는 분이 나 여호와인 줄 알게 될 것이다.'\""},
-        {"verse": 10, "korean": "\"보아라, 그 날이다! 보아라, 그것이 온다! 네 운명이 나왔다. 막대기가 꽃을 피웠다. 교만이 싹텄다.\""},
-        {"verse": 11, "korean": "\"폭력이 일어나서 악의 막대기가 되었다. 그들 중에 아무도 남지 않고 그 무리도 그들의 재물도 남지 않을 것이다.\""},
-        {"verse": 12, "korean": "\"때가 왔다. 날이 가까웠다. 사는 자가 기뻐하지 말고 파는 자가 슬퍼하지 마라. 그 모든 무리에게 진노가 임하기 때문이다.\""},
-        {"verse": 13, "korean": "\"파는 자가 살아 있더라도 판 것을 다시 얻지 못할 것이다. 환상이 모든 무리에 대한 것이므로 아무도 돌아오지 못할 것이다.\""},
-        {"verse": 14, "korean": "\"그들이 나팔을 불어 모든 것을 준비해도 전쟁에 나가는 자가 없을 것이다. 내 진노가 모든 무리에게 임하기 때문이다.'\""},
-        {"verse": 15, "korean": "\"밖에는 칼이 있고 안에는 전염병과 기근이 있다. 들에 있는 자는 칼에 죽고 성 안에 있는 자는 기근과 전염병에 삼켜질 것이다.\""},
-        {"verse": 16, "korean": "\"그 중에 도망쳐 나온 자들은 산으로 가서 골짜기의 비둘기처럼 각자 자기 죄 때문에 슬피 울 것이다.\""},
-        {"verse": 17, "korean": "\"모든 손이 약해지고 모든 무릎이 물처럼 흐물흐물해질 것이다.\""},
-        {"verse": 18, "korean": "\"그들이 굵은 베를 두르고 두려움에 덮일 것이다. 모든 얼굴에 수치가 있고 모든 머리가 대머리가 될 것이다.\""},
-        {"verse": 19, "korean": "\"그들이 은을 거리에 버리고 금을 더러운 것처럼 여길 것이다. 여호와의 진노의 날에 은과 금이 그들을 구하지 못할 것이다. 그것이 그들의 죄의 걸림돌이 되었기 때문이다.\""},
-        {"verse": 20, "korean": "\"그들은 아름다운 장식품을 자랑거리로 삼았지만 그것으로 가증한 우상들을 만들었다. 그래서 내가 그것을 그들에게 더러운 것이 되게 하겠다.\""},
-        {"verse": 21, "korean": "\"내가 그것을 외국인들에게 넘겨주어 약탈당하게 하고 세상의 악한 자들에게 주어 노략질당하게 하겠다. 그들이 그것을 더럽힐 것이다.\""},
-        {"verse": 22, "korean": "\"내가 내 얼굴을 그들에게서 돌이키겠다. 그들이 내 보물 창고를 더럽힐 것이다. 강도들이 들어와서 그것을 더럽힐 것이다.'\""},
-        {"verse": 23, "korean": "\"사슬을 만들어라. 이 땅에 피 흘리는 죄가 가득하고 성에 폭력이 가득하기 때문이다.\""},
-        {"verse": 24, "korean": "\"내가 나라들 중에 가장 악한 자들을 데려와서 그들의 집을 차지하게 하겠다. 강한 자들의 자랑을 끝나게 하고 그들의 성소들이 더럽혀질 것이다.\""},
-        {"verse": 25, "korean": "\"멸망이 온다! 그들이 평화를 구해도 없을 것이다.\""},
-        {"verse": 26, "korean": "\"재앙 위에 재앙이 오고 소문 위에 소문이 올 것이다. 그들이 선지자에게 환상을 구하지만 제사장에게서 율법이 사라지고 장로들에게서 조언이 사라질 것이다.\""},
-        {"verse": 27, "korean": "\"왕이 애통하고 왕자가 두려움에 옷 입을 것이다. 땅 백성의 손이 떨릴 것이다. 내가 그들의 행실대로 갚고 그들의 행한 대로 심판하겠다. 그러면 그들이 내가 여호와인 줄 알게 될 것이다.'\""}
+        {
+          "verse": 1,
+          "original": "Moreover Yahweh’s word came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 2,
+          "original": "“You, son of man, thus says the Lord Yahweh to the land of Israel, ‘An end! The end has come on the four corners of the land.",
+          "korean": "\"사람아, 주 하나님께서 이스라엘 땅에 이렇게 말씀하신다. '끝이다! 끝이 이 땅 사방에 왔다.\""
+        },
+        {
+          "verse": 3,
+          "original": "Now is the end on you, and I will send my anger on you, and will judge you according to your ways. I will bring on you all your abominations.",
+          "korean": "\"이제 끝이 네게 왔다. 내가 내 분노를 네게 보내어 네 행실대로 심판하겠다. 네 모든 가증한 일을 네게 돌려주겠다.\""
+        },
+        {
+          "verse": 4,
+          "original": "My eye will not spare you, neither will I have pity; but I will bring your ways on you, and your abominations will be among you. Then you will know that I am Yahweh.’",
+          "korean": "\"내 눈이 아끼지 않고 긍휼을 베풀지 않겠다. 네 행실대로 갚고 네 가증한 일이 너희 가운데 드러날 것이다. 그러면 너희가 내가 하나님인 줄 알게 될 것이다.'\""
+        },
+        {
+          "verse": 5,
+          "original": "“Thus says the Lord Yahweh: ‘An evil! A unique evil! Behold, it comes.",
+          "korean": "\"주 하나님께서 말씀하신다. '재앙이다! 유례없는 재앙이 온다!\""
+        },
+        {
+          "verse": 6,
+          "original": "An end has come. The end has come! It awakes against you. Behold, it comes.",
+          "korean": "\"끝이 왔다. 끝이 왔다! 그것이 너를 향해 깨어났다. 보아라, 그것이 온다.\""
+        },
+        {
+          "verse": 7,
+          "original": "Your doom has come to you, inhabitant of the land! The time has come! The day is near, a day of tumult, and not of joyful shouting, on the mountains.",
+          "korean": "\"이 땅에 사는 자야, 네 운명이 왔다! 때가 왔다. 그 날이 가깝다. 산에서 기뻐 외치는 소리가 아니라 소란의 날이다.\""
+        },
+        {
+          "verse": 8,
+          "original": "Now I will shortly pour out my wrath on you, and accomplish my anger against you, and will judge you according to your ways. I will bring on you all your abominations.",
+          "korean": "\"곧 내 분노를 네게 쏟고 노여움을 네게 다 부으겠다. 네 행실대로 심판하고 네 모든 가증한 일을 네게 돌려주겠다.\""
+        },
+        {
+          "verse": 9,
+          "original": "My eye won’t spare, neither will I have pity. I will punish you according to your ways. Your abominations will be among you. Then you will know that I, Yahweh, strike.",
+          "korean": "\"내 눈이 아끼지 않고 긍휼을 베풀지 않겠다. 네 행실대로 갚겠다. 네 가증한 일이 너희 가운데 드러날 것이다. 그러면 너희가 치시는 분이 나 하나님인 줄 알게 될 것이다.'\""
+        },
+        {
+          "verse": 10,
+          "original": "“‘Behold, the day! Behold, it comes! Your doom has gone out. The rod has blossomed. Pride has budded.",
+          "korean": "\"보아라, 그 날이다! 보아라, 그것이 온다! 네 운명이 나왔다. 막대기가 꽃을 피웠다. 교만이 싹텄다.\""
+        },
+        {
+          "verse": 11,
+          "original": "Violence has risen up into a rod of wickedness. None of them will remain, nor of their multitude, nor of their wealth. There will be nothing of value among them.",
+          "korean": "\"폭력이 일어나서 악의 막대기가 되었다. 그들 중에 아무도 남지 않고 그 무리도 그들의 재물도 남지 않을 것이다.\""
+        },
+        {
+          "verse": 12,
+          "original": "The time has come! The day draws near. Don’t let the buyer rejoice, nor the seller mourn; for wrath is on all its multitude.",
+          "korean": "\"때가 왔다. 날이 가까웠다. 사는 자가 기뻐하지 말고 파는 자가 슬퍼하지 마라. 그 모든 무리에게 진노가 임하기 때문이다.\""
+        },
+        {
+          "verse": 13,
+          "original": "For the seller won’t return to that which is sold, although they are still alive; for the vision concerns the whole multitude of it. None will return. None will strengthen himself in the iniquity of his life.",
+          "korean": "\"파는 자가 살아 있더라도 판 것을 다시 얻지 못할 것이다. 환상이 모든 무리에 대한 것이므로 아무도 돌아오지 못할 것이다.\""
+        },
+        {
+          "verse": 14,
+          "original": "They have blown the trumpet, and have made all ready; but no one goes to the battle; for my wrath is on all its multitude.",
+          "korean": "\"그들이 나팔을 불어 모든 것을 준비해도 전쟁에 나가는 자가 없을 것이다. 내 진노가 모든 무리에게 임하기 때문이다.'\""
+        },
+        {
+          "verse": 15,
+          "original": "“‘The sword is outside, and the pestilence and the famine within. He who is in the field will die by the sword. He who is in the city will be devoured by famine and pestilence.",
+          "korean": "\"밖에는 칼이 있고 안에는 전염병과 기근이 있다. 들에 있는 자는 칼에 죽고 성 안에 있는 자는 기근과 전염병에 삼켜질 것이다.\""
+        },
+        {
+          "verse": 16,
+          "original": "But those of those who escape, they will escape and will be on the mountains like doves of the valleys, all of them moaning, everyone in his iniquity.",
+          "korean": "\"그 중에 도망쳐 나온 자들은 산으로 가서 골짜기의 비둘기처럼 각자 자기 죄 때문에 슬피 울 것이다.\""
+        },
+        {
+          "verse": 17,
+          "original": "All hands will be feeble, and all knees will be weak as water.",
+          "korean": "\"모든 손이 약해지고 모든 무릎이 물처럼 흐물흐물해질 것이다.\""
+        },
+        {
+          "verse": 18,
+          "original": "They will also clothe themselves with sackcloth, and horror will cover them. Shame will be on all faces, and baldness on all their heads.",
+          "korean": "\"그들이 굵은 베를 두르고 두려움에 덮일 것이다. 모든 얼굴에 수치가 있고 모든 머리가 대머리가 될 것이다.\""
+        },
+        {
+          "verse": 19,
+          "original": "They will cast their silver in the streets, and their gold will be as an unclean thing. Their silver and their gold won’t be able to deliver them in the day of Yahweh’s wrath. They won’t satisfy their souls or fill their bellies; because it has been the stumbling block of their iniquity.",
+          "korean": "\"그들이 은을 거리에 버리고 금을 더러운 것처럼 여길 것이다. 하나님의 진노의 날에 은과 금이 그들을 구하지 못할 것이다. 그것이 그들의 죄의 걸림돌이 되었기 때문이다.\""
+        },
+        {
+          "verse": 20,
+          "original": "As for the beauty of his ornament, he set it in majesty; but they made the images of their abominations and their detestable things therein. Therefore I have made it to them as an unclean thing.",
+          "korean": "\"그들은 아름다운 장식품을 자랑거리로 삼았지만 그것으로 가증한 우상들을 만들었다. 그래서 내가 그것을 그들에게 더러운 것이 되게 하겠다.\""
+        },
+        {
+          "verse": 21,
+          "original": "I will give it into the hands of the strangers for a prey, and to the wicked of the earth for a plunder; and they will profane it.",
+          "korean": "\"내가 그것을 외국인들에게 넘겨주어 약탈당하게 하고 세상의 악한 자들에게 주어 노략질당하게 하겠다. 그들이 그것을 더럽힐 것이다.\""
+        },
+        {
+          "verse": 22,
+          "original": "I will also turn my face from them, and they will profane my secret place. Robbers will enter into it, and profane it.",
+          "korean": "\"내가 내 얼굴을 그들에게서 돌이키겠다. 그들이 내 보물 창고를 더럽힐 것이다. 강도들이 들어와서 그것을 더럽힐 것이다.'\""
+        },
+        {
+          "verse": 23,
+          "original": "“‘Make chains; for the land is full of bloody crimes, and the city is full of violence.",
+          "korean": "\"사슬을 만들어라. 이 땅에 피 흘리는 죄가 가득하고 성에 폭력이 가득하기 때문이다.\""
+        },
+        {
+          "verse": 24,
+          "original": "Therefore I will bring the worst of the nations, and they will possess their houses. I will also make the pride of the strong to cease. Their holy places will be profaned.",
+          "korean": "\"내가 나라들 중에 가장 악한 자들을 데려와서 그들의 집을 차지하게 하겠다. 강한 자들의 자랑을 끝나게 하고 그들의 성소들이 더럽혀질 것이다.\""
+        },
+        {
+          "verse": 25,
+          "original": "Destruction comes! They will seek peace, and there will be none.",
+          "korean": "\"멸망이 온다! 그들이 평화를 구해도 없을 것이다.\""
+        },
+        {
+          "verse": 26,
+          "original": "Mischief will come on mischief, and rumor will be on rumor. They will seek a vision of the prophet; but the law will perish from the priest, and counsel from the elders.",
+          "korean": "\"재앙 위에 재앙이 오고 소문 위에 소문이 올 것이다. 그들이 선지자에게 환상을 구하지만 제사장에게서 율법이 사라지고 장로들에게서 조언이 사라질 것이다.\""
+        },
+        {
+          "verse": 27,
+          "original": "The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will be troubled. I will do to them after their way, and according to their own judgments I will judge them. Then they will know that I am Yahweh.’”",
+          "korean": "\"왕이 애통하고 왕자가 두려움에 옷 입을 것이다. 땅 백성의 손이 떨릴 것이다. 내가 그들의 행실대로 갚고 그들의 행한 대로 심판하겠다. 그러면 그들이 내가 하나님인 줄 알게 될 것이다.'\""
+        }
       ]
     },
     {
       "chapter": 8,
       "verses": [
-        {"verse": 1, "korean": "여섯째 해 여섯째 달 오 일이었어요. 저는 제 집에 앉아 있었고 유다 장로들이 제 앞에 앉아 있었어요. 그때 주 여호와의 손이 제게 임했어요."},
-        {"verse": 2, "korean": "그때 제가 보니 불 같은 형상이 있었어요. 허리 아래는 불 같았고 허리 위는 빛나는 금속 같았어요."},
-        {"verse": 3, "korean": "그분이 손 같은 것을 내밀어 제 머리카락을 잡으셨어요. 영이 저를 하늘과 땅 사이로 들어올렸어요. 하나님의 환상 속에서 저를 예루살렘으로 데려갔어요. 안뜰 북쪽 문으로 데려갔는데 거기에 질투를 일으키는 우상이 있었어요."},
-        {"verse": 4, "korean": "그곳에 이스라엘 하나님의 영광이 있었어요. 제가 평원에서 보았던 것과 같았어요."},
-        {"verse": 5, "korean": "그분이 말씀하셨어요. \"사람아, 북쪽을 향해 눈을 들어라.\" 제가 북쪽을 바라보니 제단 문 북쪽에 그 질투의 우상이 있었어요."},
-        {"verse": 6, "korean": "그분이 말씀하셨어요. \"사람아, 그들이 무엇을 하고 있는지 보이느냐? 이스라엘 집이 이곳에서 행하는 큰 가증한 일들 때문에 내가 내 성소에서 떠나게 되었다. 그러나 네가 더 큰 가증한 일을 보게 될 것이다.\""},
-        {"verse": 7, "korean": "그분이 저를 뜰 입구로 데려갔어요. 제가 보니 벽에 구멍이 있었어요."},
-        {"verse": 8, "korean": "그분이 말씀하셨어요. \"사람아, 벽을 뚫어라.\" 제가 벽을 뚫으니 문이 있었어요."},
-        {"verse": 9, "korean": "그분이 말씀하셨어요. \"들어가서 그들이 하는 악한 가증한 일들을 보아라.\""},
-        {"verse": 10, "korean": "제가 들어가서 보니 온갖 기어 다니는 것과 가증한 짐승들과 이스라엘 집의 모든 우상이 벽 사방에 그려져 있었어요."},
-        {"verse": 11, "korean": "이스라엘 장로 칠십 명이 그 앞에 서 있었어요. 사반의 아들 야아사냐도 그 가운데 있었어요. 각자 손에 향로를 들고 있었고 향 연기가 피어올랐어요."},
-        {"verse": 12, "korean": "그분이 말씀하셨어요. \"사람아, 이스라엘 집의 장로들이 어두운 데서 각자 자기 우상 방에서 무엇을 하는지 보았느냐? 그들이 말하기를 '여호와가 우리를 보지 못한다. 여호와가 이 땅을 버렸다'고 한다.\""},
-        {"verse": 13, "korean": "또 말씀하셨어요. \"네가 그들이 하는 더 큰 가증한 일들을 보게 될 것이다.\""},
-        {"verse": 14, "korean": "그분이 저를 여호와의 집 북쪽 문으로 데려갔어요. 그곳에 여자들이 앉아서 담무스를 위해 울고 있었어요."},
-        {"verse": 15, "korean": "그분이 말씀하셨어요. \"사람아, 이것을 보았느냐? 네가 이것보다 더 큰 가증한 일을 보게 될 것이다.\""},
-        {"verse": 16, "korean": "그분이 저를 여호와의 집 안뜰로 데려갔어요. 여호와의 성전 문, 현관과 제단 사이에 약 이십오 명이 있었어요. 그들은 여호와의 성전을 등지고 얼굴을 동쪽으로 향해 해를 경배하고 있었어요."},
-        {"verse": 17, "korean": "그분이 말씀하셨어요. \"사람아, 이것을 보았느냐? 유다 집이 여기서 행하는 가증한 일이 작은 일이냐? 그들이 땅에 폭력을 가득 채우고 다시 나를 노하게 한다.\""},
-        {"verse": 18, "korean": "\"그러므로 나도 분노로 행하겠다. 내 눈이 아끼지 않고 긍휼을 베풀지 않겠다. 그들이 큰 소리로 내 귀에 부르짖어도 내가 듣지 않겠다.\""}
+        {
+          "verse": 1,
+          "original": "In the sixth year, in the sixth month, in the fifth day of the month, as I sat in my house, and the elders of Judah sat before me, the Lord Yahweh’s hand fell on me there.",
+          "korean": "여섯째 해 여섯째 달 오 일이었어요. 저는 제 집에 앉아 있었고 유다 장로들이 제 앞에 앉아 있었어요. 그때 주 하나님의 손이 제게 임했어요."
+        },
+        {
+          "verse": 2,
+          "original": "Then I saw, and behold, a likeness as the appearance of fire; from the appearance of his waist and downward, fire; and from his waist and upward, as the appearance of brightness, as it were glowing metal.",
+          "korean": "그때 제가 보니 불 같은 형상이 있었어요. 허리 아래는 불 같았고 허리 위는 빛나는 금속 같았어요."
+        },
+        {
+          "verse": 3,
+          "original": "He stretched out the form of a hand, and took me by a lock of my head; and the Spirit lifted me up between earth and the sky, and brought me in the visions of God to Jerusalem, to the door of the gate of the inner court that looks toward the north; where there was the seat of the image of jealousy, which provokes to jealousy.",
+          "korean": "그분이 손 같은 것을 내밀어 제 머리카락을 잡으셨어요. 영이 저를 하늘과 땅 사이로 들어올렸어요. 하나님의 환상 속에서 저를 예루살렘으로 데려갔어요. 안뜰 북쪽 문으로 데려갔는데 거기에 질투를 일으키는 우상이 있었어요."
+        },
+        {
+          "verse": 4,
+          "original": "Behold, the glory of the God of Israel was there, according to the appearance that I saw in the plain.",
+          "korean": "그곳에 이스라엘 하나님의 영광이 있었어요. 제가 평원에서 보았던 것과 같았어요."
+        },
+        {
+          "verse": 5,
+          "original": "Then he said to me, “Son of man, lift up your eyes now the way toward the north.”\nSo I lifted up my eyes the way toward the north, and saw, northward of the gate of the altar this image of jealousy in the entry.",
+          "korean": "그분이 말씀하셨어요. \"사람아, 북쪽을 향해 눈을 들어라.\" 제가 북쪽을 바라보니 제단 문 북쪽에 그 질투의 우상이 있었어요."
+        },
+        {
+          "verse": 6,
+          "original": "He said to me, “Son of man, do you see what they do? Even the great abominations that the house of Israel commit here, that I should go far off from my sanctuary? But you will again see yet other great abominations.”",
+          "korean": "그분이 말씀하셨어요. \"사람아, 그들이 무엇을 하고 있는지 보이느냐? 이스라엘 집이 이곳에서 행하는 큰 가증한 일들 때문에 내가 내 성소에서 떠나게 되었다. 그러나 네가 더 큰 가증한 일을 보게 될 것이다.\""
+        },
+        {
+          "verse": 7,
+          "original": "He brought me to the door of the court; and when I looked, behold, a hole in the wall.",
+          "korean": "그분이 저를 뜰 입구로 데려갔어요. 제가 보니 벽에 구멍이 있었어요."
+        },
+        {
+          "verse": 8,
+          "original": "Then he said to me, “Son of man, dig now in the wall.”\nWhen I had dug in the wall, I saw a door.",
+          "korean": "그분이 말씀하셨어요. \"사람아, 벽을 뚫어라.\" 제가 벽을 뚫으니 문이 있었어요."
+        },
+        {
+          "verse": 9,
+          "original": "He said to me, “Go in, and see the wicked abominations that they do here.”",
+          "korean": "그분이 말씀하셨어요. \"들어가서 그들이 하는 악한 가증한 일들을 보아라.\""
+        },
+        {
+          "verse": 10,
+          "original": "So I went in and looked, and saw every form of creeping things, abominable animals, and all the idols of the house of Israel, portrayed around on the wall.",
+          "korean": "제가 들어가서 보니 온갖 기어 다니는 것과 가증한 짐승들과 이스라엘 집의 모든 우상이 벽 사방에 그려져 있었어요."
+        },
+        {
+          "verse": 11,
+          "original": "Seventy men of the elders of the house of Israel stood before them. In the middle of them Jaazaniah the son of Shaphan stood, every man with his censer in his hand; and the smell of the cloud of incense went up.",
+          "korean": "이스라엘 장로 칠십 명이 그 앞에 서 있었어요. 사반의 아들 야아사냐도 그 가운데 있었어요. 각자 손에 향로를 들고 있었고 향 연기가 피어올랐어요."
+        },
+        {
+          "verse": 12,
+          "original": "Then he said to me, “Son of man, have you seen what the elders of the house of Israel do in the dark, every man in his rooms of imagery? For they say, ‘Yahweh doesn’t see us. Yahweh has forsaken the land.’”",
+          "korean": "그분이 말씀하셨어요. \"사람아, 이스라엘 집의 장로들이 어두운 데서 각자 자기 우상 방에서 무엇을 하는지 보았느냐? 그들이 말하기를 '하나님가 우리를 보지 못한다. 하나님가 이 땅을 버렸다'고 한다.\""
+        },
+        {
+          "verse": 13,
+          "original": "He said also to me, “You will again see more of the great abominations which they do.”",
+          "korean": "또 말씀하셨어요. \"네가 그들이 하는 더 큰 가증한 일들을 보게 될 것이다.\""
+        },
+        {
+          "verse": 14,
+          "original": "Then he brought me to the door of the gate of Yahweh’s house which was toward the north; and I saw the women sit there weeping for Tammuz.",
+          "korean": "그분이 저를 하나님의 집 북쪽 문으로 데려갔어요. 그곳에 여자들이 앉아서 담무스를 위해 울고 있었어요."
+        },
+        {
+          "verse": 15,
+          "original": "Then he said to me, “Have you seen this, son of man? You will again see yet greater abominations than these.”",
+          "korean": "그분이 말씀하셨어요. \"사람아, 이것을 보았느냐? 네가 이것보다 더 큰 가증한 일을 보게 될 것이다.\""
+        },
+        {
+          "verse": 16,
+          "original": "He brought me into the inner court of Yahweh’s house; and I saw at the door of Yahweh’s temple, between the porch and the altar, there were about twenty-five men, with their backs toward Yahweh’s temple, and their faces toward the east. They were worshiping the sun toward the east.",
+          "korean": "그분이 저를 하나님의 집 안뜰로 데려갔어요. 하나님의 성전 문, 현관과 제단 사이에 약 이십오 명이 있었어요. 그들은 하나님의 성전을 등지고 얼굴을 동쪽으로 향해 해를 경배하고 있었어요."
+        },
+        {
+          "verse": 17,
+          "original": "Then he said to me, “Have you seen this, son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? For they have filled the land with violence, and have turned again to provoke me to anger. Behold, they put the branch to their nose.",
+          "korean": "그분이 말씀하셨어요. \"사람아, 이것을 보았느냐? 유다 집이 여기서 행하는 가증한 일이 작은 일이냐? 그들이 땅에 폭력을 가득 채우고 다시 나를 노하게 한다.\""
+        },
+        {
+          "verse": 18,
+          "original": "Therefore will I also deal in wrath. My eye won’t spare, neither will I have pity. Though they cry in my ears with a loud voice, yet I will not hear them.”",
+          "korean": "\"그러므로 나도 분노로 행하겠다. 내 눈이 아끼지 않고 긍휼을 베풀지 않겠다. 그들이 큰 소리로 내 귀에 부르짖어도 내가 듣지 않겠다.\""
+        }
       ]
     },
     {
       "chapter": 9,
       "verses": [
-        {"verse": 1, "korean": "그분이 큰 소리로 제 귀에 외치셨어요. \"이 성을 벌할 자들아, 각자 손에 멸망시키는 무기를 들고 가까이 오너라.\""},
-        {"verse": 2, "korean": "제가 보니 북쪽 윗문에서 여섯 사람이 왔어요. 각자 손에 무기를 들고 있었어요. 그 가운데 한 사람은 모시옷을 입고 허리에 서기관의 필통을 찼어요. 그들이 들어와서 놋 제단 곁에 섰어요."},
-        {"verse": 3, "korean": "이스라엘 하나님의 영광이 그룹에서 올라와 성전 문지방에 섰어요. 그분이 모시옷을 입고 필통을 찬 사람을 부르셨어요."},
-        {"verse": 4, "korean": "여호와께서 그에게 말씀하셨어요. \"예루살렘 성 안을 지나가라. 그 안에서 행해지는 모든 가증한 일 때문에 탄식하며 우는 사람들의 이마에 표를 하여라.\""},
-        {"verse": 5, "korean": "다른 사람들에게는 제가 듣는 데서 말씀하셨어요. \"그의 뒤를 따라 성 안을 지나가며 쳐라. 눈이 아끼지 말고 긍휼을 베풀지 마라.\""},
-        {"verse": 6, "korean": "\"노인, 젊은이, 처녀, 어린아이, 여자를 모두 죽여라. 그러나 표가 있는 사람에게는 가까이 가지 마라. 내 성소에서 시작하여라.\" 그래서 그들은 성전 앞에 있던 장로들부터 시작했어요."},
-        {"verse": 7, "korean": "그분이 그들에게 말씀하셨어요. \"성전을 더럽히고 뜰을 죽은 자들로 채워라. 나가라!\" 그들이 나가서 성 안에서 쳤어요."},
-        {"verse": 8, "korean": "그들이 치는 동안 저만 남았어요. 저는 땅에 엎드려 외쳤어요. \"아, 주 여호와여! 주께서 예루살렘에 분노를 쏟으시면서 이스라엘의 남은 자들을 다 멸망시키시렵니까?\""},
-        {"verse": 9, "korean": "그분이 말씀하셨어요. \"이스라엘과 유다 집의 죄가 아주 크다. 땅에 피가 가득하고 성에 불의가 가득하다. 그들이 '여호와가 이 땅을 버렸다. 여호와가 보지 못한다'고 말하기 때문이다.\""},
-        {"verse": 10, "korean": "\"나도 눈이 아끼지 않고 긍휼을 베풀지 않겠다. 그들의 행실을 그들의 머리 위에 돌려주겠다.\""},
-        {"verse": 11, "korean": "그때 모시옷을 입고 필통을 찬 사람이 보고했어요. \"명하신 대로 다 했습니다.\""}
+        {
+          "verse": 1,
+          "original": "Then he cried in my ears with a loud voice, saying, “Cause those who are in charge of the city to draw near, each man with his destroying weapon in his hand.”",
+          "korean": "그분이 큰 소리로 제 귀에 외치셨어요. \"이 성을 벌할 자들아, 각자 손에 멸망시키는 무기를 들고 가까이 오너라.\""
+        },
+        {
+          "verse": 2,
+          "original": "Behold, six men came from the way of the upper gate, which lies toward the north, every man with his slaughter weapon in his hand. One man in the middle of them was clothed in linen, with a writer’s inkhorn by his side. They went in, and stood beside the bronze altar.",
+          "korean": "제가 보니 북쪽 윗문에서 여섯 사람이 왔어요. 각자 손에 무기를 들고 있었어요. 그 가운데 한 사람은 모시옷을 입고 허리에 서기관의 필통을 찼어요. 그들이 들어와서 놋 제단 곁에 섰어요."
+        },
+        {
+          "verse": 3,
+          "original": "The glory of the God of Israel went up from the cherub, whereupon it was, to the threshold of the house; and he called to the man clothed in linen, who had the writer’s inkhorn by his side.",
+          "korean": "이스라엘 하나님의 영광이 그룹에서 올라와 성전 문지방에 섰어요. 그분이 모시옷을 입고 필통을 찬 사람을 부르셨어요."
+        },
+        {
+          "verse": 4,
+          "original": "Yahweh said to him, “Go through the middle of the city, through the middle of Jerusalem, and set a mark on the foreheads of the men that sigh and that cry over all the abominations that are done within it.”",
+          "korean": "하나님께서 그에게 말씀하셨어요. \"예루살렘 성 안을 지나가라. 그 안에서 행해지는 모든 가증한 일 때문에 탄식하며 우는 사람들의 이마에 표를 하여라.\""
+        },
+        {
+          "verse": 5,
+          "original": "To the others he said in my hearing, “Go through the city after him, and strike. Don’t let your eye spare, neither have pity.",
+          "korean": "다른 사람들에게는 제가 듣는 데서 말씀하셨어요. \"그의 뒤를 따라 성 안을 지나가며 쳐라. 눈이 아끼지 말고 긍휼을 베풀지 마라.\""
+        },
+        {
+          "verse": 6,
+          "original": "Kill utterly the old man, the young man, the virgin, little children and women; but don’t come near any man on whom is the mark. Begin at my sanctuary.”\nThen they began at the old men who were before the house.",
+          "korean": "\"노인, 젊은이, 처녀, 어린아이, 여자를 모두 죽여라. 그러나 표가 있는 사람에게는 가까이 가지 마라. 내 성소에서 시작하여라.\" 그래서 그들은 성전 앞에 있던 장로들부터 시작했어요."
+        },
+        {
+          "verse": 7,
+          "original": "He said to them, “Defile the house, and fill the courts with the slain. Go out!”\nThey went out, and struck in the city.",
+          "korean": "그분이 그들에게 말씀하셨어요. \"성전을 더럽히고 뜰을 죽은 자들로 채워라. 나가라!\" 그들이 나가서 성 안에서 쳤어요."
+        },
+        {
+          "verse": 8,
+          "original": "While they were killing, and I was left, I fell on my face, and cried, and said, “Ah Lord Yahweh! Will you destroy all the residue of Israel in your pouring out of your wrath on Jerusalem?”",
+          "korean": "그들이 치는 동안 저만 남았어요. 저는 땅에 엎드려 외쳤어요. \"아, 주 하나님여! 주께서 예루살렘에 분노를 쏟으시면서 이스라엘의 남은 자들을 다 멸망시키시렵니까?\""
+        },
+        {
+          "verse": 9,
+          "original": "Then he said to me, “The iniquity of the house of Israel and Judah is exceedingly great, and the land is full of blood, and the city full of perversion; for they say, ‘Yahweh has forsaken the land, and Yahweh doesn’t see.’",
+          "korean": "그분이 말씀하셨어요. \"이스라엘과 유다 집의 죄가 아주 크다. 땅에 피가 가득하고 성에 불의가 가득하다. 그들이 '하나님가 이 땅을 버렸다. 하나님가 보지 못한다'고 말하기 때문이다.\""
+        },
+        {
+          "verse": 10,
+          "original": "As for me also, my eye won’t spare, neither will I have pity, but I will bring their way on their head.”",
+          "korean": "\"나도 눈이 아끼지 않고 긍휼을 베풀지 않겠다. 그들의 행실을 그들의 머리 위에 돌려주겠다.\""
+        },
+        {
+          "verse": 11,
+          "original": "Behold, the man clothed in linen, who had the inkhorn by his side, reported the matter, saying, “I have done as you have commanded me.”",
+          "korean": "그때 모시옷을 입고 필통을 찬 사람이 보고했어요. \"명하신 대로 다 했습니다.\""
+        }
       ]
     },
     {
       "chapter": 10,
       "verses": [
-        {"verse": 1, "korean": "제가 보니 그룹들의 머리 위 궁창에 청옥 같은 보좌 모양이 있었어요."},
-        {"verse": 2, "korean": "그분이 모시옷을 입은 사람에게 말씀하셨어요. \"돌아가는 바퀴들 사이, 그룹들 아래로 들어가서 그룹들 사이의 불에서 두 손 가득 숯불을 가져다가 성에 뿌려라.\" 제가 보는 앞에서 그가 들어갔어요."},
-        {"verse": 3, "korean": "그가 들어갈 때 그룹들은 성전 오른쪽에 서 있었어요. 구름이 안뜰에 가득했어요."},
-        {"verse": 4, "korean": "여호와의 영광이 그룹에서 올라와 성전 문지방에 섰어요. 성전이 구름으로 가득 찼고 뜰에는 여호와의 영광의 광채가 가득했어요."},
-        {"verse": 5, "korean": "그룹들의 날개 소리가 바깥뜰까지 들렸어요. 전능하신 하나님이 말씀하시는 소리 같았어요."},
-        {"verse": 6, "korean": "그분이 모시옷 입은 사람에게 돌아가는 바퀴들 사이, 그룹들 사이에서 불을 가져오라고 명령하셨을 때, 그가 들어가서 바퀴 옆에 섰어요."},
-        {"verse": 7, "korean": "한 그룹이 그룹들 사이에서 손을 내밀어 그들 사이에 있는 불에서 숯을 집어 모시옷 입은 사람의 손에 주었어요. 그가 그것을 받아서 나갔어요."},
-        {"verse": 8, "korean": "그룹들의 날개 아래에 사람 손 같은 것이 보였어요."},
-        {"verse": 9, "korean": "제가 보니 그룹들 곁에 바퀴가 넷 있었어요. 각 그룹 곁에 바퀴가 하나씩 있었어요. 바퀴는 녹주석처럼 보였어요."},
-        {"verse": 10, "korean": "그 모양은 넷이 다 같았어요. 바퀴 안에 바퀴가 있는 것 같았어요."},
-        {"verse": 11, "korean": "그것들이 움직일 때 사방으로 갔어요. 움직일 때 방향을 바꾸지 않았어요. 머리가 향한 곳으로 따라갔어요."},
-        {"verse": 12, "korean": "그들의 온몸, 등, 손, 날개와 바퀴에 온통 눈이 가득했어요. 그 네 바퀴에요."},
-        {"verse": 13, "korean": "그 바퀴들을 제가 듣는 데서 '돌아가는 바퀴'라고 불렀어요."},
-        {"verse": 14, "korean": "각각 네 얼굴이 있었어요. 첫째는 그룹의 얼굴, 둘째는 사람의 얼굴, 셋째는 사자의 얼굴, 넷째는 독수리의 얼굴이었어요."},
-        {"verse": 15, "korean": "그룹들이 올라갔어요. 이것이 제가 그발 강가에서 보았던 생물이에요."},
-        {"verse": 16, "korean": "그룹들이 움직이면 바퀴도 그들 곁에서 움직였어요. 그룹들이 날개를 펴서 땅에서 올라갈 때 바퀴도 그들 곁에서 떠났어요."},
-        {"verse": 17, "korean": "그들이 서면 바퀴도 섰어요. 그들이 올라가면 바퀴도 함께 올라갔어요. 생물의 영이 그 안에 있었기 때문이에요."},
-        {"verse": 18, "korean": "여호와의 영광이 성전 문지방에서 떠나 그룹들 위에 섰어요."},
-        {"verse": 19, "korean": "그룹들이 날개를 펴고 제가 보는 앞에서 땅에서 올라갔어요. 바퀴도 그들과 함께 올라갔어요. 그들은 여호와의 집 동쪽 문에 섰어요. 이스라엘 하나님의 영광이 그들 위에 있었어요."},
-        {"verse": 20, "korean": "이것이 제가 그발 강가에서 이스라엘 하나님 아래에서 보았던 생물이에요. 저는 그들이 그룹인 것을 알았어요."},
-        {"verse": 21, "korean": "각각 네 얼굴과 네 날개가 있었어요. 날개 아래에 사람 손 같은 것이 있었어요."},
-        {"verse": 22, "korean": "그들의 얼굴 모습은 제가 그발 강가에서 보았던 것과 같았어요. 각각 앞으로 똑바로 갔어요."}
+        {
+          "verse": 1,
+          "original": "Then I looked, and see, in the expanse that was over the head of the cherubim there appeared above them as it were a sapphire stone, as the appearance of the likeness of a throne.",
+          "korean": "제가 보니 그룹들의 머리 위 궁창에 청옥 같은 보좌 모양이 있었어요."
+        },
+        {
+          "verse": 2,
+          "original": "He spoke to the man clothed in linen, and said, “Go in between the whirling wheels, even under the cherub, and fill both your hands with coals of fire from between the cherubim, and scatter them over the city.”\nHe went in as I watched.",
+          "korean": "그분이 모시옷을 입은 사람에게 말씀하셨어요. \"돌아가는 바퀴들 사이, 그룹들 아래로 들어가서 그룹들 사이의 불에서 두 손 가득 숯불을 가져다가 성에 뿌려라.\" 제가 보는 앞에서 그가 들어갔어요."
+        },
+        {
+          "verse": 3,
+          "original": "Now the cherubim stood on the right side of the house, when the man went in; and the cloud filled the inner court.",
+          "korean": "그가 들어갈 때 그룹들은 성전 오른쪽에 서 있었어요. 구름이 안뜰에 가득했어요."
+        },
+        {
+          "verse": 4,
+          "original": "Yahweh’s glory mounted up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of Yahweh’s glory.",
+          "korean": "하나님의 영광이 그룹에서 올라와 성전 문지방에 섰어요. 성전이 구름으로 가득 찼고 뜰에는 하나님의 영광의 광채가 가득했어요."
+        },
+        {
+          "verse": 5,
+          "original": "The sound of the wings of the cherubim was heard even to the outer court, as the voice of God Almighty when he speaks.",
+          "korean": "그룹들의 날개 소리가 바깥뜰까지 들렸어요. 전능하신 하나님이 말씀하시는 소리 같았어요."
+        },
+        {
+          "verse": 6,
+          "original": "It came to pass, when he commanded the man clothed in linen, saying, “Take fire from between the whirling wheels, from between the cherubim,” that he went in, and stood beside a wheel.",
+          "korean": "그분이 모시옷 입은 사람에게 돌아가는 바퀴들 사이, 그룹들 사이에서 불을 가져오라고 명령하셨을 때, 그가 들어가서 바퀴 옆에 섰어요."
+        },
+        {
+          "verse": 7,
+          "original": "The cherub stretched out his hand from between the cherubim to the fire that was between the cherubim, and took some of it, and put it into the hands of him who was clothed in linen, who took it and went out.",
+          "korean": "한 그룹이 그룹들 사이에서 손을 내밀어 그들 사이에 있는 불에서 숯을 집어 모시옷 입은 사람의 손에 주었어요. 그가 그것을 받아서 나갔어요."
+        },
+        {
+          "verse": 8,
+          "original": "The form of a man’s hand appeared here in the cherubim under their wings.",
+          "korean": "그룹들의 날개 아래에 사람 손 같은 것이 보였어요."
+        },
+        {
+          "verse": 9,
+          "original": "I looked, and behold, there were four wheels beside the cherubim, one wheel beside one cherub, and another wheel beside another cherub. The appearance of the wheels was like a beryl stone.",
+          "korean": "제가 보니 그룹들 곁에 바퀴가 넷 있었어요. 각 그룹 곁에 바퀴가 하나씩 있었어요. 바퀴는 녹주석처럼 보였어요."
+        },
+        {
+          "verse": 10,
+          "original": "As for their appearance, the four of them had one likeness, like a wheel within a wheel.",
+          "korean": "그 모양은 넷이 다 같았어요. 바퀴 안에 바퀴가 있는 것 같았어요."
+        },
+        {
+          "verse": 11,
+          "original": "When they went, they went in their four directions. They didn’t turn as they went, but to the place where the head looked they followed it. They didn’t turn as they went.",
+          "korean": "그것들이 움직일 때 사방으로 갔어요. 움직일 때 방향을 바꾸지 않았어요. 머리가 향한 곳으로 따라갔어요."
+        },
+        {
+          "verse": 12,
+          "original": "Their whole body, including their backs, their hands, their wings, and the wheels, were full of eyes all around, even the wheels that the four of them had.",
+          "korean": "그들의 온몸, 등, 손, 날개와 바퀴에 온통 눈이 가득했어요. 그 네 바퀴에요."
+        },
+        {
+          "verse": 13,
+          "original": "As for the wheels, they were called in my hearing, “the whirling wheels”.",
+          "korean": "그 바퀴들을 제가 듣는 데서 '돌아가는 바퀴'라고 불렀어요."
+        },
+        {
+          "verse": 14,
+          "original": "Every one them had four faces. The first face was the face of the cherub. The second face was the face of a man. The third face was the face of a lion. The fourth was the face of an eagle.",
+          "korean": "각각 네 얼굴이 있었어요. 첫째는 그룹의 얼굴, 둘째는 사람의 얼굴, 셋째는 사자의 얼굴, 넷째는 독수리의 얼굴이었어요."
+        },
+        {
+          "verse": 15,
+          "original": "The cherubim mounted up. This is the living creature that I saw by the river Chebar.",
+          "korean": "그룹들이 올라갔어요. 이것이 제가 그발 강가에서 보았던 생물이에요."
+        },
+        {
+          "verse": 16,
+          "original": "When the cherubim went, the wheels went beside them; and when the cherubim lifted up their wings to mount up from the earth, the wheels also didn’t turn from beside them.",
+          "korean": "그룹들이 움직이면 바퀴도 그들 곁에서 움직였어요. 그룹들이 날개를 펴서 땅에서 올라갈 때 바퀴도 그들 곁에서 떠났어요."
+        },
+        {
+          "verse": 17,
+          "original": "When they stood, these stood. When they mounted up, these mounted up with them; for the spirit of the living creature was in them.",
+          "korean": "그들이 서면 바퀴도 섰어요. 그들이 올라가면 바퀴도 함께 올라갔어요. 생물의 영이 그 안에 있었기 때문이에요."
+        },
+        {
+          "verse": 18,
+          "original": "Yahweh’s glory went out from over the threshold of the house, and stood over the cherubim.",
+          "korean": "하나님의 영광이 성전 문지방에서 떠나 그룹들 위에 섰어요."
+        },
+        {
+          "verse": 19,
+          "original": "The cherubim lifted up their wings, and mounted up from the earth in my sight when they went out, with the wheels beside them. Then they stood at the door of the east gate of Yahweh’s house; and the glory of the God of Israel was over them above.",
+          "korean": "그룹들이 날개를 펴고 제가 보는 앞에서 땅에서 올라갔어요. 바퀴도 그들과 함께 올라갔어요. 그들은 하나님의 집 동쪽 문에 섰어요. 이스라엘 하나님의 영광이 그들 위에 있었어요."
+        },
+        {
+          "verse": 20,
+          "original": "This is the living creature that I saw under the God of Israel by the river Chebar; and I knew that they were cherubim.",
+          "korean": "이것이 제가 그발 강가에서 이스라엘 하나님 아래에서 보았던 생물이에요. 저는 그들이 그룹인 것을 알았어요."
+        },
+        {
+          "verse": 21,
+          "original": "Every one had four faces, and every one four wings. The likeness of the hands of a man was under their wings.",
+          "korean": "각각 네 얼굴과 네 날개가 있었어요. 날개 아래에 사람 손 같은 것이 있었어요."
+        },
+        {
+          "verse": 22,
+          "original": "As for the likeness of their faces, they were the faces which I saw by the river Chebar, their appearances and themselves. They each went straight forward.",
+          "korean": "그들의 얼굴 모습은 제가 그발 강가에서 보았던 것과 같았어요. 각각 앞으로 똑바로 갔어요."
+        }
       ]
     },
     {
       "chapter": 11,
       "verses": [
-        {"verse": 1, "korean": "영이 저를 들어서 여호와의 집 동쪽 문으로 데려갔어요. 그 문에 이십오 명이 있었어요. 그 가운데 아술의 아들 야아사냐와 브나야의 아들 블라댜가 있었어요. 그들은 백성의 지도자들이었어요."},
-        {"verse": 2, "korean": "그분이 말씀하셨어요. \"사람아, 이들이 이 성에서 악을 꾸미고 나쁜 계략을 세우는 자들이다.\""},
-        {"verse": 3, "korean": "\"그들은 '집 지을 때가 가깝지 않다. 이 성은 솥이요 우리는 고기다'라고 말한다.\""},
-        {"verse": 4, "korean": "\"그러므로 그들에게 예언하여라. 사람아, 예언하여라.\""},
-        {"verse": 5, "korean": "여호와의 영이 제게 임했어요. 그분이 말씀하셨어요. \"말하여라. 여호와께서 이렇게 말씀하신다. 이스라엘 집아, 너희가 그렇게 말했다. 그러나 내가 너희 마음에 떠오르는 것을 안다.\""},
-        {"verse": 6, "korean": "\"너희가 이 성에서 많은 사람을 죽이고 거리를 시체로 채웠다.\""},
-        {"verse": 7, "korean": "\"그러므로 주 여호와께서 이렇게 말씀하신다. '너희가 그 안에 쓰러뜨린 자들이 고기요 이 성이 솥이다. 그러나 너희는 그 안에서 끌려 나갈 것이다.\""},
-        {"verse": 8, "korean": "\"너희가 칼을 두려워했으니 내가 너희에게 칼을 가져오겠다.' 주 여호와의 말씀이다.\""},
-        {"verse": 9, "korean": "\"내가 너희를 그 안에서 끌어내어 외국인의 손에 넘기고 심판을 집행하겠다.\""},
-        {"verse": 10, "korean": "\"너희가 칼에 쓰러질 것이다. 내가 이스라엘 변경에서 심판하겠다. 그러면 너희가 내가 여호와인 줄 알게 될 것이다.\""},
-        {"verse": 11, "korean": "\"이 성이 너희의 솥이 되지 않을 것이요 너희가 그 안의 고기가 되지 않을 것이다. 내가 이스라엘 변경에서 심판하겠다.\""},
-        {"verse": 12, "korean": "\"너희가 내가 여호와인 줄 알게 될 것이다. 너희가 내 규례를 따르지 않고 내 법을 지키지 않았다. 오히려 주위 나라들의 규례를 따랐다.'\""},
-        {"verse": 13, "korean": "제가 예언할 때 브나야의 아들 블라댜가 죽었어요. 저는 땅에 엎드려 큰 소리로 외쳤어요. \"아, 주 여호와여! 이스라엘의 남은 자들을 다 멸망시키시렵니까?\""},
-        {"verse": 14, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 15, "korean": "\"사람아, 예루살렘 주민들이 네 형제들과 네 친족과 온 이스라엘 집에 대해서 '여호와에게서 멀리 떠나가라. 이 땅이 우리에게 소유로 주어졌다'고 말한다.\""},
-        {"verse": 16, "korean": "\"그러므로 말하여라. '주 여호와께서 이렇게 말씀하신다. 내가 그들을 나라들 가운데로 멀리 보내고 여러 나라에 흩었지만 그들이 간 나라들에서 내가 잠시 동안 그들의 성소가 되어주겠다.'\""},
-        {"verse": 17, "korean": "\"그러므로 말하여라. '주 여호와께서 이렇게 말씀하신다. 내가 너희를 여러 민족 가운데서 모으고 너희가 흩어진 나라들에서 모아서 이스라엘 땅을 너희에게 주겠다.'\""},
-        {"verse": 18, "korean": "\"그들이 거기 와서 모든 가증한 것과 역겨운 것을 그 땅에서 제거할 것이다.\""},
-        {"verse": 19, "korean": "\"내가 그들에게 한 마음을 주고 그들 안에 새 영을 넣어주겠다. 그들의 몸에서 돌 같은 마음을 빼고 살 같은 마음을 주겠다.\""},
-        {"verse": 20, "korean": "\"그래서 그들이 내 규례를 따르고 내 법을 지켜 행할 것이다. 그들은 내 백성이 되고 나는 그들의 하나님이 될 것이다.\""},
-        {"verse": 21, "korean": "\"그러나 마음이 가증한 것과 역겨운 것을 따라가는 자들에게는 그들의 행실을 그들의 머리에 돌려주겠다.' 주 여호와의 말씀이다.\""},
-        {"verse": 22, "korean": "그때 그룹들이 날개를 펴고 바퀴가 그들 곁에 있었어요. 이스라엘 하나님의 영광이 그들 위에 있었어요."},
-        {"verse": 23, "korean": "여호와의 영광이 성 가운데서 올라가서 성 동쪽 산 위에 섰어요."},
-        {"verse": 24, "korean": "영이 저를 들어올려 하나님의 영으로 환상 가운데서 바벨론에 있는 포로들에게 데려갔어요. 제가 보았던 환상이 제게서 떠나갔어요."},
-        {"verse": 25, "korean": "저는 포로들에게 여호와께서 보여주신 모든 것을 전했어요."}
+        {
+          "verse": 1,
+          "original": "Moreover the Spirit lifted me up, and brought me to the east gate of Yahweh’s house, which looks eastward. Behold, twenty-five men were at the door of the gate; and I saw among them Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, princes of the people.",
+          "korean": "영이 저를 들어서 하나님의 집 동쪽 문으로 데려갔어요. 그 문에 이십오 명이 있었어요. 그 가운데 아술의 아들 야아사냐와 브나야의 아들 블라댜가 있었어요. 그들은 백성의 지도자들이었어요."
+        },
+        {
+          "verse": 2,
+          "original": "He said to me, “Son of man, these are the men who devise iniquity, and who give wicked counsel in this city;",
+          "korean": "그분이 말씀하셨어요. \"사람아, 이들이 이 성에서 악을 꾸미고 나쁜 계략을 세우는 자들이다.\""
+        },
+        {
+          "verse": 3,
+          "original": "who say, ‘The time is not near to build houses. This is the cauldron, and we are the meat.’",
+          "korean": "\"그들은 '집 지을 때가 가깝지 않다. 이 성은 솥이요 우리는 고기다'라고 말한다.\""
+        },
+        {
+          "verse": 4,
+          "original": "Therefore prophesy against them. Prophesy, son of man.”",
+          "korean": "\"그러므로 그들에게 예언하여라. 사람아, 예언하여라.\""
+        },
+        {
+          "verse": 5,
+          "original": "Yahweh’s Spirit fell on me, and he said to me, “Speak, ‘Yahweh says: “Thus you have said, house of Israel; for I know the things that come into your mind.",
+          "korean": "하나님의 영이 제게 임했어요. 그분이 말씀하셨어요. \"말하여라. 하나님께서 이렇게 말씀하신다. 이스라엘 집아, 너희가 그렇게 말했다. 그러나 내가 너희 마음에 떠오르는 것을 안다.\""
+        },
+        {
+          "verse": 6,
+          "original": "You have multiplied your slain in this city, and you have filled its streets with the slain.",
+          "korean": "\"너희가 이 성에서 많은 사람을 죽이고 거리를 시체로 채웠다.\""
+        },
+        {
+          "verse": 7,
+          "original": "“‘Therefore thus says the Lord Yahweh: “Your slain whom you have laid in the middle of it, they are the meat, and this is the cauldron; but you will be brought out of the middle of it.",
+          "korean": "\"그러므로 주 하나님께서 이렇게 말씀하신다. '너희가 그 안에 쓰러뜨린 자들이 고기요 이 성이 솥이다. 그러나 너희는 그 안에서 끌려 나갈 것이다.\""
+        },
+        {
+          "verse": 8,
+          "original": "You have feared the sword; and I will bring the sword on you,” says the Lord Yahweh.",
+          "korean": "\"너희가 칼을 두려워했으니 내가 너희에게 칼을 가져오겠다.' 주 하나님의 말씀이다.\""
+        },
+        {
+          "verse": 9,
+          "original": "“I will bring you out of the middle of it, and deliver you into the hands of strangers, and will execute judgments among you.",
+          "korean": "\"내가 너희를 그 안에서 끌어내어 외국인의 손에 넘기고 심판을 집행하겠다.\""
+        },
+        {
+          "verse": 10,
+          "original": "You will fall by the sword. I will judge you in the border of Israel. Then you will know that I am Yahweh.",
+          "korean": "\"너희가 칼에 쓰러질 것이다. 내가 이스라엘 변경에서 심판하겠다. 그러면 너희가 내가 하나님인 줄 알게 될 것이다.\""
+        },
+        {
+          "verse": 11,
+          "original": "This will not be your cauldron, neither will you be the meat in the middle of it. I will judge you in the border of Israel.",
+          "korean": "\"이 성이 너희의 솥이 되지 않을 것이요 너희가 그 안의 고기가 되지 않을 것이다. 내가 이스라엘 변경에서 심판하겠다.\""
+        },
+        {
+          "verse": 12,
+          "original": "You will know that I am Yahweh, for you have not walked in my statutes, You have not executed my ordinances, but have done after the ordinances of the nations that are around you.”’”",
+          "korean": "\"너희가 내가 하나님인 줄 알게 될 것이다. 너희가 내 규례를 따르지 않고 내 법을 지키지 않았다. 오히려 주위 나라들의 규례를 따랐다.'\""
+        },
+        {
+          "verse": 13,
+          "original": "When I prophesied, Pelatiah the son of Benaiah died. Then fell I down on my face, and cried with a loud voice, and said, “Ah Lord Yahweh! will you make a full end of the remnant of Israel?”",
+          "korean": "제가 예언할 때 브나야의 아들 블라댜가 죽었어요. 저는 땅에 엎드려 큰 소리로 외쳤어요. \"아, 주 하나님여! 이스라엘의 남은 자들을 다 멸망시키시렵니까?\""
+        },
+        {
+          "verse": 14,
+          "original": "Yahweh’s word came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 15,
+          "original": "“Son of man, your brothers, even your brothers, the men of your relatives, and all the house of Israel, all of them, are they to whom the inhabitants of Jerusalem have said, ‘Go far away from Yahweh. This land has been given to us for a possession.’”",
+          "korean": "\"사람아, 예루살렘 주민들이 네 형제들과 네 친족과 온 이스라엘 집에 대해서 '하나님에게서 멀리 떠나가라. 이 땅이 우리에게 소유로 주어졌다'고 말한다.\""
+        },
+        {
+          "verse": 16,
+          "original": "“Therefore say, ‘Thus says the Lord Yahweh: “Whereas I have removed them far off among the nations, and whereas I have scattered them among the countries, yet I will be to them a sanctuary for a little while in the countries where they have come.”’",
+          "korean": "\"그러므로 말하여라. '주 하나님께서 이렇게 말씀하신다. 내가 그들을 나라들 가운데로 멀리 보내고 여러 나라에 흩었지만 그들이 간 나라들에서 내가 잠시 동안 그들의 성소가 되어주겠다.'\""
+        },
+        {
+          "verse": 17,
+          "original": "“Therefore say, ‘Thus says the Lord Yahweh: “I will gather you from the peoples, and assemble you out of the countries where you have been scattered, and I will give you the land of Israel.”",
+          "korean": "\"그러므로 말하여라. '주 하나님께서 이렇게 말씀하신다. 내가 너희를 여러 민족 가운데서 모으고 너희가 흩어진 나라들에서 모아서 이스라엘 땅을 너희에게 주겠다.'\""
+        },
+        {
+          "verse": 18,
+          "original": "“‘They will come there, and they will take away all its detestable things and all its abominations from there.",
+          "korean": "\"그들이 거기 와서 모든 가증한 것과 역겨운 것을 그 땅에서 제거할 것이다.\""
+        },
+        {
+          "verse": 19,
+          "original": "I will give them one heart, and I will put a new spirit within you. I will take the stony heart out of their flesh, and will give them a heart of flesh;",
+          "korean": "\"내가 그들에게 한 마음을 주고 그들 안에 새 영을 넣어주겠다. 그들의 몸에서 돌 같은 마음을 빼고 살 같은 마음을 주겠다.\""
+        },
+        {
+          "verse": 20,
+          "original": "that they may walk in my statutes, and keep my ordinances, and do them. They will be my people, and I will be their God.",
+          "korean": "\"그래서 그들이 내 규례를 따르고 내 법을 지켜 행할 것이다. 그들은 내 백성이 되고 나는 그들의 하나님이 될 것이다.\""
+        },
+        {
+          "verse": 21,
+          "original": "But as for them whose heart walks after the heart of their detestable things and their abominations, I will bring their way on their own heads,’ says the Lord Yahweh.”",
+          "korean": "\"그러나 마음이 가증한 것과 역겨운 것을 따라가는 자들에게는 그들의 행실을 그들의 머리에 돌려주겠다.' 주 하나님의 말씀이다.\""
+        },
+        {
+          "verse": 22,
+          "original": "Then the cherubim lifted up their wings, and the wheels were beside them. The glory of the God of Israel was over them above.",
+          "korean": "그때 그룹들이 날개를 펴고 바퀴가 그들 곁에 있었어요. 이스라엘 하나님의 영광이 그들 위에 있었어요."
+        },
+        {
+          "verse": 23,
+          "original": "Yahweh’s glory went up from the middle of the city, and stood on the mountain which is on the east side of the city.",
+          "korean": "하나님의 영광이 성 가운데서 올라가서 성 동쪽 산 위에 섰어요."
+        },
+        {
+          "verse": 24,
+          "original": "The Spirit lifted me up, and brought me in the vision by the Spirit of God into Chaldea, to the captives.\nSo the vision that I had seen went up from me.",
+          "korean": "영이 저를 들어올려 하나님의 영으로 환상 가운데서 바벨론에 있는 포로들에게 데려갔어요. 제가 보았던 환상이 제게서 떠나갔어요."
+        },
+        {
+          "verse": 25,
+          "original": "Then I spoke to the captives all the things that Yahweh had shown me.",
+          "korean": "저는 포로들에게 하나님께서 보여주신 모든 것을 전했어요."
+        }
       ]
     },
     {
       "chapter": 12,
       "verses": [
-        {"verse": 1, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 2, "korean": "\"사람아, 너는 반역하는 집 가운데 살고 있다. 그들은 눈이 있어도 보지 못하고 귀가 있어도 듣지 못한다. 그들이 반역하는 집이기 때문이다.\""},
-        {"verse": 3, "korean": "\"그러므로 사람아, 이사 갈 짐을 싸서 그들이 보는 앞에서 낮에 이사해라. 그들이 보는 앞에서 네 곳에서 다른 곳으로 옮겨라. 반역하는 집이지만 혹시 깨달을지도 모른다.\""},
-        {"verse": 4, "korean": "\"낮에 그들이 보는 앞에서 이사 짐을 내놓아라. 저녁에 포로로 끌려가는 사람처럼 그들이 보는 앞에서 나가라.\""},
-        {"verse": 5, "korean": "\"그들이 보는 앞에서 벽을 뚫고 그것을 통해 짐을 내가라.\""},
-        {"verse": 6, "korean": "\"그들이 보는 앞에서 짐을 어깨에 메고 어두울 때 나가라. 얼굴을 가려서 땅을 보지 못하게 해라. 내가 너를 이스라엘 집에게 표징으로 세웠기 때문이다.\""},
-        {"verse": 7, "korean": "저는 명령받은 대로 했어요. 낮에 이사 짐을 내놓았고 저녁에 손으로 벽을 뚫었어요. 어두울 때 짐을 내가서 그들이 보는 앞에서 어깨에 메고 갔어요."},
-        {"verse": 8, "korean": "아침에 여호와의 말씀이 제게 임했어요."},
-        {"verse": 9, "korean": "\"사람아, 반역하는 이스라엘 집이 네게 '무엇을 하고 있느냐?'고 물었지 않느냐?\""},
-        {"verse": 10, "korean": "\"그들에게 말하여라. '주 여호와께서 이렇게 말씀하신다. 이 예언은 예루살렘의 왕과 그 안에 있는 온 이스라엘 집에 대한 것이다.'\""},
-        {"verse": 11, "korean": "\"말하여라. '나는 너희의 표징이다. 내가 한 것처럼 그들에게 행해질 것이다. 그들은 포로로 잡혀갈 것이다.'\""},
-        {"verse": 12, "korean": "\"그들 가운데 있는 왕이 어두울 때 짐을 어깨에 메고 나갈 것이다. 그들이 벽을 뚫고 짐을 내갈 것이다. 그가 얼굴을 가려서 눈으로 땅을 보지 못할 것이다.\""},
-        {"verse": 13, "korean": "\"내가 그 위에 내 그물을 치고 내 올무에 걸리게 하겠다. 내가 그를 바벨론으로 끌고 갈 것이다. 그가 그곳에서 죽을 것이지만 그곳을 보지 못할 것이다.\""},
-        {"verse": 14, "korean": "\"그를 돕는 자들과 그의 모든 군대를 사방으로 흩고 그 뒤에 칼을 빼어들겠다.\""},
-        {"verse": 15, "korean": "\"내가 그들을 나라들 가운데 흩고 여러 나라에 뿔뿔이 흩을 때 그들이 내가 여호와인 줄 알게 될 것이다.\""},
-        {"verse": 16, "korean": "\"그러나 그들 중 몇 사람은 칼과 기근과 전염병에서 살려두어서 그들이 간 나라들에서 자기들의 모든 가증한 일을 말하게 하겠다. 그러면 그들이 내가 여호와인 줄 알게 될 것이다.'\""},
-        {"verse": 17, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 18, "korean": "\"사람아, 떨면서 빵을 먹고 두려워하며 근심하면서 물을 마셔라.\""},
-        {"verse": 19, "korean": "\"이 땅 백성에게 말하여라. '주 여호와께서 예루살렘 주민들과 이스라엘 땅에 대해 이렇게 말씀하신다. 그들이 근심하면서 빵을 먹고 두려워하면서 물을 마실 것이다. 그 안에 사는 자들의 폭력 때문에 그 땅이 황폐해질 것이다.\""},
-        {"verse": 20, "korean": "\"사람이 사는 성들이 황폐해지고 땅이 폐허가 될 것이다. 그러면 너희가 내가 여호와인 줄 알게 될 것이다.'\""},
-        {"verse": 21, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 22, "korean": "\"사람아, 이스라엘 땅에서 너희가 쓰는 이 속담이 무엇이냐? '날이 지나고 모든 환상이 헛되이 끝난다'라는 속담 말이다.\""},
-        {"verse": 23, "korean": "\"그러므로 그들에게 말하여라. '주 여호와께서 이렇게 말씀하신다. 내가 이 속담을 그치게 하겠다. 이스라엘에서 더 이상 그것을 속담으로 쓰지 못할 것이다.' 그들에게 말하여라. '그 날이 가깝다. 모든 환상이 이루어질 것이다.'\""},
-        {"verse": 24, "korean": "\"이스라엘 집에 더 이상 거짓 환상도 없고 아첨하는 점술도 없을 것이다.\""},
-        {"verse": 25, "korean": "\"나는 여호와다. 내가 말하면 그 말이 이루어질 것이다. 더 이상 지체되지 않을 것이다. 반역하는 집아, 네 시대에 내가 말하고 그것을 이루겠다.' 주 여호와의 말씀이다.\""},
-        {"verse": 26, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 27, "korean": "\"사람아, 이스라엘 집이 '그가 보는 환상은 먼 후의 일이고 먼 때에 대해 예언한다'고 말한다.\""},
-        {"verse": 28, "korean": "\"그러므로 그들에게 말하여라. '주 여호와께서 이렇게 말씀하신다. 내 말이 더 이상 지체되지 않을 것이다. 내가 말한 것이 이루어질 것이다.' 주 여호와의 말씀이다.\""}
+        {
+          "verse": 1,
+          "original": "Yahweh’s word also came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 2,
+          "original": "“Son of man, you dwell in the middle of the rebellious house, who have eyes to see, and don’t see, who have ears to hear, and don’t hear; for they are a rebellious house.",
+          "korean": "\"사람아, 너는 반역하는 집 가운데 살고 있다. 그들은 눈이 있어도 보지 못하고 귀가 있어도 듣지 못한다. 그들이 반역하는 집이기 때문이다.\""
+        },
+        {
+          "verse": 3,
+          "original": "“Therefore, you son of man, prepare your stuff for moving, and move by day in their sight. You shall move from your place to another place in their sight. It may be they will consider, though they are a rebellious house.",
+          "korean": "\"그러므로 사람아, 이사 갈 짐을 싸서 그들이 보는 앞에서 낮에 이사해라. 그들이 보는 앞에서 네 곳에서 다른 곳으로 옮겨라. 반역하는 집이지만 혹시 깨달을지도 모른다.\""
+        },
+        {
+          "verse": 4,
+          "original": "You shall bring out your stuff by day in their sight, as stuff for moving. You shall go out yourself at evening in their sight, as when men go out into exile.",
+          "korean": "\"낮에 그들이 보는 앞에서 이사 짐을 내놓아라. 저녁에 포로로 끌려가는 사람처럼 그들이 보는 앞에서 나가라.\""
+        },
+        {
+          "verse": 5,
+          "original": "Dig through the wall in their sight, and carry your stuff out that way.",
+          "korean": "\"그들이 보는 앞에서 벽을 뚫고 그것을 통해 짐을 내가라.\""
+        },
+        {
+          "verse": 6,
+          "original": "In their sight you shall bear it on your shoulder, and carry it out in the dark. You shall cover your face, so that you don’t see the land, for I have set you for a sign to the house of Israel.”",
+          "korean": "\"그들이 보는 앞에서 짐을 어깨에 메고 어두울 때 나가라. 얼굴을 가려서 땅을 보지 못하게 해라. 내가 너를 이스라엘 집에게 표징으로 세웠기 때문이다.\""
+        },
+        {
+          "verse": 7,
+          "original": "I did so as I was commanded. I brought out my stuff by day, as stuff for moving, and in the evening I dug through the wall with my hand. I brought it out in the dark, and bore it on my shoulder in their sight.",
+          "korean": "저는 명령받은 대로 했어요. 낮에 이사 짐을 내놓았고 저녁에 손으로 벽을 뚫었어요. 어두울 때 짐을 내가서 그들이 보는 앞에서 어깨에 메고 갔어요."
+        },
+        {
+          "verse": 8,
+          "original": "In the morning, Yahweh’s word came to me, saying,",
+          "korean": "아침에 하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 9,
+          "original": "“Son of man, hasn’t the house of Israel, the rebellious house, said to you, ‘What are you doing?’",
+          "korean": "\"사람아, 반역하는 이스라엘 집이 네게 '무엇을 하고 있느냐?'고 물었지 않느냐?\""
+        },
+        {
+          "verse": 10,
+          "original": "“Say to them, ‘Thus says the Lord Yahweh: “This burden concerns the prince in Jerusalem, and all the house of Israel among whom they are.”’",
+          "korean": "\"그들에게 말하여라. '주 하나님께서 이렇게 말씀하신다. 이 예언은 예루살렘의 왕과 그 안에 있는 온 이스라엘 집에 대한 것이다.'\""
+        },
+        {
+          "verse": 11,
+          "original": "“Say, ‘I am your sign. As I have done, so will it be done to them. They will go into exile, into captivity.",
+          "korean": "\"말하여라. '나는 너희의 표징이다. 내가 한 것처럼 그들에게 행해질 것이다. 그들은 포로로 잡혀갈 것이다.'\""
+        },
+        {
+          "verse": 12,
+          "original": "“‘The prince who is among them will bear on his shoulder in the dark, and will go out. They will dig through the wall to carry things out that way. He will cover his face, because he will not see the land with his eyes.",
+          "korean": "\"그들 가운데 있는 왕이 어두울 때 짐을 어깨에 메고 나갈 것이다. 그들이 벽을 뚫고 짐을 내갈 것이다. 그가 얼굴을 가려서 눈으로 땅을 보지 못할 것이다.\""
+        },
+        {
+          "verse": 13,
+          "original": "I will also spread my net on him, and he will be taken in my snare. I will bring him to Babylon to the land of the Chaldeans; yet he will not see it, though he will die there.",
+          "korean": "\"내가 그 위에 내 그물을 치고 내 올무에 걸리게 하겠다. 내가 그를 바벨론으로 끌고 갈 것이다. 그가 그곳에서 죽을 것이지만 그곳을 보지 못할 것이다.\""
+        },
+        {
+          "verse": 14,
+          "original": "I will scatter toward every wind all who are around him to help him, and all his bands. I will draw out the sword after them.",
+          "korean": "\"그를 돕는 자들과 그의 모든 군대를 사방으로 흩고 그 뒤에 칼을 빼어들겠다.\""
+        },
+        {
+          "verse": 15,
+          "original": "“‘They will know that I am Yahweh when I disperse them among the nations, and scatter them through the countries.",
+          "korean": "\"내가 그들을 나라들 가운데 흩고 여러 나라에 뿔뿔이 흩을 때 그들이 내가 하나님인 줄 알게 될 것이다.\""
+        },
+        {
+          "verse": 16,
+          "original": "But I will leave a few men of them from the sword, from the famine, and from the pestilence, that they may declare all their abominations among the nations where they come. Then they will know that I am Yahweh.’”",
+          "korean": "\"그러나 그들 중 몇 사람은 칼과 기근과 전염병에서 살려두어서 그들이 간 나라들에서 자기들의 모든 가증한 일을 말하게 하겠다. 그러면 그들이 내가 하나님인 줄 알게 될 것이다.'\""
+        },
+        {
+          "verse": 17,
+          "original": "Moreover Yahweh’s word came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 18,
+          "original": "“Son of man, eat your bread with quaking, and drink your water with trembling and with fearfulness.",
+          "korean": "\"사람아, 떨면서 빵을 먹고 두려워하며 근심하면서 물을 마셔라.\""
+        },
+        {
+          "verse": 19,
+          "original": "Tell the people of the land, ‘Thus says the Lord Yahweh concerning the inhabitants of Jerusalem, and the land of Israel: “They will eat their bread with fearfulness, and drink their water in dismay, that her land may be desolate, and all that is therein, because of the violence of all those who dwell therein.",
+          "korean": "\"이 땅 백성에게 말하여라. '주 하나님께서 예루살렘 주민들과 이스라엘 땅에 대해 이렇게 말씀하신다. 그들이 근심하면서 빵을 먹고 두려워하면서 물을 마실 것이다. 그 안에 사는 자들의 폭력 때문에 그 땅이 황폐해질 것이다.\""
+        },
+        {
+          "verse": 20,
+          "original": "The cities that are inhabited will be laid waste, and the land will be a desolation. Then you will know that I am Yahweh.”’”",
+          "korean": "\"사람이 사는 성들이 황폐해지고 땅이 폐허가 될 것이다. 그러면 너희가 내가 하나님인 줄 알게 될 것이다.'\""
+        },
+        {
+          "verse": 21,
+          "original": "Yahweh’s word came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 22,
+          "original": "“Son of man, what is this proverb that you have in the land of Israel, saying, ‘The days are prolonged, and every vision fails?’",
+          "korean": "\"사람아, 이스라엘 땅에서 너희가 쓰는 이 속담이 무엇이냐? '날이 지나고 모든 환상이 헛되이 끝난다'라는 속담 말이다.\""
+        },
+        {
+          "verse": 23,
+          "original": "Tell them therefore, ‘Thus says the Lord Yahweh: “I will make this proverb to cease, and they will no more use it as a proverb in Israel;”’ but tell them, ‘“The days are at hand, and the fulfillment of every vision.",
+          "korean": "\"그러므로 그들에게 말하여라. '주 하나님께서 이렇게 말씀하신다. 내가 이 속담을 그치게 하겠다. 이스라엘에서 더 이상 그것을 속담으로 쓰지 못할 것이다.' 그들에게 말하여라. '그 날이 가깝다. 모든 환상이 이루어질 것이다.'\""
+        },
+        {
+          "verse": 24,
+          "original": "For there will be no more any false vision nor flattering divination within the house of Israel.",
+          "korean": "\"이스라엘 집에 더 이상 거짓 환상도 없고 아첨하는 점술도 없을 것이다.\""
+        },
+        {
+          "verse": 25,
+          "original": "For I am Yahweh. I will speak, and the word that I speak will be performed. It will be no more deferred; for in your days, rebellious house, I will speak the word, and will perform it,” says the Lord Yahweh.’”",
+          "korean": "\"나는 하나님다. 내가 말하면 그 말이 이루어질 것이다. 더 이상 지체되지 않을 것이다. 반역하는 집아, 네 시대에 내가 말하고 그것을 이루겠다.' 주 하나님의 말씀이다.\""
+        },
+        {
+          "verse": 26,
+          "original": "Again Yahweh’s word came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 27,
+          "original": "“Son of man, behold, they of the house of Israel say, ‘The vision that he sees is for many day to come, and he prophesies of times that are far off.’",
+          "korean": "\"사람아, 이스라엘 집이 '그가 보는 환상은 먼 후의 일이고 먼 때에 대해 예언한다'고 말한다.\""
+        },
+        {
+          "verse": 28,
+          "original": "“Therefore tell them, ‘Thus says the Lord Yahweh: “None of my words will be deferred any more, but the word which I speak will be performed,” says the Lord Yahweh.’”",
+          "korean": "\"그러므로 그들에게 말하여라. '주 하나님께서 이렇게 말씀하신다. 내 말이 더 이상 지체되지 않을 것이다. 내가 말한 것이 이루어질 것이다.' 주 하나님의 말씀이다.\""
+        }
       ]
     },
     {
       "chapter": 13,
       "verses": [
-        {"verse": 1, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 2, "korean": "\"사람아, 이스라엘의 선지자들에게 예언하여라. 자기 마음대로 예언하는 자들에게 예언하고 말하여라. '여호와의 말씀을 들어라.'\""},
-        {"verse": 3, "korean": "\"주 여호와께서 이렇게 말씀하신다. '어리석은 선지자들에게 화가 있다! 그들은 자기 영을 따르고 아무것도 보지 못했다!\""},
-        {"verse": 4, "korean": "\"이스라엘아, 네 선지자들이 폐허 속의 여우들 같았다.\""},
-        {"verse": 5, "korean": "\"너희가 틈새로 올라가지 않았고 이스라엘 집을 위해 벽을 쌓지 않았다. 여호와의 날에 전쟁 중에 설 수 있도록.\""},
-        {"verse": 6, "korean": "\"그들은 거짓 환상과 거짓 점술을 보았다. '여호와께서 말씀하신다'고 하지만 여호와가 그들을 보내지 않았다. 그런데도 자기 말이 이루어지기를 바란다.\""},
-        {"verse": 7, "korean": "\"내가 말하지 않았는데도 '여호와께서 말씀하신다'고 하면서 거짓 환상을 보고 거짓 점술을 하지 않았느냐?'\""},
-        {"verse": 8, "korean": "\"그러므로 주 여호와께서 이렇게 말씀하신다. '너희가 거짓을 말하고 거짓 환상을 보았으므로 내가 너희를 대적한다.' 주 여호와의 말씀이다.\""},
-        {"verse": 9, "korean": "\"내 손이 거짓 환상을 보고 거짓 점술을 하는 선지자들을 대적할 것이다. 그들이 내 백성의 모임에 끼지 못하고 이스라엘 집의 명부에 기록되지 못하며 이스라엘 땅에 들어오지 못할 것이다. 그러면 너희가 내가 주 여호와인 줄 알게 될 것이다.\""},
-        {"verse": 10, "korean": "\"그들이 내 백성을 속여 '평화가 있다'고 했지만 평화가 없다. 백성이 담을 쌓으면 그들이 회를 칠한다.\""},
-        {"verse": 11, "korean": "\"회를 칠하는 자들에게 말하여라. '그것이 무너질 것이다.' 큰 비가 쏟아지고 우박이 떨어지며 폭풍이 불 것이다.\""},
-        {"verse": 12, "korean": "\"담이 무너지면 '너희가 칠한 회는 어디 있느냐?'라고 말하지 않겠느냐?\""},
-        {"verse": 13, "korean": "\"그러므로 주 여호와께서 이렇게 말씀하신다. '내가 분노하여 폭풍을 일으키고 노여움으로 큰 비를 내리고 분노하여 우박을 내려서 멸망시키겠다.\""},
-        {"verse": 14, "korean": "\"내가 너희가 회를 칠한 담을 허물어서 땅에 쓰러뜨리고 그 기초를 드러내겠다. 그것이 무너지면 너희가 그 안에서 죽을 것이다. 그러면 너희가 내가 여호와인 줄 알게 될 것이다.\""},
-        {"verse": 15, "korean": "\"이렇게 담과 그것에 회를 칠한 자들에게 내 분노를 다 쏟겠다. 그리고 너희에게 '담도 없어지고 그것에 회를 칠한 자들도 없어졌다'고 말하겠다.\""},
-        {"verse": 16, "korean": "\"그들은 예루살렘에 대해 예언하며 평화가 없는데도 평화의 환상을 보는 이스라엘의 선지자들이다.' 주 여호와의 말씀이다.\""},
-        {"verse": 17, "korean": "\"사람아, 자기 마음대로 예언하는 네 백성의 딸들을 향해 얼굴을 돌리고 예언하여라.\""},
-        {"verse": 18, "korean": "\"말하여라. '주 여호와께서 이렇게 말씀하신다. 모든 손목에 마법 띠를 매고 모든 키의 사람들 머리에 수건을 만들어서 사람들의 목숨을 사냥하는 여자들에게 화가 있다! 너희가 내 백성의 목숨을 사냥하면서 자기 목숨은 살리려 하느냐?\""},
-        {"verse": 19, "korean": "\"너희가 한 줌의 보리와 약간의 빵 조각 때문에 내 백성 앞에서 나를 더럽혔다. 죽지 말아야 할 자들을 죽이고 살지 말아야 할 자들을 살렸다. 거짓말을 듣는 내 백성에게 거짓말을 해서 말이다.'\""},
-        {"verse": 20, "korean": "\"그러므로 주 여호와께서 이렇게 말씀하신다. '내가 너희의 마법 띠를 대적한다. 너희가 그것으로 목숨을 새처럼 사냥했다. 내가 너희 팔에서 그것을 뜯어내고 너희가 새처럼 사냥한 목숨들을 놓아주겠다.\""},
-        {"verse": 21, "korean": "\"내가 너희의 수건을 찢고 내 백성을 너희 손에서 건져내겠다. 그들이 더 이상 너희 손에 사냥감이 되지 않을 것이다. 그러면 너희가 내가 여호와인 줄 알게 될 것이다.\""},
-        {"verse": 22, "korean": "\"내가 슬프게 하지 않은 의인의 마음을 너희가 거짓말로 슬프게 했다. 또 악한 자의 손을 강하게 해서 그가 악한 길에서 돌이켜 목숨을 구하지 못하게 했다.\""},
-        {"verse": 23, "korean": "\"그러므로 너희가 더 이상 거짓 환상을 보지 못하고 점술을 하지 못할 것이다. 내가 내 백성을 너희 손에서 건져내겠다. 그러면 너희가 내가 여호와인 줄 알게 될 것이다.'\""}
+        {
+          "verse": 1,
+          "original": "Yahweh’s word came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 2,
+          "original": "“Son of man, prophesy against the prophets of Israel who prophesy, and say to those who prophesy out of their own heart, ‘Hear Yahweh’s word:",
+          "korean": "\"사람아, 이스라엘의 선지자들에게 예언하여라. 자기 마음대로 예언하는 자들에게 예언하고 말하여라. '하나님의 말씀을 들어라.'\""
+        },
+        {
+          "verse": 3,
+          "original": "Thus says the Lord Yahweh, “Woe to the foolish prophets, who follow their own spirit, and have seen nothing!",
+          "korean": "\"주 하나님께서 이렇게 말씀하신다. '어리석은 선지자들에게 화가 있다! 그들은 자기 영을 따르고 아무것도 보지 못했다!\""
+        },
+        {
+          "verse": 4,
+          "original": "Israel, your prophets have been like foxes in the waste places.",
+          "korean": "\"이스라엘아, 네 선지자들이 폐허 속의 여우들 같았다.\""
+        },
+        {
+          "verse": 5,
+          "original": "You have not gone up into the gaps or built up the wall for the house of Israel, to stand in the battle in Yahweh’s day.",
+          "korean": "\"너희가 틈새로 올라가지 않았고 이스라엘 집을 위해 벽을 쌓지 않았다. 하나님의 날에 전쟁 중에 설 수 있도록.\""
+        },
+        {
+          "verse": 6,
+          "original": "They have seen falsehood and lying divination, who say, ‘Yahweh says;’ but Yahweh has not sent them. They have made men to hope that the word would be confirmed.",
+          "korean": "\"그들은 거짓 환상과 거짓 점술을 보았다. '하나님께서 말씀하신다'고 하지만 하나님가 그들을 보내지 않았다. 그런데도 자기 말이 이루어지기를 바란다.\""
+        },
+        {
+          "verse": 7,
+          "original": "Haven’t you seen a false vision, and haven’t you spoken a lying divination, in that you say, ‘Yahweh says;’ but I have not spoken?”",
+          "korean": "\"내가 말하지 않았는데도 '하나님께서 말씀하신다'고 하면서 거짓 환상을 보고 거짓 점술을 하지 않았느냐?'\""
+        },
+        {
+          "verse": 8,
+          "original": "“‘Therefore thus says the Lord Yahweh: “Because you have spoken falsehood and seen lies, therefore, behold, I am against you,” says the Lord Yahweh.",
+          "korean": "\"그러므로 주 하나님께서 이렇게 말씀하신다. '너희가 거짓을 말하고 거짓 환상을 보았으므로 내가 너희를 대적한다.' 주 하나님의 말씀이다.\""
+        },
+        {
+          "verse": 9,
+          "original": "“My hand will be against the prophets who see false visions and who utter lying divinations. They will not be in the council of my people, neither will they be written in the writing of the house of Israel, neither will they enter into the land of Israel. Then you will know that I am the Lord Yahweh”",
+          "korean": "\"내 손이 거짓 환상을 보고 거짓 점술을 하는 선지자들을 대적할 것이다. 그들이 내 백성의 모임에 끼지 못하고 이스라엘 집의 명부에 기록되지 못하며 이스라엘 땅에 들어오지 못할 것이다. 그러면 너희가 내가 주 하나님인 줄 알게 될 것이다.\""
+        },
+        {
+          "verse": 10,
+          "original": "“‘Because, even because they have seduced my people, saying, “Peace;” and there is no peace. When one builds up a wall, behold, they plaster it with whitewash.",
+          "korean": "\"그들이 내 백성을 속여 '평화가 있다'고 했지만 평화가 없다. 백성이 담을 쌓으면 그들이 회를 칠한다.\""
+        },
+        {
+          "verse": 11,
+          "original": "Tell those who plaster it with whitewash that it will fall. There will be an overflowing shower; and you, great hailstones, will fall. A stormy wind will tear it.",
+          "korean": "\"회를 칠하는 자들에게 말하여라. '그것이 무너질 것이다.' 큰 비가 쏟아지고 우박이 떨어지며 폭풍이 불 것이다.\""
+        },
+        {
+          "verse": 12,
+          "original": "Behold, when the wall has fallen, won’t it be said to you, “Where is the plaster with which you have plastered it?”",
+          "korean": "\"담이 무너지면 '너희가 칠한 회는 어디 있느냐?'라고 말하지 않겠느냐?\""
+        },
+        {
+          "verse": 13,
+          "original": "“‘Therefore thus says the Lord Yahweh: “I will even tear it with a stormy wind in my wrath. There will be an overflowing shower in my anger, and great hailstones in wrath to consume it.",
+          "korean": "\"그러므로 주 하나님께서 이렇게 말씀하신다. '내가 분노하여 폭풍을 일으키고 노여움으로 큰 비를 내리고 분노하여 우박을 내려서 멸망시키겠다.\""
+        },
+        {
+          "verse": 14,
+          "original": "So will I break down the wall that you have plastered with whitewash, and bring it down to the ground, so that its foundation will be uncovered. It will fall, and you will be consumed in the middle of it. Then you will know that I am Yahweh.",
+          "korean": "\"내가 너희가 회를 칠한 담을 허물어서 땅에 쓰러뜨리고 그 기초를 드러내겠다. 그것이 무너지면 너희가 그 안에서 죽을 것이다. 그러면 너희가 내가 하나님인 줄 알게 될 것이다.\""
+        },
+        {
+          "verse": 15,
+          "original": "Thus will I accomplish my wrath on the wall, and on those who have plastered it with whitewash. I will tell you, ‘The wall is no more, neither those who plastered it;",
+          "korean": "\"이렇게 담과 그것에 회를 칠한 자들에게 내 분노를 다 쏟겠다. 그리고 너희에게 '담도 없어지고 그것에 회를 칠한 자들도 없어졌다'고 말하겠다.\""
+        },
+        {
+          "verse": 16,
+          "original": "to wit, the prophets of Israel who prophesy concerning Jerusalem, and who see visions of peace for her, and there is no peace,’” says the Lord Yahweh.’”",
+          "korean": "\"그들은 예루살렘에 대해 예언하며 평화가 없는데도 평화의 환상을 보는 이스라엘의 선지자들이다.' 주 하나님의 말씀이다.\""
+        },
+        {
+          "verse": 17,
+          "original": "You, son of man, set your face against the daughters of your people, who prophesy out of their own heart; and prophesy against them,",
+          "korean": "\"사람아, 자기 마음대로 예언하는 네 백성의 딸들을 향해 얼굴을 돌리고 예언하여라.\""
+        },
+        {
+          "verse": 18,
+          "original": "and say, “Thus says the Lord Yahweh: ‘Woe to the women who sew pillows on all elbows, and make kerchiefs for the head of persons of every stature to hunt souls! Will you hunt the souls of my people, and save souls alive for yourselves?",
+          "korean": "\"말하여라. '주 하나님께서 이렇게 말씀하신다. 모든 손목에 마법 띠를 매고 모든 키의 사람들 머리에 수건을 만들어서 사람들의 목숨을 사냥하는 여자들에게 화가 있다! 너희가 내 백성의 목숨을 사냥하면서 자기 목숨은 살리려 하느냐?\""
+        },
+        {
+          "verse": 19,
+          "original": "You have profaned me among my people for handfuls of barley and for pieces of bread, to kill the souls who should not die, and to save the souls alive who should not live, by your lying to my people who listen to lies.’",
+          "korean": "\"너희가 한 줌의 보리와 약간의 빵 조각 때문에 내 백성 앞에서 나를 더럽혔다. 죽지 말아야 할 자들을 죽이고 살지 말아야 할 자들을 살렸다. 거짓말을 듣는 내 백성에게 거짓말을 해서 말이다.'\""
+        },
+        {
+          "verse": 20,
+          "original": "“Therefore thus says the Lord Yahweh: ‘Behold, I am against your pillows, with which you hunt the souls to make them fly, and I will tear them from your arms. I will let the souls go, even the souls whom you hunt to make them fly.",
+          "korean": "\"그러므로 주 하나님께서 이렇게 말씀하신다. '내가 너희의 마법 띠를 대적한다. 너희가 그것으로 목숨을 새처럼 사냥했다. 내가 너희 팔에서 그것을 뜯어내고 너희가 새처럼 사냥한 목숨들을 놓아주겠다.\""
+        },
+        {
+          "verse": 21,
+          "original": "I will also tear your kerchiefs, and deliver my people out of your hand, and they will be no more in your hand to be hunted. Then you will know that I am Yahweh.",
+          "korean": "\"내가 너희의 수건을 찢고 내 백성을 너희 손에서 건져내겠다. 그들이 더 이상 너희 손에 사냥감이 되지 않을 것이다. 그러면 너희가 내가 하나님인 줄 알게 될 것이다.\""
+        },
+        {
+          "verse": 22,
+          "original": "Because with lies you have grieved the heart of the righteous, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, and be saved alive.",
+          "korean": "\"내가 슬프게 하지 않은 의인의 마음을 너희가 거짓말로 슬프게 했다. 또 악한 자의 손을 강하게 해서 그가 악한 길에서 돌이켜 목숨을 구하지 못하게 했다.\""
+        },
+        {
+          "verse": 23,
+          "original": "Therefore you shall no more see false visions, nor practice divination. I will deliver my people out of your hand. Then you will know that I am Yahweh.’”",
+          "korean": "\"그러므로 너희가 더 이상 거짓 환상을 보지 못하고 점술을 하지 못할 것이다. 내가 내 백성을 너희 손에서 건져내겠다. 그러면 너희가 내가 하나님인 줄 알게 될 것이다.'\""
+        }
       ]
     },
     {
       "chapter": 14,
       "verses": [
-        {"verse": 1, "korean": "이스라엘 장로 몇 명이 와서 제 앞에 앉았어요."},
-        {"verse": 2, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 3, "korean": "\"사람아, 이 사람들이 우상을 마음에 품고 죄의 걸림돌을 자기 앞에 두었다. 내가 그들의 물음에 응답해야 하겠느냐?\""},
-        {"verse": 4, "korean": "\"그러므로 그들에게 말하여라. '주 여호와께서 이렇게 말씀하신다. 이스라엘 집의 어느 사람이든지 우상을 마음에 품고 죄의 걸림돌을 자기 앞에 두고 선지자에게 오면 나 여호와가 그의 많은 우상에 따라 대답하겠다.\""},
-        {"verse": 5, "korean": "\"이스라엘 집의 마음을 사로잡으려 함이다. 그들이 모두 우상들 때문에 나에게서 멀어졌기 때문이다.'\""},
-        {"verse": 6, "korean": "\"그러므로 이스라엘 집에게 말하여라. '주 여호와께서 이렇게 말씀하신다. 돌이키고 우상에게서 돌아서라! 모든 가증한 것에서 얼굴을 돌려라.\""},
-        {"verse": 7, "korean": "\"이스라엘 집이든 이스라엘에 사는 외국인이든 나에게서 멀어지고 우상을 마음에 품고 죄의 걸림돌을 자기 앞에 두고 선지자에게 와서 나에게 물으면 나 여호와가 직접 대답하겠다.\""},
-        {"verse": 8, "korean": "\"내가 그 사람에게 대적하여 내 얼굴을 돌리겠다. 그를 표징과 속담거리로 삼고 내 백성 가운데서 끊어버리겠다. 그러면 너희가 내가 여호와인 줄 알게 될 것이다.\""},
-        {"verse": 9, "korean": "\"선지자가 속아서 말을 했다면 나 여호와가 그 선지자를 속인 것이다. 내가 그에게 손을 펴서 내 백성 이스라엘 가운데서 멸망시키겠다.\""},
-        {"verse": 10, "korean": "\"그들이 자기들의 죄를 담당할 것이다. 선지자의 죄와 물은 자의 죄가 같다.\""},
-        {"verse": 11, "korean": "\"그래서 이스라엘 집이 더 이상 나에게서 방황하지 않고 그들의 모든 범죄로 더 이상 더러워지지 않게 하겠다. 그들은 내 백성이 되고 나는 그들의 하나님이 될 것이다.' 주 여호와의 말씀이다.\""},
-        {"verse": 12, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 13, "korean": "\"사람아, 어떤 땅이 나에게 범죄하여 불신실하면 내가 그 위에 손을 펴서 양식을 끊고 기근을 보내어 사람과 짐승을 끊어버리겠다.\""},
-        {"verse": 14, "korean": "\"비록 노아, 다니엘, 욥 이 세 사람이 그 안에 있더라도 그들은 자기의 의로 자기 목숨만 건질 것이다.' 주 여호와의 말씀이다.\""},
-        {"verse": 15, "korean": "\"내가 사나운 짐승들을 그 땅에 지나가게 하여 땅을 황폐하게 하고 짐승들 때문에 아무도 지나가지 못하게 한다면\""},
-        {"verse": 16, "korean": "\"비록 이 세 사람이 그 안에 있더라도' 주 여호와의 말씀이다 '내가 살아 있는 한 그들이 아들이나 딸도 건지지 못하고 자기들만 건질 것이다. 땅은 황폐해질 것이다.\""},
-        {"verse": 17, "korean": "\"또는 내가 그 땅에 칼을 가져와서 '칼아, 땅을 지나가라'고 말하여 사람과 짐승을 끊어버린다면\""},
-        {"verse": 18, "korean": "\"비록 이 세 사람이 그 안에 있더라도' 주 여호와의 말씀이다 '내가 살아 있는 한 그들이 아들이나 딸도 건지지 못하고 자기들만 건질 것이다.\""},
-        {"verse": 19, "korean": "\"또는 내가 그 땅에 전염병을 보내고 피로 분노를 쏟아 사람과 짐승을 끊어버린다면\""},
-        {"verse": 20, "korean": "\"비록 노아, 다니엘, 욥이 그 안에 있더라도' 주 여호와의 말씀이다 '내가 살아 있는 한 그들이 아들이나 딸도 건지지 못하고 자기의 의로 자기 목숨만 건질 것이다.'\""},
-        {"verse": 21, "korean": "\"주 여호와께서 이렇게 말씀하신다. '내가 예루살렘에 네 가지 혹독한 심판, 곧 칼, 기근, 사나운 짐승, 전염병을 보내어 사람과 짐승을 끊어버리면 얼마나 더하겠느냐!\""},
-        {"verse": 22, "korean": "\"그러나 그 안에 남은 자들이 있어서 아들딸들이 끌려 나올 것이다. 그들이 너희에게 와서 너희가 그들의 행실을 볼 때 너희가 내가 예루살렘에 내린 모든 재앙에 대해 위로를 받을 것이다.\""},
-        {"verse": 23, "korean": "\"그들의 행실을 볼 때 너희가 위로를 받을 것이다. 그러면 내가 예루살렘에 행한 모든 것이 까닭 없이 한 것이 아님을 알게 될 것이다.' 주 여호와의 말씀이다.\""}
+        {
+          "verse": 1,
+          "original": "Then some of the elders of Israel came to me, and sat before me.",
+          "korean": "이스라엘 장로 몇 명이 와서 제 앞에 앉았어요."
+        },
+        {
+          "verse": 2,
+          "original": "Yahweh’s word came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 3,
+          "original": "“Son of man, these men have taken their idols into their heart, and put the stumbling block of their iniquity before their face. Should I be inquired of at all by them?",
+          "korean": "\"사람아, 이 사람들이 우상을 마음에 품고 죄의 걸림돌을 자기 앞에 두었다. 내가 그들의 물음에 응답해야 하겠느냐?\""
+        },
+        {
+          "verse": 4,
+          "original": "Therefore speak to them, and tell them, ‘Thus says the Lord Yahweh: “Every man of the house of Israel who takes his idols into his heart, and puts the stumbling block of his iniquity before his face, and comes to the prophet; I Yahweh will answer him therein according to the multitude of his idols;",
+          "korean": "\"그러므로 그들에게 말하여라. '주 하나님께서 이렇게 말씀하신다. 이스라엘 집의 어느 사람이든지 우상을 마음에 품고 죄의 걸림돌을 자기 앞에 두고 선지자에게 오면 나 하나님가 그의 많은 우상에 따라 대답하겠다.\""
+        },
+        {
+          "verse": 5,
+          "original": "that I may take the house of Israel in their own heart, because they are all estranged from me through their idols.”’",
+          "korean": "\"이스라엘 집의 마음을 사로잡으려 함이다. 그들이 모두 우상들 때문에 나에게서 멀어졌기 때문이다.'\""
+        },
+        {
+          "verse": 6,
+          "original": "“Therefore tell the house of Israel, ‘Thus says the Lord Yahweh: “Return, and turn yourselves from your idols! Turn away your faces from all your abominations.",
+          "korean": "\"그러므로 이스라엘 집에게 말하여라. '주 하나님께서 이렇게 말씀하신다. 돌이키고 우상에게서 돌아서라! 모든 가증한 것에서 얼굴을 돌려라.\""
+        },
+        {
+          "verse": 7,
+          "original": "“‘“For everyone of the house of Israel, or of the strangers who live in Israel, who separates himself from me, and takes his idols into his heart, and puts the stumbling block of his iniquity before his face, and comes to the prophet to inquire for himself of me; I Yahweh will answer him by myself.",
+          "korean": "\"이스라엘 집이든 이스라엘에 사는 외국인이든 나에게서 멀어지고 우상을 마음에 품고 죄의 걸림돌을 자기 앞에 두고 선지자에게 와서 나에게 물으면 나 하나님가 직접 대답하겠다.\""
+        },
+        {
+          "verse": 8,
+          "original": "I will set my face against that man, and will make him an astonishment, for a sign and a proverb, and I will cut him off from among my people. Then you will know that I am Yahweh.",
+          "korean": "\"내가 그 사람에게 대적하여 내 얼굴을 돌리겠다. 그를 표징과 속담거리로 삼고 내 백성 가운데서 끊어버리겠다. 그러면 너희가 내가 하나님인 줄 알게 될 것이다.\""
+        },
+        {
+          "verse": 9,
+          "original": "“‘“If the prophet is deceived and speaks a word, I, Yahweh, have deceived that prophet, and I will stretch out my hand on him, and will destroy him from among my people Israel.",
+          "korean": "\"선지자가 속아서 말을 했다면 나 하나님가 그 선지자를 속인 것이다. 내가 그에게 손을 펴서 내 백성 이스라엘 가운데서 멸망시키겠다.\""
+        },
+        {
+          "verse": 10,
+          "original": "They will bear their iniquity. The iniquity of the prophet will be even as the iniquity of him who seeks him;",
+          "korean": "\"그들이 자기들의 죄를 담당할 것이다. 선지자의 죄와 물은 자의 죄가 같다.\""
+        },
+        {
+          "verse": 11,
+          "original": "that the house of Israel may no more go astray from me, neither defile themselves any more with all their transgressions; but that they may be my people, and I may be their God,” says the Lord Yahweh.’”",
+          "korean": "\"그래서 이스라엘 집이 더 이상 나에게서 방황하지 않고 그들의 모든 범죄로 더 이상 더러워지지 않게 하겠다. 그들은 내 백성이 되고 나는 그들의 하나님이 될 것이다.' 주 하나님의 말씀이다.\""
+        },
+        {
+          "verse": 12,
+          "original": "Yahweh’s word came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 13,
+          "original": "“Son of man, when a land sins against me by committing a trespass, and I stretch out my hand on it, and break the staff of its bread, and send famine on it, and cut off from it man and animal;",
+          "korean": "\"사람아, 어떤 땅이 나에게 범죄하여 불신실하면 내가 그 위에 손을 펴서 양식을 끊고 기근을 보내어 사람과 짐승을 끊어버리겠다.\""
+        },
+        {
+          "verse": 14,
+          "original": "though these three men, Noah, Daniel, and Job, were in it, they would deliver only their own souls by their righteousness,” says the Lord Yahweh.",
+          "korean": "\"비록 노아, 다니엘, 욥 이 세 사람이 그 안에 있더라도 그들은 자기의 의로 자기 목숨만 건질 것이다.' 주 하나님의 말씀이다.\""
+        },
+        {
+          "verse": 15,
+          "original": "“If I cause evil animals to pass through the land, and they ravage it, and it is made desolate, so that no man may pass through because of the animals;",
+          "korean": "\"내가 사나운 짐승들을 그 땅에 지나가게 하여 땅을 황폐하게 하고 짐승들 때문에 아무도 지나가지 못하게 한다면\""
+        },
+        {
+          "verse": 16,
+          "original": "though these three men were in it, as I live,” says the Lord Yahweh, “they would deliver neither sons nor daughters. They only would be delivered, but the land would be desolate.",
+          "korean": "\"비록 이 세 사람이 그 안에 있더라도' 주 하나님의 말씀이다 '내가 살아 있는 한 그들이 아들이나 딸도 건지지 못하고 자기들만 건질 것이다. 땅은 황폐해질 것이다.\""
+        },
+        {
+          "verse": 17,
+          "original": "“Or if I bring a sword on that land, and say, ‘Sword, go through the land; so that I cut off from it man and animal;’",
+          "korean": "\"또는 내가 그 땅에 칼을 가져와서 '칼아, 땅을 지나가라'고 말하여 사람과 짐승을 끊어버린다면\""
+        },
+        {
+          "verse": 18,
+          "original": "though these three men were in it, as I live,” says the Lord Yahweh, “they would deliver neither sons nor daughters, but they only would be delivered themselves.",
+          "korean": "\"비록 이 세 사람이 그 안에 있더라도' 주 하나님의 말씀이다 '내가 살아 있는 한 그들이 아들이나 딸도 건지지 못하고 자기들만 건질 것이다.\""
+        },
+        {
+          "verse": 19,
+          "original": "“Or if I send a pestilence into that land, and pour out my wrath on it in blood, to cut off from it man and animal;",
+          "korean": "\"또는 내가 그 땅에 전염병을 보내고 피로 분노를 쏟아 사람과 짐승을 끊어버린다면\""
+        },
+        {
+          "verse": 20,
+          "original": "though Noah, Daniel, and Job, were in it, as I live,” says the Lord Yahweh, “they would deliver neither son nor daughter; they would deliver only their own souls by their righteousness.”",
+          "korean": "\"비록 노아, 다니엘, 욥이 그 안에 있더라도' 주 하나님의 말씀이다 '내가 살아 있는 한 그들이 아들이나 딸도 건지지 못하고 자기의 의로 자기 목숨만 건질 것이다.'\""
+        },
+        {
+          "verse": 21,
+          "original": "For thus says the Lord Yahweh: “How much more when I send my four severe judgments on Jerusalem, the sword, the famine, the evil animals, and the pestilence, to cut off from it man and animal!",
+          "korean": "\"주 하나님께서 이렇게 말씀하신다. '내가 예루살렘에 네 가지 혹독한 심판, 곧 칼, 기근, 사나운 짐승, 전염병을 보내어 사람과 짐승을 끊어버리면 얼마나 더하겠느냐!\""
+        },
+        {
+          "verse": 22,
+          "original": "Yet, behold, there will be left a remnant in it that will be carried out, both sons and daughters. Behold, they will come out to you, and you will see their way and their doings. Then you will be comforted concerning the evil that I have brought on Jerusalem, even concerning all that I have brought on it.",
+          "korean": "\"그러나 그 안에 남은 자들이 있어서 아들딸들이 끌려 나올 것이다. 그들이 너희에게 와서 너희가 그들의 행실을 볼 때 너희가 내가 예루살렘에 내린 모든 재앙에 대해 위로를 받을 것이다.\""
+        },
+        {
+          "verse": 23,
+          "original": "They will comfort you, when you see their way and their doings; then you will know that I have not done all that I have done in it without cause,” says the Lord Yahweh.",
+          "korean": "\"그들의 행실을 볼 때 너희가 위로를 받을 것이다. 그러면 내가 예루살렘에 행한 모든 것이 까닭 없이 한 것이 아님을 알게 될 것이다.' 주 하나님의 말씀이다.\""
+        }
       ]
     },
     {
       "chapter": 15,
       "verses": [
-        {"verse": 1, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 2, "korean": "\"사람아, 포도나무가 숲 속의 다른 나무들보다 무엇이 나으냐?"},
-        {"verse": 3, "korean": "\"그 나무로 무엇을 만들 수 있느냐? 그것으로 무엇이든 걸어 둘 못을 만들 수 있느냐?"},
-        {"verse": 4, "korean": "\"그것을 불에 땔감으로 던지면 불이 양쪽 끝을 태우고 가운데도 탄다. 그러면 무슨 일에 쓸 수 있겠느냐?"},
-        {"verse": 5, "korean": "\"온전할 때도 아무것에도 쓸모없었는데 불에 타고 그을린 후에 무슨 일에 쓸 수 있겠느냐?\""},
-        {"verse": 6, "korean": "\"그러므로 주 여호와께서 이렇게 말씀하신다. '내가 숲 속의 나무들 가운데 포도나무를 땔감으로 주었듯이 예루살렘 주민들도 그렇게 주겠다.\""},
-        {"verse": 7, "korean": "\"내가 그들에게 대적하여 내 얼굴을 돌리겠다. 그들이 불에서 나왔지만 불이 그들을 삼킬 것이다. 내가 그들에게 대적하여 내 얼굴을 돌릴 때 너희가 내가 여호와인 줄 알게 될 것이다.\""},
-        {"verse": 8, "korean": "\"그들이 불신실하게 행했으므로 내가 그 땅을 황폐하게 만들겠다.' 주 여호와의 말씀이다.\""}
+        {
+          "verse": 1,
+          "original": "Yahweh’s word came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 2,
+          "original": "“Son of man, what is the vine tree more than any tree, the vine-branch which is among the trees of the forest?",
+          "korean": "\"사람아, 포도나무가 숲 속의 다른 나무들보다 무엇이 나으냐?"
+        },
+        {
+          "verse": 3,
+          "original": "Will wood be taken of it to make anything? Will men take a pin of it to hang any vessel on it?",
+          "korean": "\"그 나무로 무엇을 만들 수 있느냐? 그것으로 무엇이든 걸어 둘 못을 만들 수 있느냐?"
+        },
+        {
+          "verse": 4,
+          "original": "Behold, it is cast into the fire for fuel; the fire has devoured both its ends, and the middle of it is burned. Is it profitable for any work?",
+          "korean": "\"그것을 불에 땔감으로 던지면 불이 양쪽 끝을 태우고 가운데도 탄다. 그러면 무슨 일에 쓸 수 있겠느냐?"
+        },
+        {
+          "verse": 5,
+          "original": "Behold, when it was whole, it was suitable for no work. How much less, when the fire has devoured it, and it has been burned, will it yet be suitable for any work?”",
+          "korean": "\"온전할 때도 아무것에도 쓸모없었는데 불에 타고 그을린 후에 무슨 일에 쓸 수 있겠느냐?\""
+        },
+        {
+          "verse": 6,
+          "original": "Therefore thus says the Lord Yahweh: “As the vine tree among the trees of the forest, which I have given to the fire for fuel, so I will give the inhabitants of Jerusalem.",
+          "korean": "\"그러므로 주 하나님께서 이렇게 말씀하신다. '내가 숲 속의 나무들 가운데 포도나무를 땔감으로 주었듯이 예루살렘 주민들도 그렇게 주겠다.\""
+        },
+        {
+          "verse": 7,
+          "original": "I will set my face against them. They will go out from the fire, but the fire will devour them. Then you will know that I am Yahweh, when I set my face against them.",
+          "korean": "\"내가 그들에게 대적하여 내 얼굴을 돌리겠다. 그들이 불에서 나왔지만 불이 그들을 삼킬 것이다. 내가 그들에게 대적하여 내 얼굴을 돌릴 때 너희가 내가 하나님인 줄 알게 될 것이다.\""
+        },
+        {
+          "verse": 8,
+          "original": "I will make the land desolate, because they have committed a trespass,” says the Lord Yahweh.",
+          "korean": "\"그들이 불신실하게 행했으므로 내가 그 땅을 황폐하게 만들겠다.' 주 하나님의 말씀이다.\""
+        }
       ]
     },
     {
       "chapter": 16,
       "verses": [
-        {"verse": 1, "korean": "여호와의 말씀이 제게 임했어요."},
-        {"verse": 2, "korean": "\"사람아, 예루살렘에게 그녀의 가증한 일들을 알게 하여라.\""},
-        {"verse": 3, "korean": "\"말하여라. '주 여호와께서 예루살렘에게 이렇게 말씀하신다. 네 근본과 출생은 가나안 땅에서 났다. 네 아버지는 아모리 사람이요 네 어머니는 헷 사람이다.\""},
-        {"verse": 4, "korean": "\"네가 태어난 날 탯줄을 자르지 않았다. 물로 씻기지도 않았다. 소금을 뿌리지도 않았고 강보에 싸지도 않았다.\""},
-        {"verse": 5, "korean": "\"아무도 너를 불쌍히 여기지 않았다. 네가 태어난 날 밖 들에 버려졌다. 너를 싫어했기 때문이다.\""},
-        {"verse": 6, "korean": "\"내가 네 곁을 지나갈 때 네가 피 속에서 뒹굴고 있는 것을 보았다. 나는 피 속에 있는 네게 '살아라!' 하고 말했다. '피 속에 있어도 살아라!' 하고 말했다.\""},
-        {"verse": 7, "korean": "\"내가 너를 들의 싹처럼 많이 자라게 했다. 네가 자라고 커져서 아름답게 되었다. 그러나 너는 여전히 벌거벗고 있었다.\""},
-        {"verse": 8, "korean": "\"내가 다시 네 곁을 지나갈 때 너를 보니 네가 사랑받을 때가 되었다. 내가 내 옷자락을 펴서 너를 덮고 네 벌거벗음을 가렸다. 나는 네게 맹세하고 너와 언약을 맺었다.' 주 여호와의 말씀이다. '그래서 네가 내 것이 되었다.\""},
-        {"verse": 9, "korean": "\"내가 물로 너를 씻고 네 피를 씻어내고 기름을 발랐다.\""},
-        {"verse": 10, "korean": "\"수놓은 옷을 입히고 좋은 가죽 신을 신기고 고운 모시로 감싸고 비단으로 덮었다.\""},
-        {"verse": 11, "korean": "\"장식품으로 꾸미고 네 팔에 팔찌를 채우고 네 목에 목걸이를 걸었다.\""},
-        {"verse": 12, "korean": "\"네 코에 코걸이를 달고 네 귀에 귀걸이를 달고 네 머리에 아름다운 관을 씌웠다.\""},
-        {"verse": 13, "korean": "\"이렇게 네가 금과 은으로 꾸며졌다. 네 옷은 고운 모시, 비단, 수놓은 것이었다. 고운 밀가루와 꿀과 기름을 먹었다. 네가 아주 아름다워져서 왕비가 되었다.\""},
-        {"verse": 14, "korean": "\"네 아름다움 때문에 네 이름이 나라들에 퍼졌다. 내가 네게 입힌 영화로 네 아름다움이 완전했기 때문이다.' 주 여호와의 말씀이다.\""},
-        {"verse": 15, "korean": "\"그러나 네가 네 아름다움을 믿고 네 이름 때문에 음란하게 행했다. 지나가는 모든 사람에게 음란을 쏟아부었다.\""},
-        {"verse": 16, "korean": "\"네 옷을 가져다가 여러 색으로 산당을 만들어 꾸미고 그 위에서 음란하게 행했다. 이런 일은 있어서도 안 되고 앞으로도 있어서는 안 될 일이다.\""},
-        {"verse": 17, "korean": "\"내가 네게 준 금과 은으로 된 아름다운 장식품을 가져다가 남자 우상들을 만들어 그것들과 음란하게 행했다.\""},
-        {"verse": 18, "korean": "\"네 수놓은 옷을 가져다가 그것들에게 입히고 내 기름과 향을 그것들 앞에 놓았다.\""},
-        {"verse": 19, "korean": "\"내가 네게 준 음식 곧 고운 밀가루와 기름과 꿀도 향기로운 제물로 그것들 앞에 놓았다. 그렇게 되었다.' 주 여호와의 말씀이다.\""},
-        {"verse": 20, "korean": "\"또 네가 나에게서 낳은 아들딸들을 그것들에게 바쳐서 먹히게 했다. 네 음란함이 작은 일이냐?\""},
-        {"verse": 21, "korean": "\"네가 내 자녀들을 죽여서 그것들에게 불로 지나가게 바쳤다.\""},
-        {"verse": 22, "korean": "\"네 모든 가증한 일과 음란 가운데서 네가 어렸을 때를, 벌거벗고 헐벗고 피 속에서 뒹굴던 때를 기억하지 않았다.\""},
-        {"verse": 23, "korean": "\"네 모든 악행 후에 - 화가 있다, 네게 화가 있다!' 주 여호와의 말씀이다 -\""},
-        {"verse": 24, "korean": "\"네가 모든 거리에 높은 곳을 만들었다.\""},
-        {"verse": 25, "korean": "\"네가 모든 길 어귀에 높은 곳을 지어 네 아름다움을 가증하게 만들었다. 지나가는 모든 사람에게 다리를 벌리고 음란을 더했다.\""},
-        {"verse": 26, "korean": "\"네가 이웃 이집트 사람들과 음란하게 행했다. 그들은 육욕이 큰 자들이다. 네가 음란을 더해서 나를 노하게 했다.\""},
-        {"verse": 27, "korean": "\"그러므로 내가 네 위에 손을 펴서 네 몫을 줄이고 너를 미워하는 블레셋 딸들의 마음대로 하게 했다. 그들도 네 음란한 행실을 부끄러워한다.\""},
-        {"verse": 28, "korean": "\"네가 만족하지 못해서 앗시리아 사람들과도 음란하게 행했다. 그렇게 해도 만족하지 못했다.\""},
-        {"verse": 29, "korean": "\"네가 바벨론, 상인의 땅까지 음란을 더했다. 그래도 만족하지 못했다.\""},
-        {"verse": 30, "korean": "\"주 여호와의 말씀이다. '네 마음이 얼마나 약한가! 네가 뻔뻔한 여자처럼 이 모든 일을 행했다.\""},
-        {"verse": 31, "korean": "\"네가 모든 길 어귀에 높은 곳을 짓고 모든 거리에 산당을 만들었다. 그런데 삯을 거절하니 창녀와도 다르구나.\""},
-        {"verse": 32, "korean": "\"남편 대신 다른 남자들을 받아들이는 음란한 아내여!\""},
-        {"verse": 33, "korean": "\"사람들은 모든 창녀에게 선물을 준다. 그런데 네가 오히려 모든 연인들에게 선물을 주어 사방에서 너에게 오게 했다.\""},
-        {"verse": 34, "korean": "\"네가 다른 여자들과 반대로 했다. 아무도 너를 따라와서 음란하게 하지 않았는데 네가 삯을 주고 삯을 받지 않았다. 그래서 네가 다른 여자들과 다르다.'\""},
-        {"verse": 35, "korean": "\"그러므로 창녀야, 여호와의 말씀을 들어라.\""},
-        {"verse": 36, "korean": "\"주 여호와께서 이렇게 말씀하신다. '네가 네 연인들과 음란하면서 네 더러움을 쏟아냈고 네 모든 가증한 우상들에게, 또 그것들에게 바친 네 자녀들의 피 때문에\""},
-        {"verse": 37, "korean": "\"내가 네가 기뻐한 모든 연인들, 네가 사랑한 모든 자와 네가 미워한 모든 자를 모으겠다. 내가 그들을 사방에서 모아 네게 대적하게 하고 네 벌거벗음을 그들에게 드러내겠다.\""},
-        {"verse": 38, "korean": "\"내가 간음한 여자와 피를 흘린 여자에게 행하듯이 너를 심판하겠다. 분노와 질투의 피를 네게 쏟겠다.\""},
-        {"verse": 39, "korean": "\"내가 너를 그들의 손에 넘기겠다. 그들이 네 높은 곳을 허물고 산당을 헐 것이다. 네 옷을 벗기고 네 아름다운 장식품을 빼앗아 벌거벗고 헐벗게 내버려둘 것이다.\""},
-        {"verse": 40, "korean": "\"그들이 무리를 모아 돌로 치고 칼로 베어 버릴 것이다.\""},
-        {"verse": 41, "korean": "\"네 집을 불로 태우고 많은 여자들이 보는 앞에서 심판을 집행할 것이다. 내가 네 음란을 그치게 하고 네가 더 이상 삯을 주지 못하게 하겠다.\""},
-        {"verse": 42, "korean": "\"내가 네게 대한 내 분노를 풀고 내 질투가 네게서 떠나겠다. 내가 조용해지고 더 이상 화내지 않겠다.\""},
-        {"verse": 43, "korean": "\"네가 네 어린 시절을 기억하지 않고 이 모든 일로 나를 격분하게 했으므로 내가 네 행실을 네 머리에 돌려주겠다.' 주 여호와의 말씀이다. '그래서 네가 모든 가증한 일에 더해 이 음란을 행하지 못하게 하겠다.\""},
-        {"verse": 44, "korean": "\"속담하는 자들이 '그 어머니에 그 딸이로다'라고 네게 속담할 것이다.\""},
-        {"verse": 45, "korean": "\"네가 네 어머니의 딸이다. 네 어머니는 남편과 자녀를 싫어했다. 네가 네 자매들의 자매다. 그들도 남편과 자녀를 싫어했다. 네 어머니는 헷 사람이요 네 아버지는 아모리 사람이다.\""},
-        {"verse": 46, "korean": "\"네 언니는 사마리아인데 네 왼쪽에서 딸들과 함께 산다. 네 동생은 소돔인데 네 오른쪽에서 딸들과 함께 산다.\""},
-        {"verse": 47, "korean": "\"네가 그들의 길로 행하고 그들의 가증한 일을 따르는 것만으로도 부족해서 곧 모든 길에서 그들보다 더 악해졌다.\""},
-        {"verse": 48, "korean": "\"주 여호와의 말씀이다. '내가 살아 있는 한, 네 동생 소돔과 그 딸들이 너와 네 딸들이 행한 것처럼 행하지 않았다.\""},
-        {"verse": 49, "korean": "\"네 동생 소돔의 죄는 이것이다. 그녀와 그 딸들이 교만하고 양식이 풍족하고 편안했지만 가난하고 궁핍한 자를 돌보지 않았다.\""},
-        {"verse": 50, "korean": "\"그들이 교만하여 내 앞에서 가증한 일을 행했다. 그래서 내가 보고 그들을 제거했다.\""},
-        {"verse": 51, "korean": "\"사마리아는 네 죄의 반도 짓지 않았다. 네가 그들보다 더 많은 가증한 일을 행해서 네 모든 가증한 일로 네 자매들이 의롭게 보이게 했다.\""},
-        {"verse": 52, "korean": "\"네가 네 자매들을 변호했으니 네 수치를 담당해라. 네가 그들보다 더 가증한 죄를 범했으므로 그들이 너보다 의롭다. 네가 네 자매들을 의롭게 만들었으니 부끄러워하고 네 수치를 담당해라.\""},
-        {"verse": 53, "korean": "\"내가 그들의 운명을 회복시키겠다. 소돔과 그 딸들의 운명, 사마리아와 그 딸들의 운명, 그리고 그들 가운데 있는 네 운명도 회복시키겠다.\""},
-        {"verse": 54, "korean": "\"네가 네 수치를 담당하고 네가 행한 모든 일 때문에 부끄러워할 것이다. 네가 그들에게 위로가 되었기 때문이다.\""},
-        {"verse": 55, "korean": "\"네 자매들 소돔과 그 딸들이 이전 상태로 돌아가고 사마리아와 그 딸들도 이전 상태로 돌아갈 것이다. 너와 네 딸들도 이전 상태로 돌아갈 것이다.\""},
-        {"verse": 56, "korean": "\"네가 교만할 때 네 입에 네 동생 소돔을 올리지 않았느냐?\""},
-        {"verse": 57, "korean": "\"네 악이 드러나기 전에 말이다. 시리아 딸들과 그 주위의 모든 자들, 네 사방에서 너를 멸시하는 블레셋 딸들에게 수치를 당했을 때처럼 되었다.\""},
-        {"verse": 58, "korean": "\"네가 네 음란과 가증한 일을 담당했다.' 여호와의 말씀이다.\""},
-        {"verse": 59, "korean": "\"주 여호와께서 이렇게 말씀하신다. '내가 네게 행한 대로 너에게 행하겠다. 네가 맹세를 무시하고 언약을 깨뜨렸기 때문이다.\""},
-        {"verse": 60, "korean": "\"그러나 내가 네 어린 시절에 너와 맺은 언약을 기억하고 너와 영원한 언약을 세우겠다.\""},
-        {"verse": 61, "korean": "\"네가 네 언니들과 동생들을 받을 때 네 길을 기억하고 부끄러워할 것이다. 내가 그들을 네게 딸들로 주겠다. 그러나 네 언약에서가 아니다.\""},
-        {"verse": 62, "korean": "\"내가 너와 언약을 세우겠다. 그러면 네가 내가 여호와인 줄 알게 될 것이다.\""},
-        {"verse": 63, "korean": "\"내가 네가 행한 모든 일을 용서할 때 네가 기억하고 부끄러워하며 수치 때문에 다시는 입을 열지 못할 것이다.' 주 여호와의 말씀이다.\""}
+        {
+          "verse": 1,
+          "original": "Again Yahweh’s word came to me, saying,",
+          "korean": "하나님의 말씀이 제게 임했어요."
+        },
+        {
+          "verse": 2,
+          "original": "“Son of man, cause Jerusalem to know her abominations;",
+          "korean": "\"사람아, 예루살렘에게 그녀의 가증한 일들을 알게 하여라.\""
+        },
+        {
+          "verse": 3,
+          "original": "and say, ‘Thus says the Lord Yahweh to Jerusalem: “Your origin and your birth is of the land of the Canaanite. An Amorite was your father, and your mother was a Hittite.",
+          "korean": "\"말하여라. '주 하나님께서 예루살렘에게 이렇게 말씀하신다. 네 근본과 출생은 가나안 땅에서 났다. 네 아버지는 아모리 사람이요 네 어머니는 헷 사람이다.\""
+        },
+        {
+          "verse": 4,
+          "original": "As for your birth, in the day you were born your navel was not cut. You weren’t washed in water to cleanse you. You weren’t salted at all, nor swaddled at all.",
+          "korean": "\"네가 태어난 날 탯줄을 자르지 않았다. 물로 씻기지도 않았다. 소금을 뿌리지도 않았고 강보에 싸지도 않았다.\""
+        },
+        {
+          "verse": 5,
+          "original": "No eye pitied you, to do any of these things to you, to have compassion on you; but you were cast out in the open field, because you were abhorred in the day that you were born.",
+          "korean": "\"아무도 너를 불쌍히 여기지 않았다. 네가 태어난 날 밖 들에 버려졌다. 너를 싫어했기 때문이다.\""
+        },
+        {
+          "verse": 6,
+          "original": "“‘“When I passed by you, and saw you wallowing in your blood, I said to you, ‘Though you are in your blood, live!’ Yes, I said to you, ‘Though you are in your blood, live!’",
+          "korean": "\"내가 네 곁을 지나갈 때 네가 피 속에서 뒹굴고 있는 것을 보았다. 나는 피 속에 있는 네게 '살아라!' 하고 말했다. '피 속에 있어도 살아라!' 하고 말했다.\""
+        },
+        {
+          "verse": 7,
+          "original": "I caused you to multiply as that which grows in the field, and you increased and grew great, and you attained to excellent ornament. Your breasts were formed, and your hair grew; yet you were naked and bare.",
+          "korean": "\"내가 너를 들의 싹처럼 많이 자라게 했다. 네가 자라고 커져서 아름답게 되었다. 그러나 너는 여전히 벌거벗고 있었다.\""
+        },
+        {
+          "verse": 8,
+          "original": "“‘“Now when I passed by you, and looked at you, behold, your time was the time of love; and I spread my skirt over you, and covered your nakedness. Yes, I swore to you, and entered into a covenant with you,” says the Lord Yahweh, “and you became mine.",
+          "korean": "\"내가 다시 네 곁을 지나갈 때 너를 보니 네가 사랑받을 때가 되었다. 내가 내 옷자락을 펴서 너를 덮고 네 벌거벗음을 가렸다. 나는 네게 맹세하고 너와 언약을 맺었다.' 주 하나님의 말씀이다. '그래서 네가 내 것이 되었다.\""
+        },
+        {
+          "verse": 9,
+          "original": "“‘“Then washed I you with water. Yes, I thoroughly washed away your blood from you, and I anointed you with oil.",
+          "korean": "\"내가 물로 너를 씻고 네 피를 씻어내고 기름을 발랐다.\""
+        },
+        {
+          "verse": 10,
+          "original": "I clothed you also with embroidered work, and put sealskin shoes on you. I dressed you with fine linen and covered you with silk.",
+          "korean": "\"수놓은 옷을 입히고 좋은 가죽 신을 신기고 고운 모시로 감싸고 비단으로 덮었다.\""
+        },
+        {
+          "verse": 11,
+          "original": "I decked you with ornaments. put bracelets on your hands, and a chain on your neck.",
+          "korean": "\"장식품으로 꾸미고 네 팔에 팔찌를 채우고 네 목에 목걸이를 걸었다.\""
+        },
+        {
+          "verse": 12,
+          "original": "I put a ring on your nose, and earrings in your ears, and a beautiful crown on your head.",
+          "korean": "\"네 코에 코걸이를 달고 네 귀에 귀걸이를 달고 네 머리에 아름다운 관을 씌웠다.\""
+        },
+        {
+          "verse": 13,
+          "original": "Thus you were decked with gold and silver. Your clothing was of fine linen, silk, and embroidered work. You ate fine flour, honey, and oil. You were exceedingly beautiful, and you prospered to royal estate.",
+          "korean": "\"이렇게 네가 금과 은으로 꾸며졌다. 네 옷은 고운 모시, 비단, 수놓은 것이었다. 고운 밀가루와 꿀과 기름을 먹었다. 네가 아주 아름다워져서 왕비가 되었다.\""
+        },
+        {
+          "verse": 14,
+          "original": "Your renown went out among the nations for your beauty; for it was perfect, through my majesty which I had put on you,” says the Lord Yahweh.",
+          "korean": "\"네 아름다움 때문에 네 이름이 나라들에 퍼졌다. 내가 네게 입힌 영화로 네 아름다움이 완전했기 때문이다.' 주 하나님의 말씀이다.\""
+        },
+        {
+          "verse": 15,
+          "original": "“‘“But you trusted in your beauty, and played the prostitute because of your renown, and poured out your prostitution on everyone who passed by. It was his.",
+          "korean": "\"그러나 네가 네 아름다움을 믿고 네 이름 때문에 음란하게 행했다. 지나가는 모든 사람에게 음란을 쏟아부었다.\""
+        },
+        {
+          "verse": 16,
+          "original": "You took some of your garments, and made for yourselves high places decked with various colors, and played the prostitute on them. This shall not happen, neither shall it be.",
+          "korean": "\"네 옷을 가져다가 여러 색으로 산당을 만들어 꾸미고 그 위에서 음란하게 행했다. 이런 일은 있어서도 안 되고 앞으로도 있어서는 안 될 일이다.\""
+        },
+        {
+          "verse": 17,
+          "original": "You also took your beautiful jewels of my gold and of my silver, which I had given you, and made for yourself images of men, and played the prostitute with them.",
+          "korean": "\"내가 네게 준 금과 은으로 된 아름다운 장식품을 가져다가 남자 우상들을 만들어 그것들과 음란하게 행했다.\""
+        },
+        {
+          "verse": 18,
+          "original": "You took your embroidered garments, covered them, and set my oil and my incense before them.",
+          "korean": "\"네 수놓은 옷을 가져다가 그것들에게 입히고 내 기름과 향을 그것들 앞에 놓았다.\""
+        },
+        {
+          "verse": 19,
+          "original": "My bread also which I gave you, fine flour, oil, and honey, with which I fed you, you even set it before them for a pleasant aroma; and so it was,” says the Lord Yahweh.",
+          "korean": "\"내가 네게 준 음식 곧 고운 밀가루와 기름과 꿀도 향기로운 제물로 그것들 앞에 놓았다. 그렇게 되었다.' 주 하나님의 말씀이다.\""
+        },
+        {
+          "verse": 20,
+          "original": "“‘“Moreover you have taken your sons and your daughters, whom you have borne to me, and you have sacrificed these to them to be devoured. Was your prostitution a small matter,",
+          "korean": "\"또 네가 나에게서 낳은 아들딸들을 그것들에게 바쳐서 먹히게 했다. 네 음란함이 작은 일이냐?\""
+        },
+        {
+          "verse": 21,
+          "original": "that you have slain my children, and delivered them up, in causing them to pass through the fire to them?",
+          "korean": "\"네가 내 자녀들을 죽여서 그것들에게 불로 지나가게 바쳤다.\""
+        },
+        {
+          "verse": 22,
+          "original": "In all your abominations and your prostitution you have not remembered the days of your youth, when you were naked and bare, and were wallowing in your blood.",
+          "korean": "\"네 모든 가증한 일과 음란 가운데서 네가 어렸을 때를, 벌거벗고 헐벗고 피 속에서 뒹굴던 때를 기억하지 않았다.\""
+        },
+        {
+          "verse": 23,
+          "original": "“‘“It has happened after all your wickedness. Woe, woe to you!” says the Lord Yahweh,",
+          "korean": "\"네 모든 악행 후에 - 화가 있다, 네게 화가 있다!' 주 하나님의 말씀이다 -\""
+        },
+        {
+          "verse": 24,
+          "original": "“that you have built for yourselves a vaulted place, and have made yourselves a lofty place in every street.",
+          "korean": "\"네가 모든 거리에 높은 곳을 만들었다.\""
+        },
+        {
+          "verse": 25,
+          "original": "You have built your lofty place at the head of every way, and have made your beauty an abomination, and have opened your feet to everyone who passed by, and multiplied your prostitution.",
+          "korean": "\"네가 모든 길 어귀에 높은 곳을 지어 네 아름다움을 가증하게 만들었다. 지나가는 모든 사람에게 다리를 벌리고 음란을 더했다.\""
+        },
+        {
+          "verse": 26,
+          "original": "You have also committed sexual immorality with the Egyptians, your neighbors, great of flesh; and have multiplied your prostitution, to provoke me to anger.",
+          "korean": "\"네가 이웃 이집트 사람들과 음란하게 행했다. 그들은 육욕이 큰 자들이다. 네가 음란을 더해서 나를 노하게 했다.\""
+        },
+        {
+          "verse": 27,
+          "original": "See therefore, I have stretched out my hand over you, and have diminished your portion, and delivered you to the will of those who hate you, the daughters of the Philistines, who are ashamed of your lewd way.",
+          "korean": "\"그러므로 내가 네 위에 손을 펴서 네 몫을 줄이고 너를 미워하는 블레셋 딸들의 마음대로 하게 했다. 그들도 네 음란한 행실을 부끄러워한다.\""
+        },
+        {
+          "verse": 28,
+          "original": "You have played the prostitute also with the Assyrians, because you were insatiable; yes, you have played the prostitute with them, and yet you weren’t satisfied.",
+          "korean": "\"네가 만족하지 못해서 앗시리아 사람들과도 음란하게 행했다. 그렇게 해도 만족하지 못했다.\""
+        },
+        {
+          "verse": 29,
+          "original": "You have moreover multiplied your prostitution to the land of merchants, to Chaldea; and yet you weren’t satisfied with this.",
+          "korean": "\"네가 바벨론, 상인의 땅까지 음란을 더했다. 그래도 만족하지 못했다.\""
+        },
+        {
+          "verse": 30,
+          "original": "“‘“How weak is your heart,” says the Lord Yahweh, “since you do all these things, the work of an impudent prostitute;",
+          "korean": "\"주 하나님의 말씀이다. '네 마음이 얼마나 약한가! 네가 뻔뻔한 여자처럼 이 모든 일을 행했다.\""
+        },
+        {
+          "verse": 31,
+          "original": "in that you build your vaulted place at the head of every way, and make your lofty place in every street, and have not been as a prostitute, in that you scorn pay.",
+          "korean": "\"네가 모든 길 어귀에 높은 곳을 짓고 모든 거리에 산당을 만들었다. 그런데 삯을 거절하니 창녀와도 다르구나.\""
+        },
+        {
+          "verse": 32,
+          "original": "“‘“A wife who commits adultery! Who takes strangers instead of her husband!",
+          "korean": "\"남편 대신 다른 남자들을 받아들이는 음란한 아내여!\""
+        },
+        {
+          "verse": 33,
+          "original": "People give gifts to all prostitutes; but you give your gifts to all your lovers, and bribe them, that they may come to you on every side for your prostitution.",
+          "korean": "\"사람들은 모든 창녀에게 선물을 준다. 그런데 네가 오히려 모든 연인들에게 선물을 주어 사방에서 너에게 오게 했다.\""
+        },
+        {
+          "verse": 34,
+          "original": "You are different from other women in your prostitution, in that no one follows you to play the prostitute; and whereas you give hire, and no hire is given to you, therefore you are different.”’",
+          "korean": "\"네가 다른 여자들과 반대로 했다. 아무도 너를 따라와서 음란하게 하지 않았는데 네가 삯을 주고 삯을 받지 않았다. 그래서 네가 다른 여자들과 다르다.'\""
+        },
+        {
+          "verse": 35,
+          "original": "“Therefore, prostitute, hear Yahweh’s word:",
+          "korean": "\"그러므로 창녀야, 하나님의 말씀을 들어라.\""
+        },
+        {
+          "verse": 36,
+          "original": "‘Thus says the Lord Yahweh, “Because your filthiness was poured out, and your nakedness uncovered through your prostitution with your lovers; and because of all the idols of your abominations, and for the blood of your children, that you gave to them;",
+          "korean": "\"주 하나님께서 이렇게 말씀하신다. '네가 네 연인들과 음란하면서 네 더러움을 쏟아냈고 네 모든 가증한 우상들에게, 또 그것들에게 바친 네 자녀들의 피 때문에\""
+        },
+        {
+          "verse": 37,
+          "original": "therefore see, I will gather all your lovers, with whom you have taken pleasure, and all those who you have loved, with all those who you have hated. I will even gather them against you on every side, and will uncover your nakedness to them, that they may see all your nakedness.",
+          "korean": "\"내가 네가 기뻐한 모든 연인들, 네가 사랑한 모든 자와 네가 미워한 모든 자를 모으겠다. 내가 그들을 사방에서 모아 네게 대적하게 하고 네 벌거벗음을 그들에게 드러내겠다.\""
+        },
+        {
+          "verse": 38,
+          "original": "I will judge you, as women who break wedlock and shed blood are judged; and I will bring on you the blood of wrath and jealousy.",
+          "korean": "\"내가 간음한 여자와 피를 흘린 여자에게 행하듯이 너를 심판하겠다. 분노와 질투의 피를 네게 쏟겠다.\""
+        },
+        {
+          "verse": 39,
+          "original": "I will also give you into their hand, and they will throw down your vaulted place, and break down your lofty places. They will strip you of your clothes, and take your beautiful jewels. They will leave you naked and bare.",
+          "korean": "\"내가 너를 그들의 손에 넘기겠다. 그들이 네 높은 곳을 허물고 산당을 헐 것이다. 네 옷을 벗기고 네 아름다운 장식품을 빼앗아 벌거벗고 헐벗게 내버려둘 것이다.\""
+        },
+        {
+          "verse": 40,
+          "original": "They will also bring up a company against you, and they will stone you with stones, and thrust you through with their swords.",
+          "korean": "\"그들이 무리를 모아 돌로 치고 칼로 베어 버릴 것이다.\""
+        },
+        {
+          "verse": 41,
+          "original": "They will burn your houses with fire, and execute judgments on you in the sight of many women. I will cause you to cease from playing the prostitute, and you will also give no hire any more.",
+          "korean": "\"네 집을 불로 태우고 많은 여자들이 보는 앞에서 심판을 집행할 것이다. 내가 네 음란을 그치게 하고 네가 더 이상 삯을 주지 못하게 하겠다.\""
+        },
+        {
+          "verse": 42,
+          "original": "So will I cause my wrath toward you to rest, and my jealousy will depart from you. I will be quiet, and will not be angry any more.",
+          "korean": "\"내가 네게 대한 내 분노를 풀고 내 질투가 네게서 떠나겠다. 내가 조용해지고 더 이상 화내지 않겠다.\""
+        },
+        {
+          "verse": 43,
+          "original": "“‘“Because you have not remembered the days of your youth, but have raged against me in all these things; therefore, behold, I also will bring your way on your head,” says the Lord Yahweh: “and you shall not commit this lewdness with all your abominations.",
+          "korean": "\"네가 네 어린 시절을 기억하지 않고 이 모든 일로 나를 격분하게 했으므로 내가 네 행실을 네 머리에 돌려주겠다.' 주 하나님의 말씀이다. '그래서 네가 모든 가증한 일에 더해 이 음란을 행하지 못하게 하겠다.\""
+        },
+        {
+          "verse": 44,
+          "original": "“‘“Behold, everyone who uses proverbs will use this proverb against you, saying, ‘As is the mother, so is her daughter.’",
+          "korean": "\"속담하는 자들이 '그 어머니에 그 딸이로다'라고 네게 속담할 것이다.\""
+        },
+        {
+          "verse": 45,
+          "original": "You are the daughter of your mother, who loathes her husband and her children; and you are the sister of your sisters, who loathed their husbands and their children. Your mother was a Hittite, and your father an Amorite.",
+          "korean": "\"네가 네 어머니의 딸이다. 네 어머니는 남편과 자녀를 싫어했다. 네가 네 자매들의 자매다. 그들도 남편과 자녀를 싫어했다. 네 어머니는 헷 사람이요 네 아버지는 아모리 사람이다.\""
+        },
+        {
+          "verse": 46,
+          "original": "Your elder sister is Samaria, who dwells at your left hand, she and her daughters; and your younger sister, who dwells at your right hand, is Sodom with her daughters.",
+          "korean": "\"네 언니는 사마리아인데 네 왼쪽에서 딸들과 함께 산다. 네 동생은 소돔인데 네 오른쪽에서 딸들과 함께 산다.\""
+        },
+        {
+          "verse": 47,
+          "original": "Yet you have not walked in their ways, nor done their abominations; but soon you were more corrupt than they in all your ways.",
+          "korean": "\"네가 그들의 길로 행하고 그들의 가증한 일을 따르는 것만으로도 부족해서 곧 모든 길에서 그들보다 더 악해졌다.\""
+        },
+        {
+          "verse": 48,
+          "original": "As I live,” says the Lord Yahweh, “Sodom your sister has not done, she nor her daughters, as you have done, you and your daughters.",
+          "korean": "\"주 하나님의 말씀이다. '내가 살아 있는 한, 네 동생 소돔과 그 딸들이 너와 네 딸들이 행한 것처럼 행하지 않았다.\""
+        },
+        {
+          "verse": 49,
+          "original": "“‘“Behold, this was the iniquity of your sister Sodom: pride, fullness of bread, and prosperous ease was in her and in her daughters. She also didn’t strengthen the hand of the poor and needy.",
+          "korean": "\"네 동생 소돔의 죄는 이것이다. 그녀와 그 딸들이 교만하고 양식이 풍족하고 편안했지만 가난하고 궁핍한 자를 돌보지 않았다.\""
+        },
+        {
+          "verse": 50,
+          "original": "They were haughty, and committed abomination before me. Therefore I took them away when I saw it.",
+          "korean": "\"그들이 교만하여 내 앞에서 가증한 일을 행했다. 그래서 내가 보고 그들을 제거했다.\""
+        },
+        {
+          "verse": 51,
+          "original": "Samaria hasn’t committed half of your sins; but you have multiplied your abominations more than they, and have justified your sisters by all your abominations which you have done.",
+          "korean": "\"사마리아는 네 죄의 반도 짓지 않았다. 네가 그들보다 더 많은 가증한 일을 행해서 네 모든 가증한 일로 네 자매들이 의롭게 보이게 했다.\""
+        },
+        {
+          "verse": 52,
+          "original": "You also bear your own shame yourself, in that you have given judgment for your sisters; through your sins that you have committed more abominable than they, they are more righteous than you. Yes, be also confounded, and bear your shame, in that you have justified your sisters.",
+          "korean": "\"네가 네 자매들을 변호했으니 네 수치를 담당해라. 네가 그들보다 더 가증한 죄를 범했으므로 그들이 너보다 의롭다. 네가 네 자매들을 의롭게 만들었으니 부끄러워하고 네 수치를 담당해라.\""
+        },
+        {
+          "verse": 53,
+          "original": "“‘“I will reverse their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, and the captivity of your captives among them;",
+          "korean": "\"내가 그들의 운명을 회복시키겠다. 소돔과 그 딸들의 운명, 사마리아와 그 딸들의 운명, 그리고 그들 가운데 있는 네 운명도 회복시키겠다.\""
+        },
+        {
+          "verse": 54,
+          "original": "that you may bear your own shame, and may be ashamed because of all that you have done, in that you are a comfort to them.",
+          "korean": "\"네가 네 수치를 담당하고 네가 행한 모든 일 때문에 부끄러워할 것이다. 네가 그들에게 위로가 되었기 때문이다.\""
+        },
+        {
+          "verse": 55,
+          "original": "Your sisters, Sodom and her daughters, will return to their former estate; and Samaria and her daughters will return to their former estate; and you and your daughters will return to your former estate.",
+          "korean": "\"네 자매들 소돔과 그 딸들이 이전 상태로 돌아가고 사마리아와 그 딸들도 이전 상태로 돌아갈 것이다. 너와 네 딸들도 이전 상태로 돌아갈 것이다.\""
+        },
+        {
+          "verse": 56,
+          "original": "For your sister Sodom was not mentioned by your mouth in the day of your pride,",
+          "korean": "\"네가 교만할 때 네 입에 네 동생 소돔을 올리지 않았느냐?\""
+        },
+        {
+          "verse": 57,
+          "original": "before your wickedness was uncovered, as at the time of the reproach of the daughters of Syria, and of all who are around her, the daughters of the Philistines, who despise you all around.",
+          "korean": "\"네 악이 드러나기 전에 말이다. 시리아 딸들과 그 주위의 모든 자들, 네 사방에서 너를 멸시하는 블레셋 딸들에게 수치를 당했을 때처럼 되었다.\""
+        },
+        {
+          "verse": 58,
+          "original": "You have borne your lewdness and your abominations,” says Yahweh.",
+          "korean": "\"네가 네 음란과 가증한 일을 담당했다.' 하나님의 말씀이다.\""
+        },
+        {
+          "verse": 59,
+          "original": "“‘For thus says the Lord Yahweh: “I will also deal with you as you have done, who have despised the oath in breaking the covenant.",
+          "korean": "\"주 하나님께서 이렇게 말씀하신다. '내가 네게 행한 대로 너에게 행하겠다. 네가 맹세를 무시하고 언약을 깨뜨렸기 때문이다.\""
+        },
+        {
+          "verse": 60,
+          "original": "Nevertheless I will remember my covenant with you in the days of your youth, and I will establish to you an everlasting covenant.",
+          "korean": "\"그러나 내가 네 어린 시절에 너와 맺은 언약을 기억하고 너와 영원한 언약을 세우겠다.\""
+        },
+        {
+          "verse": 61,
+          "original": "Then you will remember your ways and be ashamed, when you receive your sisters, your elder sisters and your younger; and I will give them to you for daughters, but not by your covenant.",
+          "korean": "\"네가 네 언니들과 동생들을 받을 때 네 길을 기억하고 부끄러워할 것이다. 내가 그들을 네게 딸들로 주겠다. 그러나 네 언약에서가 아니다.\""
+        },
+        {
+          "verse": 62,
+          "original": "I will establish my covenant with you. Then you will know that I am Yahweh;",
+          "korean": "\"내가 너와 언약을 세우겠다. 그러면 네가 내가 하나님인 줄 알게 될 것이다.\""
+        },
+        {
+          "verse": 63,
+          "original": "that you may remember, and be confounded, and never open your mouth any more, because of your shame, when I have forgiven you all that you have done,” says the Lord Yahweh.’”",
+          "korean": "\"내가 네가 행한 모든 일을 용서할 때 네가 기억하고 부끄러워하며 수치 때문에 다시는 입을 열지 못할 것이다.' 주 하나님의 말씀이다.\""
+        }
       ]
     }
   ]
