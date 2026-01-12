@@ -1,0 +1,27 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4f46e5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- 배경 -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- 장식 원 -->
+  <circle cx="100" cy="100" r="200" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="1100" cy="530" r="250" fill="rgba(255,255,255,0.05)"/>
+
+  <!-- 책 아이콘 -->
+  <text x="600" y="220" font-size="120" text-anchor="middle" fill="white">📖</text>
+
+  <!-- 제목 -->
+  <text x="600" y="340" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="72" font-weight="700" text-anchor="middle" fill="white">어린이 한글 성경</text>
+
+  <!-- 부제목 -->
+  <text x="600" y="420" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="36" font-weight="400" text-anchor="middle" fill="rgba(255,255,255,0.9)">8-10세를 위한 쉬운 성경</text>
+
+  <!-- 하단 정보 -->
+  <text x="600" y="520" font-family="'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="28" font-weight="400" text-anchor="middle" fill="rgba(255,255,255,0.7)">구약 39권 + 신약 27권 · 전체 66권 무료</text>
+</svg>
