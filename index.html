@@ -6,18 +6,25 @@
   <title>어린이 한글 성경</title>
   <meta name="description" content="8-10세 어린이를 위한 쉬운 한글 성경">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
+
+  <!-- Pretendard 폰트 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+
   <style>
     :root {
-      --primary: #5b8def;
-      --primary-light: #e8f0fe;
-      --secondary: #ff9f43;
-      --bg: #fefefe;
-      --bg-warm: #fff9f0;
-      --text: #2d3748;
-      --text-light: #718096;
-      --border: #e2e8f0;
-      --shadow: 0 2px 8px rgba(0,0,0,0.08);
-      --radius: 12px;
+      --primary: #4f46e5;
+      --primary-light: #eef2ff;
+      --accent: #f59e0b;
+      --bg: #fafafa;
+      --surface: #ffffff;
+      --text: #1f2937;
+      --text-secondary: #6b7280;
+      --text-muted: #9ca3af;
+      --border: #e5e7eb;
+      --radius: 16px;
+      --radius-sm: 8px;
+      --shadow: 0 1px 3px rgba(0,0,0,0.05), 0 1px 2px rgba(0,0,0,0.1);
+      --shadow-lg: 0 4px 6px rgba(0,0,0,0.05), 0 10px 15px rgba(0,0,0,0.1);
     }
 
     * {
@@ -26,32 +33,35 @@
       box-sizing: border-box;
     }
 
+    html {
+      scroll-behavior: smooth;
+    }
+
     body {
-      font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      background: var(--bg-warm);
+      font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      background: var(--bg);
       color: var(--text);
-      line-height: 1.8;
+      line-height: 1.7;
       min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
     }
 
     /* 헤더 */
     header {
-      background: linear-gradient(135deg, var(--primary), #7c3aed);
-      color: white;
-      padding: 1rem;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
       position: sticky;
       top: 0;
       z-index: 100;
-      box-shadow: var(--shadow);
     }
 
     .header-content {
-      max-width: 1200px;
+      max-width: 960px;
       margin: 0 auto;
+      padding: 1rem 1.5rem;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      flex-wrap: wrap;
       gap: 1rem;
     }
 
@@ -59,138 +69,329 @@
       display: flex;
       align-items: center;
       gap: 0.5rem;
-      font-size: 1.5rem;
+      font-size: 1.25rem;
       font-weight: 700;
+      color: var(--primary);
+      text-decoration: none;
     }
 
-    .logo-icon {
-      font-size: 2rem;
+    .logo:hover {
+      opacity: 0.8;
     }
 
     /* 네비게이션 */
-    nav {
+    .nav-controls {
       display: flex;
       gap: 0.5rem;
-      flex-wrap: wrap;
+      align-items: center;
     }
 
     .nav-select {
-      padding: 0.5rem 1rem;
-      font-size: 1rem;
-      border: 2px solid rgba(255,255,255,0.3);
-      border-radius: var(--radius);
-      background: rgba(255,255,255,0.15);
-      color: white;
-      cursor: pointer;
-      min-width: 140px;
-    }
-
-    .nav-select option {
+      padding: 0.5rem 0.75rem;
+      font-size: 0.9rem;
+      font-family: inherit;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      background: var(--surface);
       color: var(--text);
-      background: white;
+      cursor: pointer;
+      min-width: 120px;
     }
 
-    /* 메인 컨텐츠 */
-    main {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 1.5rem;
+    .nav-select:focus {
+      outline: none;
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px var(--primary-light);
     }
 
-    /* 책 정보 카드 */
-    .book-info {
-      background: white;
+    .search-btn {
+      padding: 0.5rem;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s;
+    }
+
+    .search-btn:hover {
+      background: var(--primary-light);
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    /* 검색 모달 */
+    .search-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 200;
+      display: none;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 10vh 1rem;
+      backdrop-filter: blur(4px);
+    }
+
+    .search-overlay.active {
+      display: flex;
+    }
+
+    .search-modal {
+      background: var(--surface);
       border-radius: var(--radius);
-      padding: 1.5rem;
-      margin-bottom: 1.5rem;
-      box-shadow: var(--shadow);
+      width: 100%;
+      max-width: 600px;
+      max-height: 70vh;
+      display: flex;
+      flex-direction: column;
+      box-shadow: var(--shadow-lg);
+      animation: slideDown 0.2s ease;
+    }
+
+    @keyframes slideDown {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .search-header {
+      padding: 1rem;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      gap: 0.75rem;
+      align-items: center;
+    }
+
+    .search-input {
+      flex: 1;
+      padding: 0.75rem 1rem;
+      font-size: 1rem;
+      font-family: inherit;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      background: var(--bg);
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+
+    .search-close {
+      padding: 0.5rem;
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: var(--text-secondary);
+      font-size: 1.25rem;
+    }
+
+    .search-results {
+      flex: 1;
+      overflow-y: auto;
+      padding: 0.5rem;
+    }
+
+    .search-result {
+      padding: 1rem;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+
+    .search-result:hover {
+      background: var(--primary-light);
+    }
+
+    .search-result-header {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--primary);
+      margin-bottom: 0.25rem;
+    }
+
+    .search-result-text {
+      font-size: 0.95rem;
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    .search-result-text mark {
+      background: #fef08a;
+      color: inherit;
+      padding: 0 2px;
+      border-radius: 2px;
+    }
+
+    .search-empty {
+      padding: 2rem;
       text-align: center;
+      color: var(--text-muted);
+    }
+
+    .search-loading {
+      padding: 2rem;
+      text-align: center;
+      color: var(--text-muted);
+    }
+
+    /* 메인 */
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+
+    /* 시작 화면 */
+    .welcome {
+      text-align: center;
+      padding: 4rem 2rem;
+    }
+
+    .welcome-icon {
+      font-size: 4rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .welcome h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+      color: var(--text);
+    }
+
+    .welcome p {
+      color: var(--text-secondary);
+      margin-bottom: 2rem;
+      font-size: 1.05rem;
+    }
+
+    .quick-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      justify-content: center;
+    }
+
+    .quick-link {
+      padding: 0.75rem 1.25rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 100px;
+      font-size: 0.95rem;
+      font-family: inherit;
+      color: var(--text);
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .quick-link:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+      background: var(--primary-light);
+    }
+
+    /* 책 헤더 */
+    .book-header {
+      text-align: center;
+      margin-bottom: 2rem;
     }
 
     .book-title {
-      font-size: 1.8rem;
-      color: var(--primary);
-      margin-bottom: 0.5rem;
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 0.25rem;
     }
 
-    .chapter-title {
-      font-size: 1.2rem;
-      color: var(--text-light);
+    .chapter-badge {
+      display: inline-block;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
     }
 
     /* 장 네비게이션 */
     .chapter-nav {
       display: flex;
       justify-content: center;
-      gap: 0.5rem;
+      gap: 0.375rem;
       flex-wrap: wrap;
-      margin-bottom: 1.5rem;
+      margin-bottom: 2rem;
+      padding: 1rem;
+      background: var(--surface);
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
     }
 
     .chapter-btn {
-      width: 42px;
-      height: 42px;
-      border: 2px solid var(--border);
+      width: 38px;
+      height: 38px;
+      border: none;
       border-radius: 50%;
-      background: white;
-      color: var(--text);
-      font-size: 0.95rem;
-      font-weight: 600;
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+      font-weight: 500;
+      font-family: inherit;
       cursor: pointer;
-      transition: all 0.2s;
+      transition: all 0.15s;
     }
 
     .chapter-btn:hover {
-      border-color: var(--primary);
+      background: var(--primary-light);
       color: var(--primary);
-      transform: scale(1.05);
     }
 
     .chapter-btn.active {
       background: var(--primary);
-      border-color: var(--primary);
       color: white;
     }
 
-    /* 절 카드 */
+    /* 절 컨테이너 */
     .verses-container {
-      background: white;
+      background: var(--surface);
       border-radius: var(--radius);
-      padding: 1.5rem;
-      box-shadow: var(--shadow);
+      border: 1px solid var(--border);
+      padding: 1.5rem 2rem;
     }
 
     .verse {
-      padding: 1rem 0;
-      border-bottom: 1px solid var(--border);
+      padding: 0.875rem 0;
     }
 
-    .verse:last-child {
-      border-bottom: none;
+    .verse + .verse {
+      border-top: 1px solid var(--border);
     }
 
     .verse-number {
-      display: inline-block;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 1.75rem;
+      height: 1.75rem;
       background: var(--primary-light);
       color: var(--primary);
-      font-weight: 700;
-      font-size: 0.85rem;
-      padding: 0.2rem 0.5rem;
+      font-weight: 600;
+      font-size: 0.8rem;
       border-radius: 6px;
-      margin-right: 0.5rem;
-      min-width: 28px;
-      text-align: center;
+      margin-right: 0.625rem;
+      vertical-align: top;
     }
 
-    .verse-korean {
-      font-size: 1.15rem;
-      line-height: 1.9;
+    .verse-text {
+      font-size: 1.125rem;
+      line-height: 1.85;
+      word-break: keep-all;
     }
 
     .verse-original {
       font-size: 0.9rem;
-      color: var(--text-light);
+      color: var(--text-muted);
       margin-top: 0.5rem;
+      margin-left: 2.375rem;
       font-style: italic;
       display: none;
     }
@@ -199,46 +400,56 @@
       display: block;
     }
 
-    /* 토글 버튼 */
-    .toggle-original {
-      display: block;
-      margin: 1rem auto;
-      padding: 0.6rem 1.2rem;
-      background: var(--bg-warm);
-      border: 2px solid var(--border);
-      border-radius: var(--radius);
-      color: var(--text-light);
-      font-size: 0.9rem;
+    /* 툴바 */
+    .toolbar {
+      display: flex;
+      justify-content: center;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .toolbar-btn {
+      padding: 0.5rem 1rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 100px;
+      font-size: 0.875rem;
+      font-family: inherit;
+      color: var(--text-secondary);
       cursor: pointer;
-      transition: all 0.2s;
+      transition: all 0.15s;
     }
 
-    .toggle-original:hover {
-      border-color: var(--secondary);
-      color: var(--secondary);
+    .toolbar-btn:hover {
+      border-color: var(--primary);
+      color: var(--primary);
     }
 
-    /* 이전/다음 버튼 */
+    .toolbar-btn.active {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: white;
+    }
+
+    /* 이전/다음 */
     .nav-buttons {
       display: flex;
       justify-content: space-between;
-      margin-top: 1.5rem;
+      margin-top: 2rem;
       gap: 1rem;
     }
 
     .nav-btn {
       flex: 1;
       padding: 1rem;
-      background: white;
-      border: 2px solid var(--border);
+      background: var(--surface);
+      border: 1px solid var(--border);
       border-radius: var(--radius);
-      font-size: 1rem;
+      font-size: 0.95rem;
+      font-family: inherit;
+      color: var(--text);
       cursor: pointer;
-      transition: all 0.2s;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 0.5rem;
+      transition: all 0.15s;
     }
 
     .nav-btn:hover:not(:disabled) {
@@ -254,17 +465,17 @@
     /* 로딩 */
     .loading {
       text-align: center;
-      padding: 3rem;
-      color: var(--text-light);
+      padding: 4rem 2rem;
+      color: var(--text-muted);
     }
 
-    .loading-spinner {
-      width: 40px;
-      height: 40px;
-      border: 4px solid var(--border);
+    .spinner {
+      width: 32px;
+      height: 32px;
+      border: 3px solid var(--border);
       border-top-color: var(--primary);
       border-radius: 50%;
-      animation: spin 1s linear infinite;
+      animation: spin 0.8s linear infinite;
       margin: 0 auto 1rem;
     }
 
@@ -272,59 +483,14 @@
       to { transform: rotate(360deg); }
     }
 
-    /* 시작 화면 */
-    .welcome {
-      text-align: center;
-      padding: 3rem 1.5rem;
-      background: white;
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
-    }
-
-    .welcome-icon {
-      font-size: 4rem;
-      margin-bottom: 1rem;
-    }
-
-    .welcome h2 {
-      color: var(--primary);
-      margin-bottom: 1rem;
-    }
-
-    .welcome p {
-      color: var(--text-light);
-      margin-bottom: 1.5rem;
-    }
-
-    .quick-links {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.5rem;
-      justify-content: center;
-    }
-
-    .quick-link {
-      padding: 0.5rem 1rem;
-      background: var(--primary-light);
-      color: var(--primary);
-      border: none;
-      border-radius: var(--radius);
-      font-size: 0.95rem;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-
-    .quick-link:hover {
-      background: var(--primary);
-      color: white;
-    }
-
     /* 푸터 */
     footer {
       text-align: center;
       padding: 2rem;
-      color: var(--text-light);
+      color: var(--text-muted);
       font-size: 0.85rem;
+      border-top: 1px solid var(--border);
+      background: var(--surface);
     }
 
     footer a {
@@ -332,64 +498,63 @@
       text-decoration: none;
     }
 
+    footer a:hover {
+      text-decoration: underline;
+    }
+
     /* 반응형 */
-    @media (max-width: 600px) {
+    @media (max-width: 640px) {
       .header-content {
+        flex-wrap: wrap;
         justify-content: center;
       }
 
-      .logo {
-        font-size: 1.2rem;
-      }
-
       .nav-select {
-        min-width: 120px;
-        font-size: 0.9rem;
-      }
-
-      main {
-        padding: 1rem;
-      }
-
-      .book-title {
-        font-size: 1.4rem;
-      }
-
-      .chapter-btn {
-        width: 36px;
-        height: 36px;
+        min-width: 100px;
         font-size: 0.85rem;
       }
 
-      .verse-korean {
+      main {
+        padding: 1.5rem 1rem 3rem;
+      }
+
+      .welcome {
+        padding: 3rem 1rem;
+      }
+
+      .welcome h1 {
+        font-size: 1.5rem;
+      }
+
+      .verses-container {
+        padding: 1rem 1.25rem;
+      }
+
+      .verse-text {
         font-size: 1.05rem;
+      }
+
+      .chapter-btn {
+        width: 34px;
+        height: 34px;
+        font-size: 0.8rem;
       }
     }
 
     /* 다크모드 */
     @media (prefers-color-scheme: dark) {
       :root {
-        --bg: #1a202c;
-        --bg-warm: #1a1a2e;
-        --text: #e2e8f0;
-        --text-light: #a0aec0;
-        --border: #2d3748;
+        --bg: #111827;
+        --surface: #1f2937;
+        --text: #f3f4f6;
+        --text-secondary: #9ca3af;
+        --text-muted: #6b7280;
+        --border: #374151;
+        --primary-light: #312e81;
       }
 
-      .nav-select option {
-        background: #2d3748;
-        color: white;
-      }
-
-      .verses-container,
-      .book-info,
-      .welcome,
-      .nav-btn {
-        background: #2d3748;
-      }
-
-      .toggle-original {
-        background: var(--bg);
+      .search-result-text mark {
+        background: #854d0e;
       }
     }
   </style>
@@ -397,44 +562,65 @@
 <body>
   <header>
     <div class="header-content">
-      <div class="logo">
-        <span class="logo-icon">📖</span>
+      <a href="#" class="logo" onclick="goHome()">
+        <span>📖</span>
         <span>어린이 한글 성경</span>
-      </div>
-      <nav>
+      </a>
+      <div class="nav-controls">
         <select id="bookSelect" class="nav-select" aria-label="책 선택">
-          <option value="">책을 선택하세요</option>
+          <option value="">책 선택</option>
         </select>
         <select id="chapterSelect" class="nav-select" aria-label="장 선택" disabled>
-          <option value="">장 선택</option>
+          <option value="">장</option>
         </select>
-      </nav>
+        <button class="search-btn" onclick="openSearch()" aria-label="검색">
+          <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+          </svg>
+        </button>
+      </div>
     </div>
   </header>
 
+  <!-- 검색 모달 -->
+  <div class="search-overlay" id="searchOverlay" onclick="closeSearchOnOverlay(event)">
+    <div class="search-modal">
+      <div class="search-header">
+        <input type="text" class="search-input" id="searchInput"
+               placeholder="성경에서 검색..."
+               onkeyup="handleSearchInput(event)">
+        <button class="search-close" onclick="closeSearch()">✕</button>
+      </div>
+      <div class="search-results" id="searchResults">
+        <div class="search-empty">검색어를 입력하세요</div>
+      </div>
+    </div>
+  </div>
+
   <main id="content">
     <div class="welcome">
-      <div class="welcome-icon">🌟</div>
-      <h2>환영해요!</h2>
-      <p>위에서 읽고 싶은 책을 선택하거나,<br>아래 버튼을 눌러 시작해 보세요.</p>
+      <div class="welcome-icon">📖</div>
+      <h1>어린이 한글 성경</h1>
+      <p>읽고 싶은 책을 선택하거나 검색해 보세요</p>
       <div class="quick-links">
         <button class="quick-link" data-book="genesis">창세기</button>
         <button class="quick-link" data-book="psalms">시편</button>
+        <button class="quick-link" data-book="proverbs">잠언</button>
         <button class="quick-link" data-book="matthew">마태복음</button>
         <button class="quick-link" data-book="john">요한복음</button>
+        <button class="quick-link" data-book="romans">로마서</button>
       </div>
     </div>
   </main>
 
   <footer>
-    <p>어린이를 위한 쉬운 한글 성경 | 원본: World English Bible (Public Domain)</p>
-    <p><a href="https://github.com/ez2k/bible-korean-free" target="_blank">GitHub에서 보기</a></p>
+    <p>어린이를 위한 쉬운 한글 성경</p>
+    <p>원본: World English Bible (Public Domain) · <a href="https://github.com/ez2k/bible-korean-free" target="_blank">GitHub</a></p>
   </footer>
 
   <script>
     // 성경 책 데이터
     const BOOKS = {
-      // 구약 39권
       genesis: { korean: '창세기', files: ['genesis'] },
       exodus: { korean: '출애굽기', files: ['exodus'] },
       leviticus: { korean: '레위기', files: ['leviticus'] },
@@ -474,7 +660,6 @@
       haggai: { korean: '학개', files: ['haggai'] },
       zechariah: { korean: '스가랴', files: ['zechariah'] },
       malachi: { korean: '말라기', files: ['malachi'] },
-      // 신약 27권
       matthew: { korean: '마태복음', files: ['matthew'] },
       mark: { korean: '마가복음', files: ['mark'] },
       luke: { korean: '누가복음', files: ['luke'] },
@@ -511,11 +696,16 @@
     let currentChapter = 1;
     let bookData = null;
     let showOriginal = false;
+    let searchCache = {};
+    let searchTimeout = null;
 
-    // DOM 요소
+    // DOM
     const bookSelect = document.getElementById('bookSelect');
     const chapterSelect = document.getElementById('chapterSelect');
     const content = document.getElementById('content');
+    const searchOverlay = document.getElementById('searchOverlay');
+    const searchInput = document.getElementById('searchInput');
+    const searchResults = document.getElementById('searchResults');
 
     // 초기화
     function init() {
@@ -523,25 +713,65 @@
       bookSelect.addEventListener('change', onBookChange);
       chapterSelect.addEventListener('change', onChapterChange);
 
-      // 퀵 링크 이벤트
       document.querySelectorAll('.quick-link').forEach(btn => {
         btn.addEventListener('click', () => {
-          const book = btn.dataset.book;
-          bookSelect.value = book;
+          bookSelect.value = btn.dataset.book;
           onBookChange();
         });
       });
 
-      // URL 해시 처리
+      // 키보드 단축키
+      document.addEventListener('keydown', (e) => {
+        if (e.key === '/' && !e.ctrlKey && !e.metaKey) {
+          if (document.activeElement.tagName !== 'INPUT') {
+            e.preventDefault();
+            openSearch();
+          }
+        }
+        if (e.key === 'Escape') {
+          closeSearch();
+        }
+      });
+
       handleHashChange();
       window.addEventListener('hashchange', handleHashChange);
     }
 
-    // 책 드롭다운 채우기
+    // 홈으로
+    function goHome() {
+      window.location.hash = '';
+      currentBook = null;
+      bookData = null;
+      bookSelect.value = '';
+      chapterSelect.innerHTML = '<option value="">장</option>';
+      chapterSelect.disabled = true;
+      content.innerHTML = `
+        <div class="welcome">
+          <div class="welcome-icon">📖</div>
+          <h1>어린이 한글 성경</h1>
+          <p>읽고 싶은 책을 선택하거나 검색해 보세요</p>
+          <div class="quick-links">
+            <button class="quick-link" data-book="genesis">창세기</button>
+            <button class="quick-link" data-book="psalms">시편</button>
+            <button class="quick-link" data-book="proverbs">잠언</button>
+            <button class="quick-link" data-book="matthew">마태복음</button>
+            <button class="quick-link" data-book="john">요한복음</button>
+            <button class="quick-link" data-book="romans">로마서</button>
+          </div>
+        </div>
+      `;
+      document.querySelectorAll('.quick-link').forEach(btn => {
+        btn.addEventListener('click', () => {
+          bookSelect.value = btn.dataset.book;
+          onBookChange();
+        });
+      });
+    }
+
+    // 책 드롭다운
     function populateBookSelect() {
-      // 구약
       const otGroup = document.createElement('optgroup');
-      otGroup.label = '구약 성경';
+      otGroup.label = '구약';
       BOOK_ORDER.slice(0, 39).forEach(key => {
         const opt = document.createElement('option');
         opt.value = key;
@@ -550,9 +780,8 @@
       });
       bookSelect.appendChild(otGroup);
 
-      // 신약
       const ntGroup = document.createElement('optgroup');
-      ntGroup.label = '신약 성경';
+      ntGroup.label = '신약';
       BOOK_ORDER.slice(39).forEach(key => {
         const opt = document.createElement('option');
         opt.value = key;
@@ -562,127 +791,92 @@
       bookSelect.appendChild(ntGroup);
     }
 
-    // 책 선택 시
     async function onBookChange() {
       const book = bookSelect.value;
       if (!book) return;
-
       currentBook = book;
       currentChapter = 1;
-
       showLoading();
       await loadBook(book);
       updateHash();
     }
 
-    // 장 선택 시
     function onChapterChange() {
       currentChapter = parseInt(chapterSelect.value);
       renderChapter();
       updateHash();
     }
 
-    // 책 데이터 로드
     async function loadBook(bookKey) {
       const bookInfo = BOOKS[bookKey];
-      const files = bookInfo.files;
-
       try {
-        // 여러 파일이 있는 경우 병합
         const allChapters = [];
-
-        for (const file of files) {
-          const response = await fetch(`korean/${file}.json`);
-          if (!response.ok) throw new Error('파일을 찾을 수 없습니다');
-          const data = await response.json();
+        for (const file of bookInfo.files) {
+          const res = await fetch(`korean/${file}.json`);
+          if (!res.ok) throw new Error('파일 없음');
+          const data = await res.json();
           allChapters.push(...data.chapters);
         }
-
-        bookData = {
-          book: bookKey,
-          bookKorean: bookInfo.korean,
-          chapters: allChapters
-        };
-
+        bookData = { book: bookKey, bookKorean: bookInfo.korean, chapters: allChapters };
         populateChapterSelect();
         renderChapter();
-
-      } catch (error) {
-        console.error('Error loading book:', error);
-        content.innerHTML = `
-          <div class="welcome">
-            <div class="welcome-icon">😢</div>
-            <h2>오류가 발생했어요</h2>
-            <p>책을 불러올 수 없습니다. 다시 시도해 주세요.</p>
-          </div>
-        `;
+      } catch (err) {
+        content.innerHTML = `<div class="loading"><p>불러올 수 없습니다</p></div>`;
       }
     }
 
-    // 장 드롭다운 채우기
     function populateChapterSelect() {
       chapterSelect.innerHTML = '';
       chapterSelect.disabled = false;
-
       bookData.chapters.forEach(ch => {
         const opt = document.createElement('option');
         opt.value = ch.chapter;
         opt.textContent = `${ch.chapter}장`;
         chapterSelect.appendChild(opt);
       });
-
       chapterSelect.value = currentChapter;
     }
 
-    // 장 렌더링
     function renderChapter() {
       const chapter = bookData.chapters.find(ch => ch.chapter === currentChapter);
       if (!chapter) return;
-
-      const totalChapters = bookData.chapters.length;
-      const prevIdx = BOOK_ORDER.indexOf(currentBook);
-      const nextIdx = prevIdx;
+      const total = bookData.chapters.length;
 
       content.innerHTML = `
-        <div class="book-info">
+        <div class="book-header">
           <h1 class="book-title">${bookData.bookKorean}</h1>
-          <p class="chapter-title">${currentChapter}장</p>
+          <span class="chapter-badge">${currentChapter}장 / ${total}장</span>
         </div>
 
         <div class="chapter-nav">
           ${bookData.chapters.map(ch => `
             <button class="chapter-btn ${ch.chapter === currentChapter ? 'active' : ''}"
-                    data-chapter="${ch.chapter}">
-              ${ch.chapter}
-            </button>
+                    data-chapter="${ch.chapter}">${ch.chapter}</button>
           `).join('')}
         </div>
 
-        <button class="toggle-original" id="toggleBtn">
-          ${showOriginal ? '🔤 원문 숨기기' : '🔤 영어 원문 보기'}
-        </button>
+        <div class="toolbar">
+          <button class="toolbar-btn ${showOriginal ? 'active' : ''}" id="toggleBtn">
+            영어 원문
+          </button>
+        </div>
 
         <div class="verses-container">
           ${chapter.verses.map(v => `
             <div class="verse ${showOriginal ? 'show-original' : ''}">
               <span class="verse-number">${v.verse}</span>
-              <span class="verse-korean">${v.korean}</span>
+              <span class="verse-text">${v.korean}</span>
               <p class="verse-original">${v.original}</p>
             </div>
           `).join('')}
         </div>
 
         <div class="nav-buttons">
-          <button class="nav-btn" id="prevBtn" ${currentChapter === 1 ? 'disabled' : ''}>
-            ← 이전 장
-          </button>
-          <button class="nav-btn" id="nextBtn" ${currentChapter === totalChapters ? 'disabled' : ''}>
-            다음 장 →
-          </button>
+          <button class="nav-btn" id="prevBtn" ${currentChapter === 1 ? 'disabled' : ''}>← 이전</button>
+          <button class="nav-btn" id="nextBtn" ${currentChapter === total ? 'disabled' : ''}>다음 →</button>
         </div>
       `;
 
-      // 이벤트 바인딩
       document.querySelectorAll('.chapter-btn').forEach(btn => {
         btn.addEventListener('click', () => {
           currentChapter = parseInt(btn.dataset.chapter);
@@ -709,7 +903,7 @@
       });
 
       document.getElementById('nextBtn').addEventListener('click', () => {
-        if (currentChapter < totalChapters) {
+        if (currentChapter < total) {
           currentChapter++;
           chapterSelect.value = currentChapter;
           renderChapter();
@@ -719,40 +913,136 @@
       });
     }
 
-    // 로딩 표시
     function showLoading() {
-      content.innerHTML = `
-        <div class="loading">
-          <div class="loading-spinner"></div>
-          <p>불러오는 중...</p>
-        </div>
-      `;
+      content.innerHTML = `<div class="loading"><div class="spinner"></div><p>불러오는 중...</p></div>`;
     }
 
-    // URL 해시 업데이트
     function updateHash() {
-      if (currentBook) {
-        window.location.hash = `${currentBook}/${currentChapter}`;
-      }
+      if (currentBook) window.location.hash = `${currentBook}/${currentChapter}`;
     }
 
-    // 해시 변경 처리
     function handleHashChange() {
       const hash = window.location.hash.slice(1);
       if (!hash) return;
-
       const [book, chapter] = hash.split('/');
       if (BOOKS[book]) {
         bookSelect.value = book;
         currentBook = book;
         currentChapter = parseInt(chapter) || 1;
-
         showLoading();
         loadBook(book);
       }
     }
 
-    // 시작
+    // 검색 기능
+    function openSearch() {
+      searchOverlay.classList.add('active');
+      searchInput.focus();
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeSearch() {
+      searchOverlay.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+
+    function closeSearchOnOverlay(e) {
+      if (e.target === searchOverlay) closeSearch();
+    }
+
+    function handleSearchInput(e) {
+      const query = searchInput.value.trim();
+      if (e.key === 'Enter' && query.length >= 2) {
+        performSearch(query);
+      } else if (query.length >= 2) {
+        clearTimeout(searchTimeout);
+        searchTimeout = setTimeout(() => performSearch(query), 300);
+      } else {
+        searchResults.innerHTML = '<div class="search-empty">2글자 이상 입력하세요</div>';
+      }
+    }
+
+    async function performSearch(query) {
+      searchResults.innerHTML = '<div class="search-loading"><div class="spinner"></div>검색 중...</div>';
+
+      const results = [];
+      const lowerQuery = query.toLowerCase();
+
+      for (const bookKey of BOOK_ORDER) {
+        const bookInfo = BOOKS[bookKey];
+
+        // 캐시 확인
+        if (!searchCache[bookKey]) {
+          try {
+            const allChapters = [];
+            for (const file of bookInfo.files) {
+              const res = await fetch(`korean/${file}.json`);
+              if (res.ok) {
+                const data = await res.json();
+                allChapters.push(...data.chapters);
+              }
+            }
+            searchCache[bookKey] = allChapters;
+          } catch (e) {
+            continue;
+          }
+        }
+
+        const chapters = searchCache[bookKey];
+        for (const ch of chapters) {
+          for (const v of ch.verses) {
+            if (v.korean.toLowerCase().includes(lowerQuery)) {
+              results.push({
+                book: bookKey,
+                bookKorean: bookInfo.korean,
+                chapter: ch.chapter,
+                verse: v.verse,
+                text: v.korean
+              });
+              if (results.length >= 50) break;
+            }
+          }
+          if (results.length >= 50) break;
+        }
+        if (results.length >= 50) break;
+      }
+
+      if (results.length === 0) {
+        searchResults.innerHTML = '<div class="search-empty">검색 결과가 없습니다</div>';
+        return;
+      }
+
+      searchResults.innerHTML = results.map(r => {
+        const highlighted = r.text.replace(
+          new RegExp(`(${escapeRegex(query)})`, 'gi'),
+          '<mark>$1</mark>'
+        );
+        return `
+          <div class="search-result" onclick="goToVerse('${r.book}', ${r.chapter}, ${r.verse})">
+            <div class="search-result-header">${r.bookKorean} ${r.chapter}:${r.verse}</div>
+            <div class="search-result-text">${highlighted}</div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    function goToVerse(book, chapter, verse) {
+      closeSearch();
+      window.location.hash = `${book}/${chapter}`;
+      setTimeout(() => {
+        const verseEl = document.querySelector(`.verse:nth-child(${verse})`);
+        if (verseEl) {
+          verseEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          verseEl.style.background = 'var(--primary-light)';
+          setTimeout(() => verseEl.style.background = '', 2000);
+        }
+      }, 500);
+    }
+
     init();
   </script>
 </body>
