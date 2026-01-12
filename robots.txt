@@ -1,0 +1,11 @@
+# 어린이 한글 성경 robots.txt
+# https://ez2k.github.io/bible-korean-free/
+
+User-agent: *
+Allow: /
+
+# 사이트맵 위치
+Sitemap: https://ez2k.github.io/bible-korean-free/sitemap.xml
+
+# 크롤링 딜레이 (선택사항)
+Crawl-delay: 1
