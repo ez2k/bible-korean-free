@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>어린이 한글 성경</title>
+  <meta name="description" content="8-10세 어린이를 위한 쉬운 한글 성경">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
+  <style>
+    :root {
+      --primary: #5b8def;
+      --primary-light: #e8f0fe;
+      --secondary: #ff9f43;
+      --bg: #fefefe;
+      --bg-warm: #fff9f0;
+      --text: #2d3748;
+      --text-light: #718096;
+      --border: #e2e8f0;
+      --shadow: 0 2px 8px rgba(0,0,0,0.08);
+      --radius: 12px;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg-warm);
+      color: var(--text);
+      line-height: 1.8;
+      min-height: 100vh;
+    }
+
+    /* 헤더 */
+    header {
+      background: linear-gradient(135deg, var(--primary), #7c3aed);
+      color: white;
+      padding: 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow);
+    }
+
+    .header-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+
+    .logo-icon {
+      font-size: 2rem;
+    }
+
+    /* 네비게이션 */
+    nav {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .nav-select {
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      border: 2px solid rgba(255,255,255,0.3);
+      border-radius: var(--radius);
+      background: rgba(255,255,255,0.15);
+      color: white;
+      cursor: pointer;
+      min-width: 140px;
+    }
+
+    .nav-select option {
+      color: var(--text);
+      background: white;
+    }
+
+    /* 메인 컨텐츠 */
+    main {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 1.5rem;
+    }
+
+    /* 책 정보 카드 */
+    .book-info {
+      background: white;
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      box-shadow: var(--shadow);
+      text-align: center;
+    }
+
+    .book-title {
+      font-size: 1.8rem;
+      color: var(--primary);
+      margin-bottom: 0.5rem;
+    }
+
+    .chapter-title {
+      font-size: 1.2rem;
+      color: var(--text-light);
+    }
+
+    /* 장 네비게이션 */
+    .chapter-nav {
+      display: flex;
+      justify-content: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+    }
+
+    .chapter-btn {
+      width: 42px;
+      height: 42px;
+      border: 2px solid var(--border);
+      border-radius: 50%;
+      background: white;
+      color: var(--text);
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .chapter-btn:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+      transform: scale(1.05);
+    }
+
+    .chapter-btn.active {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: white;
+    }
+
+    /* 절 카드 */
+    .verses-container {
+      background: white;
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      box-shadow: var(--shadow);
+    }
+
+    .verse {
+      padding: 1rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .verse:last-child {
+      border-bottom: none;
+    }
+
+    .verse-number {
+      display: inline-block;
+      background: var(--primary-light);
+      color: var(--primary);
+      font-weight: 700;
+      font-size: 0.85rem;
+      padding: 0.2rem 0.5rem;
+      border-radius: 6px;
+      margin-right: 0.5rem;
+      min-width: 28px;
+      text-align: center;
+    }
+
+    .verse-korean {
+      font-size: 1.15rem;
+      line-height: 1.9;
+    }
+
+    .verse-original {
+      font-size: 0.9rem;
+      color: var(--text-light);
+      margin-top: 0.5rem;
+      font-style: italic;
+      display: none;
+    }
+
+    .verse.show-original .verse-original {
+      display: block;
+    }
+
+    /* 토글 버튼 */
+    .toggle-original {
+      display: block;
+      margin: 1rem auto;
+      padding: 0.6rem 1.2rem;
+      background: var(--bg-warm);
+      border: 2px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text-light);
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .toggle-original:hover {
+      border-color: var(--secondary);
+      color: var(--secondary);
+    }
+
+    /* 이전/다음 버튼 */
+    .nav-buttons {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 1.5rem;
+      gap: 1rem;
+    }
+
+    .nav-btn {
+      flex: 1;
+      padding: 1rem;
+      background: white;
+      border: 2px solid var(--border);
+      border-radius: var(--radius);
+      font-size: 1rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+    }
+
+    .nav-btn:hover:not(:disabled) {
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    .nav-btn:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    /* 로딩 */
+    .loading {
+      text-align: center;
+      padding: 3rem;
+      color: var(--text-light);
+    }
+
+    .loading-spinner {
+      width: 40px;
+      height: 40px;
+      border: 4px solid var(--border);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 1rem;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* 시작 화면 */
+    .welcome {
+      text-align: center;
+      padding: 3rem 1.5rem;
+      background: white;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .welcome-icon {
+      font-size: 4rem;
+      margin-bottom: 1rem;
+    }
+
+    .welcome h2 {
+      color: var(--primary);
+      margin-bottom: 1rem;
+    }
+
+    .welcome p {
+      color: var(--text-light);
+      margin-bottom: 1.5rem;
+    }
+
+    .quick-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: center;
+    }
+
+    .quick-link {
+      padding: 0.5rem 1rem;
+      background: var(--primary-light);
+      color: var(--primary);
+      border: none;
+      border-radius: var(--radius);
+      font-size: 0.95rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .quick-link:hover {
+      background: var(--primary);
+      color: white;
+    }
+
+    /* 푸터 */
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: var(--text-light);
+      font-size: 0.85rem;
+    }
+
+    footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    /* 반응형 */
+    @media (max-width: 600px) {
+      .header-content {
+        justify-content: center;
+      }
+
+      .logo {
+        font-size: 1.2rem;
+      }
+
+      .nav-select {
+        min-width: 120px;
+        font-size: 0.9rem;
+      }
+
+      main {
+        padding: 1rem;
+      }
+
+      .book-title {
+        font-size: 1.4rem;
+      }
+
+      .chapter-btn {
+        width: 36px;
+        height: 36px;
+        font-size: 0.85rem;
+      }
+
+      .verse-korean {
+        font-size: 1.05rem;
+      }
+    }
+
+    /* 다크모드 */
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1a202c;
+        --bg-warm: #1a1a2e;
+        --text: #e2e8f0;
+        --text-light: #a0aec0;
+        --border: #2d3748;
+      }
+
+      .nav-select option {
+        background: #2d3748;
+        color: white;
+      }
+
+      .verses-container,
+      .book-info,
+      .welcome,
+      .nav-btn {
+        background: #2d3748;
+      }
+
+      .toggle-original {
+        background: var(--bg);
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <div class="logo">
+        <span class="logo-icon">📖</span>
+        <span>어린이 한글 성경</span>
+      </div>
+      <nav>
+        <select id="bookSelect" class="nav-select" aria-label="책 선택">
+          <option value="">책을 선택하세요</option>
+        </select>
+        <select id="chapterSelect" class="nav-select" aria-label="장 선택" disabled>
+          <option value="">장 선택</option>
+        </select>
+      </nav>
+    </div>
+  </header>
+
+  <main id="content">
+    <div class="welcome">
+      <div class="welcome-icon">🌟</div>
+      <h2>환영해요!</h2>
+      <p>위에서 읽고 싶은 책을 선택하거나,<br>아래 버튼을 눌러 시작해 보세요.</p>
+      <div class="quick-links">
+        <button class="quick-link" data-book="genesis">창세기</button>
+        <button class="quick-link" data-book="psalms">시편</button>
+        <button class="quick-link" data-book="matthew">마태복음</button>
+        <button class="quick-link" data-book="john">요한복음</button>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>어린이를 위한 쉬운 한글 성경 | 원본: World English Bible (Public Domain)</p>
+    <p><a href="https://github.com/ez2k/bible-korean-free" target="_blank">GitHub에서 보기</a></p>
+  </footer>
+
+  <script>
+    // 성경 책 데이터
+    const BOOKS = {
+      // 구약 39권
+      genesis: { korean: '창세기', files: ['genesis'] },
+      exodus: { korean: '출애굽기', files: ['exodus'] },
+      leviticus: { korean: '레위기', files: ['leviticus'] },
+      numbers: { korean: '민수기', files: ['numbers'] },
+      deuteronomy: { korean: '신명기', files: ['deuteronomy'] },
+      joshua: { korean: '여호수아', files: ['joshua'] },
+      judges: { korean: '사사기', files: ['judges'] },
+      ruth: { korean: '룻기', files: ['ruth'] },
+      '1samuel': { korean: '사무엘상', files: ['1samuel'] },
+      '2samuel': { korean: '사무엘하', files: ['2samuel'] },
+      '1kings': { korean: '열왕기상', files: ['1kings'] },
+      '2kings': { korean: '열왕기하', files: ['2kings'] },
+      '1chronicles': { korean: '역대상', files: ['1chronicles'] },
+      '2chronicles': { korean: '역대하', files: ['2chronicles'] },
+      ezra: { korean: '에스라', files: ['ezra'] },
+      nehemiah: { korean: '느헤미야', files: ['nehemiah'] },
+      esther: { korean: '에스더', files: ['esther'] },
+      job: { korean: '욥기', files: ['job'] },
+      psalms: { korean: '시편', files: ['psalms_part1', 'psalms_part2', 'psalms_part3', 'psalms_part4', 'psalms_part5', 'psalms_part6'] },
+      proverbs: { korean: '잠언', files: ['proverbs'] },
+      ecclesiastes: { korean: '전도서', files: ['ecclesiastes'] },
+      songofsolomon: { korean: '아가', files: ['songofsolomon'] },
+      isaiah: { korean: '이사야', files: ['isaiah'] },
+      jeremiah: { korean: '예레미야', files: ['jeremiah_part1', 'jeremiah_part2', 'jeremiah_part3'] },
+      lamentations: { korean: '예레미야애가', files: ['lamentations'] },
+      ezekiel: { korean: '에스겔', files: ['ezekiel_part1', 'ezekiel_part2', 'ezekiel_part3'] },
+      daniel: { korean: '다니엘', files: ['daniel'] },
+      hosea: { korean: '호세아', files: ['hosea'] },
+      joel: { korean: '요엘', files: ['joel'] },
+      amos: { korean: '아모스', files: ['amos'] },
+      obadiah: { korean: '오바댜', files: ['obadiah'] },
+      jonah: { korean: '요나', files: ['jonah'] },
+      micah: { korean: '미가', files: ['micah'] },
+      nahum: { korean: '나훔', files: ['nahum'] },
+      habakkuk: { korean: '하박국', files: ['habakkuk'] },
+      zephaniah: { korean: '스바냐', files: ['zephaniah'] },
+      haggai: { korean: '학개', files: ['haggai'] },
+      zechariah: { korean: '스가랴', files: ['zechariah'] },
+      malachi: { korean: '말라기', files: ['malachi'] },
+      // 신약 27권
+      matthew: { korean: '마태복음', files: ['matthew'] },
+      mark: { korean: '마가복음', files: ['mark'] },
+      luke: { korean: '누가복음', files: ['luke'] },
+      john: { korean: '요한복음', files: ['john'] },
+      acts: { korean: '사도행전', files: ['acts'] },
+      romans: { korean: '로마서', files: ['romans'] },
+      '1corinthians': { korean: '고린도전서', files: ['1corinthians'] },
+      '2corinthians': { korean: '고린도후서', files: ['2corinthians'] },
+      galatians: { korean: '갈라디아서', files: ['galatians'] },
+      ephesians: { korean: '에베소서', files: ['ephesians'] },
+      philippians: { korean: '빌립보서', files: ['philippians'] },
+      colossians: { korean: '골로새서', files: ['colossians'] },
+      '1thessalonians': { korean: '데살로니가전서', files: ['1thessalonians'] },
+      '2thessalonians': { korean: '데살로니가후서', files: ['2thessalonians'] },
+      '1timothy': { korean: '디모데전서', files: ['1timothy'] },
+      '2timothy': { korean: '디모데후서', files: ['2timothy'] },
+      titus: { korean: '디도서', files: ['titus'] },
+      philemon: { korean: '빌레몬서', files: ['philemon'] },
+      hebrews: { korean: '히브리서', files: ['hebrews'] },
+      james: { korean: '야고보서', files: ['james'] },
+      '1peter': { korean: '베드로전서', files: ['1peter'] },
+      '2peter': { korean: '베드로후서', files: ['2peter'] },
+      '1john': { korean: '요한일서', files: ['1john'] },
+      '2john': { korean: '요한이서', files: ['2john'] },
+      '3john': { korean: '요한삼서', files: ['3john'] },
+      jude: { korean: '유다서', files: ['jude'] },
+      revelation: { korean: '요한계시록', files: ['revelation'] }
+    };
+
+    const BOOK_ORDER = Object.keys(BOOKS);
+
+    // 상태
+    let currentBook = null;
+    let currentChapter = 1;
+    let bookData = null;
+    let showOriginal = false;
+
+    // DOM 요소
+    const bookSelect = document.getElementById('bookSelect');
+    const chapterSelect = document.getElementById('chapterSelect');
+    const content = document.getElementById('content');
+
+    // 초기화
+    function init() {
+      populateBookSelect();
+      bookSelect.addEventListener('change', onBookChange);
+      chapterSelect.addEventListener('change', onChapterChange);
+
+      // 퀵 링크 이벤트
+      document.querySelectorAll('.quick-link').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const book = btn.dataset.book;
+          bookSelect.value = book;
+          onBookChange();
+        });
+      });
+
+      // URL 해시 처리
+      handleHashChange();
+      window.addEventListener('hashchange', handleHashChange);
+    }
+
+    // 책 드롭다운 채우기
+    function populateBookSelect() {
+      // 구약
+      const otGroup = document.createElement('optgroup');
+      otGroup.label = '구약 성경';
+      BOOK_ORDER.slice(0, 39).forEach(key => {
+        const opt = document.createElement('option');
+        opt.value = key;
+        opt.textContent = BOOKS[key].korean;
+        otGroup.appendChild(opt);
+      });
+      bookSelect.appendChild(otGroup);
+
+      // 신약
+      const ntGroup = document.createElement('optgroup');
+      ntGroup.label = '신약 성경';
+      BOOK_ORDER.slice(39).forEach(key => {
+        const opt = document.createElement('option');
+        opt.value = key;
+        opt.textContent = BOOKS[key].korean;
+        ntGroup.appendChild(opt);
+      });
+      bookSelect.appendChild(ntGroup);
+    }
+
+    // 책 선택 시
+    async function onBookChange() {
+      const book = bookSelect.value;
+      if (!book) return;
+
+      currentBook = book;
+      currentChapter = 1;
+
+      showLoading();
+      await loadBook(book);
+      updateHash();
+    }
+
+    // 장 선택 시
+    function onChapterChange() {
+      currentChapter = parseInt(chapterSelect.value);
+      renderChapter();
+      updateHash();
+    }
+
+    // 책 데이터 로드
+    async function loadBook(bookKey) {
+      const bookInfo = BOOKS[bookKey];
+      const files = bookInfo.files;
+
+      try {
+        // 여러 파일이 있는 경우 병합
+        const allChapters = [];
+
+        for (const file of files) {
+          const response = await fetch(`korean/${file}.json`);
+          if (!response.ok) throw new Error('파일을 찾을 수 없습니다');
+          const data = await response.json();
+          allChapters.push(...data.chapters);
+        }
+
+        bookData = {
+          book: bookKey,
+          bookKorean: bookInfo.korean,
+          chapters: allChapters
+        };
+
+        populateChapterSelect();
+        renderChapter();
+
+      } catch (error) {
+        console.error('Error loading book:', error);
+        content.innerHTML = `
+          <div class="welcome">
+            <div class="welcome-icon">😢</div>
+            <h2>오류가 발생했어요</h2>
+            <p>책을 불러올 수 없습니다. 다시 시도해 주세요.</p>
+          </div>
+        `;
+      }
+    }
+
+    // 장 드롭다운 채우기
+    function populateChapterSelect() {
+      chapterSelect.innerHTML = '';
+      chapterSelect.disabled = false;
+
+      bookData.chapters.forEach(ch => {
+        const opt = document.createElement('option');
+        opt.value = ch.chapter;
+        opt.textContent = `${ch.chapter}장`;
+        chapterSelect.appendChild(opt);
+      });
+
+      chapterSelect.value = currentChapter;
+    }
+
+    // 장 렌더링
+    function renderChapter() {
+      const chapter = bookData.chapters.find(ch => ch.chapter === currentChapter);
+      if (!chapter) return;
+
+      const totalChapters = bookData.chapters.length;
+      const prevIdx = BOOK_ORDER.indexOf(currentBook);
+      const nextIdx = prevIdx;
+
+      content.innerHTML = `
+        <div class="book-info">
+          <h1 class="book-title">${bookData.bookKorean}</h1>
+          <p class="chapter-title">${currentChapter}장</p>
+        </div>
+
+        <div class="chapter-nav">
+          ${bookData.chapters.map(ch => `
+            <button class="chapter-btn ${ch.chapter === currentChapter ? 'active' : ''}"
+                    data-chapter="${ch.chapter}">
+              ${ch.chapter}
+            </button>
+          `).join('')}
+        </div>
+
+        <button class="toggle-original" id="toggleBtn">
+          ${showOriginal ? '🔤 원문 숨기기' : '🔤 영어 원문 보기'}
+        </button>
+
+        <div class="verses-container">
+          ${chapter.verses.map(v => `
+            <div class="verse ${showOriginal ? 'show-original' : ''}">
+              <span class="verse-number">${v.verse}</span>
+              <span class="verse-korean">${v.korean}</span>
+              <p class="verse-original">${v.original}</p>
+            </div>
+          `).join('')}
+        </div>
+
+        <div class="nav-buttons">
+          <button class="nav-btn" id="prevBtn" ${currentChapter === 1 ? 'disabled' : ''}>
+            ← 이전 장
+          </button>
+          <button class="nav-btn" id="nextBtn" ${currentChapter === totalChapters ? 'disabled' : ''}>
+            다음 장 →
+          </button>
+        </div>
+      `;
+
+      // 이벤트 바인딩
+      document.querySelectorAll('.chapter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          currentChapter = parseInt(btn.dataset.chapter);
+          chapterSelect.value = currentChapter;
+          renderChapter();
+          updateHash();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      });
+
+      document.getElementById('toggleBtn').addEventListener('click', () => {
+        showOriginal = !showOriginal;
+        renderChapter();
+      });
+
+      document.getElementById('prevBtn').addEventListener('click', () => {
+        if (currentChapter > 1) {
+          currentChapter--;
+          chapterSelect.value = currentChapter;
+          renderChapter();
+          updateHash();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+      });
+
+      document.getElementById('nextBtn').addEventListener('click', () => {
+        if (currentChapter < totalChapters) {
+          currentChapter++;
+          chapterSelect.value = currentChapter;
+          renderChapter();
+          updateHash();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+      });
+    }
+
+    // 로딩 표시
+    function showLoading() {
+      content.innerHTML = `
+        <div class="loading">
+          <div class="loading-spinner"></div>
+          <p>불러오는 중...</p>
+        </div>
+      `;
+    }
+
+    // URL 해시 업데이트
+    function updateHash() {
+      if (currentBook) {
+        window.location.hash = `${currentBook}/${currentChapter}`;
+      }
+    }
+
+    // 해시 변경 처리
+    function handleHashChange() {
+      const hash = window.location.hash.slice(1);
+      if (!hash) return;
+
+      const [book, chapter] = hash.split('/');
+      if (BOOKS[book]) {
+        bookSelect.value = book;
+        currentBook = book;
+        currentChapter = parseInt(chapter) || 1;
+
+        showLoading();
+        loadBook(book);
+      }
+    }
+
+    // 시작
+    init();
+  </script>
+</body>
+</html>

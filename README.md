@@ -25,6 +25,7 @@
 ```
 bible-korean-free/
 ├── README.md                 # 이 파일
+├── index.html                # 웹 뷰어 (GitHub Pages)
 ├── source-web/               # WEB 성경 원본 (JSON)
 │   └── json/
 │       ├── genesis.json
@@ -145,6 +146,25 @@ bible-korean-free/
 
 ### 어린이 한글 번역
 > 맨 처음에 하나님께서 하늘과 땅을 만드셨어요. 그때 땅에는 아무것도 없었고, 깜깜한 어둠만 가득했어요. 하나님의 영이 물 위를 움직이고 계셨어요. 하나님께서 "빛이 생겨라!" 하고 말씀하시자, 빛이 생겼어요. 하나님께서 빛을 보시고 참 좋다고 생각하셨어요. 그리고 빛과 어둠을 나누셨어요. 하나님께서 빛을 "낮"이라고 부르시고, 어둠을 "밤"이라고 부르셨어요. 저녁이 지나고 아침이 되니, 이것이 첫째 날이었어요.
+
+## 온라인 뷰어
+
+**🌐 [어린이 한글 성경 웹 뷰어](https://ez2k.github.io/bible-korean-free/)**
+
+브라우저에서 바로 성경을 읽을 수 있습니다:
+- 책과 장을 선택하여 읽기
+- 영어 원문 보기/숨기기 기능
+- 다크 모드 자동 지원
+- 모바일 반응형 디자인
+
+### GitHub Pages 직접 호스팅
+
+자신의 GitHub에 Fork하여 호스팅하려면:
+
+1. 이 저장소를 Fork 합니다
+2. Settings → Pages → Source를 "Deploy from a branch"로 설정
+3. Branch를 "main"과 "/ (root)"로 선택
+4. Save 클릭 후 몇 분 기다리면 `https://[username].github.io/bible-korean-free/`에서 접근 가능
 
 ## 사용 방법
 
